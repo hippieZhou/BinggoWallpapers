@@ -1,3 +1,4 @@
+using System.Text;
 using BingWallpaperGallery.Collector;
 using BingWallpaperGallery.Core.Http.Configuration;
 using BingWallpaperGallery.Core.Http.Network;
@@ -8,6 +9,10 @@ using BingWallpaperGallery.Core.Http.Services.Impl;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
+
+Console.OutputEncoding = Encoding.UTF8;
+Console.InputEncoding = Encoding.UTF8;
 
 // 创建服务容器
 var services = new ServiceCollection();
@@ -18,8 +23,13 @@ var configuration = new ConfigurationBuilder()
     .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
     .AddEnvironmentVariables()
     .Build();
-services.Configure<CollectionOptions>(configuration.GetSection(nameof(CollectionOptions)))
-    .PostConfigure<CollectionOptions>(CollectionOptions.Validate);
+
+services.AddSingleton<IConfiguration>(configuration);
+services.AddSingleton<IValidateOptions<CollectionOptions>, CollectionOptionsValidator>();
+services
+    .AddOptionsWithValidateOnStart<CollectionOptions>()
+    .BindConfiguration(nameof(CollectionOptions))
+    .ValidateDataAnnotations();
 
 // 配置HttpClient
 services.AddHttpClient<IBingWallpaperClient, BingWallpaperClient>(client =>

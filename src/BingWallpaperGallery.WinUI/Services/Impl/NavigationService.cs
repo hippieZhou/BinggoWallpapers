@@ -1,7 +1,7 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
 using System.Diagnostics.CodeAnalysis;
-using BingWallpaperGallery.WinUI.Helpers;
+using BingWallpaperGallery.WinUI.Extensions;
 using Microsoft.UI.Xaml.Controls;
 using Microsoft.UI.Xaml.Navigation;
 

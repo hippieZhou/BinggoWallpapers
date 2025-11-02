@@ -1,17 +1,18 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
+using System.Runtime.InteropServices;
 using BingWallpaperGallery.WinUI.Options;
 using Microsoft.Extensions.Configuration;
 using Serilog;
 using Serilog.Events;
 using Serilog.Formatting.Compact;
 
-namespace BingWallpaperGallery.WinUI.Helpers;
+namespace BingWallpaperGallery.WinUI.Extensions;
 
 /// <summary>
 /// Serilog 日志配置辅助类
 /// </summary>
-public static class SerilogConfigurationHelper
+public static class SerilogExtensions
 {
     /// <summary>
     /// 配置 Serilog 日志记录器
@@ -21,13 +22,12 @@ public static class SerilogConfigurationHelper
     /// <param name="applicationName">应用程序名称</param>
     /// <returns>配置好的日志记录器</returns>
     public static ILogger ConfigureLogger(
+        this IConfiguration configuration,
         string logBaseDir,
-        IConfiguration configuration = null,
         string applicationName = "BingWallpaperGallery")
     {
         // 从配置文件读取日志选项
-        var options = new LoggingOptions();
-        configuration?.GetSection(nameof(LoggingOptions)).Bind(options);
+        var options = configuration.GetSection(nameof(LoggingOptions)).Get<LoggingOptions>();
 
         // 确保日志目录存在
         Directory.CreateDirectory(logBaseDir);
@@ -40,6 +40,11 @@ public static class SerilogConfigurationHelper
         var loggerConfig = new LoggerConfiguration()
             .Enrich.FromLogContext()
             .Enrich.WithProperty("Application", applicationName)
+            .Enrich.WithProperty("OSArchitecture", RuntimeInformation.OSArchitecture)
+            .Enrich.WithProperty("OSDescription", RuntimeInformation.OSDescription)
+            .Enrich.WithProperty("ProcessArchitecture", RuntimeInformation.ProcessArchitecture)
+            .Enrich.WithProperty("RuntimeIdentifier", RuntimeInformation.RuntimeIdentifier)
+            .Enrich.WithProperty("FrameworkDescription", RuntimeInformation.FrameworkDescription)
             .MinimumLevel.Is(minimumLevel)
             // 过滤第三方库的日志
             .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
@@ -51,7 +56,7 @@ public static class SerilogConfigurationHelper
         if (options.EnableDebugOutput)
         {
             loggerConfig.WriteTo.Debug(
-                outputTemplate: "[{Timestamp:HH:mm:ss} {Level:u3}] {Message:lj}{NewLine}{Exception}",
+                outputTemplate: "[{Timestamp:HH:mm:ss} {Level:u3}] [{Application}] {Message:lj}{NewLine}{Exception}",
                 restrictedToMinimumLevel: minimumLevel
             );
         }
@@ -68,7 +73,7 @@ public static class SerilogConfigurationHelper
                 writeTo.File(
                     Path.Combine(dir, "app.log"),
                     restrictedToMinimumLevel: minimumLevel,
-                    outputTemplate: "{Timestamp:yyyy-MM-dd HH:mm:ss.fff} [{Level:u3}] [{SourceContext}] {Message:lj}{NewLine}{Exception}",
+                    outputTemplate: "{Timestamp:yyyy-MM-dd HH:mm:ss.fff} [{Level:u3}] [{Application}] [{SourceContext}] {Message:lj} {Properties:j}{NewLine}{Exception}",
                     rollingInterval: RollingInterval.Infinite,
                     fileSizeLimitBytes: options.FileSizeLimitBytes,
                     retainedFileCountLimit: options.RetainedFileCountLimit,
@@ -88,7 +93,7 @@ public static class SerilogConfigurationHelper
                 writeTo.File(
                     Path.Combine(dir, "error.log"),
                     restrictedToMinimumLevel: LogEventLevel.Error,
-                    outputTemplate: "{Timestamp:yyyy-MM-dd HH:mm:ss.fff} [{Level:u3}] [{SourceContext}] {Message:lj}{NewLine}{Exception}",
+                    outputTemplate: "{Timestamp:yyyy-MM-dd HH:mm:ss.fff} [{Level:u3}] [{Application}] [{SourceContext}] {Message:lj} {Properties:j}{NewLine}{Exception}",
                     rollingInterval: RollingInterval.Infinite,
                     fileSizeLimitBytes: options.FileSizeLimitBytes,
                     retainedFileCountLimit: options.RetainedFileCountLimit,

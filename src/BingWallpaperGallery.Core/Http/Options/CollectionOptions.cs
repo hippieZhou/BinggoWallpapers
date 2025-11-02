@@ -1,5 +1,6 @@
 using BingWallpaperGallery.Core.Http.Configuration;
 using BingWallpaperGallery.Core.Http.Enums;
+using Microsoft.Extensions.Options;
 
 namespace BingWallpaperGallery.Core.Http.Options;
 public class CollectionOptions
@@ -11,25 +12,33 @@ public class CollectionOptions
     public bool PrettyJsonFormat { get; set; } = true;
     public int MaxConcurrentRequests { get; set; } = HTTPConstants.DefaultConcurrentRequests;
     public int MaxConcurrentDownloads { get; set; } = HTTPConstants.DefaultConcurrentDownloads;
+}
 
-    public static void Validate(CollectionOptions options)
+public class CollectionOptionsValidator : IValidateOptions<CollectionOptions>
+{
+    public ValidateOptionsResult Validate(string name, CollectionOptions options)
     {
         // 设置收集天数
         if (options.CollectDays is < 1 or > HTTPConstants.MaxHistoryDays)
         {
-            options.CollectDays = HTTPConstants.MaxHistoryDays;
+            return ValidateOptionsResult.Fail(
+                $"CollectDays must be between 1 and {HTTPConstants.MaxHistoryDays}.");
         }
 
         // 设置并发请求数
         if (options.MaxConcurrentRequests is < 1 or > HTTPConstants.MaxConcurrentRequests)
         {
-            options.MaxConcurrentRequests = HTTPConstants.DefaultConcurrentRequests;
+            return ValidateOptionsResult.Fail(
+                $"MaxConcurrentRequests must be between 1 and {HTTPConstants.MaxConcurrentRequests}.");
         }
 
         // 设置并发下载数
         if (options.MaxConcurrentDownloads is < 1 or > HTTPConstants.MaxConcurrentDownloads)
         {
-            options.MaxConcurrentDownloads = HTTPConstants.DefaultConcurrentDownloads;
+            return ValidateOptionsResult.Fail(
+                $"MaxConcurrentDownloads must be between 1 and {HTTPConstants.MaxConcurrentDownloads}.");
         }
+
+        return ValidateOptionsResult.Success;
     }
 }

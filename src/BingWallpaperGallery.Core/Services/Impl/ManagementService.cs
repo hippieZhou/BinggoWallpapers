@@ -7,6 +7,7 @@ using BingWallpaperGallery.Core.Http.Configuration;
 using BingWallpaperGallery.Core.Http.Models;
 using BingWallpaperGallery.Core.Http.Services;
 using BingWallpaperGallery.Core.Mappers;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 namespace BingWallpaperGallery.Core.Services.Impl;
@@ -16,23 +17,20 @@ namespace BingWallpaperGallery.Core.Services.Impl;
 /// 提供壁纸收集、查询和统计功能
 /// </summary>
 public class ManagementService(
-    IBingWallpaperService bingWallpaperService,
-    IWallpaperRepository wallpaperRepository,
+    IServiceScopeFactory serviceScopeFactory,
     ILogger<ManagementService> logger) : IManagementService
 {
-    private readonly IBingWallpaperService _wallpaperService = bingWallpaperService;
-    private readonly IWallpaperRepository _wallpaperRepository = wallpaperRepository;
-    private readonly ILogger<ManagementService> _logger = logger;
-
     public async Task RunCollectionAsync(CancellationToken cancellationToken = default)
     {
         var stopwatch = Stopwatch.StartNew();
         try
         {
-            _logger.LogInformation("开始执行壁纸收集命令...");
+            logger.LogInformation("开始执行壁纸收集命令...");
 
             // 运行壁纸收集服务
-            var collectedWallpapers = await _wallpaperService.CollectAsync(cancellationToken);
+            using var scope = serviceScopeFactory.CreateScope();
+            var bingWallpaperService= scope.ServiceProvider.GetRequiredService<IBingWallpaperService>();
+            var collectedWallpapers = await bingWallpaperService.CollectAsync(cancellationToken);
 
             // 处理收集到的壁纸信息，存储到数据库
             if (collectedWallpapers.Any())
@@ -42,12 +40,12 @@ public class ManagementService(
 
             stopwatch.Stop();
 
-            _logger.LogInformation("壁纸收集命令执行完成: 总计 {Total}, 耗时 {Duration}ms", collectedWallpapers.Count(), stopwatch.ElapsedMilliseconds);
+            logger.LogInformation("壁纸收集命令执行完成: 总计 {Total}, 耗时 {Duration}ms", collectedWallpapers.Count(), stopwatch.ElapsedMilliseconds);
 
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "应用程序运行失败: {Message}", ex.Message);
+            logger.LogError(ex, "应用程序运行失败: {Message}", ex.Message);
             throw;
         }
     }
@@ -58,21 +56,23 @@ public class ManagementService(
         var marketCode = market.Code;
         try
         {
-            _logger.LogInformation("正在获取 {MarketCode} 的最新壁纸信息", marketCode);
-            var wallpaperEntities = await _wallpaperRepository.GetLatestAsync(
+            logger.LogInformation("正在获取 {MarketCode} 的最新壁纸信息", marketCode);
+            using var scope = serviceScopeFactory.CreateScope();
+            var wallpaperRepository = scope.ServiceProvider.GetRequiredService<IWallpaperRepository>();
+            var wallpaperEntities = await wallpaperRepository.GetLatestAsync(
                 marketCode, 1, cancellationToken);
             if (wallpaperEntities.Any() == false)
             {
-                _logger.LogWarning("未找到 {MarketCode} 的最新壁纸信息", marketCode);
+                logger.LogWarning("未找到 {MarketCode} 的最新壁纸信息", marketCode);
                 return null;
             }
 
-            _logger.LogInformation("成功获取 {MarketCode} 的最新壁纸信息", marketCode);
+            logger.LogInformation("成功获取 {MarketCode} 的最新壁纸信息", marketCode);
             return WallpaperMapper.MapToDto(wallpaperEntities.First());
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "获取 {MarketCode} 最新壁纸信息时发生错误: {Message}",
+            logger.LogError(ex, "获取 {MarketCode} 最新壁纸信息时发生错误: {Message}",
                 marketCode, ex.Message);
             throw;
         }
@@ -91,19 +91,21 @@ public class ManagementService(
 
         try
         {
-            _logger.LogInformation("正在获取 {MarketCode} 的壁纸信息，页码: {PageNumber}，页大小: {PageSize}",
+            logger.LogInformation("正在获取 {MarketCode} 的壁纸信息，页码: {PageNumber}，页大小: {PageSize}",
                 marketCode, pageNumber, pageSize);
 
-            var wallpaperEntities = await _wallpaperRepository.GetByMarketCodeAsync(
+            using var scope = serviceScopeFactory.CreateScope();
+            var wallpaperRepository = scope.ServiceProvider.GetRequiredService<IWallpaperRepository>();
+            var wallpaperEntities = await wallpaperRepository.GetByMarketCodeAsync(
                 marketCode, pageNumber, pageSize, cancellationToken);
 
-            _logger.LogInformation("成功获取 {MarketCode} 的 {Count} 条壁纸信息", marketCode, wallpaperEntities.Count());
+            logger.LogInformation("成功获取 {MarketCode} 的 {Count} 条壁纸信息", marketCode, wallpaperEntities.Count());
 
             return wallpaperEntities.Select(WallpaperMapper.MapToDto);
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "获取 {MarketCode} 壁纸信息时发生错误: {Message}", marketCode, ex.Message);
+            logger.LogError(ex, "获取 {MarketCode} 壁纸信息时发生错误: {Message}", marketCode, ex.Message);
             throw;
         }
     }
@@ -112,18 +114,18 @@ public class ManagementService(
     {
         try
         {
-            _logger.LogInformation("获取所有支持的市场代码");
+            logger.LogInformation("获取所有支持的市场代码");
 
             // 获取所有MarketCode枚举值
             var marketCodes = HTTPConstants.GetSupportedMarketCodes();
 
-            _logger.LogInformation("成功获取 {Count} 个市场代码", marketCodes.Length);
+            logger.LogInformation("成功获取 {Count} 个市场代码", marketCodes.Length);
 
             return await Task.FromResult(marketCodes.Select(WallpaperMapper.MapToMarketDto));
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "获取市场代码时发生错误: {Message}", ex.Message);
+            logger.LogError(ex, "获取市场代码时发生错误: {Message}", ex.Message);
             throw;
         }
     }
@@ -132,25 +134,27 @@ public class ManagementService(
     {
         try
         {
-            _logger.LogInformation("获取所有支持的壁纸分辨率");
+            logger.LogInformation("获取所有支持的壁纸分辨率");
 
             // 获取所有ResolutionCode枚举值
             var resolutionCodes = HTTPConstants.GetSupportedResolutions();
 
-            _logger.LogInformation("成功获取 {Count} 个分辨率代码", resolutionCodes.Length);
+            logger.LogInformation("成功获取 {Count} 个分辨率代码", resolutionCodes.Length);
 
             return await Task.FromResult(resolutionCodes.Select(WallpaperMapper.ResolutionInfoDto));
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "获取壁纸分辨率时发生错误: {Message}", ex.Message);
+            logger.LogError(ex, "获取壁纸分辨率时发生错误: {Message}", ex.Message);
             throw;
         }
     }
 
     public async Task<string> GetMoreDetailsAsync(Guid id, CancellationToken cancellationToken = default)
     {
-        var entity = await _wallpaperRepository.GetAsync(id, cancellationToken);
+        using var scope = serviceScopeFactory.CreateScope();
+        var wallpaperRepository = scope.ServiceProvider.GetRequiredService<IWallpaperRepository>();
+        var entity = await wallpaperRepository.GetAsync(id, cancellationToken);
         return entity is not null ? entity.InfoJson : string.Empty;
     }
 
@@ -165,11 +169,11 @@ public class ManagementService(
     {
         if (collectedWallpapers.Any() == false)
         {
-            _logger.LogInformation("没有成功的壁纸需要存储");
+            logger.LogInformation("没有成功的壁纸需要存储");
             return;
         }
 
-        _logger.LogInformation("开始处理 {Count} 个成功收集的壁纸信息", collectedWallpapers.Count());
+        logger.LogInformation("开始处理 {Count} 个成功收集的壁纸信息", collectedWallpapers.Count());
 
         var savedCount = 0;
         var skippedCount = 0;
@@ -183,7 +187,7 @@ public class ManagementService(
                 var validationResult = TryValidateWallpaperInfo(collectedWallpaper.WallpaperInfo!, out var errorMessage);
                 if (!validationResult)
                 {
-                    _logger.LogWarning("壁纸信息验证失败: {MarketCode} - {Date} - {Error}",
+                    logger.LogWarning("壁纸信息验证失败: {MarketCode} - {Date} - {Error}",
                         collectedWallpaper.MarketCode, collectedWallpaper.CollectionDate.Date, errorMessage);
                     errorCount++;
                     continue;
@@ -195,30 +199,32 @@ public class ManagementService(
                     collectedWallpaper.MarketCode,
                     collectedWallpaper.CollectionDate.DateTime);
 
-                var saved = await _wallpaperRepository.SaveIfNotExistsAsync(wallpaperEntity, cancellationToken);
+                using var scope = serviceScopeFactory.CreateScope();
+                var wallpaperRepository = scope.ServiceProvider.GetRequiredService<IWallpaperRepository>();
+                var saved = await wallpaperRepository.SaveIfNotExistsAsync(wallpaperEntity, cancellationToken);
 
                 if (saved)
                 {
                     savedCount++;
-                    _logger.LogDebug("成功保存壁纸: {MarketCode} - {Title} - {Date}",
+                    logger.LogDebug("成功保存壁纸: {MarketCode} - {Title} - {Date}",
                         collectedWallpaper.MarketCode, wallpaperEntity.Info.Title, collectedWallpaper.CollectionDate.Date);
                 }
                 else
                 {
                     skippedCount++;
-                    _logger.LogDebug("壁纸已存在，跳过保存: {MarketCode} - {Title} - {Date}",
+                    logger.LogDebug("壁纸已存在，跳过保存: {MarketCode} - {Title} - {Date}",
                         collectedWallpaper.MarketCode, wallpaperEntity.Info.Title, collectedWallpaper.CollectionDate.Date);
                 }
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "处理壁纸信息时发生错误: {MarketCode} - {Date}",
+                logger.LogError(ex, "处理壁纸信息时发生错误: {MarketCode} - {Date}",
                     collectedWallpaper.MarketCode, collectedWallpaper.CollectionDate.Date);
                 errorCount++;
             }
         }
 
-        _logger.LogInformation("壁纸处理完成: 保存 {Saved} 个, 跳过 {Skipped} 个, 错误 {Error} 个", savedCount, skippedCount, errorCount);
+        logger.LogInformation("壁纸处理完成: 保存 {Saved} 个, 跳过 {Skipped} 个, 错误 {Error} 个", savedCount, skippedCount, errorCount);
     }
 
     private static bool TryValidateWallpaperInfo(BingWallpaperInfo wallpaperInfo, out string errorMessage)

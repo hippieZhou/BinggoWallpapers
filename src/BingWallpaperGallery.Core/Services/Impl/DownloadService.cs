@@ -7,6 +7,7 @@ using BingWallpaperGallery.Core.Helpers;
 using BingWallpaperGallery.Core.Http.Enums;
 using BingWallpaperGallery.Core.Http.Models;
 using BingWallpaperGallery.Core.Http.Services;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 namespace BingWallpaperGallery.Core.Services.Impl;
@@ -14,10 +15,10 @@ namespace BingWallpaperGallery.Core.Services.Impl;
 /// <summary>
 /// 下载服务实现
 /// 提供壁纸下载队列管理和实际下载功能
+/// 注意: 作为 Singleton 服务，使用 IServiceScopeFactory 来解析 Scoped 依赖
 /// </summary>
 public class DownloadService(
-    IWallpaperRepository wallpaperRepository,
-    IImageDownloadService imageDownloadService,
+    IServiceScopeFactory serviceScopeFactory,
     ILogger<DownloadService> logger) : IDownloadService
 {
     private readonly ConcurrentDictionary<Guid, DownloadInfoDto> _downloadQueue = new();
@@ -192,8 +193,13 @@ public class DownloadService(
             logger.LogInformation("开始下载壁纸: {Title} - {Resolution}",
                 downloadInfo.Wallpaper.Title, downloadInfo.Resolution.Name);
 
+            // 创建 scope 来解析 Scoped 依赖
+            using var scope = serviceScopeFactory.CreateScope();
+            var wallpaperRepository = scope.ServiceProvider.GetRequiredService<IWallpaperRepository>();
+            var imageDownloadService = scope.ServiceProvider.GetRequiredService<IImageDownloadService>();
+
             // 获取图片URL
-            var imageUrl = await GetImageUrlAsync(downloadInfo.Wallpaper, downloadInfo.Resolution);
+            var imageUrl = await GetImageUrlAsync(wallpaperRepository, downloadInfo.Wallpaper, downloadInfo.Resolution);
             if (string.IsNullOrEmpty(imageUrl))
             {
                 throw new InvalidOperationException($"无法获取壁纸URL: {downloadInfo.Wallpaper.Title}");
@@ -272,7 +278,17 @@ public class DownloadService(
         downloadInfo.ErrorMessage = progress.ErrorMessage;
     }
 
-    protected async virtual Task<string> GetImageUrlAsync(WallpaperInfoDto wallpaper, ResolutionInfoDto resolution)
+    /// <summary>
+    /// 获取图片 URL
+    /// </summary>
+    /// <param name="wallpaperRepository">壁纸仓储（从 scope 中解析）</param>
+    /// <param name="wallpaper">壁纸信息</param>
+    /// <param name="resolution">分辨率信息</param>
+    /// <returns>图片 URL</returns>
+    protected async virtual Task<string> GetImageUrlAsync(
+        IWallpaperRepository wallpaperRepository,
+        WallpaperInfoDto wallpaper,
+        ResolutionInfoDto resolution)
     {
         try
         {

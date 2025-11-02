@@ -2,7 +2,7 @@
 
 using Microsoft.UI.Xaml.Controls;
 
-namespace BingWallpaperGallery.WinUI.Helpers;
+namespace BingWallpaperGallery.WinUI.Extensions;
 
 public static class FrameExtensions
 {

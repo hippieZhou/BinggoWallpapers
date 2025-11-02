@@ -2,7 +2,7 @@
 
 using BingWallpaperGallery.Core;
 using BingWallpaperGallery.WinUI.Activation;
-using BingWallpaperGallery.WinUI.Helpers;
+using BingWallpaperGallery.WinUI.Extensions;
 using BingWallpaperGallery.WinUI.Models;
 using BingWallpaperGallery.WinUI.Notifications;
 using BingWallpaperGallery.WinUI.Notifications.Impl;
@@ -38,10 +38,10 @@ internal class Bootstrapper
             .UseContentRoot(AppContext.BaseDirectory)
             .ConfigureServices((context, services) =>
              {
-                 // 使用 SerilogConfigurationHelper 来初始化 Serilog
-                 var logger = SerilogConfigurationHelper.ConfigureLogger(
-                     AppSettings.Current.DefaulttLocalLogFolder,
-                     context.Configuration);
+                 // 初始化 Serilog
+                 var logBaseDir = AppSettings.Current.DefaulttLocalLogFolder;
+                 var logger = context.Configuration.ConfigureLogger(logBaseDir);
+
                  services.AddLogging(x =>
                  {
                      x.ClearProviders();
@@ -91,12 +91,22 @@ internal class Bootstrapper
                  #endregion
 
                  // Configuration
-                 services.Configure<LocalSettingsOptions>(context.Configuration.GetSection(nameof(LocalSettingsOptions)));
-                 services.Configure<LoggingOptions>(context.Configuration.GetSection(nameof(LoggingOptions)));
+                 services.AddOptionsWithValidateOnStart<LocalSettingsOptions>()
+                  .BindConfiguration(nameof(LocalSettingsOptions))
+                  .ValidateDataAnnotations();
+                 services.AddOptionsWithValidateOnStart<LoggingOptions>()
+                 .BindConfiguration(nameof(LoggingOptions))
+                 .ValidateDataAnnotations();
 
                  // Core Services
-                 services.AddCorelayer(context.Configuration, AppSettings.Current.LocalFolder);
-             }).Build();
+                 services.AddCorelayer(AppSettings.Current.LocalFolder);
+             })
+#if DEBUG
+            .UseEnvironment(Environments.Development)
+#else
+            .UseEnvironment(Environments.Production)
+#endif
+            .Build();
     }
 
     public T GetService<T>() where T : class

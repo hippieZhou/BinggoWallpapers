@@ -2,13 +2,13 @@ using BingWallpaperGallery.Core.DataAccess.Repositories;
 using BingWallpaperGallery.Core.Http.Models;
 using BingWallpaperGallery.Core.Http.Services;
 using BingWallpaperGallery.Core.Mappers;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 namespace BingWallpaperGallery.Core.Services.Impl;
 
 public class GitHubStorageService(
-    IGithubRepositoryService githubRepository,
-    IWallpaperRepository wallpaperRepository,
+    IServiceScopeFactory serviceScopeFactory,
     ILogger<GitHubStorageService> logger) : IGitHubStorageService
 {
     public async Task RunAsync(
@@ -20,6 +20,8 @@ public class GitHubStorageService(
         try
         {
             logger.LogInformation("开始获取 Github 归档文件");
+            using var scope = serviceScopeFactory.CreateScope();
+            var githubRepository = scope.ServiceProvider.GetRequiredService<IGithubRepositoryService>();
             var archiveItems = await githubRepository.GetArchiveListAsync(cancellationToken);
             onLoading?.Invoke($"成功获取 {archiveItems.Count()} 个国家的归档文件。");
 
@@ -28,7 +30,8 @@ public class GitHubStorageService(
                 foreach (var archiveItem in archiveItems)
                 {
                     onLoading?.Invoke($"正在同步 {archiveItem.Name} 国家/地区的归档文件...");
-                    await ProcessArchivedWallpapersAsync(archiveItem, cancellationToken);
+                    var wallpaperRepository = scope.ServiceProvider.GetRequiredService<IWallpaperRepository>();
+                    await ProcessArchivedWallpapersAsync(githubRepository, wallpaperRepository, archiveItem, cancellationToken);
                     onLoading?.Invoke("所有国家/地区的归档文件同步完成。");
                 }
 
@@ -46,13 +49,14 @@ public class GitHubStorageService(
         }
     }
 
-    private async Task ProcessArchivedWallpapersAsync(
+    private static async Task ProcessArchivedWallpapersAsync(
+        IGithubRepositoryService githubRepository,
+        IWallpaperRepository wallpaperRepository,
         ArchiveItem archiveItem,
         CancellationToken cancellationToken = default)
     {
         var wallpaperInfoStorages = await githubRepository.GetArchiveDetailsAsync(archiveItem, cancellationToken);
         var entities = wallpaperInfoStorages.Select(WallpaperMapper.MapToEntity);
         await wallpaperRepository.BulkSaveIfNotExistsAsync(entities, cancellationToken);
-        await Task.Yield();
     }
 }

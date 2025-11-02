@@ -14,8 +14,8 @@ using BingWallpaperGallery.Core.Services;
 using BingWallpaperGallery.Core.Services.Impl;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
 
 namespace BingWallpaperGallery.Core;
 
@@ -23,10 +23,13 @@ public static class ServiceCollectionExtensions
 {
     public static IServiceCollection AddCorelayer(
         this IServiceCollection services,
-        IConfiguration configuration, string appDataPath)
+        string appDataPath)
     {
-        services.Configure<CollectionOptions>(configuration.GetSection(nameof(CollectionOptions)))
-            .PostConfigure<CollectionOptions>(CollectionOptions.Validate);
+        services.AddSingleton<IValidateOptions<CollectionOptions>, CollectionOptionsValidator>();
+        services
+            .AddOptionsWithValidateOnStart<CollectionOptions>()
+            .BindConfiguration(nameof(CollectionOptions))
+            .ValidateDataAnnotations();
 
         services.AddBingWallpaperCollector();
         services.AddInfrastructure(appDataPath);
@@ -35,9 +38,9 @@ public static class ServiceCollectionExtensions
 
         #region Services
         services.AddSingleton<IManagementService, ManagementService>();
-        services.AddSingleton<IDownloadService, DownloadService>();
-        services.AddSingleton<ILocalStorageService, LocalStorageService>();
         services.AddSingleton<IGitHubStorageService, GitHubStorageService>();
+        services.AddSingleton<ILocalStorageService, LocalStorageService>();
+        services.AddSingleton<IDownloadService, DownloadService>();
         #endregion
 
         return services;
@@ -78,8 +81,9 @@ public static class ServiceCollectionExtensions
 
         services.AddPooledDbContextFactory<ApplicationDbContext>((sp, options) =>
         {
-            options.AddInterceptors(sp.GetServices<ISaveChangesInterceptor>());
-            options.AddInterceptors(sp.GetServices<IDbConnectionInterceptor>());
+            using var scope = sp.CreateScope();
+            options.AddInterceptors(scope.ServiceProvider.GetServices<ISaveChangesInterceptor>());
+            options.AddInterceptors(scope.ServiceProvider.GetServices<IDbConnectionInterceptor>());
             var dbFile = Path.Combine(appDataPath, "database.db");
 
             var migrationsAssemblyName = typeof(ApplicationDbContext).Assembly.GetName().Name;
