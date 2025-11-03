@@ -1,0 +1,43 @@
+{
+  "date": "3 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Solo estoy jugando",
+  "bsTitle": "Solo estoy jugando",
+  "caption": "Día Mundial de las Medusas",
+  "copyright": "Medusas nadando en el Pacífico, Guerrero, México (© Christian Vizl/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Medusas&form=hpcapt&filters=HpDate%3a%2220251102_2300%22",
+  "description": "No tienen cerebro, huesos ni corazón, pero las medusas han surcado los océanos de la Tierra durante quinientos millones de años. Hoy, en el Día Mundial de las Medusas, estas criaturas hipnóticas reciben un merecido reconocimiento bajo el mar. La jornada busca proteger sus hábitats frente a amenazas como la contaminación, el exceso de nutrientes y la acidificación de los océanos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_MexicoJelly%22&FORM=HPQUIZ",
+  "hash": "b4c1beefaa6272415e88d7c4ff5d5ec0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ES-ES0847480755_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251102",
+    "fullStartDateTime": "202511022300",
+    "endDate": "20251103"
+  },
+  "createdAt": "202511030243",
+  "originalUrlBase": "/th?id=OHR.MexicoJelly_ES-ES0847480755"
+}

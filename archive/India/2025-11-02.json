@@ -1,0 +1,43 @@
+{
+  "date": "Nov 3, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Just jellin'",
+  "bsTitle": "Just jellin'",
+  "caption": "Jellyfish swimming in the Pacific, Guerrero, Mexico",
+  "copyright": "Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Jellyfish&form=hpcapt&filters=HpDate%3a%2220251102_1830%22",
+  "description": "They don't have brains, bones or even hearts, yet jellyfish have pulsed through Earth's oceans for half a billion years. Their habitats face growing threats from pollution, nutrient-rich runoff and ocean acidification—pressures that make marine conservation essential to restoring coral health and sustaining the species that depend on these waters.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_MexicoJelly%22&FORM=HPQUIZ",
+  "hash": "f428f0d955163b09af7f5688c26385c4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251102",
+    "fullStartDateTime": "202511021830",
+    "endDate": "20251103"
+  },
+  "createdAt": "202511030243",
+  "originalUrlBase": "/th?id=OHR.MexicoJelly_EN-IN1631723405"
+}

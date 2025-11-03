@@ -1,0 +1,43 @@
+{
+  "date": "3 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Médusés devant tant de beauté",
+  "bsTitle": "Médusés devant tant de beauté",
+  "caption": "À la découverte de la méduse",
+  "copyright": "Méduses dans le Pacifique, Guerrero, Mexique (© Christian Vizl/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=m%c3%a9duse&form=hpcapt&filters=HpDate%3a%2220251102_2300%22",
+  "description": "Sous la surface sombre du Pacifique, au large de Guerrero au Mexique, une méduse flotte, semblable à une lanterne vivante. Son ombrelle translucide pulse doucement et ses longs filaments dansent au gré des courants. Apparemment fragile, elle est pourtant l’une des plus anciennes créatures marines, présente sur Terre depuis plus de 500 millions d’années, bien avant les dinosaures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251102_MexicoJelly%22&FORM=HPQUIZ",
+  "hash": "4d2dca63b1cf8f6b76cbe1307a55e5ca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_FR-FR3982419293_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251102",
+    "fullStartDateTime": "202511022300",
+    "endDate": "20251103"
+  },
+  "createdAt": "202511030243",
+  "originalUrlBase": "/th?id=OHR.MexicoJelly_FR-FR3982419293"
+}
