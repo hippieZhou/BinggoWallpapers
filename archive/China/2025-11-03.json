@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "小心空隙，桥面将开启！",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%bc%a6%e6%95%a6%e5%a1%94%e6%a1%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_TowerBridgeUK%22&FORM=HPQUIZ",
+  "hash": "f887236a99abd23ddcea5c2409d029c9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251103",
+    "fullStartDateTime": "202511031600",
+    "endDate": "20251104"
+  },
+  "createdAt": "202511040227",
+  "originalUrlBase": "/th?id=OHR.TowerBridgeUK_ZH-CN1846533186"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov 3, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Just jellin'",
+  "bsTitle": "Just jellin'",
+  "caption": "World Jellyfish Day",
+  "copyright": "Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=World+Jellyfish+Day&form=hpcapt&filters=HpDate%3a%2220251103_0800%22",
+  "description": "They don't have brains, bones, or even hearts, yet jellyfish have pulsed through Earth's oceans for half a billion years. Today, on World Jellyfish Day, these wobbly wonders get their moment in the sun—or at least under the sea. The day promotes efforts to protect jellyfish habitats from threats like pollution, nutrient-rich runoff, and ocean acidification.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_MexicoJelly%22&FORM=HPQUIZ",
+  "hash": "ad2178619e5c390333c9a191d821dc67",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251103",
+    "fullStartDateTime": "202511030800",
+    "endDate": "20251104"
+  },
+  "createdAt": "202511040227",
+  "originalUrlBase": "/th?id=OHR.MexicoJelly_EN-US6803524310"
+}

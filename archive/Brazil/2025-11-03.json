@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Flutuando por aí",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Água-viva nadando no Pacífico, Guerrero, México (© Christian  Vizl/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%c3%a1gua+viva&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_MexicoJelly%22&FORM=HPQUIZ",
+  "hash": "eeeb4f59ba26f961ea369c27bf66bd22",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251103",
+    "fullStartDateTime": "202511030300",
+    "endDate": "20251104"
+  },
+  "createdAt": "202511040227",
+  "originalUrlBase": "/th?id=OHR.MexicoJelly_PT-BR1868095241"
+}

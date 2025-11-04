@@ -1,0 +1,43 @@
+{
+  "date": "Nov 3, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Jellyfish, Guerrero, Mexico",
+  "copyright": "Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Jellyfish&form=hpcapt&filters=HpDate%3a%2220251103_0800%22",
+  "description": "They don't have brains, bones or even hearts, yet jellyfish have pulsed through Earth's oceans for half a billion years. Don't be fooled by the 'fish' in their name: they belong to the invertebrate club called Cnidaria and they're made up of about 95% water. With their bell-shaped bodies and trailing tentacles, they're more like ocean drifters than deep-sea athletes. Some glow, like the one pictured here in the Pacific Ocean off Guerrero, Mexico, others pack stings and a select few, like the 'immortal jellyfish,' can reset their life cycle and start again.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_MexicoJelly%22&FORM=HPQUIZ",
+  "hash": "faa943e93b47a8dfc9803ba0146f0fa9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ROW2844027370_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ROW2844027370_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ROW2844027370_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MexicoJelly_ROW2844027370_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251103",
+    "fullStartDateTime": "202511030800",
+    "endDate": "20251104"
+  },
+  "createdAt": "202511040227",
+  "originalUrlBase": "/th?id=OHR.MexicoJelly_ROW2844027370"
+}

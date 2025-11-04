@@ -1,0 +1,43 @@
+{
+  "date": "4 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Cuidado con la brecha, esta se abre",
+  "bsTitle": "Cuidado con la brecha, esta se abre",
+  "caption": "Tower Bridge, Londres, Inglaterra",
+  "copyright": "Tower Bridge, Londres, Inglaterra (© Nick Brundle Photography/Getty Images)",
+  "copyrightOnly": "© Nick Brundle Photography/Getty Images",
+  "copyrightLink": "/search?q=Londres&form=hpcapt&filters=HpDate%3a%2220251103_2300%22",
+  "description": "Algunos puentes solo conectan dos lados, pero Tower Bridge une historia, ingeniería y un toque de dramatismo. Situado junto a la Torre de Londres y sobre el río Támesis desde 1894, este icono de Londres destaca tanto por sus torres gemelas y su pintura azul y blanca como por sus impresionantes basculantes que se elevan para dejar pasar los barcos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_TowerBridgeUK%22&FORM=HPQUIZ",
+  "hash": "18531154e19beaf63663e954e942b600",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251103",
+    "fullStartDateTime": "202511032300",
+    "endDate": "20251104"
+  },
+  "createdAt": "202511040227",
+  "originalUrlBase": "/th?id=OHR.TowerBridgeUK_ES-ES3109579970"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "4 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Pont-pourri d’histoire et d’ingéniosité",
+  "bsTitle": "Pont-pourri d’histoire et d’ingéniosité",
+  "caption": "Tower Bridge, Londres, Angleterre",
+  "copyright": "Tower Bridge, Londres, Angleterre (© Nick Brundle Photography/Getty Images)",
+  "copyrightOnly": "© Nick Brundle Photography/Getty Images",
+  "copyrightLink": "/search?q=Tower+Bridge+Londres&form=hpcapt&filters=HpDate%3a%2220251103_2300%22",
+  "description": "Sous le ciel changeant de Londres, le Tower Bridge se dresse tel un géant d'acier et de pierre, tendant ses bras au-dessus de la Tamise. Chaque levée de son tablier est un geste théâtral qui rappelle que l’ingénierie peut aussi avoir une âme. Depuis 1894, ce pont aux deux tours gothiques ne relie pas seulement deux rives, mais aussi des époques, des rêves et des passages.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_TowerBridgeUK%22&FORM=HPQUIZ",
+  "hash": "055b1221f31334aadb235360f2e13b36",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-FR4381465243_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-FR4381465243_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-FR4381465243_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_FR-FR4381465243_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251103",
+    "fullStartDateTime": "202511032300",
+    "endDate": "20251104"
+  },
+  "createdAt": "202511040227",
+  "originalUrlBase": "/th?id=OHR.TowerBridgeUK_FR-FR4381465243"
+}

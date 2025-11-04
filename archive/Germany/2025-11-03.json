@@ -1,0 +1,43 @@
+{
+  "date": "4. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Mehr als nur Verbindung",
+  "bsTitle": "Mehr als nur Verbindung",
+  "caption": "Tower Bridge, London, England",
+  "copyright": "Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)",
+  "copyrightOnly": "© Nick Brundle Photography/Getty Images",
+  "copyrightLink": "/search?q=Tower+Bridge+London&form=hpcapt&filters=HpDate%3a%2220251103_2300%22",
+  "description": "Haben Sie Lust auf ein Brückenerlebnis der besonderen Art? Die Tower Bridge in London ist mehr als nur eine Brücke: Sie ist eines der bekanntesten Wahrzeichen der englischen Hauptstadt und ein beliebtes Fotomotiv für Besucher aus aller Welt. Seit über 130 Jahren öffnet sie sich wie ein riesiges Tor für Schiffe und begeistert mit ihrem Design und ihrer Geschichte. Ihre Türme im neugotischen Stil, die blau-weiße Farbgebung und die beweglichen Brückenteile machen sie einzigartig. Früher wurde sie mit Dampf betrieben, heute übernehmen diese Aufgabe moderne Systeme. Wer mutig ist, kann über die Glaswege in 42 Metern Höhe laufen und die Themse von oben sehen!",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251103_TowerBridgeUK%22&FORM=HPQUIZ",
+  "hash": "7522c1b514d9a45278b3d54c01427968",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251103",
+    "fullStartDateTime": "202511032300",
+    "endDate": "20251104"
+  },
+  "createdAt": "202511040227",
+  "originalUrlBase": "/th?id=OHR.TowerBridgeUK_DE-DE5591169923"
+}
