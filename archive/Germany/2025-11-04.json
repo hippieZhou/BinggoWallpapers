@@ -1,0 +1,43 @@
+{
+  "date": "5. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Farbenpracht des Herbstes",
+  "bsTitle": "Farbenpracht des Herbstes",
+  "caption": "Buchenwald Peña Roya, Naturpark Moncayo, Aragonien, Spanien",
+  "copyright": "Buchenwald Peña Roya, Naturpark Moncayo, Saragossa, Aragonien, Spanien (© David Santiago Garcia/DEEPOL by plainpicture)",
+  "copyrightOnly": "© David Santiago Garcia/DEEPOL by plainpicture",
+  "copyrightLink": "/search?q=Saragossa&form=hpcapt&filters=HpDate%3a%2220251104_2300%22",
+  "description": "Im Herzen des Naturparks Moncayo, zwischen den sanften Bergen von Saragossa in Aragonien, Spanien, verbirgt sich ein magischer Ort, der sich im Herbst in ein Farbenmeer verwandelt: der Buchenwald Peña Roya. Dieser südlich gelegene Wald gehört zu den eindrucksvollsten seiner Art in Europa und zeigt eine leuchtende Palette aus Ocker, Gold und Rot, die Besucher in eine stille, geheimnisvolle Welt entführt. Auf dem heutigen Bild sehen wir genau jenen Ort, an dem sich die Natur in eleganter Wildheit entfaltet – den Buchenwald Peña Roya im Naturpark Moncayo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+  "hash": "6b3f0a9fa205e6a5883d5b6345e6b57b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_DE-DE8889308811_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_DE-DE8889308811_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_DE-DE8889308811_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_DE-DE8889308811_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251104",
+    "fullStartDateTime": "202511042300",
+    "endDate": "20251105"
+  },
+  "createdAt": "202511050228",
+  "originalUrlBase": "/th?id=OHR.MoncayoAutumn_DE-DE8889308811"
+}

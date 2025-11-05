@@ -1,0 +1,43 @@
+{
+  "date": "5 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Saragosse en habits d’automne",
+  "bsTitle": "Saragosse en habits d’automne",
+  "caption": "Parc naturel du Moncayo, Saragosse, Espagne",
+  "copyright": "Forêt de hêtres de Añón de Moncayo, Parc naturel du Moncayo, Saragosse, Espagne (© David Santiago Garcia/DEEPOL by plainpicture)",
+  "copyrightOnly": "© David Santiago Garcia/DEEPOL by plainpicture",
+  "copyrightLink": "/search?q=Saragosse+Espagne&form=hpcapt&filters=HpDate%3a%2220251104_2300%22",
+  "description": "Au cœur de l'Aragon, où la terre d'Espagne est sèche et dorée, se dresse une surprise : le parc naturel du Moncayo. Sur ses pentes, la hêtraie de Peña Roya, accessible depuis Añón del Moncayo, semble murmurer une langue que seul le vent semble comprendre. La montagne y joue à la métamorphose : des genévriers méditerranéens au pied, des chênes et des pins plus haut, puis soudain, cette mer rousse et dorée de feuillages.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+  "hash": "d4e9f1b653425f54ae87f80ce6a21598",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_FR-FR2938988212_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_FR-FR2938988212_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_FR-FR2938988212_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_FR-FR2938988212_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251104",
+    "fullStartDateTime": "202511042300",
+    "endDate": "20251105"
+  },
+  "createdAt": "202511050228",
+  "originalUrlBase": "/th?id=OHR.MoncayoAutumn_FR-FR2938988212"
+}

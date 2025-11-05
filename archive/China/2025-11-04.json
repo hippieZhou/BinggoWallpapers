@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "秋天来了，你开心吗？",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e8%90%a8%e6%8b%89%e6%88%88%e8%90%a8&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+  "hash": "eee145866a2783055bd1f0ac0b8566a6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251104",
+    "fullStartDateTime": "202511041600",
+    "endDate": "20251105"
+  },
+  "createdAt": "202511050228",
+  "originalUrlBase": "/th?id=OHR.MoncayoAutumn_ZH-CN5187959516"
+}

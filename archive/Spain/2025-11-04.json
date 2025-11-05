@@ -1,0 +1,43 @@
+{
+  "date": "5 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El color de la temporada",
+  "bsTitle": "El color de la temporada",
+  "caption": "Hayedo de Peña Roya, Parque Natural del Moncayo, Aragón, España",
+  "copyright": "Hayedo de Peña Roya, Parque Natural del Moncayo, Zaragoza, Aragón, España (© David Santiago Garcia/DEEPOL by plainpicture)",
+  "copyrightOnly": "© David Santiago Garcia/DEEPOL by plainpicture",
+  "copyrightLink": "/search?q=Parque+Natural+del+Moncayo+Zaragoza&form=hpcapt&filters=HpDate%3a%2220251104_2300%22",
+  "description": "Aragón no es precisamente famosa por sus bosques: más bien es “sol y matorrales” que “sombra y frescor”. Sin embargo, al subir las laderas del Moncayo, encontrarás un final inesperado: un denso y susurrante bosque de hayas. La montaña ofrece un espectáculo climático único. En la base, arbustos mediterráneos; a mitad de camino, robles y pinos; y más arriba, Peña Roya, un auténtico país de las maravillas de hayas que parece decir: “¡Sorpresa!”",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251104_MoncayoAutumn%22&FORM=HPQUIZ",
+  "hash": "c79a6f8d1a7002072c4402a9b3318407",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ES-ES3658220911_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ES-ES3658220911_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ES-ES3658220911_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ES-ES3658220911_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251104",
+    "fullStartDateTime": "202511042300",
+    "endDate": "20251105"
+  },
+  "createdAt": "202511050228",
+  "originalUrlBase": "/th?id=OHR.MoncayoAutumn_ES-ES3658220911"
+}
