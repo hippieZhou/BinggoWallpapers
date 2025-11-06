@@ -1,0 +1,43 @@
+{
+  "date": "6. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Himmel voller Wünsche",
+  "bsTitle": "Ein Himmel voller Wünsche",
+  "caption": "Feier des Yi-Peng-Festes",
+  "copyright": "Bunte Laternen im Tempel Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)",
+  "copyrightOnly": "© MR. ANUJAK JAIMOOK/Getty Images",
+  "copyrightLink": "/search?q=Lichterfest+in+Chiang+Mai&form=hpcapt&filters=HpDate%3a%2220251105_2300%22",
+  "description": "Heute bewundern wir die Schönheit der bunten Laternen im Tempel Wat Phra That Hariphunchai in Lamphun, Thailand – ein magischer Ort, an dem Tradition und Spiritualität aufeinandertreffen. Die leuchtenden Farben und kunstvollen Formen der Laternen symbolisieren Hoffnung, Glück und das Loslassen negativer Gedanken. Besonders in der Zeit des Yi-Peng-Festes verwandelt sich dieser Tempel in ein Meer aus Licht, das Besucher aus aller Welt in seinen Bann zieht.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_LanternsThailand%22&FORM=HPQUIZ",
+  "hash": "e4dbc84aa98d4687a321a233cd13465b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_DE-DE6599353483_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_DE-DE6599353483_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_DE-DE6599353483_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_DE-DE6599353483_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251105",
+    "fullStartDateTime": "202511052300",
+    "endDate": "20251106"
+  },
+  "createdAt": "202511060229",
+  "originalUrlBase": "/th?id=OHR.LanternsThailand_DE-DE6599353483"
+}

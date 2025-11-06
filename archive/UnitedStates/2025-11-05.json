@@ -1,0 +1,43 @@
+{
+  "date": "Nov 5, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Orange you glad it's fall?",
+  "bsTitle": "Orange you glad it's fall?",
+  "caption": "Peña Roya beech forest, Moncayo Natural Park, Aragon, Spain",
+  "copyright": "Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)",
+  "copyrightOnly": "© David Santiago Garcia/DEEPOL by plainpicture",
+  "copyrightLink": "/search?q=Zaragoza+Spain&form=hpcapt&filters=HpDate%3a%2220251105_0800%22",
+  "description": "Spain's Aragon region isn't exactly famous for its forests—it's more 'sun and scrub' than 'shade and shuffle.' And yet, climb the slopes of Moncayo and you'll walk straight into a twist ending: a dense, whispering beech forest. The mountain is a climate roller coaster. At the bottom? Mediterranean shrubs. Midway up? Oaks and pines. Push further? Suddenly you're in Peña Roya, a beech wonderland that seems to say, 'Surprise, leaf it to me!'",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_MoncayoAutumn%22&FORM=HPQUIZ",
+  "hash": "990b1dd4df590493397658409e2df526",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251105",
+    "fullStartDateTime": "202511050800",
+    "endDate": "20251106"
+  },
+  "createdAt": "202511060229",
+  "originalUrlBase": "/th?id=OHR.MoncayoAutumn_EN-US1753631441"
+}

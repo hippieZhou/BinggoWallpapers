@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "满天心愿",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%b8%85%e8%bf%88%e7%81%af%e4%bc%9a&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251105_LanternsThailand%22&FORM=HPQUIZ",
+  "hash": "2831e2cd9da96c50bf64954516b983d0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251105",
+    "fullStartDateTime": "202511051600",
+    "endDate": "20251106"
+  },
+  "createdAt": "202511060229",
+  "originalUrlBase": "/th?id=OHR.LanternsThailand_ZH-CN3419382923"
+}
