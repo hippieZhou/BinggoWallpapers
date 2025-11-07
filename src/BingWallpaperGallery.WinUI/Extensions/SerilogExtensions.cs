@@ -5,6 +5,7 @@ using BingWallpaperGallery.WinUI.Options;
 using Microsoft.Extensions.Configuration;
 using Serilog;
 using Serilog.Events;
+using Serilog.Exceptions;
 using Serilog.Formatting.Compact;
 
 namespace BingWallpaperGallery.WinUI.Extensions;
@@ -38,6 +39,7 @@ public static class SerilogExtensions
             : LogEventLevel.Verbose;
 
         var loggerConfig = new LoggerConfiguration()
+            .Enrich.WithExceptionDetails()
             .Enrich.FromLogContext()
             .Enrich.WithProperty("Application", applicationName)
             .Enrich.WithProperty("OSArchitecture", RuntimeInformation.OSArchitecture)
