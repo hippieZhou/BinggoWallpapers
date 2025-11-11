@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Vida escondida sob a pradaria",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cães-da-pradaria no Parque Nacional das Badlands, Dakota do Sul, EUA (© Greg Vaughn/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+das+Badlands+Dakota&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_PrairieDogTown%22&FORM=HPQUIZ",
+  "hash": "f44b7f366f66df503cbe9fcd440c17c1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_PT-BR5550124039_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511100300",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.PrairieDogTown_PT-BR5550124039"
+}

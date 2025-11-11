@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "传奇之地",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%9d%a1%e9%a1%bf%e5%a0%a1%e6%9e%97%e5%b1%b1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_ExternsteineSunset%22&FORM=HPQUIZ",
+  "hash": "a9b43e40979ded3153848a0e901b2602",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511101600",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.ExternsteineSunset_ZH-CN4190155102"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "11. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Imposante Denkmäler",
+  "bsTitle": "Imposante Denkmäler",
+  "caption": "Externsteine, Teutoburger Wald, Nordrhein-Westfalen",
+  "copyright": "Ansicht der Felsen gegen den Himmel während des Sonnenuntergangs, Externsteine, Teutoburger Wald, Nordrhein-Westfalen (© Michael Sroka/Getty Images)",
+  "copyrightOnly": "© Michael Sroka/Getty Images",
+  "copyrightLink": "/search?q=Externsteine&form=hpcapt&filters=HpDate%3a%2220251110_2300%22",
+  "description": "Mitten im nordrhein-westfälischen Teutoburger Wald, nahe der Stadt Horn-Bad Meinberg, ragen die markanten Felsen der Externsteine majestätisch in den Himmel. Sie zählen zu den bedeutendsten Natur- und Kulturdenkmälern Deutschlands und ziehen jährlich Tausende Besucher an. Entstanden vor rund 70 Millionen Jahren, faszinieren die bis zu 35 Meter hohen Sandsteinformationen nicht nur durch ihre außergewöhnliche Gestalt, sondern auch durch ihre historische Bedeutung. Bereits im Mittelalter wurden die Felsen als Kultstätte genutzt – davon zeugt ein in den Stein gehauenes Kreuzabnahmerelief aus dem 12. Jahrhundert, das älteste seiner Art nördlich der Alpen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_ExternsteineSunset%22&FORM=HPQUIZ",
+  "hash": "b04aeb8102b7952ca857da8b21c3425f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511102300",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.ExternsteineSunset_DE-DE9223604176"
+}
