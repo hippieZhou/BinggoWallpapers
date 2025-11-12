@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Onde as pedras encontram o céu",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Formação rochosa Externsteine na Floresta de Teutoburgo, Alemanha (© Michael Sroka/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Externsteine+na+Floresta+de+Teutoburgo&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ExternsteineSunset%22&FORM=HPQUIZ",
+  "hash": "eaf18ea8ce4d38f16be8ced098a7225b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_PT-BR2037253677_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251111",
+    "fullStartDateTime": "202511110300",
+    "endDate": "20251112"
+  },
+  "createdAt": "202511120228",
+  "originalUrlBase": "/th?id=OHR.ExternsteineSunset_PT-BR2037253677"
+}
