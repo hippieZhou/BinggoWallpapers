@@ -1,0 +1,43 @@
+{
+  "date": "13. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Sternenwächter",
+  "bsTitle": "Die Sternenwächter",
+  "caption": "Köcherbäume, Keetmanshoop, Namibia",
+  "copyright": "Köcherbäume bei Nacht mit der Milchstraße, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)",
+  "copyrightOnly": "© Wim van den Heever/naturepl.com",
+  "copyrightLink": "/search?q=K%c3%b6cherbaum&form=hpcapt&filters=HpDate%3a%2220251112_2300%22",
+  "description": "Der Köcherbaum gehört zu den eindrucksvollsten Pflanzenarten der Wüsten im südlichen Afrika. Seinen Namen verdankt er der Tradition der San-Völker, die seine hohlen Äste nutzten, um Pfeilköcher herzustellen. Perfekt an extreme Bedingungen angepasst, speichert dieser Baum Wasser im Stamm und übersteht Temperaturen, die für viele andere Arten tödlich wären. Heute begeistert uns die beeindruckende Schönheit der Köcherbäume bei Nacht unter der Milchstraße in Keetmanshoop, Namibia, wo ihre Silhouetten sich vor einem funkelnden Sternenhimmel abzeichnen und eine fast surreale Szenerie schaffen. Diese Landschaft ist nicht nur ein visuelles Spektakel, sondern auch ein Symbol für die erstaunliche Fähigkeit des Lebens, in unwirtlichen Umgebungen zu gedeihen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251112_AloeDichotoma%22&FORM=HPQUIZ",
+  "hash": "2a021afc7aed84e1a0839d05f1fe6361",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_DE-DE9983425456_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251112",
+    "fullStartDateTime": "202511122300",
+    "endDate": "20251113"
+  },
+  "createdAt": "202511130241",
+  "originalUrlBase": "/th?id=OHR.AloeDichotoma_DE-DE9983425456"
+}
