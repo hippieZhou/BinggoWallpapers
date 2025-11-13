@@ -208,7 +208,10 @@ public partial class DetailViewModel(
                   saturation: Saturation,
                   blur: Blur,
                   pixelScale: PixelScale));
-            inAppNotificationService.ShowSuccess($"导出壁纸: {Wallpaper.Title}");
+            if (success)
+            {
+                inAppNotificationService.ShowSuccess($"导出壁纸: {Wallpaper.Title}");
+            }
         }
         catch (Exception ex)
         {

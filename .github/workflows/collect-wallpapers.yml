@@ -57,10 +57,10 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 设置 .NET 9.0
+      - name: 设置 .NET 10.0
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: "9.0.x"
+          dotnet-version: "10.0.x"
 
       - name: 恢复依赖包
         run: dotnet restore src/BingWallpaperGallery.Collector/BingWallpaperGallery.Collector.csproj
