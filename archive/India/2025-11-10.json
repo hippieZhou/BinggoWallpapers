@@ -1,0 +1,43 @@
+{
+  "date": "Nov 11, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Where legends rise",
+  "bsTitle": "Where legends rise",
+  "caption": "Externsteine in the Teutoburg Forest, Germany",
+  "copyright": "The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany (© Michael Sroka/Getty Images)",
+  "copyrightOnly": "© Michael Sroka/Getty Images",
+  "copyrightLink": "/search?q=The+Externsteine+Teutoburg+Forest&form=hpcapt&filters=HpDate%3a%2220251110_1830%22",
+  "description": "Nestled in the heart of Germany's Teutoburg Forest, near the town of Horn-Bad Meinberg in North Rhine-Westphalia, the dramatic rock formations known as the Externsteine rise majestically into the sky. These sandstone pillars, formed around 70 million years ago, are among Germany's most significant natural and cultural landmarks. They captivate visitors with their unique shapes and rich historical significance, attracting thousands each year. The rocks reach heights of up to 35 metres. As early as the Middle Ages, the site was used as a place of worship, as evidenced by a remarkable 12th-century relief carved into the stone depicting the Descent from the Cross. It is the oldest of its kind north of the Alps.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_ExternsteineSunset%22&FORM=HPQUIZ",
+  "hash": "07f5830f3b0235d4e300b1a2cb8de764",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-IN3574516917_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511101830",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.ExternsteineSunset_EN-IN3574516917"
+}

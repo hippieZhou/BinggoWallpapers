@@ -1,0 +1,43 @@
+{
+  "date": "Nov 10, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Black-tailed prairie dogs",
+  "copyright": "Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images)",
+  "copyrightOnly": "© Greg Vaughn/Getty Images",
+  "copyrightLink": "/search?q=Black-tailed+prairie+dog&form=hpcapt&filters=HpDate%3a%2220251110_0800%22",
+  "description": "In 1978, a stark stretch of South Dakota prairie gained recognition as one of America's natural treasures. Badlands National Park, carved by wind and water, was redesignated from national monument to national park status, securing stronger protection within the United States' National Park System. Its cliffs and spires rise above fossil beds that reveal ancient rhinoceroses, camels and subtropical seas. Yet the park is not only a window into the past; it also safeguards one of the largest remaining tracts of mixed-grass prairie in the country.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_PrairieDogTown%22&FORM=HPQUIZ",
+  "hash": "4670dae6d5f1899367cf49522cc2abcf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511100800",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.PrairieDogTown_ROW3043607482"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov 9, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Lagoon Nebula, captured by the Hubble Space Telescope",
+  "copyright": "Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)",
+  "copyrightOnly": "© ESA/NASA",
+  "copyrightLink": "/search?q=Lagoon+Nebula&form=hpcapt&filters=HpDate%3a%2220251109_0800%22",
+  "description": "The universe hums with creation. Featured here, in the Lagoon Nebula, a cluster called NGC 6530 is kindling newborn stars, a glowing reminder that beginnings are woven into the fabric of the cosmos. About 4,350 light-years away and a few million years old, it is a stellar formation still in its earliest chapter. Despite its immense distance, it glimmers faintly in the night sky, one of only two star-forming nebulae visible to the naked eye from mid-northern latitudes, alongside the famous Orion Nebula. First recorded by Giovanni Hodierna in 1654, it is located in the constellation Sagittarius. In long-exposure photographs, the Lagoon Nebula may appear pink, but when viewed through a telescope it looks grey, as the human eye struggles to detect colour in low-light conditions. So, if you ever try to spot it, don't be surprised by its muted appearance.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_LagoonNebula%22&FORM=HPQUIZ",
+  "hash": "d27fe05c3fceb78afb32b39d7b28c7ef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ROW3011967113_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ROW3011967113_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ROW3011967113_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ROW3011967113_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251109",
+    "fullStartDateTime": "202511090800",
+    "endDate": "20251110"
+  },
+  "createdAt": "202511100244",
+  "originalUrlBase": "/th?id=OHR.LagoonNebula_ROW3011967113"
+}

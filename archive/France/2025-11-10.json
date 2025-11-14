@@ -1,0 +1,43 @@
+{
+  "date": "11 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un symbole plus que jamais d’actualité",
+  "bsTitle": "Un symbole plus que jamais d’actualité",
+  "caption": "Commémorations du 11 novembre",
+  "copyright": "Tombe du soldat inconnu sous l’Arc de Triomphe à Paris lors des commémorations du 11 novembre (© Ludovic Marin/Getty Images)",
+  "copyrightOnly": "© Ludovic Marin/Getty Images",
+  "copyrightLink": "/search?q=Tombe+du+soldat+inconnu&form=hpcapt&filters=HpDate%3a%2220251110_2300%22",
+  "description": "Sous l’Arc de triomphe, à l’extrémité des Champs-Élysées, la flamme éternelle vacille dans le vent d’automne. Chaque 11 novembre, son reflet danse sur la pierre froide de la tombe du soldat inconnu, rappelant la mémoire de ceux qui sont tombés pour notre pays. Autour, les drapeaux se dressent, les pas s’apaisent malgré le tumulte de la ville.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_Armistice%22&FORM=HPQUIZ",
+  "hash": "ee815bd2d75a597648c7299f8c27ab22",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511102300",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.Armistice_FR-FR5922039911"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "11 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Vida bajo la pradera",
+  "bsTitle": "Vida bajo la pradera",
+  "caption": "Perritos de la pradera, Parque Nacional Badlands, Dakota del Sur, EE. UU.",
+  "copyright": "Perritos de la pradera de cola negra en Roberts Prairie Dog Town, Parque Nacional Badlands, Dakota del Sur, EE. UU. (© Greg Vaughn/Getty Images)",
+  "copyrightOnly": "© Greg Vaughn/Getty Images",
+  "copyrightLink": "/search?q=Perrito+de+la+pradera+de+cola+negra&form=hpcapt&filters=HpDate%3a%2220251110_2300%22",
+  "description": "En Badlands, Dakota del Sur, Estados Unidos, los perritos de la pradera de cola negra viven en auténticos “pueblos” subterráneos que se extienden por kilómetros. Estos pequeños roedores son mucho más que adorables habitantes del prado: son especies clave para el ecosistema. Al excavar sus madrigueras, airean el suelo y crean espacios donde crecen plantas diversas, beneficiando a otros animales y a la vegetación.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_PrairieDogTown%22&FORM=HPQUIZ",
+  "hash": "6cb74c2d1edb98636cc1fc8d6f1f0555",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ES-ES2126702018_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511102300",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.PrairieDogTown_ES-ES2126702018"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "13 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Dix ans après, la lumière persiste",
+  "bsTitle": "Dix ans après, la lumière persiste",
+  "caption": "10 ans des attentats du 13 novembre 2015",
+  "copyright": "Mémorial éphémère en hommage aux victimes des attentats de Paris, Vieux-Port, Marseille (© Anne-Christine Poujoulat/Getty Images)",
+  "copyrightOnly": "© Anne-Christine Poujoulat/Getty Images",
+  "copyrightLink": "/search?q=13+novembre+2015&form=hpcapt&filters=HpDate%3a%2220251112_2300%22",
+  "description": "Sur les pavés humides, des flammes vacillent dans la nuit. Autour d'elles, des roses s'allongent, des rubans tricolores s'entrelacent et une carte noire porte une silhouette gravée d'une date : 13 novembre 2015. Dix ans ont passé, mais le silence qui entoure ces bougies semble toujours chargé d'échos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251112_ParisAnniversary%22&FORM=HPQUIZ",
+  "hash": "dcd1eb19c8bc5f4b05ca2dc1128767e5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParisAnniversary_FR-FR6127144121_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251112",
+    "fullStartDateTime": "202511122300",
+    "endDate": "20251113"
+  },
+  "createdAt": "202511130241",
+  "originalUrlBase": "/th?id=OHR.ParisAnniversary_FR-FR6127144121"
+}

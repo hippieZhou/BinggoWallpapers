@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il verde, il cielo e l'Universo intero",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Alberi faretra di notte con la Via Lattea, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Alberi+faretra&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251112_AloeDichotoma%22&FORM=HPQUIZ",
+  "hash": "9e22ea6c5f6cd549a9acf1095ccbb0af",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_IT-IT5307684987_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251112",
+    "fullStartDateTime": "202511122300",
+    "endDate": "20251113"
+  },
+  "createdAt": "202511130241",
+  "originalUrlBase": "/th?id=OHR.AloeDichotoma_IT-IT5307684987"
+}

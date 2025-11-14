@@ -1,0 +1,43 @@
+{
+  "date": "Nov 11, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Honoring their service",
+  "bsTitle": "Honoring their service",
+  "caption": "Marine Corps War Memorial, Arlington, Virginia",
+  "copyright": "Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)",
+  "copyrightOnly": "© f11photo/Shutterstock",
+  "copyrightLink": "/search?q=Veterans+Day&form=hpcapt&filters=HpDate%3a%2220251111_0800%22",
+  "description": "Veterans Day, observed every year on November 11, honors all US military veterans—those who have served in war and peace, past and present. It's a time to reflect on the sacrifices made by millions of Americans who have worn a uniform with pride and courage.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_MarineMemorial%22&FORM=HPQUIZ",
+  "hash": "fe6c40c76b704a4fa9901a280b79b576",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251111",
+    "fullStartDateTime": "202511110800",
+    "endDate": "20251112"
+  },
+  "createdAt": "202511120228",
+  "originalUrlBase": "/th?id=OHR.MarineMemorial_EN-US6899836690"
+}

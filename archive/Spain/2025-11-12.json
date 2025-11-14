@@ -1,0 +1,43 @@
+{
+  "date": "13 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Un nido de tejedores!",
+  "bsTitle": "¡Un nido de tejedores!",
+  "caption": "Árboles Quiver, Keetmanshoop, Namibia",
+  "copyright": "Árboles Quiver por la noche con la Vía Láctea, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)",
+  "copyrightOnly": "© Wim van den Heever/naturepl.com",
+  "copyrightLink": "/search?q=Keetmanshoop&form=hpcapt&filters=HpDate%3a%2220251112_2300%22",
+  "description": "De todas las plantas del mundo, el árbol quiver parece sacado del futuro. Originarios del sur de África, especialmente de Namibia, estos impresionantes gigantes no son árboles reales, sino una especie de aloe adaptada al sol abrasador del desierto. Sus gruesos troncos almacenan agua y sus ramas reflejan el calor, ayudándoles a sobrevivir en condiciones extremas. Pueden alcanzar hasta 7 metros de altura y algunos viven más de 100 años. Además, son esenciales para su ecosistema, ofreciendo perchas y sitios de anidación para aves, como los tejedores, muy común en sus ramas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251112_AloeDichotoma%22&FORM=HPQUIZ",
+  "hash": "a3c6da2b10668a5e94e68481cc8ddaf3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251112",
+    "fullStartDateTime": "202511122300",
+    "endDate": "20251113"
+  },
+  "createdAt": "202511130241",
+  "originalUrlBase": "/th?id=OHR.AloeDichotoma_ES-ES2317019212"
+}

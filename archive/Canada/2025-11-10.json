@@ -1,0 +1,43 @@
+{
+  "date": "Nov. 10, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Life hidden beneath the prairie",
+  "bsTitle": "Life hidden beneath the prairie",
+  "caption": "Badlands National Park, South Dakota, United States",
+  "copyright": "Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images)",
+  "copyrightOnly": "© Greg Vaughn/Getty Images",
+  "copyrightLink": "/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220251110_0500%22",
+  "description": "On November 10, 47 years ago, a stark stretch of South Dakota prairie gained recognition as one of America's natural treasures. Badlands National Park, carved by wind and water, was redesignated from national monument to national park status in 1978, securing stronger protection within the United States' National Park System. Its cliffs and spires rise above fossil beds that reveal ancient rhinoceroses, camels and subtropical seas. Yet the park is not only a window into the past; it also safeguards one of the largest remaining tracts of mixed-grass prairie in the country.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_PrairieDogTown%22&FORM=HPQUIZ",
+  "hash": "afdfb1c5d03b5bcc7f023060436bd9d8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511100500",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.PrairieDogTown_EN-CA8014660733"
+}

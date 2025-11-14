@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Nel vento la memoria",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Castello di Rocca Calascio, Parco Nazionale del Gran Sasso e dei Monti della Laga, Abruzzo (© carlo alberto conti/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Castello+di+Rocca+Calascio&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_CastleAbruzzo%22&FORM=HPQUIZ",
+  "hash": "8eeee481672b6258fa308a8476cd1826",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_IT-IT5062952309_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251109",
+    "fullStartDateTime": "202511092300",
+    "endDate": "20251110"
+  },
+  "createdAt": "202511100244",
+  "originalUrlBase": "/th?id=OHR.CastleAbruzzo_IT-IT5062952309"
+}

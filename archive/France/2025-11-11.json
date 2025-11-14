@@ -1,0 +1,43 @@
+{
+  "date": "12 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Tous les chemins mènent à Rome",
+  "bsTitle": "Tous les chemins mènent à Rome",
+  "caption": "Colisée de Rome, Italie",
+  "copyright": "Vue aérienne du Colisée, Rome, Italie (© Nico De Pasquale Photography/Getty Images)",
+  "copyrightOnly": "© Nico De Pasquale Photography/Getty Images",
+  "copyrightLink": "/search?q=Colis%c3%a9e+Rome&form=hpcapt&filters=HpDate%3a%2220251111_2300%22",
+  "description": "Vu du ciel, il semble flotter au cœur de la capitale italienne, entouré par le tumulte moderne, mais encore habité par les échos d'un passé grandiose. Construit il y a près de deux mille ans, cet amphithéâtre dressé au milieu de la plaine défiait les collines et les siècles. Jusqu’à 50 000 spectateurs vibraient sous ses arches de pierre et de béton au rythme des combats, des fauves et des merveilles aquatiques surgies des entrailles de l’arène.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251111_ColosseumRome%22&FORM=HPQUIZ",
+  "hash": "1489fa5e3e2d51b1b479cffbaa638686",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ColosseumRome_FR-FR6041377541_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251111",
+    "fullStartDateTime": "202511112300",
+    "endDate": "20251112"
+  },
+  "createdAt": "202511120228",
+  "originalUrlBase": "/th?id=OHR.ColosseumRome_FR-FR6041377541"
+}

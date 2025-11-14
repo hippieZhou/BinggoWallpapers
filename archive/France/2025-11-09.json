@@ -1,0 +1,43 @@
+{
+  "date": "10 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La vie cachée de la prairie",
+  "bsTitle": "La vie cachée de la prairie",
+  "caption": "Chiens de prairie à queue noire",
+  "copyright": "Chiens de prairie à queue noire, Parc National des Badlands, Dakota du Sud, États-Unis (© Greg Vaughn/Getty Images)",
+  "copyrightOnly": "© Greg Vaughn/Getty Images",
+  "copyrightLink": "/search?q=Parc+National+Badland&form=hpcapt&filters=HpDate%3a%2220251109_2300%22",
+  "description": "Sous le ciel immense du Dakota du Sud, aux États-Unis, les Badlands s’élèvent comme des cathédrales de roche sculptées par le vent. Dans une prairie battue par les saisons, une ville invisible s’étend sous nos pieds : Roberts Prairie Dog Town. Des centaines de chiens de prairie à queue noire y creusent des galeries, sifflent, s’ébattent et veillent sur leur territoire comme des sentinelles miniatures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_PrairieDogTown%22&FORM=HPQUIZ",
+  "hash": "35b2826051554402409cfe61aaaac997",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_FR-FR5690606254_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_FR-FR5690606254_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_FR-FR5690606254_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_FR-FR5690606254_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251109",
+    "fullStartDateTime": "202511092300",
+    "endDate": "20251110"
+  },
+  "createdAt": "202511100244",
+  "originalUrlBase": "/th?id=OHR.PrairieDogTown_FR-FR5690606254"
+}

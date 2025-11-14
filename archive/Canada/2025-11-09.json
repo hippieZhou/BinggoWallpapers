@@ -1,0 +1,43 @@
+{
+  "date": "Nov. 9, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Once upon a star",
+  "bsTitle": "Once upon a star",
+  "caption": "Carl Sagan Day",
+  "copyright": "Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)",
+  "copyrightOnly": "© ESA/NASA",
+  "copyrightLink": "/search?q=Carl+Sagan+Day&form=hpcapt&filters=HpDate%3a%2220251109_0500%22",
+  "description": "The universe hums with creation. Featured here, in the Lagoon Nebula, a cluster called NGC 6530 is kindling newborn stars, a glowing reminder that beginnings are woven into the fabric of the cosmos. About 4,350 light-years away and a few million years old, it is a stellar formation still in its earliest chapter.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251109_LagoonNebula%22&FORM=HPQUIZ",
+  "hash": "5b4b8a5c1b4134d34af746fd88b1183c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-CA7834189845_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-CA7834189845_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-CA7834189845_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-CA7834189845_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251109",
+    "fullStartDateTime": "202511090500",
+    "endDate": "20251110"
+  },
+  "createdAt": "202511100244",
+  "originalUrlBase": "/th?id=OHR.LagoonNebula_EN-CA7834189845"
+}

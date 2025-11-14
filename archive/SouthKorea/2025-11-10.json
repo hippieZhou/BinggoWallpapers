@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Black-tailed+prairie+dog&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251110_PrairieDogTown%22&FORM=HPQUIZ",
+  "hash": "4670dae6d5f1899367cf49522cc2abcf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251110",
+    "fullStartDateTime": "202511100800",
+    "endDate": "20251111"
+  },
+  "createdAt": "202511110229",
+  "originalUrlBase": "/th?id=OHR.PrairieDogTown_ROW3043607482"
+}
