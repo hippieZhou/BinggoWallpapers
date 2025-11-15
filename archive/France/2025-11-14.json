@@ -1,0 +1,43 @@
+{
+  "date": "15 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La route qui écrit l’automne",
+  "bsTitle": "La route qui écrit l’automne",
+  "caption": "Route d'Irohazaka, Japon",
+  "copyright": "Route d'Irohazaka en automne, Nikkō, Tochigi, Japon (© oneinchpunch/Shutterstock)",
+  "copyrightOnly": "© oneinchpunch/Shutterstock",
+  "copyrightLink": "/search?q=Nikko+Tochigi+Japon&form=hpcapt&filters=HpDate%3a%2220251114_2300%22",
+  "description": "Au cœur des montagnes japonaises de Nikkō, serpente une route mythique : l’Irohazaka. Jadis composée de 48 virages en épingle, elle doit son nom à l’Iroha, un ancien chant alphabétique japonais. Chaque courbe correspondait à une syllabe de ce poème traditionnel, comme autant de traits d’une calligraphie vivante inscrite dans le relief.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251114_IrohazakaAutumn%22&FORM=HPQUIZ",
+  "hash": "243a562452743c2b39efdd6be172c9bb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_FR-FR4919627765_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_FR-FR4919627765_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_FR-FR4919627765_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_FR-FR4919627765_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251114",
+    "fullStartDateTime": "202511142300",
+    "endDate": "20251115"
+  },
+  "createdAt": "202511150224",
+  "originalUrlBase": "/th?id=OHR.IrohazakaAutumn_FR-FR4919627765"
+}

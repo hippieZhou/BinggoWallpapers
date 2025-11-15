@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Sossego submerso",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Peixe-boi-marinho e filhote, Crystal River, Flórida, EUA (© Gregory Sweeney/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=peixe+boi&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251114_ManateeBaby%22&FORM=HPQUIZ",
+  "hash": "92e695cce03ed256dac595d6d69be428",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_PT-BR6922634130_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_PT-BR6922634130_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_PT-BR6922634130_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_PT-BR6922634130_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251114",
+    "fullStartDateTime": "202511140300",
+    "endDate": "20251115"
+  },
+  "createdAt": "202511150224",
+  "originalUrlBase": "/th?id=OHR.ManateeBaby_PT-BR6922634130"
+}

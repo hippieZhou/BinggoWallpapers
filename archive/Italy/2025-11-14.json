@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Tornanti di poesia?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "La strada Irohazaka in autunno, Nikko, Tochigi, Giappone (© oneinchpunch/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Nikko+citt%c3%a0+Giappone&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251114_IrohazakaAutumn%22&FORM=HPQUIZ",
+  "hash": "3cb3fc5a5e2f221e4b2bc41b2a7e3009",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_IT-IT9755895022_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_IT-IT9755895022_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_IT-IT9755895022_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_IT-IT9755895022_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251114",
+    "fullStartDateTime": "202511142300",
+    "endDate": "20251115"
+  },
+  "createdAt": "202511150224",
+  "originalUrlBase": "/th?id=OHR.IrohazakaAutumn_IT-IT9755895022"
+}
