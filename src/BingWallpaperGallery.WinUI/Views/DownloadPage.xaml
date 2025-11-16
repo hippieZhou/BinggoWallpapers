@@ -27,19 +27,24 @@
 
         <Grid Grid.Row="0">
             <TextBlock
+                x:Uid="DownloadPage_PageTitle"
+                d:Text="下载"
                 Foreground="{ThemeResource TextFillColorSecondaryBrush}"
-                Style="{StaticResource SubtitleTextBlockStyle}"
-                Text="下载" />
+                Style="{StaticResource SubtitleTextBlockStyle}" />
             <Button
+                x:Uid="DownloadPage_MoreOptions"
                 HorizontalAlignment="Right"
+                d:ToolTipService.ToolTip="更多选项"
                 AutomationProperties.Name="More options"
                 Content="{ui:FontIcon Glyph=&#xE712;,
                                       FontSize=16}"
-                Style="{StaticResource SubtleButtonStyle}"
-                ToolTipService.ToolTip="更多选项">
+                Style="{StaticResource SubtleButtonStyle}">
                 <Button.Flyout>
                     <MenuFlyout>
-                        <MenuFlyoutItem Command="{x:Bind ViewModel.ClearDownloadQueueCommand}" Text="清除下载记录" />
+                        <MenuFlyoutItem
+                            x:Uid="DownloadPage_CleanHistory"
+                            d:Text="清除下载记录"
+                            Command="{x:Bind ViewModel.ClearDownloadQueueCommand}" />
                     </MenuFlyout>
                 </Button.Flyout>
             </Button>
@@ -141,29 +146,33 @@
                                     <Button.Flyout>
                                         <MenuFlyout>
                                             <MenuFlyoutItem
+                                                x:Uid="DownloadPage_DeleteAction"
+                                                d:Text="删除"
                                                 Click="OnDeleteDownloadCommand"
                                                 CommandParameter="{x:Bind DownloadId}"
                                                 Icon="{ui:FontIcon Glyph=&#xE74D;}"
-                                                IsEnabled="{x:Bind CanDelete, Mode=OneWay}"
-                                                Text="删除任务" />
+                                                IsEnabled="{x:Bind CanDelete, Mode=OneWay}" />
                                             <MenuFlyoutItem
+                                                x:Uid="DownloadPage_CancelAction"
+                                                d:Text="取消"
                                                 Click="OnCancelDownloadCommand"
                                                 CommandParameter="{x:Bind DownloadId}"
                                                 Icon="{ui:FontIcon Glyph=&#xE711;}"
-                                                IsEnabled="{x:Bind CanCancel, Mode=OneWay}"
-                                                Text="取消任务" />
+                                                IsEnabled="{x:Bind CanCancel, Mode=OneWay}" />
                                             <MenuFlyoutItem
+                                                x:Uid="DownloadPage_RetryAction"
+                                                d:Text="重试"
                                                 Click="OnRetryDownloadCommand"
                                                 CommandParameter="{x:Bind DownloadId}"
                                                 Icon="{ui:FontIcon Glyph=&#xE777;}"
-                                                IsEnabled="{x:Bind CanRetry, Mode=OneWay}"
-                                                Text="重试任务" />
+                                                IsEnabled="{x:Bind CanRetry, Mode=OneWay}" />
                                             <MenuFlyoutSeparator />
                                             <MenuFlyoutItem
+                                                x:Uid="DownloadPage_ViewAction"
+                                                d:Text="查看"
                                                 Click="OnViewOriginalImageCommand"
                                                 CommandParameter="{x:Bind DownloadId}"
-                                                Icon="{ui:FontIcon Glyph=&#xE7C5;}"
-                                                Text="查看原图" />
+                                                Icon="{ui:FontIcon Glyph=&#xE7C5;}" />
                                         </MenuFlyout>
                                     </Button.Flyout>
                                 </Button>
@@ -198,14 +207,16 @@
                     Glyph="&#xEBD3;" />
                 <StackPanel HorizontalAlignment="Center" Spacing="12">
                     <TextBlock
+                        x:Uid="DownloadPage_Empty"
                         HorizontalAlignment="Center"
-                        Style="{ThemeResource SubtitleTextBlockStyle}"
-                        Text="暂无下载记录" />
+                        d:Text="暂无下载记录"
+                        Style="{ThemeResource SubtitleTextBlockStyle}" />
                     <TextBlock
+                        x:Uid="DownloadPage_Navigation"
                         HorizontalAlignment="Center"
+                        d:Text="请前往壁纸详情页进行下载"
                         Opacity="0.7"
-                        Style="{ThemeResource BodyTextBlockStyle}"
-                        Text="请前往壁纸详情页进行下载" />
+                        Style="{ThemeResource BodyTextBlockStyle}" />
                 </StackPanel>
             </StackPanel>
         </Grid>
