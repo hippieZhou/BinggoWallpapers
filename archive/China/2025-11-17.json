@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "秋日里的羽翼明星",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%a3%95%e8%83%81%e7%a7%8b%e6%b2%99%e9%b8%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+  "hash": "bf139a73f9c88d99c67720984fd9bd6b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251117",
+    "fullStartDateTime": "202511171600",
+    "endDate": "20251118"
+  },
+  "createdAt": "202511180228",
+  "originalUrlBase": "/th?id=OHR.AutumnMerganser_ZH-CN1320438449"
+}

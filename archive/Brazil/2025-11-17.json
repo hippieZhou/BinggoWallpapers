@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O chamado das trilhas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cores do outono no Parque Nacional de Shenandoah, Virgínia, EUA (© Michael Ver Sprill/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Shenandoah+Virg%c3%adnia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_ShenandoahTrail%22&FORM=HPQUIZ",
+  "hash": "23a0559915660647ef9113e3aa661c5a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_PT-BR5028507460_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_PT-BR5028507460_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_PT-BR5028507460_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_PT-BR5028507460_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251117",
+    "fullStartDateTime": "202511170300",
+    "endDate": "20251118"
+  },
+  "createdAt": "202511180228",
+  "originalUrlBase": "/th?id=OHR.ShenandoahTrail_PT-BR5028507460"
+}

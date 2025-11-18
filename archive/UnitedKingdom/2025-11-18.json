@@ -1,0 +1,43 @@
+{
+  "date": "Nov 18, 2025",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Autumn's feathered headliner",
+  "bsTitle": "Autumn's feathered headliner",
+  "caption": "Male hooded merganser, Oregon, United States",
+  "copyright": "Male hooded merganser, Oregon, United States (© Eric Vogt/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Eric Vogt/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Hooded+merganser&form=hpcapt&filters=HpDate%3a%2220251118_0000%22",
+  "description": "Each autumn, the quiet waterways of Oregon, United States, become seasonal waypoints for hooded mergansers—small diving ducks native to North America. They are agile divers, plunging beneath the surface to catch fish and other prey. Males, known as drakes, stand out with their fan-shaped white crests, dark heads and chestnut-brown sides, while females, called hens, are brownish grey with smaller crests. Oregon's lakes and wetlands provide sheltered feeding grounds as these birds migrate or winter across the continent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_AutumnMerganser%22&FORM=HPQUIZ",
+  "hash": "a29be7a4c2d71ba147b77a2d7e96e70a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-GB3336430731_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-GB3336430731_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-GB3336430731_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-GB3336430731_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251118",
+    "fullStartDateTime": "202511180000",
+    "endDate": "20251119"
+  },
+  "createdAt": "202511180228",
+  "originalUrlBase": "/th?id=OHR.AutumnMerganser_EN-GB3336430731"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov 17, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Shenandoah National Park, Virginia, United States",
+  "copyright": "Shenandoah National Park, Virginia, United States (© Michael Ver Sprill/Getty Images)",
+  "copyrightOnly": "© Michael Ver Sprill/Getty Images",
+  "copyrightLink": "/search?q=Shenandoah+National+Park&form=hpcapt&filters=HpDate%3a%2220251117_0800%22",
+  "description": "Today's image features Shenandoah National Park, in Virginia, United States, which serves as a sanctuary for the preservation of significant natural and cultural resources. Nestled in the northern Blue Ridge Mountains, it offers a glimpse into the region's rich biodiversity and historical heritage. The park's diverse ecosystems protect a variety of species, from towering oak and pine trees to black bears and white-tailed deer, while preserving the scenic beauty and wilderness that define this remarkable landscape. The park's major attraction is Skyline Drive, a 169-kilometre scenic road, offering vistas where clouds drift like thoughts across endless valleys. Trails—more than 800 kilometres of them—lead to places where waterfalls tumble and summits greet the horizon. Whether you're hiking, camping or stargazing, Shenandoah National Park provides an escape into nature.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_ShenandoahTrail%22&FORM=HPQUIZ",
+  "hash": "97e523b7750f97ad543a56c7e520f169",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ROW8425475363_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ROW8425475363_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ROW8425475363_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ROW8425475363_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251117",
+    "fullStartDateTime": "202511170800",
+    "endDate": "20251118"
+  },
+  "createdAt": "202511180228",
+  "originalUrlBase": "/th?id=OHR.ShenandoahTrail_ROW8425475363"
+}

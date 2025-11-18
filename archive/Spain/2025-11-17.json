@@ -1,0 +1,43 @@
+{
+  "date": "18 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El techo emplumado del otoño",
+  "bsTitle": "El techo emplumado del otoño",
+  "caption": "La serreta capuchona, Oregón, EE. UU.",
+  "copyright": "La serreta capuchona, Oregón, EE. UU. (© Eric Vogt/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Eric Vogt/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=La+serreta+capuchona&form=hpcapt&filters=HpDate%3a%2220251117_2300%22",
+  "description": "Cada otoño, las tranquilas vías fluviales de Oregón se llenan de vida con la presencia de la serreta capuchona, un pequeño pato buceador nativo de América del Norte. Ágil bajo el agua, se sumerge para atrapar peces y otros alimentos. Los machos destacan por sus crestas blancas en forma de abanico, cabezas oscuras y lados castaños, mientras que las hembras presentan un plumaje gris parduzco y crestas más discretas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+  "hash": "e8cd0e38ae20ac274cf50ba2bd92fb8c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ES-ES5196368512_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ES-ES5196368512_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ES-ES5196368512_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_ES-ES5196368512_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251117",
+    "fullStartDateTime": "202511172300",
+    "endDate": "20251118"
+  },
+  "createdAt": "202511180228",
+  "originalUrlBase": "/th?id=OHR.AutumnMerganser_ES-ES5196368512"
+}

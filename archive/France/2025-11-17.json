@@ -1,0 +1,43 @@
+{
+  "date": "18 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "« Huppe », « Huppe », « Huppe » ! Qui va là !",
+  "bsTitle": "« Huppe », « Huppe », « Huppe » ! Qui va là !",
+  "caption": "Le canard harle couronné",
+  "copyright": "Harle couronné mâle, Oregon, États-Unis (© Eric Vogt/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Eric Vogt/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Harle+couronn%c3%a9&form=hpcapt&filters=HpDate%3a%2220251117_2300%22",
+  "description": "Dans les reflets dorés des rivières de l’Oregon, aux États-Unis, le harle couronné apparaît comme un bijou vivant. Le mâle arbore une huppe blanche et circulaire qu’il redresse en éventail, tandis que la femelle, brune et fine, l’accompagne d’un vol léger. Ces canards plongeurs, parmi les plus petits de leur famille, chassent sous l’eau, bondissant comme des éclats d’ombre dans la lumière du matin.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+  "hash": "4650fa8e3013d571dfa64d3d24ccc2a4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_FR-FR0461657893_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_FR-FR0461657893_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_FR-FR0461657893_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_FR-FR0461657893_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251117",
+    "fullStartDateTime": "202511172300",
+    "endDate": "20251118"
+  },
+  "createdAt": "202511180228",
+  "originalUrlBase": "/th?id=OHR.AutumnMerganser_FR-FR0461657893"
+}

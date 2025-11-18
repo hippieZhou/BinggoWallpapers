@@ -1,0 +1,43 @@
+{
+  "date": "18. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Herbststar mit Haube",
+  "bsTitle": "Herbststar mit Haube",
+  "caption": "Männlicher Kappensäger, Oregon, USA",
+  "copyright": "Männlicher Kappensäger, Oregon, USA (© Eric Vogt/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Eric Vogt/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Kappens%c3%a4ger&form=hpcapt&filters=HpDate%3a%2220251117_2300%22",
+  "description": "Der Kappensäger ist eine Tauchente aus Nordamerika, bekannt für ihren auffälligen, fächerförmigen Schopf, den das Männchen während der Balz präsentiert. Sie bewohnt Seen, Flüsse und bewaldete Feuchtgebiete und zeichnet sich durch ihre Wendigkeit unter Wasser sowie ihre Vorliebe für Baumhöhlen als Nistplätze aus. Heute bewundern wir einen männlichen Kappensäger in Oregon, USA – mit seinem kontrastreichen Gefieder in Weiß, Schwarz und Kastanienbraun sowie der charakteristischen „Kapuze“, die ihm seinen Namen verleiht. Sein neugieriges Verhalten und sein elegantes Erscheinungsbild machen ihn zu einem Favoriten unter Vogelbeobachtern in Nordamerika.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251117_AutumnMerganser%22&FORM=HPQUIZ",
+  "hash": "ee5970fc4fac3d06ab22da522a014662",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_DE-DE5996938724_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_DE-DE5996938724_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_DE-DE5996938724_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_DE-DE5996938724_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251117",
+    "fullStartDateTime": "202511172300",
+    "endDate": "20251118"
+  },
+  "createdAt": "202511180228",
+  "originalUrlBase": "/th?id=OHR.AutumnMerganser_DE-DE5996938724"
+}
