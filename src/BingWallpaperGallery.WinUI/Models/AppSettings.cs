@@ -1,6 +1,7 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
 using System.Reflection;
+using System.Runtime.InteropServices;
 using BingWallpaperGallery.WinUI.Helpers;
 using CommunityToolkit.WinUI;
 using Microsoft.Windows.ApplicationModel.WindowsAppRuntime;
@@ -51,9 +52,13 @@ public partial class AppSettings
         }
     }
 
-    public static string WinAppSdkDetails => $"Windows App SDK {ReleaseInfo.Major}.{ReleaseInfo.Minor}";
+    private static string WinAppSdkDetails => $"Windows App SDK {ReleaseInfo.Major}.{ReleaseInfo.Minor}";
 
-    public static string WinAppSdkRuntimeDetails => WinAppSdkDetails + $", Windows App Runtime {RuntimeInfo.AsString}";
+    private static string RuntimeInfoAsString => $"Windows App Runtime {RuntimeInfo.AsString}";
+
+    private static string FrameworkDescription => RuntimeInformation.FrameworkDescription;
+
+    public static string WinAppSdkRuntimeDetails => $"{WinAppSdkDetails}, {RuntimeInfoAsString}, {FrameworkDescription}";
 }
 
 public partial class AppSettings

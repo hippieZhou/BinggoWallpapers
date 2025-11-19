@@ -248,13 +248,9 @@
                             ContentAlignment="Vertical">
                             <StackPanel Margin="-12,0,0,0" Orientation="Vertical">
                                 <HyperlinkButton
-                                    x:Uid="SettingsPage_ServicesAgreementLink"
-                                    d:Content="Application Services Agreement"
-                                    NavigateUri="https://go.microsoft.com/fwlink/?LinkId=822631" />
-                                <HyperlinkButton
                                     x:Uid="SettingsPage_PrivacyStatementLink"
                                     d:Content="Application Privacy Statement"
-                                    NavigateUri="https://go.microsoft.com/fwlink/?LinkId=821839" />
+                                    NavigateUri="https://hippiezhou.github.io/products/bing-wallpaper-gallery/privacy-policy" />
                             </StackPanel>
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>

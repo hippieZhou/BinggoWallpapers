@@ -121,7 +121,7 @@
     <value>多彩壁纸</value>
   </data>
   <data name="AppDescription" xml:space="preserve">
-    <value>多彩壁纸</value>
+    <value>每日精选的高清壁纸图库</value>
   </data>
   <data name="AppNotificationSamplePayload" xml:space="preserve">
     <value>&lt;toast launch="action=ToastClick"&gt;
@@ -174,7 +174,7 @@
     <value>简体中文</value>
   </data>
   <data name="SettingsPage_LanguageEnUS.Content" xml:space="preserve">
-    <value>English (United States)</value>
+    <value>英语（美国）</value>
   </data>
   <data name="SettingsPage_AdvancedSection.Text" xml:space="preserve">
     <value>高级设置</value>
@@ -227,11 +227,8 @@
   <data name="SettingsPage_DisclaimerCard.Header" xml:space="preserve">
     <value>THIS CODE AND INFORMATION IS PROVIDED 'AS IS' WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.</value>
   </data>
-  <data name="SettingsPage_ServicesAgreementLink.Content" xml:space="preserve">
-    <value>Application Services Agreement</value>
-  </data>
   <data name="SettingsPage_PrivacyStatementLink.Content" xml:space="preserve">
-    <value>Application Privacy Statement</value>
+    <value>应用程序隐私声明</value>
   </data>
   <data name="DownloadPage_MoreOptions.ToolTipService.ToolTip" xml:space="preserve">
     <value>更多选项</value>
