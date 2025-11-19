@@ -269,4 +269,13 @@
   <data name="LoadingButton_Action.ToolTipService.ToolTip" xml:space="preserve">
     <value>Fetch data</value>
   </data>
+  <data name="SynchronizationDialog.Title" xml:space="preserve">
+    <value>Synchronization</value>
+  </data>
+  <data name="SynchronizationDialog.CloseButtonText" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="SynchronizationDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Start</value>
+  </data>
 </root>

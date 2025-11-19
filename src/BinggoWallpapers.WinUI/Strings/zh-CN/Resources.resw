@@ -269,4 +269,13 @@
   <data name="LoadingButton_Action.ToolTipService.ToolTip" xml:space="preserve">
     <value>更新数据</value>
   </data>
+  <data name="SynchronizationDialog.Title" xml:space="preserve">
+    <value>数据同步</value>
+  </data>
+  <data name="SynchronizationDialog.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="SynchronizationDialog.PrimaryButtonText" xml:space="preserve">
+    <value>开始</value>
+  </data>
 </root>
