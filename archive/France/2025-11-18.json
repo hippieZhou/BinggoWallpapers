@@ -1,0 +1,43 @@
+{
+  "date": "19 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un Parlement de lumière",
+  "bsTitle": "Un Parlement de lumière",
+  "caption": "Le parlement, Budapest, Hongrie",
+  "copyright": "Parlement, Budapest, Hongrie (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=Parlement+hongrois+b%c3%a2timent&form=hpcapt&filters=HpDate%3a%2220251118_2300%22",
+  "description": "Au bord du Danube, à Budapest, le Parlement hongrois se dresse tel un rêve de pierre et de lumière. À la tombée de la nuit, ses flèches gothiques s’embrasent d’or et sa coupole immense, haute de 96 mètres en hommage à l’an 896, date de la fondation du royaume, semble flotter entre ciel et rivière. Conçu à la fin du XIXe siècle par Imre Steindl, cet édifice a mobilisé plus d’un millier d’artisans pendant vingt ans, chacun gravant dans la pierre un fragment de l’âme nationale.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_BudapestParliament%22&FORM=HPQUIZ",
+  "hash": "6961bd89aad54181d451dec2e52d4bf2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_FR-FR0626557002_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_FR-FR0626557002_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_FR-FR0626557002_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_FR-FR0626557002_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251118",
+    "fullStartDateTime": "202511182300",
+    "endDate": "20251119"
+  },
+  "createdAt": "202511190228",
+  "originalUrlBase": "/th?id=OHR.BudapestParliament_FR-FR0626557002"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov 18, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Fall's feathered headliner",
+  "bsTitle": "Fall's feathered headliner",
+  "caption": "Male hooded merganser, Oregon",
+  "copyright": "Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Eric Vogt/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Hooded+merganser&form=hpcapt&filters=HpDate%3a%2220251118_0800%22",
+  "description": "Each fall, Oregon's quiet waterways become seasonal waypoints for hooded mergansers—small diving ducks native to North America. They are agile divers, plunging beneath the surface to catch fish and other prey. Males, known as drakes, stand out with their fan-shaped white crests, dark heads, and chestnut-brown sides, while females, called hens, are brownish gray with smaller crests. Oregon's lakes and wetlands provide sheltered feeding grounds as these birds migrate or winter across the continent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_AutumnMerganser%22&FORM=HPQUIZ",
+  "hash": "54f4edfbe7304ee81dcba7f356e2a598",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251118",
+    "fullStartDateTime": "202511180800",
+    "endDate": "20251119"
+  },
+  "createdAt": "202511190228",
+  "originalUrlBase": "/th?id=OHR.AutumnMerganser_EN-US5860535351"
+}

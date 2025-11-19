@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Capolavoro sul Danubio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Palazzo del Parlamento, Budapest, Ungheria (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Palazzo+del+Parlamento+ungherese&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_BudapestParliament%22&FORM=HPQUIZ",
+  "hash": "3095798f5933acb24f991cd16da26bbc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_IT-IT0096331851_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_IT-IT0096331851_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_IT-IT0096331851_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_IT-IT0096331851_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251118",
+    "fullStartDateTime": "202511182300",
+    "endDate": "20251119"
+  },
+  "createdAt": "202511190228",
+  "originalUrlBase": "/th?id=OHR.BudapestParliament_IT-IT0096331851"
+}

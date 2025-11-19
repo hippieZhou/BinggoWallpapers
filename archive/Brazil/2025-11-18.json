@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O paraíso é aqui",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ilha de Cataguás, Angra dos Reis, Rio de Janeiro (© VBC Imagens Aereas/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Angra+dos+Reis%2c+RJ&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_Cataguas%22&FORM=HPQUIZ",
+  "hash": "ff0706efe997a25d45b6030309d86170",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Cataguas_PT-BR6322961600_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Cataguas_PT-BR6322961600_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Cataguas_PT-BR6322961600_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Cataguas_PT-BR6322961600_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251118",
+    "fullStartDateTime": "202511180300",
+    "endDate": "20251119"
+  },
+  "createdAt": "202511190228",
+  "originalUrlBase": "/th?id=OHR.Cataguas_PT-BR6322961600"
+}

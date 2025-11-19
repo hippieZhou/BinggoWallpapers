@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "石头与符号，诉说一个民族的故事",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%8c%88%e7%89%99%e5%88%a9%e5%9b%bd%e4%bc%9a%e5%a4%a7%e5%8e%a6&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251118_BudapestParliament%22&FORM=HPQUIZ",
+  "hash": "c8ac6f62b737e99063721ee33f88aa3e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251118",
+    "fullStartDateTime": "202511181600",
+    "endDate": "20251119"
+  },
+  "createdAt": "202511190228",
+  "originalUrlBase": "/th?id=OHR.BudapestParliament_ZH-CN1607028780"
+}
