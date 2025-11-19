@@ -257,4 +257,16 @@
   <data name="DownloadPage_Navigation.Text" xml:space="preserve">
     <value>Please go to the wallpaper details page to download</value>
   </data>
+  <data name="CustomFooter_Message.Text" xml:space="preserve">
+    <value>No wallpaper yet</value>
+  </data>
+  <data name="CustomFooter_Action.Text" xml:space="preserve">
+    <value>Click the refresh button to get the latest wallpapers.</value>
+  </data>
+  <data name="CustomFooter_Loading.Text" xml:space="preserve">
+    <value>Data loading...</value>
+  </data>
+  <data name="LoadingButton_Action.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Fetch data</value>
+  </data>
 </root>

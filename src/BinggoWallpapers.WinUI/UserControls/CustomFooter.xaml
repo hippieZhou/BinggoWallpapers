@@ -30,14 +30,16 @@
                     Glyph="&#xE74E;" />
                 <StackPanel HorizontalAlignment="Center" Spacing="12">
                     <TextBlock
+                        x:Uid="CustomFooter_Message"
                         HorizontalAlignment="Center"
-                        Style="{ThemeResource SubtitleTextBlockStyle}"
-                        Text="暂无壁纸" />
+                        d:Text="暂无壁纸"
+                        Style="{ThemeResource SubtitleTextBlockStyle}" />
                     <TextBlock
+                        x:Uid="CustomFooter_Action"
                         HorizontalAlignment="Center"
+                        d:Text="点击刷新按钮获取最新壁纸"
                         Opacity="0.7"
-                        Style="{ThemeResource BodyTextBlockStyle}"
-                        Text="点击刷新按钮获取最新壁纸" />
+                        Style="{ThemeResource BodyTextBlockStyle}" />
                 </StackPanel>
             </StackPanel>
         </controls:Case>
@@ -52,10 +54,11 @@
                 Visibility="{x:Bind IsLoading, Mode=OneWay, Converter={StaticResource BoolToVisibilityConverter}}">
                 <ProgressRing IsActive="{x:Bind IsLoading, Mode=OneWay}" />
                 <TextBlock
+                    x:Uid="CustomFooter_Loading"
                     HorizontalAlignment="Center"
+                    d:Text="数据加载中.."
                     Foreground="{ThemeResource TextFillColorSecondaryBrush}"
-                    Style="{StaticResource CaptionTextBlockStyle}"
-                    Text="数据加载中.." />
+                    Style="{StaticResource CaptionTextBlockStyle}" />
             </StackPanel>
         </controls:Case>
     </controls:SwitchPresenter>

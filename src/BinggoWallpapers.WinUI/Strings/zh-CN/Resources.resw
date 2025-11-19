@@ -257,4 +257,16 @@
   <data name="DownloadPage_Navigation.Text" xml:space="preserve">
     <value>请前往壁纸详情页进行下载</value>
   </data>
+  <data name="CustomFooter_Message.Text" xml:space="preserve">
+    <value>暂无壁纸</value>
+  </data>
+  <data name="CustomFooter_Action.Text" xml:space="preserve">
+    <value>点击刷新按钮获取最新壁纸</value>
+  </data>
+  <data name="CustomFooter_Loading.Text" xml:space="preserve">
+    <value>数据加载中...</value>
+  </data>
+  <data name="LoadingButton_Action.ToolTipService.ToolTip" xml:space="preserve">
+    <value>更新数据</value>
+  </data>
 </root>

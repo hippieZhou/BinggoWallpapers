@@ -24,11 +24,12 @@
     </UserControl.Resources>
 
     <Button
+        x:Uid="LoadingButton_Action"
         Height="32"
         Margin="0,0,4,0"
+        d:ToolTipService.ToolTip="更新数据"
         Command="{x:Bind Command}"
-        Style="{ThemeResource SubtleButtonStyle}"
-        ToolTipService.ToolTip="更新数据">
+        Style="{ThemeResource SubtleButtonStyle}">
         <ContentPresenter
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
