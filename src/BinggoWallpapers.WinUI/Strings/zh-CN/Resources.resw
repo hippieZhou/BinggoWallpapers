@@ -278,4 +278,7 @@
   <data name="SynchronizationDialog.PrimaryButtonText" xml:space="preserve">
     <value>开始</value>
   </data>
+  <data name="MoreDetailsPanel_Info.Text" xml:space="preserve">
+    <value>壁纸详情</value>
+  </data>
 </root>

@@ -278,4 +278,7 @@
   <data name="SynchronizationDialog.PrimaryButtonText" xml:space="preserve">
     <value>Start</value>
   </data>
+  <data name="MoreDetailsPanel_Info.Text" xml:space="preserve">
+    <value>Wallpaper details</value>
+  </data>
 </root>
