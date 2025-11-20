@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "颂扬保护与美",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%9f%a5%e5%b8%95%e8%be%be-%e8%bf%aa%e4%ba%9a%e6%9b%bc%e8%92%82%e9%82%a3%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_PondCave%22&FORM=HPQUIZ",
+  "hash": "dccf68161a0ec6da4f56ea1664aeb2f0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251119",
+    "fullStartDateTime": "202511191600",
+    "endDate": "20251120"
+  },
+  "createdAt": "202511200226",
+  "originalUrlBase": "/th?id=OHR.PondCave_ZH-CN2304770650"
+}

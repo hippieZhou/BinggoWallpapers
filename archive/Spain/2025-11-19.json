@@ -1,0 +1,43 @@
+{
+  "date": "20 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Esbozado en la historia",
+  "bsTitle": "Esbozado en la historia",
+  "caption": "Día Mundial del Niño",
+  "copyright": "El artista Saype posa con su obra \"World in Progress\" en la sede de la ONU, Ginebra, Suiza (© Valentin Flauraud/EPA-EFE/Shutterstock)",
+  "copyrightOnly": "© Valentin Flauraud/EPA-EFE/Shutterstock",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+del+Ni%c3%b1o&form=hpcapt&filters=HpDate%3a%2220251119_2300%22",
+  "description": "En el césped de la sede de las Naciones Unidas en Ginebra, dos niños se inclinan sobre una página en blanco, dibujando el mundo tal como sueñan que podría ser. Esta escena forma parte de World in Progress, una monumental obra de land art creada en 2020 por el artista suizo-francés Saype. Realizada con pintura biodegradable, representa la visión y la inocencia que inspiran el Día Mundial del Niño. Observando de cerca, incluso se puede ver al propio artista posando junto a su obra.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_SaypeGeneva%22&FORM=HPQUIZ",
+  "hash": "af947a7ac06e167689a2d93194c3be9b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_ES-ES5813016129_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_ES-ES5813016129_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_ES-ES5813016129_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_ES-ES5813016129_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251119",
+    "fullStartDateTime": "202511192300",
+    "endDate": "20251120"
+  },
+  "createdAt": "202511200226",
+  "originalUrlBase": "/th?id=OHR.SaypeGeneva_ES-ES5813016129"
+}

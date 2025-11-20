@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Disegnano il futuro?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Dipinto di Saype, sede delle Nazioni Unite, Ginevra, Svizzera (© Valentin Flauraud/EPA-EFE/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+internazionale+per+i+diritti+dell%e2%80%99+infanzia+e+dell%e2%80%99+adolescenza&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_SaypeGeneva%22&FORM=HPQUIZ",
+  "hash": "539dddec030f76ccd10a0ae258fc3ba6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_IT-IT0227683943_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251119",
+    "fullStartDateTime": "202511192300",
+    "endDate": "20251120"
+  },
+  "createdAt": "202511200226",
+  "originalUrlBase": "/th?id=OHR.SaypeGeneva_IT-IT0227683943"
+}

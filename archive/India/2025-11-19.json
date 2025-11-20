@@ -1,0 +1,43 @@
+{
+  "date": "Nov 20, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "A slow reminder for a fast world",
+  "bsTitle": "A slow reminder for a fast world",
+  "caption": "Mother manatee and calf, Crystal River, Florida, United States",
+  "copyright": "Mother manatee and calf, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)",
+  "copyrightOnly": "© Gregory Sweeney/Getty Images",
+  "copyrightLink": "/search?q=manatee&form=hpcapt&filters=HpDate%3a%2220251119_1830%22",
+  "description": "Today's image features a gentle manatee mother and calf gliding through the clear waters of Crystal River, in Florida, United States. With whiskered snouts and round bodies, manatees are calm marine mammals that spend their days grazing on seagrass, a surprisingly delicate existence for such large creatures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251119_ManateeBaby%22&FORM=HPQUIZ",
+  "hash": "68a36317a9f4cddbe590ce657bf6417f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251119",
+    "fullStartDateTime": "202511191830",
+    "endDate": "20251120"
+  },
+  "createdAt": "202511200226",
+  "originalUrlBase": "/th?id=OHR.ManateeBaby_EN-IN4061513303"
+}
