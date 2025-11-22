@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Harbour seals at Robert Moses State Park, Long Island, New York, United States (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Harbour+seals&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_SealWaving%22&FORM=HPQUIZ",
+  "hash": "edc903424173817f7408753c8a04a0ae",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251121",
+    "fullStartDateTime": "202511210800",
+    "endDate": "20251122"
+  },
+  "createdAt": "202511220222",
+  "originalUrlBase": "/th?id=OHR.SealWaving_ROW8856649845"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov 21, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Harbour seals",
+  "copyright": "Harbour seals at Robert Moses State Park, Long Island, New York, United States (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+  "copyrightOnly": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+  "copyrightLink": "/search?q=Harbour+seals&form=hpcapt&filters=HpDate%3a%2220251121_0800%22",
+  "description": "Today's image features harbour seals—also known as common seals—which are true pinnipeds distinguished by their lack of visible ear flaps. They are found in the northern Atlantic and Pacific Oceans, as well as the Baltic and North Seas, typically staying near coastlines, which is how they got their name. Adults can weigh almost 170 kilograms and reach lengths of up to 2 metres. They display a variety of colours, from white or silvery grey to black or dark brown, often marked with distinctive spots and V-shaped nasal openings.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_SealWaving%22&FORM=HPQUIZ",
+  "hash": "edc903424173817f7408753c8a04a0ae",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251121",
+    "fullStartDateTime": "202511210800",
+    "endDate": "20251122"
+  },
+  "createdAt": "202511220222",
+  "originalUrlBase": "/th?id=OHR.SealWaving_ROW8856649845"
+}

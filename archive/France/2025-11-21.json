@@ -1,0 +1,43 @@
+{
+  "date": "22 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le géant qui veille sur les eaux",
+  "bsTitle": "Le géant qui veille sur les eaux",
+  "caption": "Grand Bouddha de Leshan, Sichuan, Chine",
+  "copyright": "Grand Bouddha de Leshan, Sichuan, Chine (© www.anotherdayattheoffice.org/Getty Images)",
+  "copyrightOnly": "© www.anotherdayattheoffice.org/Getty Images",
+  "copyrightLink": "/search?q=Grand+Bouddha+de+Leshan&form=hpcapt&filters=HpDate%3a%2220251121_2300%22",
+  "description": "À la confluence des rivières Min, Qingyi et Dadu, dans la province chinoise du Sichuan, se dresse le Grand Bouddha de Leshan. Sculpté dans la falaise, son visage domine les flots depuis plus de douze siècles. Son édification, commencée en 713, fut menée par le moine Hai Tong, qui croyait que la présence du Bouddha apaiserait les courants dangereux du fleuve. Son dévouement fut si profond qu'il aurait, dit-on, sacrifié sa vue pour prouver sa foi. Les travaux, poursuivis après sa mort, s'étalèrent sur près de 90 ans.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_LeshanBuddha%22&FORM=HPQUIZ",
+  "hash": "c3e5a5087e6abfd45a8e4e783473ba5f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_FR-FR2911490694_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_FR-FR2911490694_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_FR-FR2911490694_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_FR-FR2911490694_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251121",
+    "fullStartDateTime": "202511212300",
+    "endDate": "20251122"
+  },
+  "createdAt": "202511220222",
+  "originalUrlBase": "/th?id=OHR.LeshanBuddha_FR-FR2911490694"
+}

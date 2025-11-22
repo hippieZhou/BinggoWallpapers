@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Gigante buono",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Buddha gigante di Leshan, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Buddha+gigante+di+Leshan&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_LeshanBuddha%22&FORM=HPQUIZ",
+  "hash": "de0703365284fe128bd1505bfbdfd443",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_IT-IT0412372089_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_IT-IT0412372089_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_IT-IT0412372089_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_IT-IT0412372089_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251121",
+    "fullStartDateTime": "202511212300",
+    "endDate": "20251122"
+  },
+  "createdAt": "202511220222",
+  "originalUrlBase": "/th?id=OHR.LeshanBuddha_IT-IT0412372089"
+}
