@@ -48,11 +48,11 @@
                             HorizontalAlignment="Stretch"
                             SelectedIndex="0">
                             <controls:SegmentedItem
-                                Content="自定义"
+                                x:Uid="DetailPage_CustomSegmentedItem"
                                 Icon="{ui:FontIcon Glyph=&#xEE56;}"
                                 Tag="advance" />
                             <controls:SegmentedItem
-                                Content="预设场景"
+                                x:Uid="DetailPage_PresetSegmentedItem"
                                 Icon="{ui:FontIcon Glyph=&#xEC64;}"
                                 Tag="default" />
                         </controls:Segmented>
@@ -93,9 +93,9 @@
                                     </Grid.RowDefinitions>
 
                                     <Slider
+                                        x:Uid="DetailPage_ExposureSlider"
                                         Grid.Row="0"
                                         Foreground="Transparent"
-                                        Header="曝光"
                                         Maximum="2"
                                         Minimum="-2"
                                         Template="{StaticResource FancySliderControlTemplate}"
@@ -115,9 +115,9 @@
                                         Text="{x:Bind ViewModel.Exposure.ToString('N', Culture), Mode=OneWay}" />
 
                                     <Slider
+                                        x:Uid="DetailPage_TemperatureSlider"
                                         Grid.Row="1"
                                         Foreground="Transparent"
-                                        Header="色温"
                                         Maximum="1"
                                         Minimum="-1"
                                         Template="{StaticResource FancySliderControlTemplate}"
@@ -137,9 +137,9 @@
                                         Text="{x:Bind ViewModel.Temperature.ToString('N', Culture), Mode=OneWay}" />
 
                                     <Slider
+                                        x:Uid="DetailPage_TintSlider"
                                         Grid.Row="2"
                                         Foreground="Transparent"
-                                        Header="色调"
                                         Maximum="1"
                                         Minimum="-1"
                                         Template="{StaticResource FancySliderControlTemplate}"
@@ -159,8 +159,8 @@
                                         Text="{x:Bind ViewModel.Tint.ToString('N', Culture), Mode=OneWay}" />
 
                                     <Slider
+                                        x:Uid="DetailPage_BlurSlider"
                                         Grid.Row="3"
-                                        Header="模糊"
                                         Maximum="5"
                                         Minimum="0"
                                         Value="{x:Bind ViewModel.Blur, Mode=TwoWay}" />
@@ -170,9 +170,9 @@
                                         Text="{x:Bind ViewModel.Blur.ToString('N', Culture), Mode=OneWay}" />
 
                                     <Slider
+                                        x:Uid="DetailPage_ContrastSlider"
                                         Grid.Row="4"
                                         Foreground="Transparent"
-                                        Header="对比度"
                                         Maximum="1"
                                         Minimum="-1"
                                         Value="{x:Bind ViewModel.Contrast, Mode=TwoWay}" />
@@ -182,8 +182,8 @@
                                         Text="{x:Bind ViewModel.Contrast.ToString('N', Culture), Mode=OneWay}" />
 
                                     <Slider
+                                        x:Uid="DetailPage_SaturationSlider"
                                         Grid.Row="5"
-                                        Header="饱和度"
                                         Maximum="1"
                                         Minimum="0"
                                         Value="{x:Bind ViewModel.Saturation, Mode=TwoWay}" />
@@ -193,8 +193,8 @@
                                         Text="{x:Bind ViewModel.Saturation.ToString('N', Culture), Mode=OneWay}" />
 
                                     <Slider
+                                        x:Uid="DetailPage_PixelScaleSlider"
                                         Grid.Row="6"
-                                        Header="像素度"
                                         Maximum="1"
                                         Minimum="0.1"
                                         Value="{x:Bind ViewModel.PixelScale, Mode=TwoWay}" />
@@ -221,9 +221,9 @@
                                             Glyph="&#xE9CE;" />
                                         <StackPanel HorizontalAlignment="Center" Spacing="12">
                                             <TextBlock
+                                                x:Uid="DetailPage_NoPresetsText"
                                                 HorizontalAlignment="Center"
-                                                Style="{ThemeResource SubtitleTextBlockStyle}"
-                                                Text="暂无预设" />
+                                                Style="{ThemeResource SubtitleTextBlockStyle}" />
                                         </StackPanel>
                                     </StackPanel>
                                 </Grid>
@@ -248,9 +248,9 @@
                             </Grid>
                             <Grid Style="{ThemeResource CardGridStyle}" Visibility="Collapsed">
                                 <Button
+                                    x:Uid="DetailPage_AIImageButton"
                                     HorizontalAlignment="Stretch"
-                                    VerticalAlignment="Center"
-                                    Content="AI 识图" />
+                                    VerticalAlignment="Center" />
                             </Grid>
                         </StackPanel>
 
@@ -269,17 +269,17 @@
                                 <RowDefinition Height="Auto" />
                             </Grid.RowDefinitions>
                             <Button
+                                x:Uid="DetailPage_ResetButton"
                                 Margin="0,0,2,0"
                                 HorizontalAlignment="Stretch"
-                                Command="{x:Bind ViewModel.ResetEffectsCommand}"
-                                Content="还原" />
+                                Command="{x:Bind ViewModel.ResetEffectsCommand}" />
                             <Button
+                                x:Uid="DetailPage_ExportButton"
                                 Grid.Column="1"
                                 Margin="2,0,0,0"
                                 HorizontalAlignment="Stretch"
                                 Command="{x:Bind ViewModel.ExportWallpaperCommand}"
                                 CommandParameter="{x:Bind MockupControl, Mode=OneTime}"
-                                Content="导出"
                                 IsEnabled="{x:Bind ViewModel.IsExporting, Converter={StaticResource InverseBoolToBooleanConverter}}" />
                         </Grid>
                     </Grid>
@@ -327,9 +327,9 @@
                         </animations:Implicit.HideAnimations>
                         <CommandBar.PrimaryCommands>
                             <AppBarButton
+                                x:Uid="DetailPage_ImageInfoButton"
                                 Command="{x:Bind ViewModel.ViewMoreDetailsCommand}"
                                 Icon="{ui:FontIcon Glyph=&#xE946;}"
-                                Label="图片信息"
                                 LabelPosition="Default">
                                 <i:Interaction.Behaviors>
                                     <i:EventTriggerBehavior EventName="Click">
@@ -342,9 +342,9 @@
                             </AppBarButton>
                             <AppBarSeparator />
                             <AppBarButton
+                                x:Uid="DetailPage_DownloadOriginalButton"
                                 Icon="{ui:FontIcon Glyph=&#xE896;}"
-                                IsEnabled="{x:Bind ViewModel.IsDownloading, Mode=OneWay, Converter={StaticResource InverseBoolToBooleanConverter}}"
-                                Label="下载原图">
+                                IsEnabled="{x:Bind ViewModel.IsDownloading, Mode=OneWay, Converter={StaticResource InverseBoolToBooleanConverter}}">
                                 <AppBarButton.Flyout>
                                     <MenuFlyout
                                         helpers:MenuFlyoutHelper.Command="{x:Bind ViewModel.DownloadWallpaperCommand}"
@@ -353,9 +353,9 @@
                                 </AppBarButton.Flyout>
                             </AppBarButton>
                             <AppBarToggleButton
+                                x:Uid="DetailPage_EditImageButton"
                                 Click="{x:Bind ToggleEditState}"
-                                Icon="{ui:FontIcon Glyph=&#xE70F;}"
-                                Label="编辑图片" />
+                                Icon="{ui:FontIcon Glyph=&#xE70F;}" />
                         </CommandBar.PrimaryCommands>
                     </CommandBar>
                 </Grid>
