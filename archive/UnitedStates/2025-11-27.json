@@ -1,0 +1,43 @@
+{
+  "date": "Nov 27, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The echoes of Plymouth",
+  "bsTitle": "The echoes of Plymouth",
+  "caption": "Happy Thanksgiving!",
+  "copyright": "Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)",
+  "copyrightOnly": "© George McCarthy/Minden Pictures",
+  "copyrightLink": "/search?q=Thanksgiving&form=hpcapt&filters=HpDate%3a%2220251127_0800%22",
+  "description": "The wild turkey's iridescent plumage, seen here at Aransas National Wildlife Refuge in Texas, isn't just striking—it carries the shimmer of history. Today is Thanksgiving, when many Americans gather around the table, enjoying roast turkey stuffed with savory bread dressing, mashed potatoes, cranberry sauce, and pumpkin pie. Football games hum in the background, parades march down city streets, and kitchens buzz with the familiar aromas of holiday cooking.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_TurkeyDetail%22&FORM=HPQUIZ",
+  "hash": "7ef51b9779df1d9d11138836244ccc81",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251127",
+    "fullStartDateTime": "202511270800",
+    "endDate": "20251128"
+  },
+  "createdAt": "202511280227",
+  "originalUrlBase": "/th?id=OHR.TurkeyDetail_EN-US7401521602"
+}

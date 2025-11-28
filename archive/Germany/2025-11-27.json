@@ -1,0 +1,43 @@
+{
+  "date": "28. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Flüstern in Weiß",
+  "bsTitle": "Flüstern in Weiß",
+  "caption": "Val Brandet, Brescia, Lombardei, Italien",
+  "copyright": "Val Brandet, Brescia, Lombardei, Italien (© ClickAlps/Alamy)",
+  "copyrightOnly": "© ClickAlps/Alamy",
+  "copyrightLink": "/search?q=Val+Brandet+Lombardei&form=hpcapt&filters=HpDate%3a%2220251127_2300%22",
+  "description": "Zwischen den verschneiten Höhen des Val Brandet im Adamello-Park in der Lombardei, Italien, entfaltet der Winter seine leise Magie. In Corteno Golgi – benannt nach dem berühmten Arzt und Nobelpreisträger Camillo Golgi – treffen Natur und Geschichte aufeinander.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+  "hash": "0a0f3122b78b20eee6a3fe42096c0fa7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_DE-DE4758348051_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_DE-DE4758348051_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_DE-DE4758348051_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_DE-DE4758348051_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251127",
+    "fullStartDateTime": "202511272300",
+    "endDate": "20251128"
+  },
+  "createdAt": "202511280227",
+  "originalUrlBase": "/th?id=OHR.InvernoItalia_DE-DE4758348051"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov 28, 2025",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Echoes in white",
+  "bsTitle": "Echoes in white",
+  "caption": "Val Brandet, Corteno Golgi, Brescia, Lombardy, Italy",
+  "copyright": "Val Brandet, Corteno Golgi, Brescia, Lombardy, Italy (© ClickAlps/Alamy)",
+  "copyrightOnly": "© ClickAlps/Alamy",
+  "copyrightLink": "/search?q=C%c3%b3rteno+Golgi&form=hpcapt&filters=HpDate%3a%2220251128_0000%22",
+  "description": "Some valleys ask to be explored; Val Brandet in Lombardy, Italy, invites you to slow down and listen. Tucked inside Adamello Park and part of the municipality of Corteno Golgi—named after Nobel Prize–winning physician Camillo Golgi—this valley balances science and scenery, memory and movement.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_InvernoItalia%22&FORM=HPQUIZ",
+  "hash": "4c0810b14eee32e9de8eb5c97b37e253",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_EN-GB2140380754_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_EN-GB2140380754_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_EN-GB2140380754_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_EN-GB2140380754_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251128",
+    "fullStartDateTime": "202511280000",
+    "endDate": "20251129"
+  },
+  "createdAt": "202511280227",
+  "originalUrlBase": "/th?id=OHR.InvernoItalia_EN-GB2140380754"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "28 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un paysage de glace à l’italienne",
+  "bsTitle": "Un paysage de glace à l’italienne",
+  "caption": "Val Brandet, Brescia, Lombardie, Italie",
+  "copyright": "Val Brandet, Brescia, Lombardie, Italie (© ClickAlps/Alamy)",
+  "copyrightOnly": "© ClickAlps/Alamy",
+  "copyrightLink": "/search?q=Val+Brandet+Lombardie&form=hpcapt&filters=HpDate%3a%2220251127_2300%22",
+  "description": "Au cœur du parc naturel italien de l’Adamello, en Lombardie, Val Brandet s’étire comme une prière silencieuse. Non loin de Corteno Golgi, le village natal du médecin et prix Nobel Camillo Golgi, la montagne s’endort sous la neige. Les sapins ploient, les rochers scintillent et, au centre du vallon, une fine cascade résiste au gel. L’eau, obstinée, poursuit son cours entre les cristaux de glace, telle une voix qui refuse de s’éteindre.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251127_InvernoItalia%22&FORM=HPQUIZ",
+  "hash": "a7a7806723b72a58d27cf5789bee9671",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_FR-FR6593189563_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_FR-FR6593189563_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_FR-FR6593189563_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.InvernoItalia_FR-FR6593189563_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251127",
+    "fullStartDateTime": "202511272300",
+    "endDate": "20251128"
+  },
+  "createdAt": "202511280227",
+  "originalUrlBase": "/th?id=OHR.InvernoItalia_FR-FR6593189563"
+}
