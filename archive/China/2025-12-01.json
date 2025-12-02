@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一景胜千言",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国 (© Patrick J. Endres/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9c%a3%e4%bc%8a%e5%88%a9%e4%ba%9a%e6%96%af%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+  "hash": "e2b083a735ebe7a3c1c951adefb1a359",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251201",
+    "fullStartDateTime": "202512011600",
+    "endDate": "20251202"
+  },
+  "createdAt": "202512020244",
+  "originalUrlBase": "/th?id=OHR.WillowLake_ZH-CN9798614021"
+}

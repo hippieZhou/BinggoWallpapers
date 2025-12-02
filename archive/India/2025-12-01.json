@@ -1,0 +1,43 @@
+{
+  "date": "Dec 2, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "A view that speaks volumes",
+  "bsTitle": "A view that speaks volumes",
+  "caption": "Wrangell-St. Elias National Park and Preserve, Alaska, United States",
+  "copyright": "Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska, United States (© Patrick J. Endres/Getty Images)",
+  "copyrightOnly": "© Patrick J. Endres/Getty Images",
+  "copyrightLink": "/search?q=Alaska+National+Interest+Lands+Conservation+Act&form=hpcapt&filters=HpDate%3a%2220251201_1830%22",
+  "description": "On 2 December 1980, the United States passed the Alaska National Interest Lands Conservation Act (ANILCA), a landmark law that reshaped America's conservation history. With one sweeping law, more than 40 million hectares of Alaska's wild lands gained lasting protection, like the Wrangell–St Elias National Park and Preserve, seen here, now the largest national park in the country. ANILCA balanced preservation with tradition, safeguarding ecosystems while honouring rural subsistence rights.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+  "hash": "774567c907ae801cce9f788091b692fd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-IN0569791558_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-IN0569791558_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-IN0569791558_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-IN0569791558_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251201",
+    "fullStartDateTime": "202512011830",
+    "endDate": "20251202"
+  },
+  "createdAt": "202512020244",
+  "originalUrlBase": "/th?id=OHR.WillowLake_EN-IN0569791558"
+}

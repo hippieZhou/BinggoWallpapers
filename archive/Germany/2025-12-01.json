@@ -1,0 +1,43 @@
+{
+  "date": "2. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Ausblick, der Bände spricht",
+  "bsTitle": "Ein Ausblick, der Bände spricht",
+  "caption": "Wrangell-St.-Elias-Nationalpark und Schutzgebiet, Alaska, USA",
+  "copyright": "Willow Lake und Mount Blackburn, Wrangell-St.-Elias-Nationalpark und Schutzgebiet, Alaska, USA (© Patrick J. Endres/Getty Images)",
+  "copyrightOnly": "© Patrick J. Endres/Getty Images",
+  "copyrightLink": "/search?q=Wrangell-St.-Elias-Nationalpark&form=hpcapt&filters=HpDate%3a%2220251201_2300%22",
+  "description": "Was für ein Ausblick! Wer am Willow Lake in Alaska steht, blickt nicht nur auf Berge, sondern auch in die Geschichte des Naturschutzes. Vor ihm liegt der Wrangell-St.-Elias-Nationalpark, das flächenmäßig größte Schutzgebiet der USA. Mit rund 53.000 km² ist er sogar größer als Niedersachsen (47.709 km²) und zählt zu den größten Wildnislandschaften der Erde. Seit 1980 steht dieses Gebiet unter strengem Schutz, um seine Gletscher, Vulkane und die vielfältige Tierwelt zu bewahren.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_WillowLake%22&FORM=HPQUIZ",
+  "hash": "b07c33f26710d83f3e1d00054e76e268",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_DE-DE5594196403_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251201",
+    "fullStartDateTime": "202512012300",
+    "endDate": "20251202"
+  },
+  "createdAt": "202512020244",
+  "originalUrlBase": "/th?id=OHR.WillowLake_DE-DE5594196403"
+}

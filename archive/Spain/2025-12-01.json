@@ -1,0 +1,43 @@
+{
+  "date": "2 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Las modelos de la papiroflexia",
+  "bsTitle": "Las modelos de la papiroflexia",
+  "caption": "Grullas canadienses, Nuevo México, EE. UU.",
+  "copyright": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo México, EE. UU. (© Jack Dykinga/Minden Pictures)",
+  "copyrightOnly": "© Jack Dykinga/Minden Pictures",
+  "copyrightLink": "/search?q=Antigone+canadensis&form=hpcapt&filters=HpDate%3a%2220251201_2300%22",
+  "description": "Cada diciembre, al amanecer, un coro de llamadas resonantes llena los humedales del Refugio Nacional de Vida Silvestre Bosque del Apache, en el corazón de Nuevo México, Estados Unidos. Este santuario de más de 23 mil hectáreas se prepara para acoger uno de los espectáculos más emocionantes de la naturaleza: el regreso de las grullas canadienses tras su largo viaje estacional. Pronto, decenas de miles de gansos nivales y otras aves migratorias se unen al espectáculo, llenando el cielo de vida y movimiento.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_BosqueCranes%22&FORM=HPQUIZ",
+  "hash": "a8fe1c134f42bc9decff9bad0b54ce3d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ES-ES1308288145_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251201",
+    "fullStartDateTime": "202512012300",
+    "endDate": "20251202"
+  },
+  "createdAt": "202512020244",
+  "originalUrlBase": "/th?id=OHR.BosqueCranes_ES-ES1308288145"
+}
