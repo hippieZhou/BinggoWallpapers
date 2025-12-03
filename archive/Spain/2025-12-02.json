@@ -1,0 +1,43 @@
+{
+  "date": "3 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Unas tierras con historia",
+  "bsTitle": "Unas tierras con historia",
+  "caption": "Día de Navarra",
+  "copyright": "Pico Castildetierra cubierto de nieve en el Parque Natural de las Bardenas Reales, Valtierra, Navarra, España (© Martin Zalba/Getty Images)",
+  "copyrightOnly": "© Martin Zalba/Getty Images",
+  "copyrightLink": "/search?q=Navarra&form=hpcapt&filters=HpDate%3a%2220251202_2300%22",
+  "description": "Cada 3 de diciembre, Navarra celebra su día grande: el Día de Navarra, una jornada que une tradición, cultura y orgullo por una tierra de contrastes. La fecha rinde homenaje a San Francisco Javier, patrón de la comunidad, cuya figura simboliza la entrega y la esperanza. Durante este día, pueblos y ciudades se llenan de música, danzas y actividades para todas las edades, desde ferias artesanales hasta conciertos y exposiciones que muestran la riqueza del patrimonio navarro.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_CastildetierraNavarra%22&FORM=HPQUIZ",
+  "hash": "68c97d9c0e068a4fc2a428a23272dc75",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251202",
+    "fullStartDateTime": "202512022300",
+    "endDate": "20251203"
+  },
+  "createdAt": "202512030243",
+  "originalUrlBase": "/th?id=OHR.CastildetierraNavarra_ES-ES0561192005"
+}

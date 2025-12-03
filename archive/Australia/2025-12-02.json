@@ -1,0 +1,43 @@
+{
+  "date": "Dec 2, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Wrangell-St. Elias National Park and Preserve, United States",
+  "copyright": "Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska, United States (© Patrick J. Endres/Getty Images)",
+  "copyrightOnly": "© Patrick J. Endres/Getty Images",
+  "copyrightLink": "/search?q=Wrangell-St.+Elias+National+Park+and+Preserve&form=hpcapt&filters=HpDate%3a%2220251202_0800%22",
+  "description": "Spanning over 53,000 square kilometres, Wrangell–St. Elias, in Alaska, is the largest national park in the United States. It is a wilderness where caribou, Dall sheep and grizzly bears roam free and glaciers carve valleys that have existed for millennia. The park is a realm of extremes: its glaciers sprawling like frozen rivers, volcanic peaks piercing the sky. Among them stands Mount Blackburn, a 5,000-metre sentinel of ice and ancient fire. Its snow-mantled slopes feed vast glacier systems, a silent monument to geological time. Just beyond the park boundary, Willow Lake rests in the Copper River Basin—a roadside jewel along the Richardson Highway. On clear days, its glassy surface reflects the Wrangell Mountains in a panorama that feels endless: Blackburn's white shoulders rising against cobalt skies, mirrored in still waters where swans drift like living brushstrokes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_WillowLake%22&FORM=HPQUIZ",
+  "hash": "79750dc087c2a066ebd0ec5a24a08487",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ROW6069143746_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ROW6069143746_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ROW6069143746_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_ROW6069143746_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251202",
+    "fullStartDateTime": "202512020800",
+    "endDate": "20251203"
+  },
+  "createdAt": "202512030243",
+  "originalUrlBase": "/th?id=OHR.WillowLake_ROW6069143746"
+}

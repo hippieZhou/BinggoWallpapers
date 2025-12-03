@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Ritmo e identidade brasileira",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Carnaval no Rio de Janeiro, RJ (© Richard I'Anson/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+do+samba+no+Brasil&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_SambaDay%22&FORM=HPQUIZ",
+  "hash": "36ba261505d6bb79879026ce65a0e298",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251202",
+    "fullStartDateTime": "202512020300",
+    "endDate": "20251203"
+  },
+  "createdAt": "202512030243",
+  "originalUrlBase": "/th?id=OHR.SambaDay_PT-BR0875547071"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Dec 2, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A view that speaks volumes",
+  "bsTitle": "A view that speaks volumes",
+  "caption": "Alaska National Interest Lands Conservation Act anniversary",
+  "copyright": "Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)",
+  "copyrightOnly": "© Patrick J. Endres/Getty Images",
+  "copyrightLink": "/search?q=Alaska+National+Interest+Lands+Conservation+Act&form=hpcapt&filters=HpDate%3a%2220251202_0800%22",
+  "description": "On December 2, 1980, the Alaska National Interest Lands Conservation Act (ANILCA) reshaped America's conservation history. With one sweeping law, more than 104 million acres of Alaska's wild lands gained lasting protection, like the Wrangell–St. Elias National Park and Preserve, seen here, now the largest national park in the United States. ANILCA balanced preservation with tradition, safeguarding ecosystems while honoring rural subsistence rights.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_WillowLake%22&FORM=HPQUIZ",
+  "hash": "7aaabfd94037329a895e94cb68c522ee",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251202",
+    "fullStartDateTime": "202512020800",
+    "endDate": "20251203"
+  },
+  "createdAt": "202512030243",
+  "originalUrlBase": "/th?id=OHR.WillowLake_EN-US6664756735"
+}

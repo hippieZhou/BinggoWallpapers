@@ -1,0 +1,43 @@
+{
+  "date": "Dec. 2, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Winter at Whistler",
+  "bsTitle": "Winter at Whistler",
+  "caption": "Whistler, British Columbia",
+  "copyright": "Whistler, British Columbia (© VisualCommunications/Getty Images)",
+  "copyrightOnly": "© VisualCommunications/Getty Images",
+  "copyrightLink": "/search?q=Whistler+British+Columbia&form=hpcapt&filters=HpDate%3a%2220251202_0500%22",
+  "description": "What's your winter personality: cosy wanderer or slope-chaser? Whistler, in British Columbia, lets you try both in the same day. This resort municipality sits about 125 kilometres north of Vancouver in the Coast Mountains, with two main ski peaks: Whistler and Blackcomb. These are linked by the PEAK 2 PEAK Gondola, famous for giving a suspended, panoramic valley view in just a few minutes of travel. The area gained fame when it co-hosted the 2010 Winter Olympics, and some of those venues are still open to the public today. The name 'Whistler' comes from the high-pitched call of the local hoary marmots that were once common around the slopes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251202_WhistlerVillage%22&FORM=HPQUIZ",
+  "hash": "992087b20da4c8554cec2676b2818ffd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251202",
+    "fullStartDateTime": "202512020500",
+    "endDate": "20251203"
+  },
+  "createdAt": "202512030243",
+  "originalUrlBase": "/th?id=OHR.WhistlerVillage_EN-CA2405537581"
+}
