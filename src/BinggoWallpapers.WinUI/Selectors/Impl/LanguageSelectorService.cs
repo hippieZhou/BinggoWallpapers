@@ -8,7 +8,7 @@ namespace BinggoWallpapers.WinUI.Selectors.Impl;
 public class LanguageSelectorService(ILocalSettingsService localSettingsService) :
     SelectorService(localSettingsService), ILanguageSelectorService
 {
-    public const string DefaultLanguage = "zh-cn";
+    public const string DefaultLanguage = "en-US";
 
     public string Language { get; private set; } = DefaultLanguage;
 

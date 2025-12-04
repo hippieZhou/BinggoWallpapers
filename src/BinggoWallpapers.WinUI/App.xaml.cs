@@ -3,7 +3,6 @@
 using BinggoWallpapers.Core;
 using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.Services;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.UI.Dispatching;
