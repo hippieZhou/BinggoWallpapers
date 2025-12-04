@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "为生存而疾驰",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%8c%8e%e8%b1%b9&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_CheetahMound%22&FORM=HPQUIZ",
+  "hash": "27df66ab3cdf254857cf9c7861c05044",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251203",
+    "fullStartDateTime": "202512031600",
+    "endDate": "20251204"
+  },
+  "createdAt": "202512040244",
+  "originalUrlBase": "/th?id=OHR.CheetahMound_ZH-CN1970221812"
+}

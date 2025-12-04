@@ -1,0 +1,43 @@
+{
+  "date": "4 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un symbole d’élan et de fragilité",
+  "bsTitle": "Un symbole d’élan et de fragilité",
+  "caption": "Journée internationale du guépard",
+  "copyright": "Guépard dans la Réserve nationale du Maasai Mara, Narok, Kenya (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "© Andy Rouse/naturepl.com",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+du+gu%c3%a9pard+&form=hpcapt&filters=HpDate%3a%2220251203_2300%22",
+  "description": "Sous le ciel infini du parc national du Maasai Mara, au sud-ouest du Kenya, un guépard se dresse sur un tertre de terre rouge. L’aube caresse sa robe tachetée et l’air semble retenir son souffle. Devant lui, la savane s’étend, vivante, embaumée par les parfums d’herbe sèche et de poussière chaude. En un éclair, ce félin peut atteindre une vitesse de plus de 110 km/h, ce qui en fait le plus rapide des êtres terrestres. Tout en lui est une ode à la vitesse : ses longues pattes, sa colonne souple et sa queue en balancier.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_CheetahMound%22&FORM=HPQUIZ",
+  "hash": "352e67d988ac97ff10bfd273b204189f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_FR-FR7890726905_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251203",
+    "fullStartDateTime": "202512032300",
+    "endDate": "20251204"
+  },
+  "createdAt": "202512040244",
+  "originalUrlBase": "/th?id=OHR.CheetahMound_FR-FR7890726905"
+}

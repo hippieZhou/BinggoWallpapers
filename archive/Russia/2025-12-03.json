@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico, United States (© Jack Dykinga/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=crane+bird&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_BosqueCranes%22&FORM=HPQUIZ",
+  "hash": "e39eff5cc5c736dc443cf856ff6cfd1b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ROW6233736547_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ROW6233736547_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ROW6233736547_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_ROW6233736547_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251203",
+    "fullStartDateTime": "202512030800",
+    "endDate": "20251204"
+  },
+  "createdAt": "202512040244",
+  "originalUrlBase": "/th?id=OHR.BosqueCranes_ROW6233736547"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O amanhecer dos Grous",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Grous-canadenses ao nascer do sol no Bosque del Apache National Wildlife Refuge, Novo México, EUA (© Jack Dykinga/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Grou-canadiano+ave&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_BosqueCranes%22&FORM=HPQUIZ",
+  "hash": "a7e22c53dd35cb9ccace73633e9b63a3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_PT-BR1405246976_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251203",
+    "fullStartDateTime": "202512030300",
+    "endDate": "20251204"
+  },
+  "createdAt": "202512040244",
+  "originalUrlBase": "/th?id=OHR.BosqueCranes_PT-BR1405246976"
+}

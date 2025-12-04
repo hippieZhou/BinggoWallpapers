@@ -1,0 +1,43 @@
+{
+  "date": "Dec 4, 2025",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Sprint for survival",
+  "bsTitle": "Sprint for survival",
+  "caption": "International Cheetah Day",
+  "copyright": "Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "© Andy Rouse/naturepl.com",
+  "copyrightLink": "/search?q=cheetah+day&form=hpcapt&filters=HpDate%3a%2220251204_0000%22",
+  "description": "High atop a termite mound in the Maasai Mara National Reserve—a protected savanna in southwestern Kenya—a cheetah scans the plains. Its sleek body can reach speeds of up to 70 mph, making it the fastest land mammal on Earth. Long legs and a flexible spine allow incredible acceleration, while its strong tail helps maintain balance during high-speed chases. Today is International Cheetah Day—an event that couldn't have arrived any quicker. With fewer than 7,100 individuals left in the wild, these are among Africa's most vulnerable big cats.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CheetahMound%22&FORM=HPQUIZ",
+  "hash": "25dd2781e23feefee3a0677496b3c017",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMound_EN-GB6062998879_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251204",
+    "fullStartDateTime": "202512040000",
+    "endDate": "20251205"
+  },
+  "createdAt": "202512040244",
+  "originalUrlBase": "/th?id=OHR.CheetahMound_EN-GB6062998879"
+}

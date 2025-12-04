@@ -1,0 +1,43 @@
+{
+  "date": "Dec. 3, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Dawn of the cranes",
+  "bsTitle": "Dawn of the cranes",
+  "caption": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, United States",
+  "copyright": "Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico, United States (© Jack Dykinga/Minden Pictures)",
+  "copyrightOnly": "© Jack Dykinga/Minden Pictures",
+  "copyrightLink": "/search?q=crane+bird&form=hpcapt&filters=HpDate%3a%2220251203_0500%22",
+  "description": "Every December, as morning unfolds, a chorus of rattling calls fills the marshes of the Bosque del Apache National Wildlife Refuge. This more than 230-square-kilometre sanctuary in central New Mexico, United States, prepares to stage one of nature's most stirring performances as sandhill cranes return from their seasonal journey. Soon, tens of thousands of snow geese and other migratory birds join the scene, filling the sky with movement and sound.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251203_BosqueCranes%22&FORM=HPQUIZ",
+  "hash": "a5d6ad91b86d397a317986762c9f7f95",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251203",
+    "fullStartDateTime": "202512030500",
+    "endDate": "20251204"
+  },
+  "createdAt": "202512040244",
+  "originalUrlBase": "/th?id=OHR.BosqueCranes_EN-CA2559549576"
+}
