@@ -1,0 +1,43 @@
+{
+  "date": "5. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Stadt der Sternenkarten",
+  "bsTitle": "Die Stadt der Sternenkarten",
+  "caption": "Maya-Stätte von Copán, Honduras",
+  "copyright": "Maya-Stätte von Copán, Honduras (© diegograndi/Getty Images)",
+  "copyrightOnly": "© diegograndi/Getty Images",
+  "copyrightLink": "/search?q=Maya-St%c3%a4tte+von+Cop%c3%a1n&form=hpcapt&filters=HpDate%3a%2220251204_2300%22",
+  "description": "Im Herzen des honduranischen Regenwaldes offenbaren die Ruinen von Copán den Glanz einer Zivilisation, die Kunst, Astronomie und Schrift meisterhaft beherrschte. Diese antike Maya-Stadt galt als bedeutendes politisches und zeremonielles Zentrum Mesoamerikas. Ihre kunstvoll gemeißelten Stelen, die hieroglyphischen Treppen und Tempel zeugen von einer architektonischen Präzision, die Archäologen und Historiker bis heute fasziniert. Heute können wir die Schönheit der Maya-Stätte von Copán in Honduras bewundern – ein Ort, an dem jeder Stein Fragmente einer jahrtausendealten Geschichte zu erzählen scheint.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CopanRuins%22&FORM=HPQUIZ",
+  "hash": "b5d8b3704f09c74ff4715e49353a6840",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_DE-DE5994746462_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251204",
+    "fullStartDateTime": "202512042300",
+    "endDate": "20251205"
+  },
+  "createdAt": "202512050244",
+  "originalUrlBase": "/th?id=OHR.CopanRuins_DE-DE5994746462"
+}

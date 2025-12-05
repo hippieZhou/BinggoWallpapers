@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Rituali e Santuari",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sito Maya a Copán, Honduras (© diegograndi/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cop%c3%a0n&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CopanRuins%22&FORM=HPQUIZ",
+  "hash": "4ce04100ef5ab8d53c6ea24648b4f5e6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251204",
+    "fullStartDateTime": "202512042300",
+    "endDate": "20251205"
+  },
+  "createdAt": "202512050244",
+  "originalUrlBase": "/th?id=OHR.CopanRuins_IT-IT0133653708"
+}

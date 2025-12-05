@@ -1,0 +1,43 @@
+{
+  "date": "5 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La cité où les pierres parlent aux étoiles",
+  "bsTitle": "La cité où les pierres parlent aux étoiles",
+  "caption": "Site maya de Copán",
+  "copyright": "Site maya de Copán, Honduras (© diegograndi/Getty Images)",
+  "copyrightOnly": "© diegograndi/Getty Images",
+  "copyrightLink": "/search?q=Site+maya+de+Cop%c3%a1n&form=hpcapt&filters=HpDate%3a%2220251204_2300%22",
+  "description": "Au cœur d'une vallée verdoyante de l'ouest du Honduras, les ruines de Copán sont recouvertes d'un manteau de mousse et de silence. Entre les arbres de la forêt tropicale, les temples et les escaliers sculptés murmurent encore la grandeur des anciens Mayas. Fondée vers 426 par le roi K’inich Yax K’uk’ Mo’, cette cité fut un foyer d’art, d’astronomie et de pouvoir, où le ciel servait de boussole et de calendrier.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251204_CopanRuins%22&FORM=HPQUIZ",
+  "hash": "9cdbf155b5cae9f49721fa2b74b0adb9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CopanRuins_FR-FR8056709701_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251204",
+    "fullStartDateTime": "202512042300",
+    "endDate": "20251205"
+  },
+  "createdAt": "202512050244",
+  "originalUrlBase": "/th?id=OHR.CopanRuins_FR-FR8056709701"
+}
