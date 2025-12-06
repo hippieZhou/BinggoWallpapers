@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "佛罗里达州的生命湿地",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a4%a7%e6%b2%bc%e6%b3%bd%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_EvergladesSunrise%22&FORM=HPQUIZ",
+  "hash": "2b0c2a543fe8358d337466c5f07e9df9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251205",
+    "fullStartDateTime": "202512051600",
+    "endDate": "20251206"
+  },
+  "createdAt": "202512060225",
+  "originalUrlBase": "/th?id=OHR.EvergladesSunrise_ZH-CN2298606730"
+}

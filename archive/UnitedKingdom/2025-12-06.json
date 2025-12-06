@@ -1,0 +1,43 @@
+{
+  "date": "Dec 6, 2025",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Dawn breaks on the wild side",
+  "bsTitle": "Dawn breaks on the wild side",
+  "caption": "Everglades National Park, Florida, United States",
+  "copyright": "Spider webs in Everglades National Park, Florida, United States (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "© Troy Harrison/Getty Images",
+  "copyrightLink": "/search?q=Everglades+National+Park&form=hpcapt&filters=HpDate%3a%2220251206_0000%22",
+  "description": "On Florida's southern tip lies one of the United States' most unusual landscapes. The Everglades is not a typical swamp or river. It is a slow, shallow sheet of water that drifts south across flat grasslands toward Florida Bay, linking forests, marshes, mangroves and coastal prairies. This subtropical wilderness supports hundreds of species, including alligators, manatees and the endangered Florida panther. On 6 December, 1947, the United States established the Everglades National Park, protecting over 1.5 million acres and shifting conservation toward preserving entire ecosystems rather than isolated landmarks.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_EvergladesSunrise%22&FORM=HPQUIZ",
+  "hash": "1f633ebb28b558a6d47b3a5a3bccb06e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251206",
+    "fullStartDateTime": "202512060000",
+    "endDate": "20251207"
+  },
+  "createdAt": "202512060225",
+  "originalUrlBase": "/th?id=OHR.EvergladesSunrise_EN-GB6383912502"
+}

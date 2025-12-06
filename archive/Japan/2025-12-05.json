@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 12月 月 6 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "水とマングローブの迷宮",
+  "bsTitle": "水とマングローブの迷宮",
+  "caption": "水とマングローブの迷宮",
+  "copyright": "エバーグレーズ国立公園, 米国 (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "© Troy Harrison/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%82%b0%e3%83%ac%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220251205_1500%22",
+  "description": "米国南東部、フロリダ半島の南端には、「エバーグレーズ」と呼ばれる米国最大の湿原地帯が広がっています。面積は約 20,000km² にも及び、そのうち約 6,000km² ほどのエリアが「エバーグレーズ国立公園」として保護され、世界遺産にも登録されています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_EvergladesSunrise%22&FORM=HPQUIZ",
+  "hash": "d70a326c4dbfe6f711981ff8e2f3687e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251205",
+    "fullStartDateTime": "202512051500",
+    "endDate": "20251206"
+  },
+  "createdAt": "202512060225",
+  "originalUrlBase": "/th?id=OHR.EvergladesSunrise_JA-JP2745208080"
+}

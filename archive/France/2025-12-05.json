@@ -1,0 +1,43 @@
+{
+  "date": "6 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand la tradition éclaire la nuit",
+  "bsTitle": "Quand la tradition éclaire la nuit",
+  "caption": "Saint Nicolas à Strasbourg",
+  "copyright": "Marché deNoël dans le quartier historique de la Petite France, Strasbourg, Alsace (© Alpineguide/Alamy)",
+  "copyrightOnly": "© Alpineguide/Alamy",
+  "copyrightLink": "/search?q=Saint+Nicolas+No%c3%abl+Strasbourg&form=hpcapt&filters=HpDate%3a%2220251205_2300%22",
+  "description": "Sous les colombages de la Petite France, Strasbourg s’éveille dans un halo doré. Les façades penchées, ornées de guirlandes, racontent une histoire vieille de cinq siècles : celle des Christkindelsmärik, les marchés de Noël nés ici au XVIᵉ siècle, à l’époque où l’on célébrait surtout la Saint Nicolas, protecteur des enfants et des voyageurs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_StrasbourgNicolas%22&FORM=HPQUIZ",
+  "hash": "8cf18716ac23d4ce31cf3b14aaf23e49",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251205",
+    "fullStartDateTime": "202512052300",
+    "endDate": "20251206"
+  },
+  "createdAt": "202512060225",
+  "originalUrlBase": "/th?id=OHR.StrasbourgNicolas_FR-FR8648061434"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Brina e Brughiere",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parco Nazionale delle Everglades, Florida, USA (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+nazionale+delle+Everglades&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251205_EvergladesSunrise%22&FORM=HPQUIZ",
+  "hash": "6a5840ee2fcabcf5861155e6e57eb782",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_IT-IT0190194789_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_IT-IT0190194789_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_IT-IT0190194789_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_IT-IT0190194789_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251205",
+    "fullStartDateTime": "202512052300",
+    "endDate": "20251206"
+  },
+  "createdAt": "202512060225",
+  "originalUrlBase": "/th?id=OHR.EvergladesSunrise_IT-IT0190194789"
+}
