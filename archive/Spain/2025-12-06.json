@@ -1,0 +1,43 @@
+{
+  "date": "7 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Misterios entre el musgo",
+  "bsTitle": "Misterios entre el musgo",
+  "caption": "Bosque de pinos en Alsacia, Francia",
+  "copyright": "Bosque de pinos en Alsacia, Francia (© alekseystemmer/Getty Images)",
+  "copyrightOnly": "© alekseystemmer/Getty Images",
+  "copyrightLink": "/search?q=Alsacia&form=hpcapt&filters=HpDate%3a%2220251206_2300%22",
+  "description": "En diciembre, los bosques de Alsacia, en la región francesa del Gran Este, se envuelven en un suave velo de niebla, como si la naturaleza contuviera el aliento antes del invierno. Entre pinos silvestres y abetos plateados, el suelo cubierto de musgo amortigua cada paso, y el silencio parece casi sagrado. Estos bosques, que cubren cerca del 40 % del territorio alsaciano, albergan una rica biodiversidad: corzos, jabalíes, pájaros carpinteros negros e incluso el esquivo lince, que ha regresado tras décadas de ausencia.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_MistyPineForest%22&FORM=HPQUIZ",
+  "hash": "2ed369e4294e4102de19b86f9fc522d8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ES-ES2000019678_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ES-ES2000019678_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ES-ES2000019678_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ES-ES2000019678_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251206",
+    "fullStartDateTime": "202512062300",
+    "endDate": "20251207"
+  },
+  "createdAt": "202512070253",
+  "originalUrlBase": "/th?id=OHR.MistyPineForest_ES-ES2000019678"
+}

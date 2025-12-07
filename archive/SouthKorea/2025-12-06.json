@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Spider webs in Everglades National Park, Florida, United Sates (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Everglades+National+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_EvergladesSunrise%22&FORM=HPQUIZ",
+  "hash": "9af49b3ff8d0f5fe178ba44f3877b196",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ROW6583902193_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ROW6583902193_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ROW6583902193_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesSunrise_ROW6583902193_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251206",
+    "fullStartDateTime": "202512060800",
+    "endDate": "20251207"
+  },
+  "createdAt": "202512070253",
+  "originalUrlBase": "/th?id=OHR.EvergladesSunrise_ROW6583902193"
+}

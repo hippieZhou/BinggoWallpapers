@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 12月 月 7 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日 は「大雪」",
+  "bsTitle": "今日 は「大雪」",
+  "caption": "今日 は「大雪」",
+  "copyright": "白馬三山の雪景色 (© Thirawatana Phaisalratana/Getty Images)",
+  "copyrightOnly": "© Thirawatana Phaisalratana/Getty Images",
+  "copyrightLink": "/search?q=%e7%99%bd%e9%a6%ac%e4%b8%89%e5%b1%b1%e3%81%ae%e9%9b%aa%e6%99%af%e8%89%b2&form=hpcapt&filters=HpDate%3a%2220251206_1500%22",
+  "description": "今日 12 月 7 日は二十四節気の「大雪」。文字通り雪が多く降り始める時期とされ、沖縄を除くほぼ全国で降雪が観測されるようになります。各地で冬支度が進み、特に豪雪地帯では、雪吊りや雪灯篭など、地域ならではの冬の風習や行事が行われます…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_Daxue2025%22&FORM=HPQUIZ",
+  "hash": "512ae4ffce28606d6fd561bda49959f2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251206",
+    "fullStartDateTime": "202512061500",
+    "endDate": "20251207"
+  },
+  "createdAt": "202512070253",
+  "originalUrlBase": "/th?id=OHR.Daxue2025_JA-JP6833558565"
+}

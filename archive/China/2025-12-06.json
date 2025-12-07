@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "雪落下的声音",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a4%a7%e9%9b%aa%e8%8a%82%e6%b0%94&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_TheGreatSnowY25%22&FORM=HPQUIZ",
+  "hash": "ea1e1873a845af0499cb6d66b8e295dc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251206",
+    "fullStartDateTime": "202512061600",
+    "endDate": "20251207"
+  },
+  "createdAt": "202512070253",
+  "originalUrlBase": "/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230"
+}

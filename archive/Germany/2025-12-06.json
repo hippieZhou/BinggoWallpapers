@@ -1,0 +1,43 @@
+{
+  "date": "7. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Mystik zwischen Kiefern",
+  "bsTitle": "Mystik zwischen Kiefern",
+  "caption": "Kiefernwald im Elsass, Frankreich",
+  "copyright": "Ein Kiefernwald im Elsass, Frankreich (© alekseystemmer/Getty Images)",
+  "copyrightOnly": "© alekseystemmer/Getty Images",
+  "copyrightLink": "/search?q=Elsass&form=hpcapt&filters=HpDate%3a%2220251206_2300%22",
+  "description": "Wenn sich im Dezember Nebel über die Wälder des Elsass legt, scheint die Zeit stillzustehen. In der französischen Region Grand Est, nahe der deutschen Grenze, verwandelt sich die Landschaft dann in eine geheimnisvolle Kulisse. Fast 40 % des Elsass sind bewaldet und bieten Rehen, Wildschweinen und mit etwas Glück sogar Luchsen einen Rückzugsort. Zwischen Kiefern und Tannen dämpft der moosbedeckte Boden jeden Schritt und eine beinahe ehrfürchtige Stille legt sich über die Wälder.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251206_MistyPineForest%22&FORM=HPQUIZ",
+  "hash": "872bd0babbd6a081fe3e25b0776fd765",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_DE-DE5663948524_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_DE-DE5663948524_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_DE-DE5663948524_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_DE-DE5663948524_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251206",
+    "fullStartDateTime": "202512062300",
+    "endDate": "20251207"
+  },
+  "createdAt": "202512070253",
+  "originalUrlBase": "/th?id=OHR.MistyPineForest_DE-DE5663948524"
+}
