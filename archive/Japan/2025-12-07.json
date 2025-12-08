@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 12月 月 8 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "コモ湖畔にある小さな町",
+  "bsTitle": "コモ湖畔にある小さな町",
+  "caption": "コモ湖畔にある小さな町",
+  "copyright": "ドマーゾ, イタリア (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%83%89%e3%83%9e%e3%83%bc%e3%82%be&form=hpcapt&filters=HpDate%3a%2220251207_1500%22",
+  "description": "イタリア北部に位置するコモ湖は、アルプス山脈の麓に広がる逆 Y 字型の湖で、イタリアで 3 番目の大きさを誇ります。ローマ時代から避暑地として知られ、皇帝や貴族たちの保養に利用されてきました。また、現在は避暑地以外に、映画のロケ地としても度々利用されています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_ComoChristmas%22&FORM=HPQUIZ",
+  "hash": "265343a12b77eb314adc57eb2441a4e5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251207",
+    "fullStartDateTime": "202512071500",
+    "endDate": "20251208"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.ComoChristmas_JA-JP6780343312"
+}

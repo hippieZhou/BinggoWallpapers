@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Alsace&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_MistyPineForest%22&FORM=HPQUIZ",
+  "hash": "4048b81e37b1e9ccffa92c67d29183b5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ROW4499541003_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ROW4499541003_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ROW4499541003_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_ROW4499541003_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251207",
+    "fullStartDateTime": "202512070800",
+    "endDate": "20251208"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.MistyPineForest_ROW4499541003"
+}

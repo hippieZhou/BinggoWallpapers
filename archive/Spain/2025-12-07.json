@@ -1,0 +1,43 @@
+{
+  "date": "8 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El lago encandila las luces",
+  "bsTitle": "El lago encandila las luces",
+  "caption": "Luces navideñas en Domaso, Lago de Como, Lombardía, Italia",
+  "copyright": "Luces navideñas en edificios de Domaso, Lago de Como, Italia (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=Domaso&form=hpcapt&filters=HpDate%3a%2220251207_2300%22",
+  "description": "Cuando los reflejos del Lago de Como, en Italia, brillan más que las estrellas, sabes que la Navidad ha llegado a Domaso. Este antiguo pueblo de pescadores se transforma cada invierno en un escenario lleno de luz: las casas de tonos pastel, las iglesias históricas y las villas junto al lago se visten con cintas luminosas que crean una estampa mágica.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_ComoChristmas%22&FORM=HPQUIZ",
+  "hash": "ef7aa828184c00dfea2c76f748a8a246",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ES-ES2097586747_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ES-ES2097586747_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ES-ES2097586747_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ES-ES2097586747_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251207",
+    "fullStartDateTime": "202512072300",
+    "endDate": "20251208"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.ComoChristmas_ES-ES2097586747"
+}

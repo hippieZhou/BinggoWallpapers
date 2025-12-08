@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Mistério na floresta",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Floresta de pinheiros na Alsácia, França (© alekseystemmer/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Als%c3%a1cia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_MistyPineForest%22&FORM=HPQUIZ",
+  "hash": "35abcebca905dcbfa50508367a2b5db3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_PT-BR1153518162_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_PT-BR1153518162_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_PT-BR1153518162_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_PT-BR1153518162_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251207",
+    "fullStartDateTime": "202512070300",
+    "endDate": "20251208"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.MistyPineForest_PT-BR1153518162"
+}

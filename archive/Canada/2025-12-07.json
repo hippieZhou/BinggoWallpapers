@@ -1,0 +1,43 @@
+{
+  "date": "Dec. 7, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Mist-ery in the pines",
+  "bsTitle": "Mist-ery in the pines",
+  "caption": "A pine forest in Alsace, France",
+  "copyright": "A pine forest in Alsace, France (© alekseystemmer/Getty Images)",
+  "copyrightOnly": "© alekseystemmer/Getty Images",
+  "copyrightLink": "/search?q=Alsace&form=hpcapt&filters=HpDate%3a%2220251207_0500%22",
+  "description": "In December, the forests of Alsace, in France's Grand Est region, wrap themselves in a veil of fog, as if nature were holding its breath before winter. Amid Scots pines and silver firs, the moss-covered ground muffles every step and the silence feels almost sacred. These woodlands, which cover nearly 40% of Alsace, shelter a rich biodiversity: roe deer, wild boar, black woodpeckers and sometimes the elusive lynx, which has returned after decades of absence.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_MistyPineForest%22&FORM=HPQUIZ",
+  "hash": "741fc01750106ff8fb85aace0a17e352",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251207",
+    "fullStartDateTime": "202512070500",
+    "endDate": "20251208"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.MistyPineForest_EN-CA3344515413"
+}

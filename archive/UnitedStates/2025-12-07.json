@@ -1,0 +1,43 @@
+{
+  "date": "Dec 7, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Remembering Pearl Harbor",
+  "bsTitle": "Remembering Pearl Harbor",
+  "caption": "Pearl Harbor Day",
+  "copyright": "USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)",
+  "copyrightOnly": "© Jessica O. Blackwell/APFootage/Alamy",
+  "copyrightLink": "/search?q=Pearl+Harbor+Day&form=hpcapt&filters=HpDate%3a%2220251207_0800%22",
+  "description": "At 7:55 AM on December 7, 1941, Japanese aircraft appeared over Pearl Harbor, Hawaii, and the course of history changed. In less than two hours, 19 ships were sunk or damaged, nearly 200 aircraft destroyed, and 2,403 Americans lost their lives. The battleship USS Arizona suffered the most devastating hit: a bomb struck its forward deck, igniting ammunition below and sending the ship to the harbor floor. The surprise assault crippled the US Pacific Fleet and ended America's neutrality in World War II. The next day, President Franklin D. Roosevelt told Congress it was 'a date which will live in infamy,' and the US entered the war.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_PearlHarborDay%22&FORM=HPQUIZ",
+  "hash": "cee4e5198fc2e739cd535de92166d1ed",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251207",
+    "fullStartDateTime": "202512070800",
+    "endDate": "20251208"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.PearlHarborDay_EN-US5774515492"
+}

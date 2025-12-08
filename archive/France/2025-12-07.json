@@ -1,0 +1,43 @@
+{
+  "date": "8 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Reflets de fête sur le lac de Côme",
+  "bsTitle": "Reflets de fête sur le lac de Côme",
+  "caption": "Illuminations de Noël Domaso, lac de Côme, Italie",
+  "copyright": "Illuminations de Noël sur les bâtiments de Domaso, lac de Côme, Italie (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=Lac+de+C%c3%b4me&form=hpcapt&filters=HpDate%3a%2220251207_2300%22",
+  "description": "Sur les rives du lac de Côme, en Italie, l'hiver scintille de mille feux. Les façades pastel du petit port de Domaso, qui était autrefois un village de pêcheurs, se parent de guirlandes chatoyantes. En toile de fond, les montagnes enneigées semblent veiller sur ce décor féerique où le silence de la neige contraste avec les rires qui s'échappent des villages voisins, animés par les marchés de Noël.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251207_ComoChristmas%22&FORM=HPQUIZ",
+  "hash": "38708d280819b1db546bbc4c34ce4d45",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-FR9116499676_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-FR9116499676_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-FR9116499676_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-FR9116499676_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251207",
+    "fullStartDateTime": "202512072300",
+    "endDate": "20251208"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.ComoChristmas_FR-FR9116499676"
+}

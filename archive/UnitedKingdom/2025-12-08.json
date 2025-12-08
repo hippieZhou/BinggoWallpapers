@@ -1,0 +1,43 @@
+{
+  "date": "Dec 8, 2025",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "All is calm, all is bright",
+  "bsTitle": "All is calm, all is bright",
+  "caption": "Christmas lights on buildings of Domaso, Lake Como, Italy",
+  "copyright": "Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=Lake+Como&form=hpcapt&filters=HpDate%3a%2220251208_0000%22",
+  "description": "When the twinkling reflections on Italy's Lake Como outshine the stars, you know Christmas has docked in Domaso. Once a fishing village, this lakeside town now transforms each winter into a glittering display of holiday cheer, where pastel houses, old churches and waterfront villas are wrapped in ribbons of light. The result? A picturesque Christmas scene.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_ComoChristmas%22&FORM=HPQUIZ",
+  "hash": "8f4962e874525b3b4a440d5ba3e0239b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-GB6672805340_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-GB6672805340_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-GB6672805340_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_EN-GB6672805340_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251208",
+    "fullStartDateTime": "202512080000",
+    "endDate": "20251209"
+  },
+  "createdAt": "202512080246",
+  "originalUrlBase": "/th?id=OHR.ComoChristmas_EN-GB6672805340"
+}
