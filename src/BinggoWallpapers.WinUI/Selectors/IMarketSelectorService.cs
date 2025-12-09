@@ -8,7 +8,6 @@ public interface IMarketSelectorService
 {
     IReadOnlyList<MarketInfoDto> SupportedMarkets { get; }
     MarketInfoDto Market { get; }
-
     Task InitializeAsync();
     Task SetMarketAsync(MarketInfoDto market);
 }

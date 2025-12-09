@@ -1,5 +1,7 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
+using BinggoWallpapers.Core.DTOs;
+
 namespace BinggoWallpapers.WinUI.Selectors;
 
 public interface ILanguageSelectorService
@@ -13,4 +15,6 @@ public interface ILanguageSelectorService
 
     Task SetLanguageAsync(string language);
     Task SetRequestedLanguageAsync();
+
+    string GetMarketDisplayName(MarketInfoDto marketInfo);
 }

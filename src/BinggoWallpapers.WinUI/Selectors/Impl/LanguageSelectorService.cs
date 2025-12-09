@@ -1,5 +1,6 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
+using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.WinUI.Services;
 using Windows.Globalization;
 
@@ -36,5 +37,11 @@ public class LanguageSelectorService(ILocalSettingsService localSettingsService)
     {
         ApplicationLanguages.PrimaryLanguageOverride = Language;
         return Task.CompletedTask;
+    }
+
+    public string GetMarketDisplayName(MarketInfoDto marketInfo)
+    {
+        return string.Equals(Language, DefaultLanguage, StringComparison.OrdinalIgnoreCase) ?
+           marketInfo.EN : marketInfo.CN;
     }
 }
