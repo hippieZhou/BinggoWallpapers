@@ -1,0 +1,43 @@
+{
+  "date": "Dec 9, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Say 'cheese'… or grass",
+  "bsTitle": "Say 'cheese'… or grass",
+  "caption": "Guanaco, Punta Norte, Valdés Peninsula, Argentina",
+  "copyright": "Guanaco, Punta Norte, Valdés Peninsula, Argentina (© Sylvain Cordier/naturepl.com)",
+  "copyrightOnly": "© Sylvain Cordier/naturepl.com",
+  "copyrightLink": "/search?q=National+Llama+Day&form=hpcapt&filters=HpDate%3a%2220251208_1830%22",
+  "description": "If llamas are the laid-back stars of the Andes, their cousins, the guanacos, are the free spirits of Patagonia. Guanacos are part of the same camelid family as llamas, alpacas and vicuñas. But unlike their domesticated relatives, they keep things wild. Found mainly in Argentina, Chile, Peru and Bolivia, they're built for life at high altitude. Their thick coats help them handle chilly winds, while their padded feet give them the grip to trek across rocky terrain that would make even mountain goats nervous.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_LlamaDay%22&FORM=HPQUIZ",
+  "hash": "e04c92338ee2a93f4d47e1e9d517d8fd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_EN-IN2162059613_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_EN-IN2162059613_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_EN-IN2162059613_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_EN-IN2162059613_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251208",
+    "fullStartDateTime": "202512081830",
+    "endDate": "20251209"
+  },
+  "createdAt": "202512090244",
+  "originalUrlBase": "/th?id=OHR.LlamaDay_EN-IN2162059613"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "9. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Im Blick des Guanako",
+  "bsTitle": "Im Blick des Guanako",
+  "caption": "Guanako, Punta Norte, Halbinsel Valdés, Argentinien",
+  "copyright": "Guanako, Punta Norte, Halbinsel Valdés, Argentinien (© Sylvain Cordier/naturepl.com)",
+  "copyrightOnly": "© Sylvain Cordier/naturepl.com",
+  "copyrightLink": "/search?q=Guanako&form=hpcapt&filters=HpDate%3a%2220251208_2300%22",
+  "description": "Heute bewundern wir das Bild eines Guanakos in Punta Norte auf der Halbinsel Valdés, wo die patagonische Steppe auf den Atlantik trifft. Dieses Tier, ein wilder Verwandter des Lamas, gehört zu den charakteristischsten Symbolen der Region. Sein dichtes Fell schützt es vor extremen Temperaturen und seine Beweglichkeit macht es zu einem außergewöhnlichen Läufer. Außerdem verfügt es über einen hervorragenden Sehsinn, mit dem es Gefahren schon aus großer Entfernung erkennt – ein entscheidender Vorteil in den weiten offenen Landschaften, die es unermüdlich durchstreift.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_LlamaDay%22&FORM=HPQUIZ",
+  "hash": "4da6e8a9a4a95f79ab1931973a50a9d2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251208",
+    "fullStartDateTime": "202512082300",
+    "endDate": "20251209"
+  },
+  "createdAt": "202512090244",
+  "originalUrlBase": "/th?id=OHR.LlamaDay_DE-DE8597548065"
+}

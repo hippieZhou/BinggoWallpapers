@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lake+Como&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251208_ComoChristmas%22&FORM=HPQUIZ",
+  "hash": "6771a7e73971e366147869d6c36bef1d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ROW4608119261_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ROW4608119261_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ROW4608119261_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ComoChristmas_ROW4608119261_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251208",
+    "fullStartDateTime": "202512080800",
+    "endDate": "20251209"
+  },
+  "createdAt": "202512090244",
+  "originalUrlBase": "/th?id=OHR.ComoChristmas_ROW4608119261"
+}
