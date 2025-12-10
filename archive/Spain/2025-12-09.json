@@ -1,0 +1,43 @@
+{
+  "date": "10 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde convergen las culturas",
+  "bsTitle": "Donde convergen las culturas",
+  "caption": "Mezquita-Catedral de Córdoba, Andalucía, España",
+  "copyright": "Interior de la Mezquita-Catedral de Córdoba, Andalucía, España (© Elena Zolotova/Getty Images)",
+  "copyrightOnly": "© Elena Zolotova/Getty Images",
+  "copyrightLink": "/search?q=C%c3%b3rdoba&form=hpcapt&filters=HpDate%3a%2220251209_2300%22",
+  "description": "La Mezquita-Catedral de Córdoba es una de las grandes maravillas de España y un símbolo de la historia y la cultura andaluza. Su origen se remonta a una iglesia visigoda que, en el año 784, fue transformada por Abd al-Rahman I, fundador del Emirato Omeya de Córdoba, en una espléndida mezquita. Su impresionante sala hipóstila, con más de 850 columnas y arcos rojos y blancos, crea un bosque de piedra que asombra a quienes la visitan.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+  "hash": "d0d6e1158bfee23e6b976ae2e679f5d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251209",
+    "fullStartDateTime": "202512092300",
+    "endDate": "20251210"
+  },
+  "createdAt": "202512100247",
+  "originalUrlBase": "/th?id=OHR.CordobaCathedral_ES-ES0926965367"
+}

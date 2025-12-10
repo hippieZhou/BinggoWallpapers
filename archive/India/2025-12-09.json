@@ -1,0 +1,43 @@
+{
+  "date": "Dec 10, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Where cultures converge",
+  "bsTitle": "Where cultures converge",
+  "caption": "Mosque-Cathedral of Córdoba, Andalusia, Spain",
+  "copyright": "Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)",
+  "copyrightOnly": "© Elena Zolotova/Getty Images",
+  "copyrightLink": "/search?q=Mosque+Cathedral+of+Cordoba&form=hpcapt&filters=HpDate%3a%2220251209_1830%22",
+  "description": "The Mosque-Cathedral of Córdoba is a chronicle of Spain's layered history. It began as a church built by the Germanic Visigoths, before being transformed into a mosque in 784 CE by Abd al-Rahman I, founder of the Umayyad Emirate of Córdoba. Its vast hypostyle hall, a space supported by rows of columns, features the famous red-and-white arches shown here. Today, it contains more than 850 columns, many reused from Roman and earlier Visigothic structures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+  "hash": "1d21450bd9746ed1b8420570ffe7fdd8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-IN2305166633_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-IN2305166633_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-IN2305166633_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-IN2305166633_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251209",
+    "fullStartDateTime": "202512091830",
+    "endDate": "20251210"
+  },
+  "createdAt": "202512100247",
+  "originalUrlBase": "/th?id=OHR.CordobaCathedral_EN-IN2305166633"
+}

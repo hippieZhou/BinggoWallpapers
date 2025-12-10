@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Archi sincretici",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Grande Moschea e Cattedrale di Córdoba, Andalusia, Spagna (© Elena Zolotova/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=La+Grande+moschea+di+C%c3%b3rdoba+Cattedrale+di+Nostra+Signora+dell+Assunzione+&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+  "hash": "ce19a1eef583a43bf6558c147d963337",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251209",
+    "fullStartDateTime": "202512092300",
+    "endDate": "20251210"
+  },
+  "createdAt": "202512100247",
+  "originalUrlBase": "/th?id=OHR.CordobaCathedral_IT-IT0518392649"
+}

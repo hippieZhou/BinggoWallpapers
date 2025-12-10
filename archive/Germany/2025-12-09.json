@@ -1,0 +1,43 @@
+{
+  "date": "10. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo Kulturen sich begegnen",
+  "bsTitle": "Wo Kulturen sich begegnen",
+  "caption": "Mezquita-Kathedrale von Córdoba, Andalusien, Spanien",
+  "copyright": "Innenraum der Mezquita-Kathedrale von Córdoba, Andalusien, Spanien (© Elena Zolotova/Getty Images)",
+  "copyrightOnly": "© Elena Zolotova/Getty Images",
+  "copyrightLink": "/search?q=Mezquita-Kathedrale+von+C%c3%b3rdoba&form=hpcapt&filters=HpDate%3a%2220251209_2300%22",
+  "description": "Heute bewundern wir den beeindruckenden Innenraum der Mezquita-Kathedrale von Córdoba in Andalusien, Spanien. Ein architektonisches Meisterwerk, das Jahrhunderte der Geschichte und des kulturellen Miteinanders widerspiegelt. Ursprünglich im 8. Jahrhundert unter der Herrschaft der Umayyaden als Moschee erbaut, wurde sie mehrfach erweitert und galt lange als eine der größten Moscheen der islamischen Welt. Nach der christlichen Rückeroberung im Jahr 1236 wurde sie zur Kathedrale umgewandelt, wobei gotische, renaissancezeitliche und barocke Elemente in die islamische Struktur integriert wurden. Diese einzigartige Stilfusion macht das Bauwerk zu einem lebendigen Zeugnis des kulturellen Dialogs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+  "hash": "ef64d12b566be9a661ab034bce6b02c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_DE-DE5800559694_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251209",
+    "fullStartDateTime": "202512092300",
+    "endDate": "20251210"
+  },
+  "createdAt": "202512100247",
+  "originalUrlBase": "/th?id=OHR.CordobaCathedral_DE-DE5800559694"
+}

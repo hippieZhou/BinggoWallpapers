@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "文化交汇之地",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%a7%91%e5%b0%94%e5%a4%9a%e7%93%a6%e6%b8%85%e7%9c%9f%e5%af%ba%e5%a4%a7%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+  "hash": "a36d3ef61e34746458070a1cc3c2c5ee",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251209",
+    "fullStartDateTime": "202512091600",
+    "endDate": "20251210"
+  },
+  "createdAt": "202512100247",
+  "originalUrlBase": "/th?id=OHR.CordobaCathedral_ZH-CN4603063077"
+}

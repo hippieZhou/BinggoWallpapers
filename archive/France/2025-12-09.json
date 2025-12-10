@@ -1,0 +1,43 @@
+{
+  "date": "10 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Au carrefour des civilisations",
+  "bsTitle": "Au carrefour des civilisations",
+  "caption": "Mosquée-Cathédrale de Cordoue, Andalousie, Espagne",
+  "copyright": "Intérieur de la Mosquée-Cathédrale de Cordoue, Andalousie, Espagne (© Elena Zolotova/Getty Images)",
+  "copyrightOnly": "© Elena Zolotova/Getty Images",
+  "copyrightLink": "/search?q=Mosqu%c3%a9e-Cath%c3%a9drale+de+Cordoue+int%c3%a9rieur+&form=hpcapt&filters=HpDate%3a%2220251209_2300%22",
+  "description": "Sous les arches rouges et blanches de la mosquée-cathédrale de Cordoue, en Andalousie, en Espagne, la lumière glisse en silence, caressant les marbres polis et les colonnes venues d'un autre âge. Ici, chaque pierre raconte une métamorphose. D'abord basilique wisigothe, puis mosquée fondée en 785 par l'émir Abd al-Rahman Ier), elle est devenue cathédrale chrétienne en 1236, à la suite de la Reconquista menée par Ferdinand III.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251209_CordobaCathedral%22&FORM=HPQUIZ",
+  "hash": "266c14c56344f556397ad082377c8aa8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_FR-FR9536997294_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_FR-FR9536997294_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_FR-FR9536997294_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_FR-FR9536997294_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251209",
+    "fullStartDateTime": "202512092300",
+    "endDate": "20251210"
+  },
+  "createdAt": "202512100247",
+  "originalUrlBase": "/th?id=OHR.CordobaCathedral_FR-FR9536997294"
+}
