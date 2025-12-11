@@ -11,7 +11,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:model="using:BinggoWallpapers.WinUI.Models"
     xmlns:triggers="using:CommunityToolkit.WinUI"
-    xmlns:uc="using:BinggoWallpapers.WinUI.UserControls"
+    xmlns:uc="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:ui="using:CommunityToolkit.WinUI"
     xmlns:windowex="using:WinUIEx"
     MinWidth="500"

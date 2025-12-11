@@ -14,7 +14,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:models="using:BinggoWallpapers.WinUI.Models"
     xmlns:toolkit="using:CommunityToolkit.WinUI.Controls"
-    xmlns:uc="using:BinggoWallpapers.WinUI.UserControls"
+    xmlns:uc="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:ui="using:CommunityToolkit.WinUI"
     mc:Ignorable="d">
     <i:Interaction.Behaviors>

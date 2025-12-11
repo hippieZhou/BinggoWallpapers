@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <UserControl
-    x:Class="BinggoWallpapers.WinUI.UserControls.CustomHeader"
+    x:Class="BinggoWallpapers.WinUI.Views.UserControls.CustomHeader"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:controls="using:CommunityToolkit.WinUI.Controls"
@@ -8,7 +8,7 @@
     xmlns:dto="using:BinggoWallpapers.Core.DTOs"
     xmlns:ex="using:ImageEx"
     xmlns:labs="using:CommunityToolkit.Labs.WinUI"
-    xmlns:local="using:BinggoWallpapers.WinUI.UserControls"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 

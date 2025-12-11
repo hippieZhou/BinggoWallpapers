@@ -5,7 +5,7 @@ using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.Core.Services;
 using BinggoWallpapers.WinUI.Notifications;
 using BinggoWallpapers.WinUI.Services;
-using BinggoWallpapers.WinUI.UserControls;
+using BinggoWallpapers.WinUI.Views.UserControls;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Microsoft.Extensions.Logging;

@@ -11,7 +11,7 @@ using Microsoft.Graphics.Canvas.UI.Xaml;
 using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 
-namespace BinggoWallpapers.WinUI.UserControls;
+namespace BinggoWallpapers.WinUI.Views.UserControls;
 
 public sealed partial class MockupCanvasControl : UserControl
 {

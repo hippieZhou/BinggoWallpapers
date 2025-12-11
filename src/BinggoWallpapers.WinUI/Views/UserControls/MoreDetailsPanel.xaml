@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <UserControl
-    x:Class="BinggoWallpapers.WinUI.UserControls.MoreDetailsPanel"
+    x:Class="BinggoWallpapers.WinUI.Views.UserControls.MoreDetailsPanel"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:controls="using:CommunityToolkit.WinUI.Controls"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-    xmlns:local="using:BinggoWallpapers.WinUI.UserControls"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:ui="using:CommunityToolkit.WinUI"
     Visibility="Collapsed"

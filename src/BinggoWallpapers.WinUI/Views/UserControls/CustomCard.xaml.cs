@@ -2,7 +2,7 @@ using BinggoWallpapers.Core.DTOs;
 using CommunityToolkit.WinUI;
 using Microsoft.UI.Xaml.Controls;
 
-namespace BinggoWallpapers.WinUI.UserControls;
+namespace BinggoWallpapers.WinUI.Views.UserControls;
 
 public sealed partial class CustomCard : UserControl
 {

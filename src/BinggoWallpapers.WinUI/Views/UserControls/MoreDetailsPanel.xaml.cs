@@ -9,7 +9,7 @@ using Microsoft.UI.Xaml.Media;
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
 
-namespace BinggoWallpapers.WinUI.UserControls;
+namespace BinggoWallpapers.WinUI.Views.UserControls;
 
 /// <summary>
 /// https://github.com/CommunityToolkit/Labs-Windows/blob/main/components/MarkdownTextBlock/src/MarkdownThemes.cs
