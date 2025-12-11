@@ -1,0 +1,43 @@
+{
+  "date": "11 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le toit du monde",
+  "bsTitle": "Le toit du monde",
+  "caption": "Journée internationale de la montagne",
+  "copyright": "Le sommet du mont Everest au coucher du soleil, vu depuis Renjo La, Népal (© shoults/Alamy)",
+  "copyrightOnly": "© shoults/Alamy",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+de+la+montagne&form=hpcapt&filters=HpDate%3a%2220251210_2300%22",
+  "description": "Depuis le col de Renjo La, au Népal, le regard se perd dans l'immensité glacée de l'Everest, embrasée par les derniers feux du soleil. À plus de 5 300 mètres d’altitude, la montagne semble respirer, majestueuse et imperturbable, gardienne des nuages et des sources. Ses glaciers, véritables châteaux d'eau de l'Asie, alimentent des fleuves qui font vivre des millions d'êtres humains.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_EverestGlow%22&FORM=HPQUIZ",
+  "hash": "e22bc7badd152ae36fe35574267f69cf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_FR-FR9669906927_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251210",
+    "fullStartDateTime": "202512102300",
+    "endDate": "20251211"
+  },
+  "createdAt": "202512110249",
+  "originalUrlBase": "/th?id=OHR.EverestGlow_FR-FR9669906927"
+}

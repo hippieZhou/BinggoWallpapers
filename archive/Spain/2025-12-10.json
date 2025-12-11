@@ -1,0 +1,43 @@
+{
+  "date": "11 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde el cielo se encuentra con la Tierra",
+  "bsTitle": "Donde el cielo se encuentra con la Tierra",
+  "caption": "Día Internacional de las Montañas",
+  "copyright": "La cima del Monte Everest al atardecer, vista desde el paso Renjo La, Nepal (© shoults/Alamy)",
+  "copyrightOnly": "© shoults/Alamy",
+  "copyrightLink": "/search?q=D%c3%ada+internacional+de+las+monta%c3%b1as&form=hpcapt&filters=HpDate%3a%2220251210_2300%22",
+  "description": "Cada 11 de diciembre se celebra el Día Internacional de las Montañas, una jornada para reconocer la grandeza de los picos que dan forma a nuestro planeta y los glaciares que sustentan la vida. Desde los Alpes hasta el Himalaya, las montañas cubren casi una cuarta parte de la superficie terrestre, albergan al 15 % de la población mundial y concentran casi la mitad de los puntos clave de biodiversidad. El Monte Everest, con más de 8.800 metros de altura, simboliza la aspiración humana y la belleza natural.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_EverestGlow%22&FORM=HPQUIZ",
+  "hash": "c59aa6e9ba38b280d7493ec1d1b79a13",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ES-ES2074158502_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251210",
+    "fullStartDateTime": "202512102300",
+    "endDate": "20251211"
+  },
+  "createdAt": "202512110249",
+  "originalUrlBase": "/th?id=OHR.EverestGlow_ES-ES2074158502"
+}

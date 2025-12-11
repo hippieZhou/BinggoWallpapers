@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "天地相接之处",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔 (© shoults/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%8f%a0%e7%a9%86%e6%9c%97%e7%8e%9b%e5%b3%b0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_EverestGlow%22&FORM=HPQUIZ",
+  "hash": "02871b4748395b2f98ef155f1df3c0d4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251210",
+    "fullStartDateTime": "202512101600",
+    "endDate": "20251211"
+  },
+  "createdAt": "202512110249",
+  "originalUrlBase": "/th?id=OHR.EverestGlow_ZH-CN4985720231"
+}

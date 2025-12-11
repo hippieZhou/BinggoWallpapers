@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Onde as culturas convergem",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Interior da Mesquita-Catedral de Córdova, Andaluzia, Espanha (© Elena Zolotova/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Mesquita-Catedral+de+C%c3%b3rdova&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_CordobaCathedral%22&FORM=HPQUIZ",
+  "hash": "f024b003cdba5deb07e5fe067b490769",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaCathedral_PT-BR2100403879_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251210",
+    "fullStartDateTime": "202512100300",
+    "endDate": "20251211"
+  },
+  "createdAt": "202512110249",
+  "originalUrlBase": "/th?id=OHR.CordobaCathedral_PT-BR2100403879"
+}

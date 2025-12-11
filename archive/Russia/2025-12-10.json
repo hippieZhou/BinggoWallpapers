@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Castle of Rocca Calascio, Abruzzo, Italy (© carlo alberto conti/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Castle+of+Rocca+Calascio&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251210_CastleAbruzzo%22&FORM=HPQUIZ",
+  "hash": "82a2cc267e05539e55b4d3c3e9e1b533",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_ROW4838323641_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_ROW4838323641_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_ROW4838323641_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastleAbruzzo_ROW4838323641_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251210",
+    "fullStartDateTime": "202512100800",
+    "endDate": "20251211"
+  },
+  "createdAt": "202512110249",
+  "originalUrlBase": "/th?id=OHR.CastleAbruzzo_ROW4838323641"
+}
