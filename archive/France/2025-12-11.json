@@ -1,0 +1,43 @@
+{
+  "date": "12 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une Étoile de Noël en pot",
+  "bsTitle": "Une Étoile de Noël en pot",
+  "caption": "L’Étoile de Noël",
+  "copyright": "Plante Poinsettia dite Étoile de Noël (© DigiPub/Getty Images)",
+  "copyrightOnly": "© DigiPub/Getty Images",
+  "copyrightLink": "/search?q=Poinsettia+plante&form=hpcapt&filters=HpDate%3a%2220251211_2300%22",
+  "description": "Sous le ciel pâle de décembre, une plante flamboyante illumine les rebords de fenêtres : le poinsettia, surnommé « Étoile de Noël ». Ses bractées rouges éclatantes rappellent la chaleur des feux de cheminée. Originaire des collines du Mexique, il fascinait déjà les Aztèques qui en tiraient des teintures et des remèdes contre la fièvre. Au XIXe siècle, le diplomate américain Joel Roberts Poinsett l’a rapporté dans son pays. Peu à peu, la plante est devenue un symbole des fêtes, surtout grâce à la culture intensive initiée par la famille Ecke en Californie dans les années 1920.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_SpeckledPoinsettia%22&FORM=HPQUIZ",
+  "hash": "7e5c765db7f7450e308a7f1d1773e939",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251211",
+    "fullStartDateTime": "202512112300",
+    "endDate": "20251212"
+  },
+  "createdAt": "202512120248",
+  "originalUrlBase": "/th?id=OHR.SpeckledPoinsettia_FR-FR0741474217"
+}

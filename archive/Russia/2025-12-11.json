@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Mount+Everest&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_EverestGlow%22&FORM=HPQUIZ",
+  "hash": "473fd866b39f72f765e977211677e3a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251211",
+    "fullStartDateTime": "202512110800",
+    "endDate": "20251212"
+  },
+  "createdAt": "202512120248",
+  "originalUrlBase": "/th?id=OHR.EverestGlow_ROW4955731519"
+}

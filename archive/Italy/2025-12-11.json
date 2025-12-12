@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Rossa, esotica e natalizia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Stella di Natale (© DigiPub/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+della+Poinsettia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_SpeckledPoinsettia%22&FORM=HPQUIZ",
+  "hash": "6e76660e3e316e3c529d20fef4fb0af4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251211",
+    "fullStartDateTime": "202512112300",
+    "endDate": "20251212"
+  },
+  "createdAt": "202512120248",
+  "originalUrlBase": "/th?id=OHR.SpeckledPoinsettia_IT-IT0030863548"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "12. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Stern, der Weihnachten leuchten lässt",
+  "bsTitle": "Ein Stern, der Weihnachten leuchten lässt",
+  "caption": "Gefleckter Weihnachtsstern",
+  "copyright": "Gefleckter Weihnachtsstern (© DigiPub/Getty Images)",
+  "copyrightOnly": "© DigiPub/Getty Images",
+  "copyrightLink": "/search?q=Weihnachtsstern+Pflanze&form=hpcapt&filters=HpDate%3a%2220251211_2300%22",
+  "description": "Wenn eine Pflanze im Dezember die Bühne betritt, dann ist es der Weihnachtsstern – auch Adventsstern oder Poinsettie genannt. Mit seinen leuchtend roten Hochblättern bringt er Wärme in die kalte Jahreszeit – und das nicht nur in den USA, wo am 12. Dezember sogar der „National Poinsettia Day“ gefeiert wird. Auch hierzulande gehört er zu den beliebtesten Dekorationen rund um Weihnachten und ist aus vielen deutschen Wohnzimmern nicht mehr wegzudenken.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_SpeckledPoinsettia%22&FORM=HPQUIZ",
+  "hash": "1cd6c0bfac6ab1eb3286ed0ba66f9a3f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251211",
+    "fullStartDateTime": "202512112300",
+    "endDate": "20251212"
+  },
+  "createdAt": "202512120248",
+  "originalUrlBase": "/th?id=OHR.SpeckledPoinsettia_DE-DE7616872771"
+}

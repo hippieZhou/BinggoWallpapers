@@ -1,0 +1,43 @@
+{
+  "date": "12 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La flor de la temporada",
+  "bsTitle": "La flor de la temporada",
+  "caption": "Flor de Pascua",
+  "copyright": "Flor de pascua manchada (© DigiPub/Getty Images)",
+  "copyrightOnly": "© DigiPub/Getty Images",
+  "copyrightLink": "/search?q=Euphorbia+pulcherrima&form=hpcapt&filters=HpDate%3a%2220251211_2300%22",
+  "description": "Brillante, audaz y tan roja como la nariz de Rudolph, la flor de pascua reclama ser el centro de atención cada diciembre. Antes de convertirse en un adorno imprescindible, este arbusto recorrió un largo camino. Mucho antes de aparecer en nuestros salones, crecía de forma silvestre en México, donde los aztecas la empleaban para tintes y medicinas. En la década de 1820, el diplomático estadounidense Joel Roberts Poinsett quedó fascinado por su belleza y la envió a su país, iniciando su fama mundial.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_SpeckledPoinsettia%22&FORM=HPQUIZ",
+  "hash": "afa5c6cd9c8f625df61bbb910e41be12",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251211",
+    "fullStartDateTime": "202512112300",
+    "endDate": "20251212"
+  },
+  "createdAt": "202512120248",
+  "originalUrlBase": "/th?id=OHR.SpeckledPoinsettia_ES-ES3605658250"
+}

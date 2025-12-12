@@ -1,0 +1,43 @@
+{
+  "date": "Dec 11, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal",
+  "copyright": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)",
+  "copyrightOnly": "© shoults/Alamy",
+  "copyrightLink": "/search?q=Mount+Everest&form=hpcapt&filters=HpDate%3a%2220251211_0800%22",
+  "description": "From the rolling Alps to the towering Himalayas, mountains cover nearly a quarter of Earth's land and host 15% of the world's population and nearly half of its biodiversity hotspots. On the crest of the Great Himalayas of southern Asia, along the border between Nepal and Tibet, stands Mount Everest. At over 8,800 metres, it is the world's highest peak and a symbol of human aspiration and natural beauty. In 1953, Sir Edmund Hillary of New Zealand and Tenzing Norgay, a Nepali Sherpa climber, were the first to successfully reach its summit, marking a historic achievement in exploration. Its glaciers feed rivers sustaining millions, showing that mountains are more than scenery—they are lifelines.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251211_EverestGlow%22&FORM=HPQUIZ",
+  "hash": "473fd866b39f72f765e977211677e3a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EverestGlow_ROW4955731519_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251211",
+    "fullStartDateTime": "202512110800",
+    "endDate": "20251212"
+  },
+  "createdAt": "202512120248",
+  "originalUrlBase": "/th?id=OHR.EverestGlow_ROW4955731519"
+}
