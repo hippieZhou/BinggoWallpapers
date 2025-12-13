@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "冰封的倒影",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%bb%98%e5%a1%9e%e5%be%b7%e6%b2%b3&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_YosemiteWinter%22&FORM=HPQUIZ",
+  "hash": "11e4a7b0aa66a6bb034ad9faff434f24",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251212",
+    "fullStartDateTime": "202512121600",
+    "endDate": "20251213"
+  },
+  "createdAt": "202512130229",
+  "originalUrlBase": "/th?id=OHR.YosemiteWinter_ZH-CN3824387818"
+}

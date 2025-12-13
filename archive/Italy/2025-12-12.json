@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Riflessi di Ghiaccio?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Fiume Merced, Parco Nazionale di Yosemite, California, USA (© Ron and Patty Thomas/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Fiume+Merced+Parco+Nazionale+di+Yosemite&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_YosemiteWinter%22&FORM=HPQUIZ",
+  "hash": "979c112c0bc0f832ee1f86aee2669fbf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_IT-IT0817875707_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_IT-IT0817875707_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_IT-IT0817875707_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_IT-IT0817875707_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251212",
+    "fullStartDateTime": "202512122300",
+    "endDate": "20251213"
+  },
+  "createdAt": "202512130229",
+  "originalUrlBase": "/th?id=OHR.YosemiteWinter_IT-IT0817875707"
+}

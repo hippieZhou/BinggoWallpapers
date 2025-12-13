@@ -1,0 +1,43 @@
+{
+  "date": "13 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Reflejos congelados",
+  "bsTitle": "Reflejos congelados",
+  "caption": "Río Merced, Parque Nacional de Yosemite, California, EE. UU.",
+  "copyright": "Río Merced, Parque Nacional de Yosemite, California, EE. UU. (© Ron and Patty Thomas/Getty Images)",
+  "copyrightOnly": "© Ron and Patty Thomas/Getty Images",
+  "copyrightLink": "/search?q=Parque+nacional+de+Yosemite&form=hpcapt&filters=HpDate%3a%2220251212_2300%22",
+  "description": "Toda obra maestra necesita un trazo que la una. En el Parque Nacional de Yosemite, en Estados Unidos, ese trazo es el río Merced, que refleja acantilados de granito, bosques de pinos y cascadas en su superficie. Considerado un río salvaje y escénico, nace en lo alto de la Sierra Nevada y desciende unos 230 km hacia el valle de Yosemite antes de llegar al Valle Central de California.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_YosemiteWinter%22&FORM=HPQUIZ",
+  "hash": "3511512ed38127faa3143e8fdd17ba7f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251212",
+    "fullStartDateTime": "202512122300",
+    "endDate": "20251213"
+  },
+  "createdAt": "202512130229",
+  "originalUrlBase": "/th?id=OHR.YosemiteWinter_ES-ES3697194370"
+}

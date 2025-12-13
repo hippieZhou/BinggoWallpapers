@@ -1,0 +1,43 @@
+{
+  "date": "13. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Frostige Schönheit",
+  "bsTitle": "Frostige Schönheit",
+  "caption": "Merced River, Yosemite-Nationalpark, Kalifornien, USA",
+  "copyright": "Merced River, Yosemite-Nationalpark, Kalifornien, USA (© Ron and Patty Thomas/Getty Images)",
+  "copyrightOnly": "© Ron and Patty Thomas/Getty Images",
+  "copyrightLink": "/search?q=Merced+River&form=hpcapt&filters=HpDate%3a%2220251212_2300%22",
+  "description": "Mitten im Winter verwandelt sich der Yosemite-Nationalpark in Kalifornien, USA, in eine majestätische, schneebedeckte Landschaft. Auf dem heutigen Bild ist der Merced River zu sehen, dessen Name auf Spanisch „Barmherzigkeit“ bedeutet. Er entspringt in den hohen Gipfeln der Sierra Nevada und durchfließt von Gletschern geformte Täler, die von imposanten Granitwänden umgeben sind. Der Fluss ist Teil der geologischen Geschichte des Parks und speist einzigartige Ökosysteme. In den kältesten Monaten formt das Eis originelle Gebilde an seinen Ufern und bietet ein Naturschauspiel, das seit Generationen Künstler und Fotografen inspiriert.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251212_YosemiteWinter%22&FORM=HPQUIZ",
+  "hash": "f2a161f29c8bb95b43b544392390a8ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_DE-DE7894807438_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_DE-DE7894807438_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_DE-DE7894807438_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_DE-DE7894807438_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251212",
+    "fullStartDateTime": "202512122300",
+    "endDate": "20251213"
+  },
+  "createdAt": "202512130229",
+  "originalUrlBase": "/th?id=OHR.YosemiteWinter_DE-DE7894807438"
+}
