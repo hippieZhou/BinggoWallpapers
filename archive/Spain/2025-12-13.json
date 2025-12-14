@@ -1,0 +1,43 @@
+{
+  "date": "14 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La magia corre por los bosques",
+  "bsTitle": "La magia corre por los bosques",
+  "caption": "Renos, Laponia, Finlandia",
+  "copyright": "Reno durante la nevada invernal, Laponia, Finlandia (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=Renos&form=hpcapt&filters=HpDate%3a%2220251213_2300%22",
+  "description": "Pocas criaturas evocan tanta magia invernal como los renos, también llamados caribúes. En Laponia, donde su número supera al de las personas, estos animales recorren libremente bosques y tundras que parecen sacados de un cuento. Y hablando de cuentos, en España muchos recordamos a Rodolfo, el reno de la nariz roja, creado por Robert L. May, cuya historia ha acompañado a generaciones y sigue despertando sonrisas cada diciembre.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251213_ReindeerFinland%22&FORM=HPQUIZ",
+  "hash": "69d7a2e7b920f12e4b59028cadc4035e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ES-ES3822671431_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ES-ES3822671431_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ES-ES3822671431_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ES-ES3822671431_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251213",
+    "fullStartDateTime": "202512132300",
+    "endDate": "20251214"
+  },
+  "createdAt": "202512140254",
+  "originalUrlBase": "/th?id=OHR.ReindeerFinland_ES-ES3822671431"
+}

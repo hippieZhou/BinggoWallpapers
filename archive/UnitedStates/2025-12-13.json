@@ -1,0 +1,43 @@
+{
+  "date": "Dec 13, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Frozen reflections",
+  "bsTitle": "Frozen reflections",
+  "caption": "Merced River, Yosemite National Park, California",
+  "copyright": "Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)",
+  "copyrightOnly": "© Ron and Patty Thomas/Getty Images",
+  "copyrightLink": "/search?q=Merced+River&form=hpcapt&filters=HpDate%3a%2220251213_0800%22",
+  "description": "Every masterpiece needs a brushstroke to tie it together. For Yosemite National Park, that stroke is the Merced River—painting reflections of granite cliffs, pine forests, and waterfalls across its canvas. One of the National Wild and Scenic Rivers, this waterway begins high in the Sierra Nevada. It gathers meltwater and winds 145 miles west through Yosemite Valley into California's Central Valley.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251213_YosemiteWinter%22&FORM=HPQUIZ",
+  "hash": "793795550bba662bc6d3d1de48e4c883",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251213",
+    "fullStartDateTime": "202512130800",
+    "endDate": "20251214"
+  },
+  "createdAt": "202512140254",
+  "originalUrlBase": "/th?id=OHR.YosemiteWinter_EN-US4786605896"
+}

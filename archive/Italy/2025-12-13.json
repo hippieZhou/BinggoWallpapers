@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Spirito natalizio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Gnomi fatti a mano in un mercatino di Natale (© Veronika Seppanen/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Gnomo&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251213_ChristmasGnomes%22&FORM=HPQUIZ",
+  "hash": "f7a1c217ff3df200996755fd9f593812",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_IT-IT0880472693_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251213",
+    "fullStartDateTime": "202512132300",
+    "endDate": "20251214"
+  },
+  "createdAt": "202512140254",
+  "originalUrlBase": "/th?id=OHR.ChristmasGnomes_IT-IT0880472693"
+}

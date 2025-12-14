@@ -1,0 +1,43 @@
+{
+  "date": "14 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Sous la neige, le chant du vivant",
+  "bsTitle": "Sous la neige, le chant du vivant",
+  "caption": "Les mésanges en hiver",
+  "copyright": "Mésange bicolore perchée sur des branches de pin, Massachusetts, États-Unis (© Tim Laman/NPL/Minden Pictures)",
+  "copyrightOnly": "© Tim Laman/NPL/Minden Pictures",
+  "copyrightLink": "/search?q=M%c3%a9sange+bicolore&form=hpcapt&filters=HpDate%3a%2220251213_2300%22",
+  "description": "Perchée sur une branche de pin recouverte de neige, cette mésange bicolore semble suspendue entre le silence et le chant. Photographiée dans le Massachusetts, aux États-Unis, elle incarne la résilience de l'hiver nord-américain. Petite, vive et curieuse, elle explore les forêts de feuillus et de conifères à la recherche de graines et d'insectes dissimulés sous l'écorce.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251213_TuftedTitmouse%22&FORM=HPQUIZ",
+  "hash": "bb11a87d800419374ae2a768444cd31e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251213",
+    "fullStartDateTime": "202512132300",
+    "endDate": "20251214"
+  },
+  "createdAt": "202512140254",
+  "originalUrlBase": "/th?id=OHR.TuftedTitmouse_FR-FR1797167944"
+}
