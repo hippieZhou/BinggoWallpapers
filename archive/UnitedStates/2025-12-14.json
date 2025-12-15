@@ -1,0 +1,43 @@
+{
+  "date": "Dec 14, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The great holiday bird-off",
+  "bsTitle": "The great holiday bird-off",
+  "caption": "Audubon Christmas Bird Count",
+  "copyright": "Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)",
+  "copyrightOnly": "© Tim Laman/NPL/Minden Pictures",
+  "copyrightLink": "/search?q=Audubon+Christmas+bird+count&form=hpcapt&filters=HpDate%3a%2220251214_0800%22",
+  "description": "Each December, thousands swap wrapping paper for binoculars and step outside for a different kind of holiday tradition: the Audubon Christmas Bird Count. Instead of hunting for bargains, they hunt for birds—with pencils, rather than pellets. Started in 1900 by ornithologist Frank M. Chapman, the count offered a peaceful alternative to the Christmas 'side hunts,' where people competed to shoot the most animals. Chapman had a better idea: count them instead. Over a century later, that simple shift has grown into the world's longest-running citizen-science project.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_TuftedTitmouse%22&FORM=HPQUIZ",
+  "hash": "252cfea6c8a498ddd073cf52783f185c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251214",
+    "fullStartDateTime": "202512140800",
+    "endDate": "20251215"
+  },
+  "createdAt": "202512150254",
+  "originalUrlBase": "/th?id=OHR.TuftedTitmouse_EN-US4835376471"
+}

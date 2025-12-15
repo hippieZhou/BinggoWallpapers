@@ -1,0 +1,43 @@
+{
+  "date": "15 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand la ville des canaux devient féerie",
+  "bsTitle": "Quand la ville des canaux devient féerie",
+  "caption": "Canal Spiegelgracht, Amsterdam, Pays-Bas",
+  "copyright": "Décorations lumineuses sur le canal Spiegelgracht, Amsterdam, Pays-Bas (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Getty Images",
+  "copyrightLink": "/search?q=canal+Spiegelgracht+Amsterdam&form=hpcapt&filters=HpDate%3a%2220251214_2300%22",
+  "description": "À Amsterdam, aux Pays-Bas, le canal Spiegelgracht se transforme en un véritable bijou lumineux lorsque la nuit tombe. Les guirlandes lumineuses accrochées aux ponts et aux arbres se reflètent dans l'eau calme, formant une constellation venue s'ancrer sur terre. Ce canal, bordé de galeries d’art et d’antiquaires, porte bien son nom : Spiegelgracht, le « canal miroir ».",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_AmsterdamLights%22&FORM=HPQUIZ",
+  "hash": "e8a2e25f53c5e7b75c2d6e399676e5d0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_FR-FR4107666936_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_FR-FR4107666936_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_FR-FR4107666936_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_FR-FR4107666936_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251214",
+    "fullStartDateTime": "202512142300",
+    "endDate": "20251215"
+  },
+  "createdAt": "202512150254",
+  "originalUrlBase": "/th?id=OHR.AmsterdamLights_FR-FR4107666936"
+}

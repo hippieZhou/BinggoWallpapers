@@ -1,0 +1,43 @@
+{
+  "date": "Dec 14, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Tufted titmouse",
+  "copyright": "Tufted titmouse perched on pine boughs, Massachusetts, United States (© Tim Laman/NPL/Minden Pictures)",
+  "copyrightOnly": "© Tim Laman/NPL/Minden Pictures",
+  "copyrightLink": "/search?q=Tufted+Titmouse&form=hpcapt&filters=HpDate%3a%2220251214_0800%22",
+  "description": "Before you spot it, you'll likely hear it—a series of clear, whistling notes, often described as 'peter-peter-peter,' announcing the presence of the tufted titmouse, featured in today's image. This small, grey songbird, measuring about 15 centimetres in length, is a lively inhabitant of the eastern North America. Unlike other small songbirds, it has a tufted grey crest that crowns its head, giving it a distinctive and expressive look. Despite its small size, the tufted titmouse is surprisingly strong, able to crack open even large seeds with its beak—showcasing its skill and resourcefulness in the daily pursuit of food. It forages both in the trees and on the ground, searching for a varied diet of insects, nuts, seeds, berries and other invertebrates.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_TuftedTitmouse%22&FORM=HPQUIZ",
+  "hash": "585256f5e2c5bd1ca9618b0080db73ae",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_ROW4045050908_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_ROW4045050908_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_ROW4045050908_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TuftedTitmouse_ROW4045050908_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251214",
+    "fullStartDateTime": "202512140800",
+    "endDate": "20251215"
+  },
+  "createdAt": "202512150254",
+  "originalUrlBase": "/th?id=OHR.TuftedTitmouse_ROW4045050908"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "15 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El canal de la ilusión",
+  "bsTitle": "El canal de la ilusión",
+  "caption": "Canal de Spiegelgracht en Ámsterdam, Países Bajos",
+  "copyright": "Luces de Navidad en el canal Spiegelgracht, Ámsterdam, Países Bajos (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Getty Images",
+  "copyrightLink": "/search?q=El+canal+Spiegelgracht&form=hpcapt&filters=HpDate%3a%2220251214_2300%22",
+  "description": "¿Alguna vez te has preguntado cómo los canales cambiaron el desarrollo de las ciudades? Durante miles de años, las personas han construido vías de agua para mover mercancías, regular caudales y unir territorios. Desde la antigua Mesopotamia y Egipto hasta la Europa medieval, los canales transformaron urbes como Venecia y Brujas en potentes centros comerciales. Los Países Bajos llevaron esta idea aún más lejos: en el siglo XVII diseñaron canales que marcaron la forma de ciudades como Ámsterdam.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251214_AmsterdamLights%22&FORM=HPQUIZ",
+  "hash": "193e5b6a09f6dcc27614e3450638c779",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_ES-ES3912023749_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_ES-ES3912023749_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_ES-ES3912023749_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_ES-ES3912023749_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251214",
+    "fullStartDateTime": "202512142300",
+    "endDate": "20251215"
+  },
+  "createdAt": "202512150254",
+  "originalUrlBase": "/th?id=OHR.AmsterdamLights_ES-ES3912023749"
+}
