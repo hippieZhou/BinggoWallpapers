@@ -98,7 +98,7 @@
 -   ✅ **不上传**任何数据到服务器
 -   ✅ 所有数据**仅本地存储**
 
-查看完整的 [隐私策略](PRIVACY_POLICY.md) 或 [在线版本](https://hippiezhou.github.io/BinggoWallpapers/docs/privacy-policy.html)。
+查看完整的 [隐私策略](PRIVACY_POLICY.md) 或 [在线版本](https://hippiezhou.github.io/products/binggo-wallpapers/privacy-policy)。
 
 ## 📄 许可证
 
