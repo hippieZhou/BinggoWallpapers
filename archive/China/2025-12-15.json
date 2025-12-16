@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "小帽子，大能量",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9c%a3%e8%af%9e%e5%9c%b0%e7%b2%be&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_ChristmasGnomes%22&FORM=HPQUIZ",
+  "hash": "8b1ae625c56256587c476e65b0a963f0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251215",
+    "fullStartDateTime": "202512151600",
+    "endDate": "20251216"
+  },
+  "createdAt": "202512160249",
+  "originalUrlBase": "/th?id=OHR.ChristmasGnomes_ZH-CN4405839101"
+}

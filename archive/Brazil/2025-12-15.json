@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Águas tranquilas, luzes brilhantes",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Decorações luminosas no canal Spiegelgracht, Amsterdã, Países Baixos (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Amsterd%c3%a3%2c+Pa%c3%adses+Baixos&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251215_AmsterdamLights%22&FORM=HPQUIZ",
+  "hash": "92db217d02f1bc5f756db70db5c5809c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_PT-BR5962118640_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_PT-BR5962118640_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_PT-BR5962118640_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmsterdamLights_PT-BR5962118640_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251215",
+    "fullStartDateTime": "202512150300",
+    "endDate": "20251216"
+  },
+  "createdAt": "202512160249",
+  "originalUrlBase": "/th?id=OHR.AmsterdamLights_PT-BR5962118640"
+}
