@@ -1,0 +1,43 @@
+{
+  "date": "Dec 16, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Medieval Aqueduct, Perugia, Italy",
+  "copyright": "Medieval Aqueduct, Perugia, Italy (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "© Sean Pavone/Getty Images",
+  "copyrightLink": "/search?q=Perugia+Medieval+Aquaduct&form=hpcapt&filters=HpDate%3a%2220251216_0800%22",
+  "description": "In the Italian region of Umbria, Perugia reveals itself slowly, like a page from another era turning in the wind. Its stones carry memories of Etruscans, medieval rulers, artists and generations of students. The city unfolds through steep lanes, mesmerising viewpoints and corners that feel almost painted.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_PerugiaStreet%22&FORM=HPQUIZ",
+  "hash": "15a95c9f85916a5f8f5df905df0c0e16",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251216",
+    "fullStartDateTime": "202512160800",
+    "endDate": "20251217"
+  },
+  "createdAt": "202512170245",
+  "originalUrlBase": "/th?id=OHR.PerugiaStreet_ROW4410274538"
+}

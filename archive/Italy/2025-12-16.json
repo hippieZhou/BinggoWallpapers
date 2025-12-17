@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Furia rossa",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Scoiattolo rosso nel Northumberland, Inghilterra (© Michael_Conrad/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Scoiattolo+eurasiatico&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+  "hash": "fa6dc358c1438a59b5f18290ac3c05a4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_IT-IT9640811523_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_IT-IT9640811523_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_IT-IT9640811523_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_IT-IT9640811523_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251216",
+    "fullStartDateTime": "202512162300",
+    "endDate": "20251217"
+  },
+  "createdAt": "202512170245",
+  "originalUrlBase": "/th?id=OHR.FrostySquirrel_IT-IT9640811523"
+}

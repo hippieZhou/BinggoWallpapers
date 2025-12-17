@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Chapéus pequenos, grandes espíritos",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Gnomos artesanais em um mercado de Natal (© Veronika Seppanen/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=gnomos+significado&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_ChristmasGnomes%22&FORM=HPQUIZ",
+  "hash": "65dd01ddb73d42ea34f83072bb4f1352",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_PT-BR4901751398_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_PT-BR4901751398_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_PT-BR4901751398_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChristmasGnomes_PT-BR4901751398_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251216",
+    "fullStartDateTime": "202512160300",
+    "endDate": "20251217"
+  },
+  "createdAt": "202512170245",
+  "originalUrlBase": "/th?id=OHR.ChristmasGnomes_PT-BR4901751398"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "皮毛、霜冻和盛宴",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+  "hash": "8e0b8fb2ff9bd2ad9b5be34f1ef879ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251216",
+    "fullStartDateTime": "202512161600",
+    "endDate": "20251217"
+  },
+  "createdAt": "202512170245",
+  "originalUrlBase": "/th?id=OHR.FrostySquirrel_ZH-CN4613360783"
+}

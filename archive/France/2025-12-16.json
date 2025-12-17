@@ -1,0 +1,43 @@
+{
+  "date": "17 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Pause gourmande sous la neige",
+  "bsTitle": "Pause gourmande sous la neige",
+  "caption": "L’écureuil roux d’Eurasie",
+  "copyright": "Écureuil roux d’Eurasie dans le Northumberland, Angleterre (© Michael_Conrad/Getty Images)",
+  "copyrightOnly": "© Michael_Conrad/Getty Images",
+  "copyrightLink": "/search?q=%c3%89cureuil+roux&form=hpcapt&filters=HpDate%3a%2220251216_2300%22",
+  "description": "Dans le Northumberland, au nord de l’Angleterre, un écureuil roux d’Eurasie s’agrippe à une branche enneigée. Sa queue flamboyante ondule dans le vent glacial, telle une flamme au cœur de l’hiver. Infatigable, il cache des noix, des graines et des champignons sous la mousse pour survivre aux jours les plus rudes. Ces réserves, disséminées dans la forêt, sont parfois oubliées, contribuant à la régénération des arbres : un jardinier involontaire de la nature.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+  "hash": "7a06ab628bb43fe8a0570971e1d7ee68",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-FR0291090241_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-FR0291090241_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-FR0291090241_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_FR-FR0291090241_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251216",
+    "fullStartDateTime": "202512162300",
+    "endDate": "20251217"
+  },
+  "createdAt": "202512170245",
+  "originalUrlBase": "/th?id=OHR.FrostySquirrel_FR-FR0291090241"
+}

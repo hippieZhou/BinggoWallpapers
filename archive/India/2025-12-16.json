@@ -1,0 +1,43 @@
+{
+  "date": "Dec 17, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Fur, frost and feast",
+  "bsTitle": "Fur, frost and feast",
+  "caption": "Eurasian red squirrel in Northumberland, England",
+  "copyright": "Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)",
+  "copyrightOnly": "© Michael_Conrad/Getty Images",
+  "copyrightLink": "/search?q=Eurasian+Red+Squirrel&form=hpcapt&filters=HpDate%3a%2220251216_1830%22",
+  "description": "Who could resist that squishy face? A Eurasian red squirrel perches on a snowy pine branch, paws clutching a pine cone like it's the last snack on Earth. These little acrobats stay busy collecting nuts, seeds and fungi—feasting on fresh finds in summer and on stored cones through winter.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_FrostySquirrel%22&FORM=HPQUIZ",
+  "hash": "a17bcbdbe54baa2436e023a8f4f7365f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-IN6548700158_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-IN6548700158_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-IN6548700158_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_EN-IN6548700158_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251216",
+    "fullStartDateTime": "202512161830",
+    "endDate": "20251217"
+  },
+  "createdAt": "202512170245",
+  "originalUrlBase": "/th?id=OHR.FrostySquirrel_EN-IN6548700158"
+}

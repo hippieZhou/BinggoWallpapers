@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Medieval Aqueduct, Perugia, Italy (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Perugia+Medieval+Aquaduct&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251216_PerugiaStreet%22&FORM=HPQUIZ",
+  "hash": "15a95c9f85916a5f8f5df905df0c0e16",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251216",
+    "fullStartDateTime": "202512160800",
+    "endDate": "20251217"
+  },
+  "createdAt": "202512170245",
+  "originalUrlBase": "/th?id=OHR.PerugiaStreet_ROW4410274538"
+}
