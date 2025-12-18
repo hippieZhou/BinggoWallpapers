@@ -85,16 +85,17 @@
             x:Name="WallpaperImageInfo"
             MinHeight="24"
             Margin="6"
-            Padding="8,2"
+            Padding="12,2"
             HorizontalAlignment="Right"
             VerticalAlignment="Bottom"
+            Background="{ThemeResource AcrylicBackgroundFillColorDefaultBrush}"
             BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
             BorderThickness="1"
             CornerRadius="12"
             Visibility="Collapsed">
-            <Grid.Background>
+            <!--<Grid.Background>
                 <media:BackdropBlurBrush Amount="6.0" />
-            </Grid.Background>
+            </Grid.Background>-->
 
             <animations:Implicit.ShowAnimations>
                 <!--  卡片悬停动画  -->
@@ -102,21 +103,30 @@
                     EasingMode="EaseOut"
                     From="0"
                     To="1"
-                    Duration="0:0:0.2" />
+                    Duration="0:0:0.4" />
+                <animations:TranslationAnimation
+                    From="0,200,0"
+                    To="0"
+                    Duration="0:0:0.6" />
             </animations:Implicit.ShowAnimations>
             <animations:Implicit.HideAnimations>
                 <!--  卡片离开动画  -->
                 <animations:OpacityAnimation
-                    EasingMode="EaseOut"
-                    From="1"
+                    From="1.0"
                     To="0"
-                    Duration="0:0:0.2" />
+                    Duration="0:0:0.35" />
+                <animations:TranslationAnimation
+                    From="0"
+                    To="0,200,0"
+                    Duration="0:0:0.6" />
             </animations:Implicit.HideAnimations>
 
             <!--  壁纸信息  -->
             <TextBlock
+                HorizontalAlignment="Center"
                 VerticalAlignment="Center"
-                Style="{StaticResource CaptionTextBlockStyle}"
+                FontWeight="SemiBold"
+                Foreground="{ThemeResource TextFillColorPrimaryBrush}"
                 Text="{x:Bind Model.Fullstartdate, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:yyyy-MM-dd}}"
                 TextTrimming="CharacterEllipsis" />
         </Grid>

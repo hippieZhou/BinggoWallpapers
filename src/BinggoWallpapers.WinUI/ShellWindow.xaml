@@ -14,12 +14,13 @@
     xmlns:uc="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:ui="using:CommunityToolkit.WinUI"
     xmlns:windowex="using:WinUIEx"
-    MinWidth="500"
-    MinHeight="500"
+    Width="1280"
+    MinWidth="640"
+    MinHeight="480"
     PersistenceId="MainWindow"
     mc:Ignorable="d">
     <Window.SystemBackdrop>
-        <MicaBackdrop Kind="BaseAlt" />
+        <MicaBackdrop />
     </Window.SystemBackdrop>
 
     <Grid x:Name="ContentArea">
