@@ -1,0 +1,43 @@
+{
+  "date": "18 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Herrnhut, le berceau des étoiles de Noël",
+  "bsTitle": "Herrnhut, le berceau des étoiles de Noël",
+  "caption": "La tradition des étoiles de Herrnhut",
+  "copyright": "Étoiles de Herrnhut, Allemagne (© artas/Getty Images)",
+  "copyrightOnly": "© artas/Getty Images",
+  "copyrightLink": "/search?q=No%c3%abl&form=hpcapt&filters=HpDate%3a%2220251217_2300%22",
+  "description": "C'est en Saxe, dans le sud-est de l'Allemagne, qu'est née une tradition qui a traversé les frontières. Au début du XIXe siècle, dans un internat morave de Niesky, un professeur proposa à ses élèves un exercice de géométrie : créer une étoile en papier. De cette idée est née la première « Herrnhuter Stern », devenue le symbole de l’Avent. Plus tard, à Herrnhut, des artisans fondèrent une manufacture qui perpétue encore aujourd'hui ce savoir-faire. Les étoiles, désormais à vingt-cinq pointes, sont façonnées en papier ou en plastique et se déclinent en rouge, blanc ou or.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251217_StarLanterns%22&FORM=HPQUIZ",
+  "hash": "5f4e7e2930d319009929dfcaa72dc415",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251217",
+    "fullStartDateTime": "202512172300",
+    "endDate": "20251218"
+  },
+  "createdAt": "202512180246",
+  "originalUrlBase": "/th?id=OHR.StarLanterns_FR-FR0647392410"
+}

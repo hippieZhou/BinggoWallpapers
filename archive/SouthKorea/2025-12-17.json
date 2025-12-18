@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Eurasian+Red+Squirrel&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251217_FrostySquirrel%22&FORM=HPQUIZ",
+  "hash": "0778bef4ff2cf7e477318938a531ad54",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ROW4524085352_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ROW4524085352_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ROW4524085352_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrostySquirrel_ROW4524085352_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251217",
+    "fullStartDateTime": "202512170800",
+    "endDate": "20251218"
+  },
+  "createdAt": "202512180246",
+  "originalUrlBase": "/th?id=OHR.FrostySquirrel_ROW4524085352"
+}

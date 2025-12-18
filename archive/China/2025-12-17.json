@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "犹他州的时光层叠",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9c%86%e9%a1%b6%e7%a4%81%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251217_CathedralValley%22&FORM=HPQUIZ",
+  "hash": "7b69c88a654e30606630e3f731a5229d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251217",
+    "fullStartDateTime": "202512171600",
+    "endDate": "20251218"
+  },
+  "createdAt": "202512180246",
+  "originalUrlBase": "/th?id=OHR.CathedralValley_ZH-CN5237441521"
+}
