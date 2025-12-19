@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il Comune nella Roccia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Bormio&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+  "hash": "561c4a9c9cc91b0439287ea10eafa649",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251218",
+    "fullStartDateTime": "202512182300",
+    "endDate": "20251219"
+  },
+  "createdAt": "202512190248",
+  "originalUrlBase": "/th?id=OHR.BormioItaly_IT-IT9940500837"
+}

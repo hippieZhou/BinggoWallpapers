@@ -1,0 +1,43 @@
+{
+  "date": "19 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’hiver en majesté",
+  "bsTitle": "L’hiver en majesté",
+  "caption": "Rivière Merced, parc national de Yosemite, États-Unis",
+  "copyright": "Rivière Merced, parc national de Yosemite, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)",
+  "copyrightOnly": "© Ron and Patty Thomas/Getty Images",
+  "copyrightLink": "/search?q=Rivi%c3%a8re+Merced+Californie+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220251218_2300%22",
+  "description": "Aux États-Unis, dans le majestueux parc national de Yosemite, la rivière Merced trace son sillage à travers la Sierra Nevada, telle une ligne d'argent glissant sur la toile des montagnes. Née de la fonte des neiges, elle parcourt plus de 230 kilomètres, reflétant le granit, murmurant avec les pins et éclaboussant les rochers. Au printemps, elle rugit sous la puissance des chutes Vernal et Nevada ; l’été venu, elle s’assagit et accueille baigneurs et kayakistes. L’automne la dore, l’hiver la fige dans une paix de cristal.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_YosemiteWinter%22&FORM=HPQUIZ",
+  "hash": "1d7ee410ff0d01c23f32d0cb584d849e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteWinter_FR-FR0908929457_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251218",
+    "fullStartDateTime": "202512182300",
+    "endDate": "20251219"
+  },
+  "createdAt": "202512190248",
+  "originalUrlBase": "/th?id=OHR.YosemiteWinter_FR-FR0908929457"
+}

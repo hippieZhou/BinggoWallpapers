@@ -1,0 +1,43 @@
+{
+  "date": "19 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Altas montañas, historia profunda",
+  "bsTitle": "Altas montañas, historia profunda",
+  "caption": "Bormio, Lombardía, Italia",
+  "copyright": "Paisaje nevado en Bormio, Lombardía, Italia (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=Bormio+Italia&form=hpcapt&filters=HpDate%3a%2220251218_2300%22",
+  "description": "Bormio es una localidad de montaña situada en Lombardía, al norte de Italia, enclavada en los Alpes y muy cerca del paso de Stelvio. Esta posición ha unido durante siglos a las comunidades de los valles alpinos y ha marcado su forma de vida, sus rutas y su historia. Su paisaje invernal refleja la altitud del entorno y el estrecho vínculo de la ciudad con los picos que la rodean.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+  "hash": "fb85063cb0290e98215a1a6a4d784c11",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251218",
+    "fullStartDateTime": "202512182300",
+    "endDate": "20251219"
+  },
+  "createdAt": "202512190248",
+  "originalUrlBase": "/th?id=OHR.BormioItaly_ES-ES9743879453"
+}

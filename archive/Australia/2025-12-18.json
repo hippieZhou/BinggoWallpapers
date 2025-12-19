@@ -1,0 +1,43 @@
+{
+  "date": "Dec 18, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Temple of the Sun, Capitol Reef National Park, Utah, United States",
+  "copyright": "Temple of the Sun, Capitol Reef National Park, Utah, United States (© Austin Cronnelly/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Austin Cronnelly/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Temple+of+the+Sun+Utah&form=hpcapt&filters=HpDate%3a%2220251218_0800%22",
+  "description": "Rock layers formed over millions of years and a massive bend in the Earth's crust give this desert a rare window into geologic history. This is Capitol Reef National Park in Utah, where sandstone cliffs and canyons preserve a striking record of the planet's past. It was designated as a national park in 1971. Today's featured image highlights the sandstone monoliths of Cathedral Valley, including the Temple of the Sun, part of this extraordinary, protected landscape.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_CathedralValley%22&FORM=HPQUIZ",
+  "hash": "9bdd08ae5aaa636fc0d826498f7d3d0e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ROW4669841552_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ROW4669841552_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ROW4669841552_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_ROW4669841552_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251218",
+    "fullStartDateTime": "202512180800",
+    "endDate": "20251219"
+  },
+  "createdAt": "202512190248",
+  "originalUrlBase": "/th?id=OHR.CathedralValley_ROW4669841552"
+}

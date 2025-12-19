@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Camadas do tempo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Templo do Sol, Parque Nacional Capitol Reef, Utah, EUA (© Austin Cronnelly/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Capitol+Reef&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_CathedralValley%22&FORM=HPQUIZ",
+  "hash": "9e32cf812d9042bb2ea3550ef3ad2165",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_PT-BR4139226561_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_PT-BR4139226561_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_PT-BR4139226561_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CathedralValley_PT-BR4139226561_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251218",
+    "fullStartDateTime": "202512180300",
+    "endDate": "20251219"
+  },
+  "createdAt": "202512190248",
+  "originalUrlBase": "/th?id=OHR.CathedralValley_PT-BR4139226561"
+}

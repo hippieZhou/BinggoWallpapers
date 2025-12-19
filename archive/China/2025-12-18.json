@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "高山的悠久历史",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%8d%9a%e5%b0%94%e7%b1%b3%e5%a5%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251218_BormioItaly%22&FORM=HPQUIZ",
+  "hash": "2aeb2d874179ea41d37bbdf525e4336c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251218",
+    "fullStartDateTime": "202512181600",
+    "endDate": "20251219"
+  },
+  "createdAt": "202512190248",
+  "originalUrlBase": "/th?id=OHR.BormioItaly_ZH-CN5397313772"
+}
