@@ -1,0 +1,43 @@
+{
+  "date": "Dec 19, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "High mountains, deep history",
+  "bsTitle": "High mountains, deep history",
+  "caption": "Bormio, Lombardy, Italy",
+  "copyright": "Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=Bormio+Italy&form=hpcapt&filters=HpDate%3a%2220251219_0800%22",
+  "description": "Bormio is a mountain town in northern Italy's Lombardy region, nestled in the Alps near the Stelvio Pass. This location has connected communities across mountain valleys for centuries, shaping how people live and move through the region. Today's image features Bormio's winter landscape, a reflection of its high-altitude setting and enduring bond with the surrounding peaks.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_BormioItaly%22&FORM=HPQUIZ",
+  "hash": "12a8cc700f05a5bbf173f8268250acea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251219",
+    "fullStartDateTime": "202512190800",
+    "endDate": "20251220"
+  },
+  "createdAt": "202512200229",
+  "originalUrlBase": "/th?id=OHR.BormioItaly_EN-US5324526286"
+}

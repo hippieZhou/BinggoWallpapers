@@ -1,0 +1,43 @@
+{
+  "date": "20 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’hiver en majesté",
+  "bsTitle": "L’hiver en majesté",
+  "caption": "Rivière Merced, parc national de Yosemite, États-Unis",
+  "copyright": "Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)",
+  "copyrightOnly": "© Gael Fontaine/Alamy",
+  "copyrightLink": "/search?q=F%c3%aate+r%c3%a9unionnaise+de+la+libert%c3%a9&form=hpcapt&filters=HpDate%3a%2220251219_2300%22",
+  "description": "Pour contraster avec la grisaille et le froid de la métropole, voici un peu de soleil venu de l’océan Indien ! Le 20 décembre, l’île de La Réunion célèbre la Fèt Kaf, jour de liberté et de mémoire. Ici, au cœur du cirque de Mafate, entre les montagnes sculptées par les volcans et les ravines verdoyantes, les chants, les tambours et les danses maloya résonnent jusqu’aux crêtes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_FetNav%22&FORM=HPQUIZ",
+  "hash": "33246287eb9ed02a9d0968521e7767ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251219",
+    "fullStartDateTime": "202512192300",
+    "endDate": "20251220"
+  },
+  "createdAt": "202512200229",
+  "originalUrlBase": "/th?id=OHR.FetNav_FR-FR1160112574"
+}

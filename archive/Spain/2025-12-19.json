@@ -1,0 +1,43 @@
+{
+  "date": "20 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Vamos a seguir esa estrella!",
+  "bsTitle": "¡Vamos a seguir esa estrella!",
+  "caption": "Lámparas de estrellas navideñas de papel, Alemania",
+  "copyright": "Lámparas de estrellas navideñas de papel, Alemania (© artas/Getty Images)",
+  "copyrightOnly": "© artas/Getty Images",
+  "copyrightLink": "/search?q=Estrella+de+Moravia&form=hpcapt&filters=HpDate%3a%2220251219_2300%22",
+  "description": "A medida que se acerca la Navidad, las lámparas en forma de estrella llenan balcones, escaparates y mercadillos navideños como en la Plaza Mayor de Madrid. Su luz atraviesa las largas noches de invierno y envuelve calles y hogares en alegría, color y una cálida sensación de unión. Detrás de estas decoraciones, sin embargo, hay una historia tan brillante como ellas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_StarLanterns%22&FORM=HPQUIZ",
+  "hash": "fee0c378051f66bc02b7c4144005cad7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ES-ES4365009466_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251219",
+    "fullStartDateTime": "202512192300",
+    "endDate": "20251220"
+  },
+  "createdAt": "202512200229",
+  "originalUrlBase": "/th?id=OHR.StarLanterns_ES-ES4365009466"
+}

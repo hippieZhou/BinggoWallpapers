@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Bormio+Italy&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_BormioItaly%22&FORM=HPQUIZ",
+  "hash": "81de700244ee6f742d0dbd8869f13da5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ROW4800266258_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ROW4800266258_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ROW4800266258_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BormioItaly_ROW4800266258_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251219",
+    "fullStartDateTime": "202512190800",
+    "endDate": "20251220"
+  },
+  "createdAt": "202512200229",
+  "originalUrlBase": "/th?id=OHR.BormioItaly_ROW4800266258"
+}

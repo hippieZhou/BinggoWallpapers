@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "闪烁的纸星星",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "圣诞星形灯笼，德国 (© artas/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%91%a9%e6%8b%89%e7%bb%b4%e4%ba%9a%e4%b9%8b%e6%98%9f&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251219_StarLanterns%22&FORM=HPQUIZ",
+  "hash": "b3bb85269603fdfd8cb0ce076db9a456",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251219",
+    "fullStartDateTime": "202512191600",
+    "endDate": "20251220"
+  },
+  "createdAt": "202512200229",
+  "originalUrlBase": "/th?id=OHR.StarLanterns_ZH-CN5598071900"
+}
