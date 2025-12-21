@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "美丽的雾凇景色",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%86%ac%e8%87%b3&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_WintersolsticeY25%22&FORM=HPQUIZ",
+  "hash": "f07c399179600482dfb8fee975359606",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251220",
+    "fullStartDateTime": "202512201600",
+    "endDate": "20251221"
+  },
+  "createdAt": "202512210254",
+  "originalUrlBase": "/th?id=OHR.WintersolsticeY25_ZH-CN6462419684"
+}

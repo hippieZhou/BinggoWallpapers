@@ -1,0 +1,43 @@
+{
+  "date": "Dec 20, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Twinkle, twinkle, paper stars",
+  "bsTitle": "Twinkle, twinkle, paper stars",
+  "caption": "Christmas star lanterns, Germany",
+  "copyright": "Christmas star lanterns, Germany (© artas/Getty Images)",
+  "copyrightOnly": "© artas/Getty Images",
+  "copyrightLink": "/search?q=Moravian+star&form=hpcapt&filters=HpDate%3a%2220251220_0800%22",
+  "description": "As Christmas draws near, star lanterns begin to appear everywhere—twinkling from balconies, shining in shop windows, and lighting up market stalls. Their shimmer cuts through the long winter nights, filling streets and homes with joy, color, and a sense of togetherness. But behind these festive decorations lies a story as captivating as their glow.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_StarLanterns%22&FORM=HPQUIZ",
+  "hash": "bff4817c25799a2b1293faf4efbc2c0f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251220",
+    "fullStartDateTime": "202512200800",
+    "endDate": "20251221"
+  },
+  "createdAt": "202512210254",
+  "originalUrlBase": "/th?id=OHR.StarLanterns_EN-US5419993556"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Brilha, brilha, estrelinha",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lanternas de Natal em forma de estrela, Alemanha (© artas/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Estrela+de+Natal&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_StarLanterns%22&FORM=HPQUIZ",
+  "hash": "9522a40f4a9236463ad96f9d4ba7855c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarLanterns_PT-BR3547621816_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251220",
+    "fullStartDateTime": "202512200300",
+    "endDate": "20251221"
+  },
+  "createdAt": "202512210254",
+  "originalUrlBase": "/th?id=OHR.StarLanterns_PT-BR3547621816"
+}

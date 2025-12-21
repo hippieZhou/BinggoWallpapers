@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 12月 月 21 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は冬至",
+  "bsTitle": "今日は冬至",
+  "caption": "今日は冬至",
+  "copyright": "屈斜路湖のオオハクチョウ, 北海道 (© Jan Vermeer/Minden)",
+  "copyrightOnly": "© Jan Vermeer/Minden",
+  "copyrightLink": "/search?q=%e5%b1%88%e6%96%9c%e8%b7%af%e6%b9%96%e3%81%ae%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%af%e3%83%81%e3%83%a7%e3%82%a6&form=hpcapt&filters=HpDate%3a%2220251220_1500%22",
+  "description": "今日 12 月 21 日は一年で最も昼が短く、夜が長い冬至です。この日を境に、昼の時間は少しずつ長くなっていきますが、寒さはより一層厳しくなっていきます。かつては、この冬至の日を一年の始まりとする考え方もありました。かぼちゃ食べる風習が一般的ですが、それ以外にも柚子湯に入る、小豆粥を食すなどの風習もあります…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_WinterSolstice2025%22&FORM=HPQUIZ",
+  "hash": "b8c43ecff050d1f6d46bfe1c0ba37436",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251220",
+    "fullStartDateTime": "202512201500",
+    "endDate": "20251221"
+  },
+  "createdAt": "202512210254",
+  "originalUrlBase": "/th?id=OHR.WinterSolstice2025_JA-JP2351386518"
+}

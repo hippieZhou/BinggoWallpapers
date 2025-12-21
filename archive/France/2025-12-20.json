@@ -1,0 +1,43 @@
+{
+  "date": "21 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’aube du renouveau",
+  "bsTitle": "L’aube du renouveau",
+  "caption": "Solstice d’hiver",
+  "copyright": "Lumière de l’aube à travers les arbres givrés, Suède (© Schon/Getty Images)",
+  "copyrightOnly": "© Schon/Getty Images",
+  "copyrightLink": "/search?q=solstice+d%27hiver&form=hpcapt&filters=HpDate%3a%2220251220_2300%22",
+  "description": "À l’extrême nord de la Suède, le soleil renaît timidement entre les troncs givrés. Ce matin de décembre, la lumière semble hésiter, caressant la neige d’un or pâle. C’est le solstice d’hiver, l’instant où la Terre incline le plus loin son regard du Soleil. La nuit atteint son règne absolu, mais déjà, imperceptiblement, les jours rallongent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251220_SwedenSolstice%22&FORM=HPQUIZ",
+  "hash": "27b787764f7ac56dc3ef53f42eeabb40",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_FR-FR1371775798_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251220",
+    "fullStartDateTime": "202512202300",
+    "endDate": "20251221"
+  },
+  "createdAt": "202512210254",
+  "originalUrlBase": "/th?id=OHR.SwedenSolstice_FR-FR1371775798"
+}
