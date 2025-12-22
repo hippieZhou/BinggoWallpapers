@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "历史与现代的交融",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "法兰克福老桥，德国 (© diegograndi/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%b3%95%e5%85%b0%e5%85%8b%e7%a6%8f%e8%80%81%e6%a1%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_FrankfurtAlteBruecke%22&FORM=HPQUIZ",
+  "hash": "ec581ede356c0c48e47ddf9b989b68dc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251221",
+    "fullStartDateTime": "202512211600",
+    "endDate": "20251222"
+  },
+  "createdAt": "202512220256",
+  "originalUrlBase": "/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221"
+}

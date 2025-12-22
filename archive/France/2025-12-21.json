@@ -1,0 +1,43 @@
+{
+  "date": "22 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand la neige se met à danser",
+  "bsTitle": "Quand la neige se met à danser",
+  "caption": "Le ballet Casse-Noisette",
+  "copyright": "« Casse-Noisette » interprété par l’Opéra et Ballet d’État turc à Ankara, Turquie (© Anadolu/Getty Images)",
+  "copyrightOnly": "© Anadolu/Getty Images",
+  "copyrightLink": "/search?q=casse-noisette&form=hpcapt&filters=HpDate%3a%2220251221_2300%22",
+  "description": "Sous la neige de lumière, la scène s’illumine. Les ballerines glissent, diaphanes, autour de Clara et de son Casse-Noisette, emportant le spectateur dans un songe où la magie de Noël devient palpable. Sur les notes cristallines de Tchaïkovski, jouées au célesta, cet étrange piano aux sons de clochettes, naît la féérie du Pays des Délices.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_NutcrackerAnkara%22&FORM=HPQUIZ",
+  "hash": "f54dfdfa47f8c15c407d9c4c30045e6b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_FR-FR1757697936_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_FR-FR1757697936_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_FR-FR1757697936_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_FR-FR1757697936_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251221",
+    "fullStartDateTime": "202512212300",
+    "endDate": "20251222"
+  },
+  "createdAt": "202512220256",
+  "originalUrlBase": "/th?id=OHR.NutcrackerAnkara_FR-FR1757697936"
+}

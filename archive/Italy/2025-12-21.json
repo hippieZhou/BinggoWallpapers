@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Danza senza tempo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "“Lo Schiaccianoci” interpretato dall'Opera e Balletto di Stato turco ad Ankara, Turchia (© Anadolu/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lo+schaiccianoci&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251221_NutcrackerAnkara%22&FORM=HPQUIZ",
+  "hash": "5199a0b93676c00a0b6397b60a92214c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_IT-IT0262984454_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_IT-IT0262984454_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_IT-IT0262984454_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_IT-IT0262984454_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251221",
+    "fullStartDateTime": "202512212300",
+    "endDate": "20251222"
+  },
+  "createdAt": "202512220256",
+  "originalUrlBase": "/th?id=OHR.NutcrackerAnkara_IT-IT0262984454"
+}
