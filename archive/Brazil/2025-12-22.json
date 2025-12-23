@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Das páginas aos palcos do mundo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "“O Quebra-Nozes”, apresentado pela Ópera e Balé Estatal da Turquia em Ancara, Turquia (© Anadolu/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+quebra+nozes+ballet&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251222_NutcrackerAnkara%22&FORM=HPQUIZ",
+  "hash": "1ed021550db7d855f59b4585ce32d31d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_PT-BR2095396672_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_PT-BR2095396672_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_PT-BR2095396672_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NutcrackerAnkara_PT-BR2095396672_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251222",
+    "fullStartDateTime": "202512220300",
+    "endDate": "20251223"
+  },
+  "createdAt": "202512230250",
+  "originalUrlBase": "/th?id=OHR.NutcrackerAnkara_PT-BR2095396672"
+}

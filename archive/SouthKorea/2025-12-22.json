@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Alte Brücke Bridge, Frankfurt, Germany (© diegograndi/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Alte+Brucke&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251222_FrankfurtAlteBruecke%22&FORM=HPQUIZ",
+  "hash": "6632f3b705fba530404e7c6c3d8747fe",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ROW5240961184_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ROW5240961184_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ROW5240961184_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ROW5240961184_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251222",
+    "fullStartDateTime": "202512220800",
+    "endDate": "20251223"
+  },
+  "createdAt": "202512230250",
+  "originalUrlBase": "/th?id=OHR.FrankfurtAlteBruecke_ROW5240961184"
+}
