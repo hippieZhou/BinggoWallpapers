@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Tradizioni che emozioni",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cappella innevata con albero di Natale nelle Alpi bavaresi, Germania (© mauritius images GmbH/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Viglia+di+Natale&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ",
+  "hash": "f03b2ccaafe6f3e75725f15049ba2402",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_IT-IT0705069498_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_IT-IT0705069498_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_IT-IT0705069498_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_IT-IT0705069498_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251223",
+    "fullStartDateTime": "202512232300",
+    "endDate": "20251224"
+  },
+  "createdAt": "202512240248",
+  "originalUrlBase": "/th?id=OHR.ElmauChapel_IT-IT0705069498"
+}

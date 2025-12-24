@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "流动的传统",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国 (© mauritius images GmbH/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b9%b3%e5%ae%89%e5%a4%9c&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ",
+  "hash": "51128e8276f6933cfb94aa611007dc70",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251223",
+    "fullStartDateTime": "202512231600",
+    "endDate": "20251224"
+  },
+  "createdAt": "202512240248",
+  "originalUrlBase": "/th?id=OHR.ElmauChapel_ZH-CN6919330333"
+}

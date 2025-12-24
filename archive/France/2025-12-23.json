@@ -1,0 +1,43 @@
+{
+  "date": "24 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une nuit magique nous attend !",
+  "bsTitle": "Une nuit magique nous attend !",
+  "caption": "Réveillon de Noël",
+  "copyright": "Chapelle avec sapin de Noël dans les Alpes bavaroises, Allemagne (© mauritius images GmbH/Alamy)",
+  "copyrightOnly": "© mauritius images GmbH/Alamy",
+  "copyrightLink": "/search?q=r%c3%a9veillon+de+no%c3%abl&form=hpcapt&filters=HpDate%3a%2220251223_2300%22",
+  "description": "La nuit tombe sur les Alpes bavaroises. Une chapelle minuscule, coiffée de neige, veille au bord de la forêt. À côté, un sapin illuminé fend l’obscurité bleutée, comme un phare dans le silence glacé. En Bavière, le réveillon de Noël se vit entre montagnes et traditions : les villages s’embrasent de guirlandes, l’air embaume le pain d’épices et le vin chaud, et les cloches résonnent jusque dans les vallées.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ",
+  "hash": "e9696208bc8f8d7e8d2c9a39a113c522",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_FR-FR3119291708_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_FR-FR3119291708_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_FR-FR3119291708_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_FR-FR3119291708_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251223",
+    "fullStartDateTime": "202512232300",
+    "endDate": "20251224"
+  },
+  "createdAt": "202512240248",
+  "originalUrlBase": "/th?id=OHR.ElmauChapel_FR-FR3119291708"
+}

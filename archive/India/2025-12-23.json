@@ -1,0 +1,43 @@
+{
+  "date": "Dec 24, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Traditions that travel",
+  "bsTitle": "Traditions that travel",
+  "caption": "Christmas Eve",
+  "copyright": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)",
+  "copyrightOnly": "© mauritius images GmbH/Alamy",
+  "copyrightLink": "/search?q=Christmas+Eve&form=hpcapt&filters=HpDate%3a%2220251223_1830%22",
+  "description": "As Christmas Eve arrives, millions embrace customs that connect us to our roots—or introduce us to entirely new cultures. In snowy regions like the Bavarian Alps in Germany—a frost-kissed landscape seen in today's image—festive lights glow against winter's chill. Elsewhere, the sun blazes brightly: think of the Caribbean, Australia, or Brazil, where Christmas often means golden beaches instead of frosty mornings.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_ElmauChapel%22&FORM=HPQUIZ",
+  "hash": "bff7d3c716f36c4d0939ec9d114db186",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-IN8516225171_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-IN8516225171_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-IN8516225171_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-IN8516225171_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251223",
+    "fullStartDateTime": "202512231830",
+    "endDate": "20251224"
+  },
+  "createdAt": "202512240248",
+  "originalUrlBase": "/th?id=OHR.ElmauChapel_EN-IN8516225171"
+}

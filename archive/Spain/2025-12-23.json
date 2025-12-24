@@ -1,0 +1,43 @@
+{
+  "date": "24 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un canto celestial",
+  "bsTitle": "Un canto celestial",
+  "caption": "Canto de la Sibila, Catedral de Mallorca, Islas Baleares, España",
+  "copyright": "Canto de la Sibila, Catedral-Basílica de Santa María de Mallorca, Islas Baleares, España (© Daniel OUDIN/Alamy)",
+  "copyrightOnly": "© Daniel OUDIN/Alamy",
+  "copyrightLink": "/search?q=Canto+de+la+Sibila&form=hpcapt&filters=HpDate%3a%2220251223_2300%22",
+  "description": "En la mágica Nochebuena de Mallorca, un antiguo ritual ilumina la catedral de Santa María: el Canto de la Sibila. Este drama litúrgico de melodía gregoriana, declarado Patrimonio Inmaterial de la Humanidad por la UNESCO en 2010, se interpreta cada 24 de diciembre durante la Misa de Gallo y las maitines de Navidad.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251223_SibylSongMallorca%22&FORM=HPQUIZ",
+  "hash": "2491eb929b46daa87187d411217f200b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251223",
+    "fullStartDateTime": "202512232300",
+    "endDate": "20251224"
+  },
+  "createdAt": "202512240248",
+  "originalUrlBase": "/th?id=OHR.SibylSongMallorca_ES-ES5129981423"
+}
