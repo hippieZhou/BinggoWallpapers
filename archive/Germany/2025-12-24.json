@@ -1,0 +1,43 @@
+{
+  "date": "25. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Kleine Welten, großer Zauber",
+  "bsTitle": "Kleine Welten, großer Zauber",
+  "caption": "Frohe Weihnachten!",
+  "copyright": "Schneekugeln auf einem Weihnachtsmarkt in Heidelberg, Baden-Württemberg (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=Weihnachten&form=hpcapt&filters=HpDate%3a%2220251224_2300%22",
+  "description": "Ein sanftes Schütteln genügt – und schon tanzt Schnee um eine kleine Welt im Glas. Schneekugeln haben eine faszinierende Geschichte: Erste wassergefüllte Glaskugeln gab es bereits im 16. Jahrhundert, doch die Schneekugel, wie wir sie heute kennen, erfand Erwin Perzy um 1900 in Wien. Sein Modell der Basilika von Mariazell, gefüllt mit Wasser und feinem Grieß als Schnee, wurde zum Kultobjekt und machte die Schneekugel weltweit bekannt. Heute erstrahlen diese Miniaturwelten in unzähligen Designs und liebevollen Motiven, wie das heutige Bild vom Heidelberger Weihnachtsmarkt eindrucksvoll zeigt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+  "hash": "d47b60cd5d8a20755921a57439cd175c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_DE-DE3146908571_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_DE-DE3146908571_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_DE-DE3146908571_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_DE-DE3146908571_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251224",
+    "fullStartDateTime": "202512242300",
+    "endDate": "20251225"
+  },
+  "createdAt": "202512250251",
+  "originalUrlBase": "/th?id=OHR.SantaGlobe_DE-DE3146908571"
+}

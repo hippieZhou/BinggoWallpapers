@@ -1,0 +1,43 @@
+{
+  "date": "25 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’esprit de Noël, en miniature",
+  "bsTitle": "L’esprit de Noël, en miniature",
+  "caption": "Joyeux Noël !",
+  "copyright": "Boules à neige sur un marché de Noël à Heidelberg, Allemagne (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=jour+de+No%c3%abl&form=hpcapt&filters=HpDate%3a%2220251224_2300%22",
+  "description": "Sous le ciel d’hiver d’Heidelberg, en Allemagne, les lumières des chalets se reflètent sur des rangées de boules à neige. Chacune renferme un univers miniature : un Père Noël figé dans sa ronde, une forêt étincelante, une promesse d’enfance. Dans cette ville romantique bordée par le Neckar, le marché de Noël emplit la vieille place de son parfum d’épices et de bois chaud.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+  "hash": "4032ba1e40048ca90132b93e2f146268",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_FR-FR4387473652_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251224",
+    "fullStartDateTime": "202512242300",
+    "endDate": "20251225"
+  },
+  "createdAt": "202512250251",
+  "originalUrlBase": "/th?id=OHR.SantaGlobe_FR-FR4387473652"
+}

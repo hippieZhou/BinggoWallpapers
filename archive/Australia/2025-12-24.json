@@ -1,0 +1,43 @@
+{
+  "date": "Dec 24, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Starling murmuration, Brighton, England",
+  "copyright": "Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)",
+  "copyrightOnly": "© Philip Reeve/Photodisc/Getty Images",
+  "copyrightLink": "/search?q=Starling+murmuration&form=hpcapt&filters=HpDate%3a%2220251224_0800%22",
+  "description": "When a bird is called a starling, you'd expect it to be a bit of a show-off. True to its name, this little creature knows how to steal the spotlight. From shimmering feathers that glint green and purple in the sun, to its ability to mimic sounds, the starling is the headline act. Originally native to Europe and Asia, the common starling has spread across the globe. In the 19th century, a group of them were introduced to New York's Central Park by an enthusiast of birds mentioned in Shakespeare's plays.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_StarlingBrighton2025%22&FORM=HPQUIZ",
+  "hash": "35d3dc3e6854a8a4ec325b345a866d0f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ROW5558323918_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ROW5558323918_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ROW5558323918_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ROW5558323918_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251224",
+    "fullStartDateTime": "202512240800",
+    "endDate": "20251225"
+  },
+  "createdAt": "202512250251",
+  "originalUrlBase": "/th?id=OHR.StarlingBrighton2025_ROW5558323918"
+}

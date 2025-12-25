@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "微缩世界，无尽奇想",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9c%a3%e8%af%9e%e8%8a%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+  "hash": "248006ac4e16620ed5e0b99844f403cc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251224",
+    "fullStartDateTime": "202512241600",
+    "endDate": "20251225"
+  },
+  "createdAt": "202512250251",
+  "originalUrlBase": "/th?id=OHR.SantaGlobe_ZH-CN7032279153"
+}

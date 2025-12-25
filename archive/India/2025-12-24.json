@@ -1,0 +1,43 @@
+{
+  "date": "Dec 25, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Miniature worlds, infinite wonder",
+  "bsTitle": "Miniature worlds, infinite wonder",
+  "caption": "Merry Christmas!",
+  "copyright": "Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=Christmas&form=hpcapt&filters=HpDate%3a%2220251224_1830%22",
+  "description": "Beneath Heidelberg's winter sky in Germany, stalls sparkle with snow globes, each capturing the spirit of the season in a miniature world. Today, Christmas—a Christian celebration of faith, light and togetherness—invites us to welcome warmth and joy into the coldest days of the year. Across continents, candles glow on windowsills and garlands twine through homes and streets. Evergreen trees stand adorned, their branches heavy with ornaments and gifts waiting quietly beneath.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+  "hash": "50031b3501de98b89d09564a43121724",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251224",
+    "fullStartDateTime": "202512241830",
+    "endDate": "20251225"
+  },
+  "createdAt": "202512250251",
+  "originalUrlBase": "/th?id=OHR.SantaGlobe_EN-IN8671777119"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 12月 月 25 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はクリスマス",
+  "bsTitle": "今日はクリスマス",
+  "caption": "今日はクリスマス",
+  "copyright": "クリスマスマーケットのスノードーム, ドイツ (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%2c+%e3%83%89%e3%82%a4%e3%83%84&form=hpcapt&filters=HpDate%3a%2220251224_1500%22",
+  "description": "今日 12 月 25 日はクリスマス。イエス・キリストの誕生を祝う祭日で、国や地域によって、その過ごし方や風習は異なっています。例えば、日本ではフライドチキンが定番の食べ物となっていますが、イギリスや米国では七面鳥のローストなどが一般的です。また、南半球の国々では真夏にあたるため、屋外やプールサイドでパーティーが行われます…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251224_SantaGlobe%22&FORM=HPQUIZ",
+  "hash": "5ebdd342c14fed1a9a17de42f0909441",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251224",
+    "fullStartDateTime": "202512241500",
+    "endDate": "20251225"
+  },
+  "createdAt": "202512250251",
+  "originalUrlBase": "/th?id=OHR.SantaGlobe_JA-JP3196648040"
+}
