@@ -1,0 +1,43 @@
+{
+  "date": "26 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La joya de Wiltshire",
+  "bsTitle": "La joya de Wiltshire",
+  "caption": "Catedral de Salisbury, Wiltshire, Inglaterra",
+  "copyright": "Catedral de Salisbury, Wiltshire, Inglaterra (© Julian Elliott Photography/Getty Images)",
+  "copyrightOnly": "© Julian Elliott Photography/Getty Images",
+  "copyrightLink": "/search?q=Catedral+de+Salisbury&form=hpcapt&filters=HpDate%3a%2220251225_2300%22",
+  "description": "Hoy contemplamos la majestuosa Catedral de Salisbury, ubicada en Wiltshire, Inglaterra. Esta obra maestra del gótico inglés se alza con elegancia desde el siglo XIII, destacando por su aguja, la más alta del Reino Unido con 123 metros. Su construcción, realizada en apenas 38 años, es un logro excepcional para la época. Además de su imponente arquitectura, Salisbury guarda uno de los tesoros más valiosos de la historia: una copia original de la Carta Magna de 1215, símbolo de derechos y libertades. Rodeada por el pintoresco Close, la catedral no solo es un lugar de culto, sino también un espacio donde la historia, el arte y la espiritualidad se entrelazan, atrayendo a visitantes de todo el mundo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+  "hash": "6175215d407fe5510497d638d1880623",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251225",
+    "fullStartDateTime": "202512252300",
+    "endDate": "20251226"
+  },
+  "createdAt": "202512260249",
+  "originalUrlBase": "/th?id=OHR.WiltshireDawn_ES-ES4611953486"
+}

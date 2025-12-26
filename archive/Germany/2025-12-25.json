@@ -1,0 +1,43 @@
+{
+  "date": "26. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Tradition trifft Entspannung",
+  "bsTitle": "Tradition trifft Entspannung",
+  "caption": "Zweiter Weihnachtsfeiertag",
+  "copyright": "Kathedrale von Salisbury, Wiltshire, England (© Julian Elliott Photography/Getty Images)",
+  "copyrightOnly": "© Julian Elliott Photography/Getty Images",
+  "copyrightLink": "/search?q=Zweiter+Weihnachtsfeiertag&form=hpcapt&filters=HpDate%3a%2220251225_2300%22",
+  "description": "Wussten Sie, dass am 26. Dezember in Teilen des Commonwealth, also in Ländern, die historisch mit dem Vereinigten Königreich verbunden sind, der sogenannte Boxing Day gefeiert wird? Der Brauch stammt ursprünglich aus dem viktorianischen Zeitalter in England. Damals erhielten Bedienstete und Bedürftige „Christmas Boxes“ mit kleinen Geschenken oder Geld und die Kirchen öffneten ihre Almosenboxen für Spenden.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+  "hash": "dfdd5d4bbd5a50130f1383bd6aadedb3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_DE-DE2989262973_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251225",
+    "fullStartDateTime": "202512252300",
+    "endDate": "20251226"
+  },
+  "createdAt": "202512260249",
+  "originalUrlBase": "/th?id=OHR.WiltshireDawn_DE-DE2989262973"
+}

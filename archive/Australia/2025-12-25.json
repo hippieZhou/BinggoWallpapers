@@ -1,0 +1,43 @@
+{
+  "date": "Dec 25, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Reindeer, Lapland, Finland",
+  "copyright": "Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)",
+  "copyrightOnly": "© Roberto Moiola/Getty Images",
+  "copyrightLink": "/search?q=Reindeer&form=hpcapt&filters=HpDate%3a%2220251225_0800%22",
+  "description": "Few creatures evoke the magic of the holidays quite like the reindeer. Also known as caribou, they are the spirit animals of Christmas lovers—and they rock it. Sturdy and sure-footed, they've been pulling Santa's sleigh ever since Clement Clarke Moore cast them in the role in his 1823 poem 'A Visit from Saint Nicholas.' And they were born for it. Their hooves shrink in winter to expose a gripping rim, then expand in warmer months for better traction.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_ReindeerFinland%22&FORM=HPQUIZ",
+  "hash": "52ed06132b428250e194c11b15b63386",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ROW5662663795_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ROW5662663795_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ROW5662663795_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ReindeerFinland_ROW5662663795_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251225",
+    "fullStartDateTime": "202512250800",
+    "endDate": "20251226"
+  },
+  "createdAt": "202512260249",
+  "originalUrlBase": "/th?id=OHR.ReindeerFinland_ROW5662663795"
+}

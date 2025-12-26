@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Tradizioni d’Oltremanica",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cattedrale di Salisbury, Wiltshire, Inghilterra (© Julian Elliott Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Boxing+Day&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+  "hash": "d46150ce2b9bbc908122a67e6edad34e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251225",
+    "fullStartDateTime": "202512252300",
+    "endDate": "20251226"
+  },
+  "createdAt": "202512260249",
+  "originalUrlBase": "/th?id=OHR.WiltshireDawn_IT-IT1269440144"
+}

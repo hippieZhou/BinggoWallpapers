@@ -1,0 +1,43 @@
+{
+  "date": "Dec. 25, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Christmas couture",
+  "bsTitle": "Christmas couture",
+  "caption": "Merry Christmas!",
+  "copyright": "Christmas trees in Old Quebec (© Jean Surprenant/Getty Images)",
+  "copyrightOnly": "© Jean Surprenant/Getty Images",
+  "copyrightLink": "/search?q=Christmas&form=hpcapt&filters=HpDate%3a%2220251225_0500%22",
+  "description": "Under a crisp Canadian winter sky, it's the glow of Christmas trees—on city squares, on neighbourhood lawns and in living-room windows—that sets the season alight. From Toronto's Cavalcade of Lights to Vancouver's Festival of Lights at VanDusen Garden, communities gather around these lit evergreens, sharing warmth during the year's coldest weeks. Christmas—a celebration of faith, light and togetherness—invites people to bring that brightness indoors. Garlands wind through hallways, candles cast a soft glow across familiar rooms and mistletoe hangs in doorways while wreaths greet guests at the front door.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_XmasTree%22&FORM=HPQUIZ",
+  "hash": "ec4720cc2d471049dbb3942dbfde0a3b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251225",
+    "fullStartDateTime": "202512250500",
+    "endDate": "20251226"
+  },
+  "createdAt": "202512260249",
+  "originalUrlBase": "/th?id=OHR.XmasTree_EN-CA1915827603"
+}

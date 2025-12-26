@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "打破盒子的传统",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%8a%82%e7%a4%bc%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22&FORM=HPQUIZ",
+  "hash": "792b448f747e37023fd3190fb391b45c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251225",
+    "fullStartDateTime": "202512251600",
+    "endDate": "20251226"
+  },
+  "createdAt": "202512260249",
+  "originalUrlBase": "/th?id=OHR.WiltshireDawn_ZH-CN2887906329"
+}

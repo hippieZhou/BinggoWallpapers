@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Luz, esperança e união",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Árvore de Natal na cidade do Rio de Janeiro (© Ruy Barbosa Pinto/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+Natal&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251225_XmasRio%22&FORM=HPQUIZ",
+  "hash": "3cfd446bb7b1e9e345349d84bf5fead9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251225",
+    "fullStartDateTime": "202512250300",
+    "endDate": "20251226"
+  },
+  "createdAt": "202512260249",
+  "originalUrlBase": "/th?id=OHR.XmasRio_PT-BR9436214235"
+}
