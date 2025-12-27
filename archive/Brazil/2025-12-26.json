@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Clima festivo sem pressa",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Catedral de Salisbury, Wiltshire, Inglaterra (© Julian Elliott Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=boxing+day%2c+feriado+secular&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251226_WiltshireDawn%22&FORM=HPQUIZ",
+  "hash": "ad1fdbb3bf63889ace1ca22a4e82cc0e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_PT-BR7681463999_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_PT-BR7681463999_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_PT-BR7681463999_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WiltshireDawn_PT-BR7681463999_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251226",
+    "fullStartDateTime": "202512260300",
+    "endDate": "20251227"
+  },
+  "createdAt": "202512270246",
+  "originalUrlBase": "/th?id=OHR.WiltshireDawn_PT-BR7681463999"
+}

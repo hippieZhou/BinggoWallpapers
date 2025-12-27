@@ -1,0 +1,43 @@
+{
+  "date": "27 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une immensité argentée sans pareille",
+  "bsTitle": "Une immensité argentée sans pareille",
+  "caption": "Lac Supérieur, Minnesota, États-Unis",
+  "copyright": "Plaques de glace sur le lac Supérieur, Minnesota, États-Unis (© wanderluster/Getty Images)",
+  "copyrightOnly": "© wanderluster/Getty Images",
+  "copyrightLink": "/search?q=Lac+Sup%c3%a9rieur+%c3%89tats+Unis&form=hpcapt&filters=HpDate%3a%2220251226_2300%22",
+  "description": "Quand l’hiver s’empare du lac Supérieur, au nord du Minnesota, aux États-Unis, le rivage se métamorphose en une mosaïque de plaques cristallines. Ces fines feuilles de glace, fragilisées par les variations de température, se fracturent, dérivent et s’empilent sous l’impulsion du vent. Le résultat : un paysage de bleus translucides et d’éclats argentés, où la lumière accroche chaque arête comme sur une sculpture éphémère.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251226_SuperiorIceMN%22&FORM=HPQUIZ",
+  "hash": "cff7d4433a92eb3993b0aa1e316804ac",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251226",
+    "fullStartDateTime": "202512262300",
+    "endDate": "20251227"
+  },
+  "createdAt": "202512270246",
+  "originalUrlBase": "/th?id=OHR.SuperiorIceMN_FR-FR4676327003"
+}

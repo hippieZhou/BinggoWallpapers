@@ -1,0 +1,43 @@
+{
+  "date": "27 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Fragmentos de invierno",
+  "bsTitle": "Fragmentos de invierno",
+  "caption": "Lago Superior, Grand Marais, Minnesota, EE.\u202FUU.",
+  "copyright": "Placas de hielo a lo largo del Lago Superior, Grand Marais, Minnesota, EE.\u202FUU. (© wanderluster/Getty Images)",
+  "copyrightOnly": "© wanderluster/Getty Images",
+  "copyrightLink": "/search?q=Lago+Superior&form=hpcapt&filters=HpDate%3a%2220251226_2300%22",
+  "description": "El Lago Superior, el más grande de los Grandes Lagos de Norteamérica, es un océano de agua dulce que desafía el invierno con su inmensidad. En la imagen de hoy podemos admirar las láminas de hielo que se extienden a lo largo de sus aguas en Grand Marais, Minnesota (Estados Unidos), un espectáculo donde el frío convierte la superficie en fragmentos que parecen espejos rotos. Cada pieza refleja la luz como si el invierno se hubiera hecho añicos sobre el lago, creando un paisaje que mezcla silencio, viento y formas efímeras sobre la nieve.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251226_SuperiorIceMN%22&FORM=HPQUIZ",
+  "hash": "41e88db93e8c44cd5737f4a76dff3dd3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_ES-ES4840040779_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_ES-ES4840040779_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_ES-ES4840040779_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_ES-ES4840040779_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251226",
+    "fullStartDateTime": "202512262300",
+    "endDate": "20251227"
+  },
+  "createdAt": "202512270246",
+  "originalUrlBase": "/th?id=OHR.SuperiorIceMN_ES-ES4840040779"
+}
