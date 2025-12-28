@@ -1,0 +1,43 @@
+{
+  "date": "28. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wächter des Waldes",
+  "bsTitle": "Wächter des Waldes",
+  "caption": "Schwarzweißer Vari auf Madagaskar",
+  "copyright": "Schwarzweißer Vari auf Madagaskar (© Cyrielle Beaubois/Getty Images)",
+  "copyrightOnly": "© Cyrielle Beaubois/Getty Images",
+  "copyrightLink": "/search?q=Lemuren&form=hpcapt&filters=HpDate%3a%2220251227_2300%22",
+  "description": "Wussten Sie, dass der Schwarzweiße Vari zu den wichtigsten „Gärtnern“ Madagaskars gehört? Diese auffälligen Lemuren, deren laute Rufe durch die Regenwälder schallen, leben ausschließlich auf Madagaskar. Beim Fressen verbreiten sie Samen und tragen so entscheidend dazu bei, dass sich der Wald regenerieren kann. Manche Pflanzen sind sogar direkt auf sie angewiesen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_RuffedLemur%22&FORM=HPQUIZ",
+  "hash": "f1053ab7648d0db7ed012fc93e73f21c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_DE-DE7591770209_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_DE-DE7591770209_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_DE-DE7591770209_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_DE-DE7591770209_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251227",
+    "fullStartDateTime": "202512272300",
+    "endDate": "20251228"
+  },
+  "createdAt": "202512280302",
+  "originalUrlBase": "/th?id=OHR.RuffedLemur_DE-DE7591770209"
+}

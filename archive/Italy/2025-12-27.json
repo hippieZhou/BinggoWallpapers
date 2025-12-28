@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Curioso selvaggio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lemure dal collare bianco e nero, Madagascar (© Cyrielle Beaubois/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lemure+varecia+(Varecia+variegata)&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_RuffedLemur%22&FORM=HPQUIZ",
+  "hash": "585e07cf663fc094371de8ba9a598e24",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_IT-IT1435281157_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_IT-IT1435281157_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_IT-IT1435281157_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_IT-IT1435281157_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251227",
+    "fullStartDateTime": "202512272300",
+    "endDate": "20251228"
+  },
+  "createdAt": "202512280302",
+  "originalUrlBase": "/th?id=OHR.RuffedLemur_IT-IT1435281157"
+}

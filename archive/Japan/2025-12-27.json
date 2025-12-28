@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 12月 月 28 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "霧に包まれた針葉樹林",
+  "bsTitle": "霧に包まれた針葉樹林",
+  "caption": "霧に包まれた針葉樹林",
+  "copyright": "アルザス地域圏の森, フランス (© alekseystemmer/Getty Images)",
+  "copyrightOnly": "© alekseystemmer/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%ab%e3%82%b6%e3%82%b9%e5%9c%b0%e5%9f%9f%e5%9c%8f&form=hpcapt&filters=HpDate%3a%2220251227_1500%22",
+  "description": "フランスの北東部に位置するアルザス地域圏。長い間、フランスとドイツの間で領有権が争われてきた地域で、文化や建築に両国の影響が色濃く残っています。首府ストラスブールには世界遺産に登録された旧市街と壮麗な大聖堂があり、人気の観光地として多くの人々を魅了しています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_MistyPineForest%22&FORM=HPQUIZ",
+  "hash": "25419a9df151865353ee3d57a3d1a131",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251227",
+    "fullStartDateTime": "202512271500",
+    "endDate": "20251228"
+  },
+  "createdAt": "202512280302",
+  "originalUrlBase": "/th?id=OHR.MistyPineForest_JA-JP0902135263"
+}

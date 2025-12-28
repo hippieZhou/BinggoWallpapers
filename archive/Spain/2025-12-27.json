@@ -1,0 +1,43 @@
+{
+  "date": "28 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El guardián del bosque",
+  "bsTitle": "El guardián del bosque",
+  "caption": "Lémur rufo blanco y negro en Madagascar",
+  "copyright": "Lémur rufo blanco y negro en Madagascar (© Cyrielle Beaubois/Getty Images)",
+  "copyrightOnly": "© Cyrielle Beaubois/Getty Images",
+  "copyrightLink": "/search?q=L%c3%a9mures&form=hpcapt&filters=HpDate%3a%2220251227_2300%22",
+  "description": "En el corazón de los bosques de Madagascar vive un animal extraordinario: el lémur rufo blanco y negro. Sus gritos, audibles a gran distancia, acompañan una labor vital para el ecosistema. Al alimentarse de frutos y néctar, dispersa semillas y contribuye a la regeneración del bosque. Hay incluso plantas que dependen por completo de él.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_RuffedLemur%22&FORM=HPQUIZ",
+  "hash": "117877f27ed6cfd59a3f19d173afa812",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_ES-ES4805768745_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_ES-ES4805768745_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_ES-ES4805768745_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_ES-ES4805768745_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251227",
+    "fullStartDateTime": "202512272300",
+    "endDate": "20251228"
+  },
+  "createdAt": "202512280302",
+  "originalUrlBase": "/th?id=OHR.RuffedLemur_ES-ES4805768745"
+}

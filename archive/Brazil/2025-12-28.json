@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um eco de vida",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Varecia-preto-e-branco em Madagascar (© Cyrielle Beaubois/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Varecia-preto-e-branco&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_RuffedLemur%22&FORM=HPQUIZ",
+  "hash": "346de0b962d591ce444a0ecc00b291a9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_PT-BR6904572079_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_PT-BR6904572079_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_PT-BR6904572079_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_PT-BR6904572079_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251228",
+    "fullStartDateTime": "202512280300",
+    "endDate": "20251229"
+  },
+  "createdAt": "202512280302",
+  "originalUrlBase": "/th?id=OHR.RuffedLemur_PT-BR6904572079"
+}

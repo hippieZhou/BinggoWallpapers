@@ -1,0 +1,43 @@
+{
+  "date": "Dec 27, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Shards of winter",
+  "bsTitle": "Shards of winter",
+  "caption": "Plate ice along Lake Superior, Grand Marais, Minnesota",
+  "copyright": "Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)",
+  "copyrightOnly": "© wanderluster/Getty Images",
+  "copyrightLink": "/search?q=Lake+Superior+Minnesota&form=hpcapt&filters=HpDate%3a%2220251227_0800%22",
+  "description": "When winter tightens its grip on Lake Superior in Minnesota, the shoreline transforms into a landscape of tilted, glass-like shards known as plate ice. Thin sheets fracture under shifting temperatures, then drift and stack as the wind presses them toward land. The result is a field of translucent blues and silvers, catching the light at sharp angles and making the water's edge appear sculpted rather than frozen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251227_SuperiorIceMN%22&FORM=HPQUIZ",
+  "hash": "4113c42d1010f7cbf1aeb1c553b3da00",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251227",
+    "fullStartDateTime": "202512270800",
+    "endDate": "20251228"
+  },
+  "createdAt": "202512280302",
+  "originalUrlBase": "/th?id=OHR.SuperiorIceMN_EN-US5952266924"
+}
