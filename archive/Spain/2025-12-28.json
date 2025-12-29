@@ -1,0 +1,43 @@
+{
+  "date": "29 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Caminos de la historia",
+  "bsTitle": "Caminos de la historia",
+  "caption": "Iglesia de San Gregorio en las ruinas de Ani, Kars, Turquía",
+  "copyright": "Iglesia de San Gregorio en las ruinas de Ani, Kars, Turquía (© Kenan Talas/Getty Images)",
+  "copyrightOnly": "© Kenan Talas/Getty Images",
+  "copyrightLink": "/search?q=Ani+en+Kars+Turqu%c3%ada&form=hpcapt&filters=HpDate%3a%2220251228_2300%22",
+  "description": "En una meseta azotada por el viento, en el este de Turquía y junto a la frontera con Armenia, las ruinas de Ani se recortan nítidas en el horizonte. La Iglesia de San Gregorio, construida en piedra volcánica oscura, aún eleva su torre cilíndrica como un faro que vela sobre el silencio de la llanura. En otro tiempo, Ani fue llamada la “Ciudad de las 1.001 Iglesias”; sus arquitectos experimentaban con arcos, cúpulas, fachadas y geometrías que inspirarían tradiciones lejanas, incluso el gótico europeo. Entre grietas y ruinas, su huella sigue viva.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+  "hash": "1c3f15cb24842fcce051576706873862",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ES-ES0462839984_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ES-ES0462839984_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ES-ES0462839984_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ES-ES0462839984_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251228",
+    "fullStartDateTime": "202512282300",
+    "endDate": "20251229"
+  },
+  "createdAt": "202512290302",
+  "originalUrlBase": "/th?id=OHR.AniTurkey_ES-ES0462839984"
+}

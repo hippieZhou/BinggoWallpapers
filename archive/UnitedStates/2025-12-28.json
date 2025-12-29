@@ -1,0 +1,43 @@
+{
+  "date": "Dec 28, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "What remains wild",
+  "bsTitle": "What remains wild",
+  "caption": "Anniversary of the Endangered Species Act of 1973",
+  "copyright": "Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)",
+  "copyrightOnly": "© Cyrielle Beaubois/Getty Images",
+  "copyrightLink": "/search?q=Endangered+Species+Act+1973&form=hpcapt&filters=HpDate%3a%2220251228_0800%22",
+  "description": "Fifty-one years after the Endangered Species Act (ESA) became law, its purpose remains clear: to protect species facing extinction and preserve the habitats they depend on. Signed in 1973, the ESA became one of the world's strongest conservation laws, influencing policies well beyond the United States. It demonstrates that recovery is possible when science and enforcement work together. Its influence on conservation is especially clear in species whose futures hinge on international attention. The black-and-white ruffed lemur of Madagascar is one such example. Many people recognize lemurs from the animated movie 'Madagascar,' but the real animal faces a much harsher reality. This striking primate is critically endangered, surviving in increasingly fragmented forests where habitat loss remains a constant threat.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_RuffedLemur%22&FORM=HPQUIZ",
+  "hash": "858632a722462735f072ade884d5da17",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251228",
+    "fullStartDateTime": "202512280800",
+    "endDate": "20251229"
+  },
+  "createdAt": "202512290302",
+  "originalUrlBase": "/th?id=OHR.RuffedLemur_EN-US6014028083"
+}

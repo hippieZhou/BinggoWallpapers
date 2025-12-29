@@ -1,0 +1,43 @@
+{
+  "date": "29 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La ville aux mille et une églises",
+  "bsTitle": "La ville aux mille et une églises",
+  "caption": "Église Saint-Grégoire à Ani, Kars, Turquie",
+  "copyright": "Église Saint-Grégoire à Ani, Kars, Turquie (© Kenan Talas/Getty Images)",
+  "copyrightOnly": "© Kenan Talas/Getty Images",
+  "copyrightLink": "/search?q=ruines+Ani+Turquie&form=hpcapt&filters=HpDate%3a%2220251228_2300%22",
+  "description": "Sur un plateau balayé par les vents, à l’est de la Turquie, les ruines d’Ani surgissent comme une silhouette figée dans le temps. Il y a mille ans, cette cité arménienne animait la route de la soie, ses remparts et ses marchés vibrant au rythme des échanges.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+  "hash": "9402fc9fc3f4f314020b52b6f09531b7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251228",
+    "fullStartDateTime": "202512282300",
+    "endDate": "20251229"
+  },
+  "createdAt": "202512290302",
+  "originalUrlBase": "/th?id=OHR.AniTurkey_FR-FR6681755589"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一座比城市更悠久的教堂",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9c%9f%e8%80%b3%e5%85%b6%e9%98%bf%e5%b0%bc%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+  "hash": "65e50e12e8f01672f0a013eb1f4f1b62",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251228",
+    "fullStartDateTime": "202512281600",
+    "endDate": "20251229"
+  },
+  "createdAt": "202512290302",
+  "originalUrlBase": "/th?id=OHR.AniTurkey_ZH-CN5838141955"
+}

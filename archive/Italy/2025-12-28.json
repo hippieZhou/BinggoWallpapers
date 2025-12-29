@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Storia, Vento e Rovine",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Chiesa di San Gregorio nelle rovine di Ani, Kars, Turchia (© Kenan Talas/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Ani+citt%c3%a0&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251228_AniTurkey%22&FORM=HPQUIZ",
+  "hash": "4e6c889397088367084a5c48b6d6dfb4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_IT-IT1549681594_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_IT-IT1549681594_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_IT-IT1549681594_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AniTurkey_IT-IT1549681594_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251228",
+    "fullStartDateTime": "202512282300",
+    "endDate": "20251229"
+  },
+  "createdAt": "202512290302",
+  "originalUrlBase": "/th?id=OHR.AniTurkey_IT-IT1549681594"
+}
