@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "新太阳的诞生",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%8c%97%e5%8d%8a%e7%90%83%e7%9a%84%e5%86%ac%e5%ad%a3&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_SwedenSolstice%22&FORM=HPQUIZ",
+  "hash": "d3aa55b4bdbf50f4e5c8454d76cf8c00",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251229",
+    "fullStartDateTime": "202512291600",
+    "endDate": "20251230"
+  },
+  "createdAt": "202512300252",
+  "originalUrlBase": "/th?id=OHR.SwedenSolstice_ZH-CN8975506700"
+}

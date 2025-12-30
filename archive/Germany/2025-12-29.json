@@ -1,0 +1,43 @@
+{
+  "date": "30. Dez.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Tanz mit dem Wind",
+  "bsTitle": "Ein Tanz mit dem Wind",
+  "caption": "Singschwäne, Kotoku-Teich, Japan",
+  "copyright": "Singschwäne, Kotoku-Teich, Japan (© Martin Bailey/Shutterstock)",
+  "copyrightOnly": "© Martin Bailey/Shutterstock",
+  "copyrightLink": "/search?q=Singschwan&form=hpcapt&filters=HpDate%3a%2220251229_2300%22",
+  "description": "In den Wintermonaten Japans gibt es diesen Moment, in dem die morgendliche Stille plötzlich von einem klaren Ruf über dem Wasser durchbrochen wird. Die Singschwäne sind zurück. Jedes Jahr reisen sie aus Sibirien und dem russischen Fernen Osten nach Japan, wo sie in eisfreien Seen und Teichen Nahrung und Ruhe finden. Einer dieser Orte ist der Kotoku-Teich, ein beliebter Rastplatz während der Zugzeit.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251229_JapanSwans%22&FORM=HPQUIZ",
+  "hash": "f0e31d1780bd38f1163dc840e3491589",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251229",
+    "fullStartDateTime": "202512292300",
+    "endDate": "20251230"
+  },
+  "createdAt": "202512300252",
+  "originalUrlBase": "/th?id=OHR.JapanSwans_DE-DE3934541892"
+}
