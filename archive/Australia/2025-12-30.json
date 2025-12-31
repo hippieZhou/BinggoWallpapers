@@ -1,0 +1,43 @@
+{
+  "date": "Dec 30, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Whooper swans",
+  "copyright": "Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)",
+  "copyrightOnly": "© Martin Bailey/Shutterstock",
+  "copyrightLink": "/search?q=Whooper+swans&form=hpcapt&filters=HpDate%3a%2220251230_0800%22",
+  "description": "In Japan's colder months, there's a morning moment when stillness breaks—not with wind or footsteps, but with a bright, rolling call that sweeps across the water. Whooper swans have touched down. One loud whoop—and winter suddenly feels awake. These birds migrate from Siberia and the Russian Far East, choosing Japan as their seasonal home because its lakes offer what long-distance travellers crave: open water, steady food and a safe place to rest. One of their favourite destinations is Kotoku Pond in the Kantō region on Japan's largest island.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_JapanSwans%22&FORM=HPQUIZ",
+  "hash": "3d2756a2ede8505cf7a62cffbaef0066",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_ROW0913401353_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_ROW0913401353_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_ROW0913401353_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_ROW0913401353_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251230",
+    "fullStartDateTime": "202512300800",
+    "endDate": "20251231"
+  },
+  "createdAt": "202512310251",
+  "originalUrlBase": "/th?id=OHR.JapanSwans_ROW0913401353"
+}

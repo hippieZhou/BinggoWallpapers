@@ -1,0 +1,43 @@
+{
+  "date": "31 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Bonne année !",
+  "bsTitle": "Bonne année !",
+  "caption": "Nouvel an",
+  "copyright": "Le nouvel an à Paris, France (© Kiran Ridley/Getty Images)",
+  "copyrightOnly": "© Kiran Ridley/Getty Images",
+  "copyrightLink": "/search?q=Nouvel+An&form=hpcapt&filters=HpDate%3a%2220251230_2300%22",
+  "description": "Sous le froid cristallin de décembre, Paris s’illumine comme un joyau. Les Champs-Élysées se transforment en une rivière de lumière, guidant les pas vers l’Arc de Triomphe, majestueusement éclairé. Ses pierres, témoins des siècles et des victoires, se parent d’or et de reflets, comme si l’histoire elle-même célébrait le passage du temps.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_FireworksParis%22&FORM=HPQUIZ",
+  "hash": "e5792a27376f3d886f9a5058a982f290",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251230",
+    "fullStartDateTime": "202512302300",
+    "endDate": "20251231"
+  },
+  "createdAt": "202512310251",
+  "originalUrlBase": "/th?id=OHR.FireworksParis_FR-FR0850151117"
+}

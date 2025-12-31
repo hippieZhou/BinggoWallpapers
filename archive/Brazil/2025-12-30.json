@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Migração e beleza",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cisnes-bravos, Lago Kotoku, Kantō, Japão (© Martin Bailey/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cisne-bravo&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_JapanSwans%22&FORM=HPQUIZ",
+  "hash": "f7cf346204c4609914215a3b9766782f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251230",
+    "fullStartDateTime": "202512300300",
+    "endDate": "20251231"
+  },
+  "createdAt": "202512310251",
+  "originalUrlBase": "/th?id=OHR.JapanSwans_PT-BR6213616732"
+}

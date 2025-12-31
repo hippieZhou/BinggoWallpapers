@@ -1,0 +1,43 @@
+{
+  "date": "Dec 31, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Where Berlin bridges the New Year",
+  "bsTitle": "Where Berlin bridges the New Year",
+  "caption": "New Year's Eve",
+  "copyright": "New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)",
+  "copyrightOnly": "© spreephoto.de/Getty Images",
+  "copyrightLink": "/search?q=New+Years+Eve&form=hpcapt&filters=HpDate%3a%2220251230_1830%22",
+  "description": "Three… two… one… wait—hold that countdown. It's not New Year's yet, but the Oberbaum Bridge already feels as if Berlin in Germany hit its 'celebrate' button ahead of time. On this night, the bridge transforms from a simple river crossing into a runway where this city taxis toward midnight, engines humming, fireworks warming up and the crowd collectively practicing its 'Happy New Year!' voice.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251230_GermanyNewYear%22&FORM=HPQUIZ",
+  "hash": "9f25a8228e8f41e6a764756066b0ae93",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251230",
+    "fullStartDateTime": "202512301830",
+    "endDate": "20251231"
+  },
+  "createdAt": "202512310251",
+  "originalUrlBase": "/th?id=OHR.GermanyNewYear_EN-IN0096135546"
+}
