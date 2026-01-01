@@ -1,0 +1,43 @@
+{
+  "date": "Jan 1, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Stretch into the New Year",
+  "bsTitle": "Stretch into the New Year",
+  "caption": "Happy New Year!",
+  "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+  "copyrightOnly": "© Chansak Joe/Getty Images",
+  "copyrightLink": "/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220251231_1830%22",
+  "description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cosily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NewYearFox%22&FORM=HPQUIZ",
+  "hash": "0e058b7c534614edb492f20ee75aceda",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251231",
+    "fullStartDateTime": "202512311830",
+    "endDate": "20260101"
+  },
+  "createdAt": "202601010303",
+  "originalUrlBase": "/th?id=OHR.NewYearFox_EN-IN0228812911"
+}

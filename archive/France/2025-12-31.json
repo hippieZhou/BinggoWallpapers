@@ -1,0 +1,43 @@
+{
+  "date": "1 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Étirez-vous doucement dans la nouvelle année",
+  "bsTitle": "Étirez-vous doucement dans la nouvelle année",
+  "caption": "Bonne année",
+  "copyright": "Un renard polaire endormi (© Chansak Joe/Getty Images)",
+  "copyrightOnly": "© Chansak Joe/Getty Images",
+  "copyrightLink": "/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220251231_2300%22",
+  "description": "Vous aussi, vous avez l’impression d’avoir une année entière de sommeil à rattraper ? Alors vous comprendrez ce renard polaire, blotti entre les rochers glacés de la toundra. Enveloppé par la neige et le vent du Nord, il attend, dans le silence arctique, que le temps passe.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_NewYearFox%22&FORM=HPQUIZ",
+  "hash": "f646437f125e741b3af232fabc84ea54",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251231",
+    "fullStartDateTime": "202512312300",
+    "endDate": "20260101"
+  },
+  "createdAt": "202601010303",
+  "originalUrlBase": "/th?id=OHR.NewYearFox_FR-FR1449445493"
+}

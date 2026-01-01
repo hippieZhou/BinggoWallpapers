@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Hora de recomeçar",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Raposa-do-ártico dormindo (© Chansak Joe/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Ano+Novo&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_NewYearFox%22&FORM=HPQUIZ",
+  "hash": "758fbd8cc5e776618d8e5aa13585bd07",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_PT-BR5772637703_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260101",
+    "fullStartDateTime": "202601010300",
+    "endDate": "20260102"
+  },
+  "createdAt": "202601010303",
+  "originalUrlBase": "/th?id=OHR.NewYearFox_PT-BR5772637703"
+}

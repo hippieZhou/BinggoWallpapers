@@ -1,0 +1,43 @@
+{
+  "date": "Dec 31, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Oberbaum Bridge, Berlin, Germany",
+  "copyright": "Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)",
+  "copyrightOnly": "© spreephoto.de/Getty Images",
+  "copyrightLink": "/search?q=Oberbaum+Bridge&form=hpcapt&filters=HpDate%3a%2220251231_0800%22",
+  "description": "If a bridge could win 'Best Supporting Role' in a city's story, Germany's Oberbaum Bridge in Berlin would sweep the awards. Spanning the River Spree between Friedrichshain and Kreuzberg, it connects two districts while juggling trains on top, traffic below and crowds of sunset hunters in between. Originally a wooden crossing, the bridge took on its signature red-brick Gothic revival form in 1896, complete with turreted towers that look like they wandered in from a medieval set. But the real twist came during the Cold War, when the bridge became a strict checkpoint between East and West. After reunification, it was restored in the 1990s and welcomed the U1 line back across its upper deck.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251231_GermanyNewYear%22&FORM=HPQUIZ",
+  "hash": "60404b7841cbc51444f71679f69b6476",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_ROW1011878383_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_ROW1011878383_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_ROW1011878383_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_ROW1011878383_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251231",
+    "fullStartDateTime": "202512310800",
+    "endDate": "20260101"
+  },
+  "createdAt": "202601010303",
+  "originalUrlBase": "/th?id=OHR.GermanyNewYear_ROW1011878383"
+}
