@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 2 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "アドリア海に抱かれた歴史都市",
+  "bsTitle": "アドリア海に抱かれた歴史都市",
+  "caption": "アドリア海に抱かれた歴史都市",
+  "copyright": "ヴェネツィア, イタリア (© Clement Leonard/Getty Images)",
+  "copyrightOnly": "© Clement Leonard/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%b4%e3%82%a7%e3%83%8d%e3%83%84%e3%82%a3%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260101_1500%22",
+  "description": "ここはイタリアのヴェネツィア。その歴史は古く、5 世紀頃、異民族の侵攻から逃れたイタリア本土の人々が、アドリア海のラグーナへ避難したことから始まりました。そして、中世には東西貿易の中心地として繁栄し、強力な海上帝国へと成長しました…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+  "hash": "1bd3a5ec114f3888b9bf78ba978829ce",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260101",
+    "fullStartDateTime": "202601011500",
+    "endDate": "20260102"
+  },
+  "createdAt": "202601020254",
+  "originalUrlBase": "/th?id=OHR.VeniceView_JA-JP5599144263"
+}

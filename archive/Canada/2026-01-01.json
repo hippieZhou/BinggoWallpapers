@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 1, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Stretch into the New Year",
+  "bsTitle": "Stretch into the New Year",
+  "caption": "Happy New Year!",
+  "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+  "copyrightOnly": "© Chansak Joe/Getty Images",
+  "copyrightLink": "/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220260101_0500%22",
+  "description": "Do you feel as if you have a whole year's worth of rest to catch up on? Then you can relate to this Arctic fox, cosily tucked among the rocky outcroppings of the frozen tundra. Whether the new year greets you with biting cold or under a warm sun, take five extra minutes to stretch before diving into the 365 days ahead. Ever wondered why we have 365 days in a year? It's because the Gregorian calendar—introduced in 1582—is based on a solar year: the time it takes Earth to orbit the sun. The stars have our backs, but the plans we make for the months ahead are all on us.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_NewYearFox%22&FORM=HPQUIZ",
+  "hash": "eec0a3d0e5a7f681ed5391260aa9d354",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-CA1770167062_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260101",
+    "fullStartDateTime": "202601010500",
+    "endDate": "20260102"
+  },
+  "createdAt": "202601020254",
+  "originalUrlBase": "/th?id=OHR.NewYearFox_EN-CA1770167062"
+}

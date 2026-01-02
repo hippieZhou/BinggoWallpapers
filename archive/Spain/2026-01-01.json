@@ -1,0 +1,43 @@
+{
+  "date": "2 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Destino universal",
+  "bsTitle": "Destino universal",
+  "caption": "Vista aérea de Venecia, Véneto, Italia",
+  "copyright": "Vista aérea de Venecia, Véneto, Italia (© Clement Leonard/Getty Images)",
+  "copyrightOnly": "© Clement Leonard/Getty Images",
+  "copyrightLink": "/search?q=Venecia+Italia&form=hpcapt&filters=HpDate%3a%2220260101_2300%22",
+  "description": "Ver Venecia desde arriba es hipnotizante, pero la verdadera magia de esta joya italiana se encuentra dentro de sus muros y canales. Fundada en el siglo V sobre un conjunto de islas de la Laguna de Venecia, la ciudad surgió de los pantanos y se convirtió en una potencia marítima. En la Edad Media, evolucionó hasta convertirse en un importante centro de comercio entre Europa y Oriente, lo que alimentó una gran riqueza y un notable crecimiento cultural. La grandeza de la ciudad se refleja en sus palacios góticos, su arte renacentista y monumentos como la basílica de San Marcos, el Palacio Ducal y el puente de Rialto.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+  "hash": "88f0c6fe36b5df91947e93f917e0d14a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_ES-ES3506593808_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260101",
+    "fullStartDateTime": "202601012300",
+    "endDate": "20260102"
+  },
+  "createdAt": "202601020254",
+  "originalUrlBase": "/th?id=OHR.VeniceView_ES-ES3506593808"
+}

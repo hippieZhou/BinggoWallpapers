@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Arctic+fox&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_NewYearFox%22&FORM=HPQUIZ",
+  "hash": "00d0f10f7815ec4f5b1e63976c8b4dff",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_ROW1128491767_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_ROW1128491767_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_ROW1128491767_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_ROW1128491767_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260101",
+    "fullStartDateTime": "202601010800",
+    "endDate": "20260102"
+  },
+  "createdAt": "202601020254",
+  "originalUrlBase": "/th?id=OHR.NewYearFox_ROW1128491767"
+}

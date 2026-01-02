@@ -1,0 +1,43 @@
+{
+  "date": "2. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Seele Venedigs",
+  "bsTitle": "Die Seele Venedigs",
+  "caption": "Luftaufnahme von Venedig, Italien",
+  "copyright": "Luftaufnahme von Venedig, Italien (© Clement Leonard/Getty Images)",
+  "copyrightOnly": "© Clement Leonard/Getty Images",
+  "copyrightLink": "/search?q=Venedig+Italien&form=hpcapt&filters=HpDate%3a%2220260101_2300%22",
+  "description": "Die Stadt der Kanäle, Venedig, gehört zu den faszinierendsten Reisezielen der Welt. Sie wurde auf mehr als 100 kleinen Inseln in einer Lagune der Adria errichtet und besitzt keine Straßen, sondern ein Netz von Kanälen, die mit Gondeln und Vaporetto-Booten befahren werden. Ihre Geschichte als maritime Macht im Mittelalter und in der Renaissance machte sie zu einem bedeutenden kulturellen und wirtschaftlichen Zentrum. Bemerkenswert ist, dass die Stadt auf Tausenden von Holzpfählen errichtet wurde, die die Gebäude tragen, und dass ihre Kanäle wie echte Straßen funktionieren. Heute bewundern wir auf einer Luftaufnahme die Schönheit dieser Stadt mit ihren Brücken, Kanälen und ihrer einzigartigen Architektur.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260101_VeniceView%22&FORM=HPQUIZ",
+  "hash": "cc62913501433dcb75e71f7f35190292",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_DE-DE5335643211_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260101",
+    "fullStartDateTime": "202601012300",
+    "endDate": "20260102"
+  },
+  "createdAt": "202601020254",
+  "originalUrlBase": "/th?id=OHR.VeniceView_DE-DE5335643211"
+}
