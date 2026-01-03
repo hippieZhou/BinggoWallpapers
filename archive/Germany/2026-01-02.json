@@ -1,0 +1,43 @@
+{
+  "date": "3. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo Fantasie erwacht",
+  "bsTitle": "Wo Fantasie erwacht",
+  "caption": "Tolkien-Tag",
+  "copyright": "Staubbachfälle in Lauterbrunnen, Kanton Bern, Schweiz (© pongnathee kluaythong/Getty Images)",
+  "copyrightOnly": "© pongnathee kluaythong/Getty Images",
+  "copyrightLink": "/search?q=Tolkien-Tag+Januar&form=hpcapt&filters=HpDate%3a%2220260102_2300%22",
+  "description": "Stellen Sie sich vor: Sie stehen im schweizerischen Lauterbrunnen – einem stillen Tal, eingerahmt von steilen Felswänden, über denen die Staubbachfälle wie silberne Fäden herabgleiten. Diese majestätischen Klippen, die glitzernden Wasserfälle und die klare Bergluft sollen bei dem britischen Schriftsteller J.\u202FR.\u202FR.\u202FTolkien einen unauslöschlichen Eindruck hinterlassen und seine Vision von Rivendell, dem verborgenen Elbenrefugium in Mittelerde, inspiriert haben. Genau hier wanderte Tolkien im Jahr 1911 – lange bevor er „Der Herr der Ringe“ erschuf.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_LauterbrunnenValley%22&FORM=HPQUIZ",
+  "hash": "20ffec3db6445d79ec7bce19a500a129",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_DE-DE9271807830_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260102",
+    "fullStartDateTime": "202601022300",
+    "endDate": "20260103"
+  },
+  "createdAt": "202601030246",
+  "originalUrlBase": "/th?id=OHR.LauterbrunnenValley_DE-DE9271807830"
+}

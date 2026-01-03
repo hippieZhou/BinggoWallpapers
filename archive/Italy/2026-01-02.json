@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Scenografia dell'Anello",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cascata di Staubbach a Lauterbrunnen, Cantone di Berna, Svizzera (© pongnathee kluaythong/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cascata+di+Staubbach&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_LauterbrunnenValley%22&FORM=HPQUIZ",
+  "hash": "4ab5a5ff64aa2369a495010799fe9fb5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_IT-IT1107060773_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260102",
+    "fullStartDateTime": "202601022300",
+    "endDate": "20260103"
+  },
+  "createdAt": "202601030246",
+  "originalUrlBase": "/th?id=OHR.LauterbrunnenValley_IT-IT1107060773"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jan 2, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The soul of Venice",
+  "bsTitle": "The soul of Venice",
+  "caption": "Aerial view of Venice, Italy",
+  "copyright": "Aerial view of Venice, Italy (© Clement Leonard/Getty Images)",
+  "copyrightOnly": "© Clement Leonard/Getty Images",
+  "copyrightLink": "/search?q=Venice+Italy&form=hpcapt&filters=HpDate%3a%2220260102_0800%22",
+  "description": "Seeing Venice from above is mesmerizing, but this Italian gem's true magic lies within its walls and waterways. Founded in the 5th century on a cluster of islands in the Venetian Lagoon, the early settlement rose from marshland to become a maritime powerhouse. By the Middle Ages, it had evolved into a major hub for trade between Europe and the East, fueling immense wealth and cultural growth. The city's grandeur shines through its Gothic palaces, Renaissance art, and landmarks such as St. Mark's Basilica, the Doge's Palace, and the Rialto Bridge.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_VeniceView%22&FORM=HPQUIZ",
+  "hash": "92a20f78f41d7a000d44b21028880138",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260102",
+    "fullStartDateTime": "202601020800",
+    "endDate": "20260103"
+  },
+  "createdAt": "202601030246",
+  "originalUrlBase": "/th?id=OHR.VeniceView_EN-US3244163136"
+}

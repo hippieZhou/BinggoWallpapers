@@ -1,0 +1,43 @@
+{
+  "date": "3 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El origen de la fantasía",
+  "bsTitle": "El origen de la fantasía",
+  "caption": "Día de J. R. R. Tolkien",
+  "copyright": "Cascadas de Staubbach en Lauterbrunnen, cantón de Berna, Suiza (© pongnathee kluaythong/Getty Images)",
+  "copyrightOnly": "© pongnathee kluaythong/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+de+J.+R.+R.+Tolkien+Enero&form=hpcapt&filters=HpDate%3a%2220260102_2300%22",
+  "description": "Cada 3 de enero se celebra el Día de J. R. R. Tolkien, una ocasión perfecta para recordar la fuerza creativa de un autor que redefinió la fantasía moderna. La imagen del día nos muestra las cascadas de Staubbach, en Lauterbrunnen, en el cantón de Berna (Suiza), un valle que alberga setenta y dos saltos de agua y cuya atmósfera casi irreal cautivó a Tolkien durante sus viajes. No es difícil imaginar cómo aquel paisaje vertical, con hilos acuosos suspendidos en el aire y un silencio roto solo por el murmullo del deshielo, inspiró la serenidad luminosa de ciertos enclaves de la Tierra Media.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260102_LauterbrunnenValley%22&FORM=HPQUIZ",
+  "hash": "40ab1f7217c00ed461669bbcc5b46698",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_ES-ES2371150020_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_ES-ES2371150020_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_ES-ES2371150020_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_ES-ES2371150020_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260102",
+    "fullStartDateTime": "202601022300",
+    "endDate": "20260103"
+  },
+  "createdAt": "202601030246",
+  "originalUrlBase": "/th?id=OHR.LauterbrunnenValley_ES-ES2371150020"
+}
