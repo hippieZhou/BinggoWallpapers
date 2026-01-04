@@ -1,0 +1,43 @@
+{
+  "date": "4 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une vue royale !",
+  "bsTitle": "Une vue royale !",
+  "caption": "Mont Kings, montagnes Chugach, Alaska, États-Unis",
+  "copyright": "Mont Kings, montagnes Chugach, Alaska, États-Unis (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=montagnes+Chugach&form=hpcapt&filters=HpDate%3a%2220260103_2300%22",
+  "description": "Au cœur des montagnes Chugach, dans le nord sauvage des États-Unis, le Kings Mountain se dresse comme une page arrachée à un livre d’aventures. À plus de 1 770 mètres d’altitude, près du mile 75 de la Glenn Highway, ce sommet d’Alaska domine la vallée tel un phare de pierre sombre. Les anciens Dena’ina le nommaient Bashtl’ech’, « la pierre noire », en écho à ses flancs sculptés par d’antiques glaciers. Aujourd’hui encore, ces creux et ces arêtes racontent la lente histoire de la glace et du temps.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+  "hash": "8181b2800802cd78f261592ec948d5ae",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260103",
+    "fullStartDateTime": "202601032300",
+    "endDate": "20260104"
+  },
+  "createdAt": "202601040304",
+  "originalUrlBase": "/th?id=OHR.KingMountain_FR-FR4057948974"
+}

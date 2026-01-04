@@ -1,0 +1,43 @@
+{
+  "date": "4 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una vista majestuosa",
+  "bsTitle": "Una vista majestuosa",
+  "caption": "Kings Mountain, cordillera Chugach, Alaska, EE. UU.",
+  "copyright": "Kings Mountain, cordillera Chugach, Alaska, EE. UU. (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Cordillera+Chugach&form=hpcapt&filters=HpDate%3a%2220260103_2300%22",
+  "description": "Entre las vastas tierras de Alaska se extiende un paisaje que impresiona por su grandeza y pureza natural. Hoy admiramos una vista majestuosa que nos lleva hasta Kings Mountain en la cordillera Chugach (Estados Unidos). Sus picos escarpados se elevan sobre glaciares imponentes y bosques boreales que se funden con ríos cristalinos. El clima es riguroso, con inviernos largos y nevados que confieren al entorno una belleza salvaje y casi intacta. La sensación de inmensidad y aislamiento convierte este lugar en un paraíso para los amantes de la naturaleza y la aventura.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+  "hash": "b48f430e53fcbe15ae08f3416bb68ed7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_ES-ES2537706712_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_ES-ES2537706712_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_ES-ES2537706712_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_ES-ES2537706712_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260103",
+    "fullStartDateTime": "202601032300",
+    "endDate": "20260104"
+  },
+  "createdAt": "202601040304",
+  "originalUrlBase": "/th?id=OHR.KingMountain_ES-ES2537706712"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "4. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Majestätischer Ausblick",
+  "bsTitle": "Majestätischer Ausblick",
+  "caption": "Kings Mountain, Chugach Mountains, Alaska, USA",
+  "copyright": "Kings Mountain, Chugach Mountains, Alaska, USA (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Kings+Mountain+Chugach+Mountains+USA&form=hpcapt&filters=HpDate%3a%2220260103_2300%22",
+  "description": "Tauchen Sie ein in die ungezähmte Wildnis Alaskas, USA! Vor Ihnen erhebt sich der rund 1.770 Meter hohe Kings Mountain – steil, markant und nur rund 35 Kilometer nordöstlich von Palmer, dem kleinen Juwel im Matanuska-Tal. Die Flanken des Berges wirken, als hätte die Zeit sie mit einer scharfen Klinge geformt: Uralte Gletscher haben Täler, Rippen und Grate in den Fels gezeichnet. Sein Name in der Sprache der Dena’ina, Bashtl’ech’, bedeutet „schwarzer Stein” und erinnert an die indigene Geschichte der Region, während der englische Name den Goldsucher Al King würdigt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+  "hash": "776620dc6bd9534b111796dadfb4e679",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_DE-DE9482861580_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260103",
+    "fullStartDateTime": "202601032300",
+    "endDate": "20260104"
+  },
+  "createdAt": "202601040304",
+  "originalUrlBase": "/th?id=OHR.KingMountain_DE-DE9482861580"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jan 4, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "A royal view",
+  "bsTitle": "A royal view",
+  "caption": "Kings Mountain, Chugach Mountains, Alaska, United States",
+  "copyright": "Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Kings+Mountain+Chugach+Mountains&form=hpcapt&filters=HpDate%3a%2220260103_1830%22",
+  "description": "Kings Mountain in Alaska's Chugach Mountains, United States, isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising nearly 1,800 metres and sitting roughly 35 kilometres northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+  "hash": "0c8a24372465da15839e49ac178ca574",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-IN1538941339_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260103",
+    "fullStartDateTime": "202601031830",
+    "endDate": "20260104"
+  },
+  "createdAt": "202601040304",
+  "originalUrlBase": "/th?id=OHR.KingMountain_EN-IN1538941339"
+}

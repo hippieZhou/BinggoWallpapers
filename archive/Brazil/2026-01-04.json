@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma vista real",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Kings Mountain, Montes Chugach, Alasca, EUA  (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Montes+Chugach%2c+Alasca&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_KingMountain%22&FORM=HPQUIZ",
+  "hash": "9326aa8b3c07d6b776e4d1feb0d65f55",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_PT-BR9875785873_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_PT-BR9875785873_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_PT-BR9875785873_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_PT-BR9875785873_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260104",
+    "fullStartDateTime": "202601040300",
+    "endDate": "20260105"
+  },
+  "createdAt": "202601040304",
+  "originalUrlBase": "/th?id=OHR.KingMountain_PT-BR9875785873"
+}

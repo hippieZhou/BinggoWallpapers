@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 4 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "雪に覆われた険しい峰",
+  "bsTitle": "雪に覆われた険しい峰",
+  "caption": "雪に覆われた険しい峰",
+  "copyright": "キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Kings+Mountain%2c+Alaska&form=hpcapt&filters=HpDate%3a%2220260103_1500%22",
+  "description": "米国アラスカ州南部に広がる雄大なチュガッチ山脈。全長約 402km、幅約 97km に及び、平均標高は約 1,221m です。山頂の多くは標高が特別に高いわけではありませんが、アラスカ湾沿いに位置するため、世界でも有数の降雪地域であり、場所によっては年間降雪量が 1,500cm を超えることもあります…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260103_KingMountain%22&FORM=HPQUIZ",
+  "hash": "d6e31257532049f5861dcf3849a38cdb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260103",
+    "fullStartDateTime": "202601031500",
+    "endDate": "20260104"
+  },
+  "createdAt": "202601040304",
+  "originalUrlBase": "/th?id=OHR.KingMountain_JA-JP5338011772"
+}
