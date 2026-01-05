@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "高角羚群紧急戒备",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%ab%98%e8%a7%92%e7%be%9a&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_ImpalaRooibok%22&FORM=HPQUIZ",
+  "hash": "a617f5766e166dfda69826e9b297ea22",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260104",
+    "fullStartDateTime": "202601041600",
+    "endDate": "20260105"
+  },
+  "createdAt": "202601050307",
+  "originalUrlBase": "/th?id=OHR.ImpalaRooibok_ZH-CN2307890154"
+}

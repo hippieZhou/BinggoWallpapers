@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Sussurri boreali?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Nuuk, Groenlandia (© nevereverro/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Nuuk+Groenlandia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_NuukGreenland%22&FORM=HPQUIZ",
+  "hash": "0152f7952631463017435699c69a378e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_IT-IT0748358151_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260104",
+    "fullStartDateTime": "202601042300",
+    "endDate": "20260105"
+  },
+  "createdAt": "202601050307",
+  "originalUrlBase": "/th?id=OHR.NuukGreenland_IT-IT0748358151"
+}

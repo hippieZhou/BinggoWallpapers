@@ -1,0 +1,43 @@
+{
+  "date": "Jan 5, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Herd on high alert",
+  "bsTitle": "Herd on high alert",
+  "caption": "A herd of impalas, Londolozi Game Reserve, South Africa",
+  "copyright": "A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)",
+  "copyrightOnly": "© Mint Images/Getty Images",
+  "copyrightLink": "/search?q=Impala+antelope&form=hpcapt&filters=HpDate%3a%2220260105_0000%22",
+  "description": "What stands out about Londolozi Game Reserve in South Africa isn't just the wildlife—it's the long-term commitment behind it. Since 1926, its 58 square miles have supported research and monitored wildlife behaviour in their natural habitat. Located within the Sabi Sand Private Game Reserve, it is home to Africa's Big Five. Londolozi is part of a larger open system that connects with Kruger National Park, allowing animals such as elephants, rhinos, lions, leopards, zebras and many antelope species to move freely without fences holding them back.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260105_ImpalaRooibok%22&FORM=HPQUIZ",
+  "hash": "a5ec407ab108d3b48d5b04c9792ff01a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260105",
+    "fullStartDateTime": "202601050000",
+    "endDate": "20260106"
+  },
+  "createdAt": "202601050307",
+  "originalUrlBase": "/th?id=OHR.ImpalaRooibok_EN-GB6756876287"
+}

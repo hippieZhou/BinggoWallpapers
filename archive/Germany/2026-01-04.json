@@ -1,0 +1,43 @@
+{
+  "date": "5. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Immer auf der Hut",
+  "bsTitle": "Immer auf der Hut",
+  "caption": "Eine Herde Impalas im Londolozi-Wildreservat, Südafrika",
+  "copyright": "Eine Herde Impalas, Londolozi-Wildreservat, Südafrika (© Mint Images/Getty Images)",
+  "copyrightOnly": "© Mint Images/Getty Images",
+  "copyrightLink": "/search?q=Impala+Antelope&form=hpcapt&filters=HpDate%3a%2220260104_2300%22",
+  "description": "Londolozi im Herzen des Sabi-Sand-Reservats in Südafrika ist weit mehr als nur ein Safari-Ziel: Es gilt als Pionierregion für nachhaltigen Naturschutz. Das 150 km² große Gebiet bietet seit fast 100 Jahren Raum für Forschung, Schutz und Artenvielfalt. Als Teil eines offenen Ökosystems, das nahtlos in den Kruger-Nationalpark übergeht, ermöglicht Londolozi den freien Zug der Wildtiere, ohne dass Zäune Elefanten, Nashörner, Löwen, Leoparden, Zebras und viele Antilopenarten aufhalten würden. Unter ihnen befinden sich auch die anmutigen Impalas, die auf dem heutigen Bild zu sehen sind.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_ImpalaRooibok%22&FORM=HPQUIZ",
+  "hash": "2d2f9602227f72e7ac6d72bef6ad51c6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_DE-DE9831044106_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_DE-DE9831044106_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_DE-DE9831044106_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_DE-DE9831044106_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260104",
+    "fullStartDateTime": "202601042300",
+    "endDate": "20260105"
+  },
+  "createdAt": "202601050307",
+  "originalUrlBase": "/th?id=OHR.ImpalaRooibok_DE-DE9831044106"
+}

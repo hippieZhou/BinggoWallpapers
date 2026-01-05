@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 4, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A royal view",
+  "bsTitle": "A royal view",
+  "caption": "Kings Mountain, Chugach Mountains, Alaska, United States",
+  "copyright": "Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Kings+Mountain+Chugach+Mountains&form=hpcapt&filters=HpDate%3a%2220260104_0500%22",
+  "description": "Kings Mountain in Alaska's Chugach Mountains isn't just another bump on the horizon—it's the kind of rugged beauty that makes you slow down and stare. Rising over 1,700\u202Fmetres and sitting roughly 35 kilometres northeast of Palmer, this peak towers over mile 75 of the Glenn Highway, a route famous for its dramatic scenery. Its slopes bear the marks of ancient glaciers, etched into ridges and valleys that seem tailor-made for adventure.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_KingMountain%22&FORM=HPQUIZ",
+  "hash": "010985cf950d89f9c0b670e211097f6e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KingMountain_EN-CA4077888886_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260104",
+    "fullStartDateTime": "202601040500",
+    "endDate": "20260105"
+  },
+  "createdAt": "202601050307",
+  "originalUrlBase": "/th?id=OHR.KingMountain_EN-CA4077888886"
+}

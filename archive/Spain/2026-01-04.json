@@ -1,0 +1,43 @@
+{
+  "date": "5 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Vigilante silencioso",
+  "bsTitle": "Vigilante silencioso",
+  "caption": "Manada de impalas, Reserva de Londolozi, Sudáfrica",
+  "copyright": "Manada de impalas, Reserva de Londolozi, Sudáfrica (© Mint Images/Getty Images)",
+  "copyrightOnly": "© Mint Images/Getty Images",
+  "copyrightLink": "/search?q=Impala&form=hpcapt&filters=HpDate%3a%2220260104_2300%22",
+  "description": "Hoy contemplamos una manada de impalas en la Reserva de Londolozi, Sudáfrica. Este lugar es uno de los rincones más emblemáticos del Parque nacional Kruger, famoso por su biodiversidad y paisajes que parecen sacados de un documental. Los impalas, con su porte elegante y movimientos ágiles, son protagonistas habituales en estas llanuras. Su capacidad para realizar saltos espectaculares y cambiar de dirección con rapidez les permite moverse con gracia entre la hierba alta, siempre atentos a lo que ocurre a su alrededor. Observarlos en libertad es un recordatorio de la belleza indomable que define la vida salvaje africana.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260104_ImpalaRooibok%22&FORM=HPQUIZ",
+  "hash": "e3b2fa5139dabf2aa49d507c0fd7438b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ES-ES2728272877_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ES-ES2728272877_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ES-ES2728272877_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ES-ES2728272877_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260104",
+    "fullStartDateTime": "202601042300",
+    "endDate": "20260105"
+  },
+  "createdAt": "202601050307",
+  "originalUrlBase": "/th?id=OHR.ImpalaRooibok_ES-ES2728272877"
+}
