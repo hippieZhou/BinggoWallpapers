@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Befana in vista",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Città Alta di Bergamo avvolta dalla nebbia, Lombardia (© Gambarini Gianandrea/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=La+Befana&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260105_BefanaItalia%22&FORM=HPQUIZ",
+  "hash": "c3fa565c3ddac079986eeb9e9415817f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260105",
+    "fullStartDateTime": "202601052300",
+    "endDate": "20260106"
+  },
+  "createdAt": "202601060253",
+  "originalUrlBase": "/th?id=OHR.BefanaItalia_IT-IT3087185120"
+}

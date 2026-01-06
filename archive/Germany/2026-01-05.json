@@ -1,0 +1,43 @@
+{
+  "date": "6. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Das Leben im hohen Norden",
+  "bsTitle": "Das Leben im hohen Norden",
+  "caption": "Nuuk, Grönland",
+  "copyright": "Nuuk, Grönland (© nevereverro/Getty Images)",
+  "copyrightOnly": "© nevereverro/Getty Images",
+  "copyrightLink": "/search?q=Nuuk+Gr%c3%b6nland&form=hpcapt&filters=HpDate%3a%2220260105_2300%22",
+  "description": "Polarlichter tanzen am Himmel, die Natur zeigt ihre stille Größe – willkommen in Nuuk! Die Hauptstadt Grönlands liegt eingebettet zwischen majestätischen Fjorden und dem Zauber des Nordlichts. Seit ihrer Gründung 1728 durch Hans Egede verbindet die Stadt Inuit-Traditionen mit nordischem Flair. Historische Orte wie das Hans-Egede-Haus und die rote Kathedrale erzählen von vergangenen Zeiten, während das Grönländische Nationalmuseum mit Artefakten und den Mumien von Qilakitsoq beeindruckt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260105_NuukGreenland%22&FORM=HPQUIZ",
+  "hash": "46cae0eece574f9673912d1398dd4689",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260105",
+    "fullStartDateTime": "202601052300",
+    "endDate": "20260106"
+  },
+  "createdAt": "202601060253",
+  "originalUrlBase": "/th?id=OHR.NuukGreenland_DE-DE1784214919"
+}

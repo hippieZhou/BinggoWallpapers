@@ -1,0 +1,43 @@
+{
+  "date": "Jan 6, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Chillin' in Nuuk",
+  "bsTitle": "Chillin' in Nuuk",
+  "caption": "Nuuk, Greenland",
+  "copyright": "Nuuk, Greenland (© nevereverro/Getty Images)",
+  "copyrightOnly": "© nevereverro/Getty Images",
+  "copyrightLink": "/search?q=Nuuk+Greenland&form=hpcapt&filters=HpDate%3a%2220260106_0000%22",
+  "description": "Picture a city where your daily commute offers views of fjords, drifting ice and the Northern Lights. That's everyday life in Nuuk, the capital of Greenland—a small yet spirited Arctic hub blending Inuit heritage with Nordic modernity. Founded in 1728 by Danish-Norwegian missionary Hans Egede, it began as a small settlement called Godthaab—'Good Hope.'",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_NuukGreenland%22&FORM=HPQUIZ",
+  "hash": "e83618067c22398074c3fe5d5e425952",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_EN-GB6899770664_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260106",
+    "fullStartDateTime": "202601060000",
+    "endDate": "20260107"
+  },
+  "createdAt": "202601060253",
+  "originalUrlBase": "/th?id=OHR.NuukGreenland_EN-GB6899770664"
+}

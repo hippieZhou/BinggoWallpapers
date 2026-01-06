@@ -1,0 +1,43 @@
+{
+  "date": "6 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Qui aura la fève ?",
+  "bsTitle": "Qui aura la fève ?",
+  "caption": "Galette des rois",
+  "copyright": "Château de Versailles, France (© Mistervlad/Shutterstock)",
+  "copyrightOnly": "© Mistervlad/Shutterstock",
+  "copyrightLink": "/search?q=gallette+des+rois&form=hpcapt&filters=HpDate%3a%2220260105_2300%22",
+  "description": "Face au Château de Versailles, chef-d’œuvre du Roi Soleil, on pense aux fastes et aux couronnes qui ont marqué l’histoire. Pourtant, le 6 janvier, une autre royauté s’invite à nos tables : celle de la galette des rois, dorée comme les salons du palais. Cette tradition, héritière des Saturnales romaines, s’est transformée en fête chrétienne célébrant l’Épiphanie et la visite des Rois mages.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260105_EpiphanyDay%22&FORM=HPQUIZ",
+  "hash": "570acb995e58570fa57b18e1530142a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260105",
+    "fullStartDateTime": "202601052300",
+    "endDate": "20260106"
+  },
+  "createdAt": "202601060253",
+  "originalUrlBase": "/th?id=OHR.EpiphanyDay_FR-FR4715294698"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "6 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Tradición Encantada",
+  "bsTitle": "Tradición Encantada",
+  "caption": "Reyes Magos",
+  "copyright": "Reyes Magos, Sevilla, Andalucía (© Carol La Rosa/ShutterStock)",
+  "copyrightOnly": "© Carol La Rosa/ShutterStock",
+  "copyrightLink": "/search?q=Reyes+Magos&form=hpcapt&filters=HpDate%3a%2220260105_2300%22",
+  "description": "En la madrugada del 6 de enero, Sevilla se viste de sueños. La corona que brilla en la plaza recuerda a Melchor, Gaspar y Baltasar, los tres viajeros de Oriente que siguieron la estrella hasta Belén. Sus nombres evocan misterio y esperanza, y cada año regresan para llenar de ilusión los corazones.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260105_ReyesMagos%22&FORM=HPQUIZ",
+  "hash": "3702320e7137acab734ea7c4e746ea7e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260105",
+    "fullStartDateTime": "202601052300",
+    "endDate": "20260106"
+  },
+  "createdAt": "202601060253",
+  "originalUrlBase": "/th?id=OHR.ReyesMagos_ES-ES2955520279"
+}
