@@ -1,0 +1,43 @@
+{
+  "date": "7 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Leyendas rocosas",
+  "bsTitle": "Leyendas rocosas",
+  "caption": "Arco Turret, Parque Nacional de los Arcos, Utah, EE. UU.",
+  "copyright": "Arco Turret enmarcado por la Ventana Norte en el Parque Nacional de los Arcos, Utah, EE. UU. (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Parque+Nacional+de+los+Arcos&form=hpcapt&filters=HpDate%3a%2220260106_2300%22",
+  "description": "En la imagen de hoy se aprecia uno de los paisajes más icónicos del suroeste estadounidense: el Arco Turret enmarcado por la Ventana Norte en el Parque Nacional de los Arcos en Utah (Estados Unidos). Este parque alberga más de 2.000 arcos naturales formados por la erosión del viento y el agua sobre la roca arenisca durante millones de años. El Arco Turret, con su forma estilizada, y la Ventana Norte, que lo enmarca como si fuera un cuadro natural, son dos de las formaciones más fotografiadas del parque. La mayoría de estos arcos son frágiles y continúan cambiando con el tiempo; algunos incluso colapsan, como ocurrió con el famoso Wall Arch en 2008. Además, el parque ofrece cielos nocturnos espectaculares, ideales para la observación de estrellas, ya que se encuentra en una zona con muy poca contaminación lumínica.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_OldRockArch%22&FORM=HPQUIZ",
+  "hash": "050c4f79ccaf2211189005ab1a9ff9b6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260106",
+    "fullStartDateTime": "202601062300",
+    "endDate": "20260107"
+  },
+  "createdAt": "202601070254",
+  "originalUrlBase": "/th?id=OHR.OldRockArch_ES-ES3608770963"
+}

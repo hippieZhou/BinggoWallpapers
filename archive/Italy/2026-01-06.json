@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Arco del Tempo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Arco Turret, North Window, Arches National Park, Utah, USA (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+Nazionale+degli+Arches&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_OldRockArch%22&FORM=HPQUIZ",
+  "hash": "499bfcac12e78552a9ff9b67a7ca1b71",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260106",
+    "fullStartDateTime": "202601062300",
+    "endDate": "20260107"
+  },
+  "createdAt": "202601070254",
+  "originalUrlBase": "/th?id=OHR.OldRockArch_IT-IT3144069771"
+}

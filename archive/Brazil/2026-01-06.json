@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Muito além do gelo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Nuuk, Groenlândia (© nevereverro/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Nuuk%2c+Groenl%c3%a2ndia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260106_NuukGreenland%22&FORM=HPQUIZ",
+  "hash": "079ff8c37165947c99d345a3c5c328f1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NuukGreenland_PT-BR9430819124_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260106",
+    "fullStartDateTime": "202601060300",
+    "endDate": "20260107"
+  },
+  "createdAt": "202601070254",
+  "originalUrlBase": "/th?id=OHR.NuukGreenland_PT-BR9430819124"
+}
