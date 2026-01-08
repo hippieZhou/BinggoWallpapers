@@ -1,0 +1,43 @@
+{
+  "date": "Jan 7, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Turret Arch the in Arches National Park, Utah, United States",
+  "copyright": "Turret Arch framed by North Window in Arches National Park, Utah, United States (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Arches+National+Park+Windows&form=hpcapt&filters=HpDate%3a%2220260107_0800%22",
+  "description": "In Arches National Park located in Utah in the United States, Turret Arch—seen through North Window—offers a striking reminder: landscapes can take hundreds of millions of years to assemble. Standing approximately 20 metres tall and 10 metres wide, the arch is formed from Entrada Sandstone. These arches began as shifting dunes and shallow seas long before erosion carved the shapes we see today. Even so, these formations are relatively young. Arches National Park protects the highest concentration of natural stone arches on Earth—over 2,000 documented arches, along with spires, fins and balanced rocks. While here, visitors can explore through auto touring, hiking, bicycling, backpacking, canyoneering and rock climbing—permits required for the last three. It's a place where the rocks don't move, but you definitely will.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_OldRockArch%22&FORM=HPQUIZ",
+  "hash": "0bc1821f5fd4204d94cecdb230fb7bb4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ROW8266401569_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ROW8266401569_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ROW8266401569_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OldRockArch_ROW8266401569_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260107",
+    "fullStartDateTime": "202601070800",
+    "endDate": "20260108"
+  },
+  "createdAt": "202601080253",
+  "originalUrlBase": "/th?id=OHR.OldRockArch_ROW8266401569"
+}

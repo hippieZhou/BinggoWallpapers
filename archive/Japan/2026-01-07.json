@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 8 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "廃墟となった桟橋",
+  "bsTitle": "廃墟となった桟橋",
+  "caption": "廃墟となった桟橋",
+  "copyright": "ウェスト・ピア, イギリス (© Philip Reeve/Photodisc/Getty Images)",
+  "copyrightOnly": "© Philip Reeve/Photodisc/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a6%e3%82%a7%e3%82%b9%e3%83%88%e3%83%bb%e3%83%94%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220260107_1500%22",
+  "description": "今日の画像はウェスト・ピア。イングランドのブライトンにある廃墟化した桟橋です。1866 年に海辺の娯楽施設として開業し、その後コンサートホールも建設され、人気の観光スポットとなりました。ピーク時の 1918 年から 1919 年には、年間約 200 万人の旅行者が訪れたといわれています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_StarlingBrighton2025%22&FORM=HPQUIZ",
+  "hash": "df655e20ca9d6b2b1b9dd661a65d4c7f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260107",
+    "fullStartDateTime": "202601071500",
+    "endDate": "20260108"
+  },
+  "createdAt": "202601080253",
+  "originalUrlBase": "/th?id=OHR.StarlingBrighton2025_JA-JP6092282753"
+}

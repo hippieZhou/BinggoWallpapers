@@ -1,0 +1,43 @@
+{
+  "date": "8 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Danza en el cielo",
+  "bsTitle": "Danza en el cielo",
+  "caption": "Estorninos sobre las ruinas del Muelle Oeste de Brighton, Inglaterra",
+  "copyright": "Estorninos sobre las ruinas del Muelle Oeste de Brighton, Inglaterra (© Philip Reeve/Photodisc/Getty Images)",
+  "copyrightOnly": "© Philip Reeve/Photodisc/Getty Images",
+  "copyrightLink": "/search?q=Estornino&form=hpcapt&filters=HpDate%3a%2220260107_2300%22",
+  "description": "El horizonte de Brighton, en Inglaterra, guarda una escena que parece suspendida en el tiempo. Entre la bruma y el sonido del oleaje, las ruinas del Muelle Oeste se alzan como un esqueleto de hierro, testigo de épocas pasadas y del poder implacable del mar. Sobre este paisaje, miles de aves trazan figuras en el cielo, creando un espectáculo, tal y como se aprecia en la imagen de hoy, donde la decadencia se transforma en belleza efímera.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260107_StarlingBrighton2025%22&FORM=HPQUIZ",
+  "hash": "e490a530e740011f2bd71eacc5be3608",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ES-ES4605556261_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ES-ES4605556261_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ES-ES4605556261_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ES-ES4605556261_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260107",
+    "fullStartDateTime": "202601072300",
+    "endDate": "20260108"
+  },
+  "createdAt": "202601080253",
+  "originalUrlBase": "/th?id=OHR.StarlingBrighton2025_ES-ES4605556261"
+}
