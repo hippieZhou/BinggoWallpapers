@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "时光在此处茁壮成长",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%bc%aa%e5%b0%94%e6%a0%91%e6%9e%97%e5%9b%bd%e5%ae%b6%e4%bf%9d%e6%8a%a4%e5%8c%ba&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260108_MuirWoodsMonument%22&FORM=HPQUIZ",
+  "hash": "62e9cb2160162501bb0eabeb10119447",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260108",
+    "fullStartDateTime": "202601081600",
+    "endDate": "20260109"
+  },
+  "createdAt": "202601090254",
+  "originalUrlBase": "/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001"
+}

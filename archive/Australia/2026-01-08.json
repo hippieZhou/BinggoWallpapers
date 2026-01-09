@@ -1,0 +1,43 @@
+{
+  "date": "Jan 8, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Yellow-chevroned parakeets",
+  "copyright": "Yellow-chevroned parakeets in a mango tree, Pantanal, Brazil (© Uwe-Bergwitz/Getty Images)",
+  "copyrightOnly": "© Uwe-Bergwitz/Getty Images",
+  "copyrightLink": "/search?q=Yellow-chevroned+parakeet&form=hpcapt&filters=HpDate%3a%2220260108_0800%22",
+  "description": "In the Pantanal, Brazil, the diversity of life is extraordinary. Among trees full of fruit, the yellow-chevroned parakeet stands out, as seen in today's image. This bird feeds on seeds and fruits, such as mangoes. Its intense green, marked by yellow stripes on its wings, contrasts with the illuminated canopy, creating a spectacle that reveals the harmony of this unique ecosystem.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260108_Chevroned%22&FORM=HPQUIZ",
+  "hash": "4a7334a0c8ada9d44cc357c47e61fa4d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Chevroned_ROW1885349561_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Chevroned_ROW1885349561_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Chevroned_ROW1885349561_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Chevroned_ROW1885349561_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260108",
+    "fullStartDateTime": "202601080800",
+    "endDate": "20260109"
+  },
+  "createdAt": "202601090254",
+  "originalUrlBase": "/th?id=OHR.Chevroned_ROW1885349561"
+}

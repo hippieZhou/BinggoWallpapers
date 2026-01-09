@@ -1,0 +1,43 @@
+{
+  "date": "9 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La joya de Nápoles",
+  "bsTitle": "La joya de Nápoles",
+  "caption": "Basílica de San Francisco de Paula, Nápoles, Italia",
+  "copyright": "Basílica de San Francisco de Paula, Nápoles, Italia (© javarman3/Getty Images)",
+  "copyrightOnly": "© javarman3/Getty Images",
+  "copyrightLink": "/search?q=Bas%c3%adlica+de+San+Francisco+de+Paula&form=hpcapt&filters=HpDate%3a%2220260108_2300%22",
+  "description": "Hoy admiramos la impresionante belleza de la basílica de San Francisco de Paula, uno de los grandes iconos de la ciudad italiana de Nápoles. Situada en la monumental plaza del Plebiscito, destaca por su imponente fachada porticada y su gran cúpula, que supera los 50 metros de altura. Su diseño neoclásico la convierte en un punto de referencia visual dentro de la ciudad.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260108_NaplesBasilica%22&FORM=HPQUIZ",
+  "hash": "895145b65707e2714b8f6c4c72ef0b9c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_ES-ES4865830331_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_ES-ES4865830331_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_ES-ES4865830331_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_ES-ES4865830331_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260108",
+    "fullStartDateTime": "202601082300",
+    "endDate": "20260109"
+  },
+  "createdAt": "202601090254",
+  "originalUrlBase": "/th?id=OHR.NaplesBasilica_ES-ES4865830331"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jan 9, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Where time grows tall",
+  "bsTitle": "Where time grows tall",
+  "caption": "Muir Woods National Monument, California, United States",
+  "copyright": "Giant redwood trees in Muir Woods National Monument, California, USA (© photo by canderson/Getty Images)",
+  "copyrightOnly": "© photo by canderson/Getty Images",
+  "copyrightLink": "/search?q=Muir+Woods+National+Monument&form=hpcapt&filters=HpDate%3a%2220260109_0000%22",
+  "description": "Step into the realm of giants. Try embracing a BFG (Big Friendly Giant) as you wrap your arms around a thousand years of wisdom in a single tree trunk. Welcome to Muir Woods National Monument—established on this day in 1908—a majestic hall of coastal redwoods just north of San Francisco, in California, United States. These towering redwoods are the tallest trees on Earth—one here stretches about 80 metres, roughly the height of 43 people stacked head to toe. Most are 600–800 years old, and some have stood for over a millennium, yet they're still considered 'young' for a species that can live for 2,000 years.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MuirWoodsMonument%22&FORM=HPQUIZ",
+  "hash": "c5634fcf3bf39df94419835fded0efe7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-GB2101130312_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260109",
+    "fullStartDateTime": "202601090000",
+    "endDate": "20260110"
+  },
+  "createdAt": "202601090254",
+  "originalUrlBase": "/th?id=OHR.MuirWoodsMonument_EN-GB2101130312"
+}
