@@ -1,0 +1,43 @@
+{
+  "date": "10 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La magie des Alpes suisses",
+  "bsTitle": "La magie des Alpes suisses",
+  "caption": "Le reflet du Cervin sur le lac Stellisee à l’aube, Zermatt, Suisse",
+  "copyright": "Le reflet du Cervin sur le lac Stellisee à l’aube, Zermatt, Suisse (© Andy Trowbridge/naturepl.com)",
+  "copyrightOnly": "© Andy Trowbridge/naturepl.com",
+  "copyrightLink": "/search?q=Cervin&form=hpcapt&filters=HpDate%3a%2220260109_2300%22",
+  "description": "Peu de paysages incarnent l’âme des Alpes comme le reflet du Cervin sur les eaux cristallines du lac Stellisee. À 4\u202F478 mètres, cette pyramide de roche, érigée entre la Suisse et l’Italie, fascine depuis des générations les alpinistes, randonneurs et rêveurs. Sa silhouette acérée, façonnée par les glaciers et le vent, est devenue un emblème majeur de la montagne.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MatterhornSunrise%22&FORM=HPQUIZ",
+  "hash": "69fd507febcd2a2d287e49a2d8e555ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260109",
+    "fullStartDateTime": "202601092300",
+    "endDate": "20260110"
+  },
+  "createdAt": "202601100248",
+  "originalUrlBase": "/th?id=OHR.MatterhornSunrise_FR-FR4667476850"
+}

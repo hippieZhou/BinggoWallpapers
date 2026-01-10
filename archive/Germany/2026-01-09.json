@@ -1,0 +1,43 @@
+{
+  "date": "10. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Magie ganz nach Schweizer Art",
+  "bsTitle": "Magie ganz nach Schweizer Art",
+  "caption": "Das Matterhorn spiegelt sich im Stellisee, Zermatt, Schweiz",
+  "copyright": "Das Matterhorn spiegelt sich bei Sonnenaufgang im Stellisee, Zermatt, Schweiz (© Andy Trowbridge/naturepl.com)",
+  "copyrightOnly": "© Andy Trowbridge/naturepl.com",
+  "copyrightLink": "/search?q=Matterhorn&form=hpcapt&filters=HpDate%3a%2220260109_2300%22",
+  "description": "Es gibt Orte, die einen sofort ehrfürchtig staunen lassen. Dazu gehört der Anblick des Matterhorns, das sich im glatten Wasser des Stellisees spiegelt. Als markanter Gipfel der Walliser Alpen, einem der eindrucksvollsten Gebirgszüge des westlichen Alpenbogens, thront der 4.478 Meter hohe Berg an der Schweizer-italienischen Grenze. Er zieht Menschen aus aller Welt an, die gleichermaßen die Ruhe der Natur und das Abenteuer suchen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MatterhornSunrise%22&FORM=HPQUIZ",
+  "hash": "94158cdc9578717123b41f14c4b09614",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_DE-DE7583590264_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260109",
+    "fullStartDateTime": "202601092300",
+    "endDate": "20260110"
+  },
+  "createdAt": "202601100248",
+  "originalUrlBase": "/th?id=OHR.MatterhornSunrise_DE-DE7583590264"
+}

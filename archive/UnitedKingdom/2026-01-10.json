@@ -1,0 +1,43 @@
+{
+  "date": "Jan 10, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Pure Swiss magic",
+  "bsTitle": "Pure Swiss magic",
+  "caption": "The Matterhorn reflected in Lake Stellisee, Zermatt, Switzerland",
+  "copyright": "The Matterhorn reflected in Lake Stellisee, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)",
+  "copyrightOnly": "© Andy Trowbridge/naturepl.com",
+  "copyrightLink": "/search?q=Matterhorn&form=hpcapt&filters=HpDate%3a%2220260110_0000%22",
+  "description": "Few sights capture the spirit of the Alps like the Matterhorn mirrored in Lake Stellisee's glassy waters. Rising 4,478 metres on the Swiss-Italian border, this legendary peak has long symbolised natural beauty and adventure, drawing climbers, hikers and dreamers from every corner of the globe.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260110_MatterhornSunrise%22&FORM=HPQUIZ",
+  "hash": "12bb08c550209bc2db11de009b21f9d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-GB1417688844_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-GB1417688844_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-GB1417688844_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-GB1417688844_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260110",
+    "fullStartDateTime": "202601100000",
+    "endDate": "20260111"
+  },
+  "createdAt": "202601100248",
+  "originalUrlBase": "/th?id=OHR.MatterhornSunrise_EN-GB1417688844"
+}

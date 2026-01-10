@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 10 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "朝日で黄金色に染まった山頂",
+  "bsTitle": "朝日で黄金色に染まった山頂",
+  "caption": "朝日で黄金色に染まった山頂",
+  "copyright": "マッターホルン, アルプス山脈 (© Andy Trowbridge/naturepl.com)",
+  "copyrightOnly": "© Andy Trowbridge/naturepl.com",
+  "copyrightLink": "/search?q=%e3%83%9e%e3%83%83%e3%82%bf%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260109_1500%22",
+  "description": "今日の画像はシュテリゼー湖面に映るマッターホルン。アルプス山脈に属する標高 4,478m の名峰で、スイスとイタリアの国境に位置しています。その鋭く尖ったピラミッド型の姿は、何百万年にも及ぶ大地の変動と氷河侵食が生み出した自然の彫刻であり、古くから多くの登山家・旅行者を魅了してきました…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MatterhornSunrise%22&FORM=HPQUIZ",
+  "hash": "29907053a7c70afa84e3578abaf8966a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260109",
+    "fullStartDateTime": "202601091500",
+    "endDate": "20260110"
+  },
+  "createdAt": "202601100248",
+  "originalUrlBase": "/th?id=OHR.MatterhornSunrise_JA-JP8773317185"
+}

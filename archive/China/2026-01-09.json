@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "纯粹的瑞士魔力",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士 (© Andy Trowbridge/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%a9%ac%e7%89%b9%e6%b4%aa%e5%b3%b0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MatterhornSunrise%22&FORM=HPQUIZ",
+  "hash": "fa35733dd3d9cc47fbc704c55684ce4a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260109",
+    "fullStartDateTime": "202601091600",
+    "endDate": "20260110"
+  },
+  "createdAt": "202601100248",
+  "originalUrlBase": "/th?id=OHR.MatterhornSunrise_ZH-CN3171879631"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Reino dos gigantes",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sequoias no Monumento Nacional de Muir Woods, Califórnia, EUA (© foto de canderson/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Monumento+Nacional+de+Muir+Woods+na+Calif%c3%b3rnia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260109_MuirWoodsMonument%22&FORM=HPQUIZ",
+  "hash": "06e2f8a64865d293be00fab6c251e538",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260109",
+    "fullStartDateTime": "202601090300",
+    "endDate": "20260110"
+  },
+  "createdAt": "202601100248",
+  "originalUrlBase": "/th?id=OHR.MuirWoodsMonument_PT-BR7920486787"
+}
