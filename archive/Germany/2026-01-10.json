@@ -1,0 +1,43 @@
+{
+  "date": "11. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die blaue Perle Marokkos",
+  "bsTitle": "Die blaue Perle Marokkos",
+  "caption": "Blaue Mauern von Chefchaouen, Marokko",
+  "copyright": "Blaue Mauern von Chefchaouen, Marokko (© AnetteAndersen/Getty Images)",
+  "copyrightOnly": "© AnetteAndersen/Getty Images",
+  "copyrightLink": "/search?q=Chefchaouen+Marokko&form=hpcapt&filters=HpDate%3a%2220260110_2300%22",
+  "description": "Manche Orte wirken wie ein aufgeschlagenes Geschichtsbuch. Ein Blick auf die blaue Stadt Chefchaouen in Marokko mit ihren Terrassen, verwinkelten Gassen und ihrer ruhigen Atmosphäre genügt, um zu spüren, dass Geschichte hier nicht nur erzählt, sondern erlebt wird. Marokko setzte im Jahr 1944 ein bedeutendes Zeichen, als 66 Unterzeichner, angeführt von Sultan Mohammed V., das Ende der kolonialen Herrschaft forderten. Trotz Repressionen führte dieser Schritt im Jahr 1956 zur Unabhängigkeit und steht bis heute symbolisch für den Wunsch nach Selbstbestimmung.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260110_BlueMorocco%22&FORM=HPQUIZ",
+  "hash": "df42664c942238d880b665bcfc50221a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_DE-DE7800774459_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260110",
+    "fullStartDateTime": "202601102300",
+    "endDate": "20260111"
+  },
+  "createdAt": "202601110304",
+  "originalUrlBase": "/th?id=OHR.BlueMorocco_DE-DE7800774459"
+}

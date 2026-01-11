@@ -1,0 +1,43 @@
+{
+  "date": "11 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La perla azul",
+  "bsTitle": "La perla azul",
+  "caption": "Fachadas azules de Chauen, Marruecos",
+  "copyright": "Fachadas azules de Chauen, Marruecos (© AnetteAndersen/Getty Images)",
+  "copyrightOnly": "© AnetteAndersen/Getty Images",
+  "copyrightLink": "/search?q=Chauen+Marruecos&form=hpcapt&filters=HpDate%3a%2220260110_2300%22",
+  "description": "Las calles de Chauen avanzan entre curvas estrechas y destellos de luz que rebotan en cada esquina azulada. La mezcla de quietud y color crea una atmósfera que parece surgir de otra época, casi como si conservara huellas de aquellos días en los que Marruecos reclamaba un rumbo propio. El 11 de enero de 1944 marcó un momento decisivo en ese camino, cuando la Proclamación de Independencia reunió voces que se negaban a seguir bajo dominio extranjero y buscaban afirmar una soberanía largamente deseada. En medio de esa historia que aún resuena, las fachadas azules de Chauen aportan una identidad vibrante que combina memoria, tradición y un estilo visual que se ha convertido en símbolo del lugar.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260110_BlueMorocco%22&FORM=HPQUIZ",
+  "hash": "f8cb93a8bbef2c2daed98c9d4cdeda2a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_ES-ES5067762597_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_ES-ES5067762597_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_ES-ES5067762597_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_ES-ES5067762597_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260110",
+    "fullStartDateTime": "202601102300",
+    "endDate": "20260111"
+  },
+  "createdAt": "202601110304",
+  "originalUrlBase": "/th?id=OHR.BlueMorocco_ES-ES5067762597"
+}

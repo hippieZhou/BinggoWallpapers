@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Resistenza & Resilienza?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Le mura blu di Chefchaouen, Marocco (© AnetteAndersen/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Chefchaouen+Morocco&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260110_BlueMorocco%22&FORM=HPQUIZ",
+  "hash": "8e6238f04f8cfd8c32bd4029dd6cf91f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260110",
+    "fullStartDateTime": "202601102300",
+    "endDate": "20260111"
+  },
+  "createdAt": "202601110304",
+  "originalUrlBase": "/th?id=OHR.BlueMorocco_IT-IT0979277662"
+}
