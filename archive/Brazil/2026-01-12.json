@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A guardiã dos rios",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lontra-europeia e filhote, Estônia (© Sven Zacek/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lontra+europeia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_SnowOtters%22&FORM=HPQUIZ",
+  "hash": "30d0f2299ac59a2aaf8bbaea5d17853d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_PT-BR2784694559_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260112",
+    "fullStartDateTime": "202601120300",
+    "endDate": "20260113"
+  },
+  "createdAt": "202601120302",
+  "originalUrlBase": "/th?id=OHR.SnowOtters_PT-BR2784694559"
+}

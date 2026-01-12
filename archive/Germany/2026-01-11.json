@@ -1,0 +1,43 @@
+{
+  "date": "12. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Winterzauber auf Otterart",
+  "bsTitle": "Winterzauber auf Otterart",
+  "caption": "Eurasischer Fischotter mit Jungtier, Estland",
+  "copyright": "Eurasischer Fischotter mit Jungtier, Estland (© Sven Zacek/naturepl.com)",
+  "copyrightOnly": "© Sven Zacek/naturepl.com",
+  "copyrightLink": "/search?q=Eurasischer+Fischotter&form=hpcapt&filters=HpDate%3a%2220260111_2300%22",
+  "description": "Ein Blick in die glitzernden Gesichter, die aus dem Schnee auftauchen, genügt, um zu spüren, dass hier ein Winterabenteuer beginnt. Estland zählt heute zu den wichtigsten Lebensräumen des Eurasischen Fischotters. Klare, nährstoffarme Flüsse, ausgedehnte Moore und eine reichhaltige Ostseeküste bieten ideale Bedingungen. Es ist daher kein Zufall, dass die Art dort 2024 zum „Tier des Jahres“ gewählt wurde. Während der Fischotter global als potenziell gefährdet gilt, haben sich die estnischen Bestände in den letzten Jahrzehnten von etwa 300 auf rund 2.000 Tiere erholt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_SnowOtters%22&FORM=HPQUIZ",
+  "hash": "555316b2b2a9317631833d74561cd22f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_DE-DE8031426610_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260111",
+    "fullStartDateTime": "202601112300",
+    "endDate": "20260112"
+  },
+  "createdAt": "202601120302",
+  "originalUrlBase": "/th?id=OHR.SnowOtters_DE-DE8031426610"
+}

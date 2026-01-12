@@ -1,0 +1,43 @@
+{
+  "date": "Jan 11, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "From resistance to radiance",
+  "bsTitle": "From resistance to radiance",
+  "caption": "Blue walls of Chefchaouen, Morocco",
+  "copyright": "Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)",
+  "copyrightOnly": "© AnetteAndersen/Getty Images",
+  "copyrightLink": "/search?q=Chefchaouen+Morocco&form=hpcapt&filters=HpDate%3a%2220260111_0800%22",
+  "description": "On January 11, 1944, Morocco took a bold step toward freedom. Sixty-six leaders signed the Proclamation of Independence, demanding an end to French and Spanish colonial rule and affirming the country's right to sovereignty. This manifesto, backed by Sultan Mohammed V, was presented not only to colonial authorities but also to representatives of the US, UK, and the former Soviet Union—a signal that Morocco's struggle was part of a global call for self-determination. Though repression followed, the movement endured, and by 1956 Morocco achieved full independence, marking a turning point in North African history.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_BlueMorocco%22&FORM=HPQUIZ",
+  "hash": "280fab27536f0d4c60eaef7d4934fd22",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260111",
+    "fullStartDateTime": "202601110800",
+    "endDate": "20260112"
+  },
+  "createdAt": "202601120302",
+  "originalUrlBase": "/th?id=OHR.BlueMorocco_EN-US0026059455"
+}

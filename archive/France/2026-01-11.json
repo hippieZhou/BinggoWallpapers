@@ -1,0 +1,43 @@
+{
+  "date": "12 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’Estonie, le paradis de nos loutres d’Europe",
+  "bsTitle": "L’Estonie, le paradis de nos loutres d’Europe",
+  "caption": "Une loutre d’Europe et son petit, Estonie",
+  "copyright": "Une loutre d’Europe et son petit, Estonie (© Sven Zacek/naturepl.com)",
+  "copyrightOnly": "© Sven Zacek/naturepl.com",
+  "copyrightLink": "/search?q=loutre+europe&form=hpcapt&filters=HpDate%3a%2220260111_2300%22",
+  "description": "Ce ne sont pas les traces dans la neige qui trahissent leur présence, mais ces museaux givrés qui émergent comme s’ils découvraient l’hiver. L’Estonie est l’un des meilleurs refuges européens pour la loutre d’Europe, grâce à ses rivières limpides, ses vastes zones humides et son littoral riche en proies. Espèce protégée, elle a été désignée « Animal de l’année » en 2024. Longtemps menacée, sa population est passée de moins de 300 individus avant 2000 à près de 2 000 aujourd’hui.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260111_SnowOtters%22&FORM=HPQUIZ",
+  "hash": "fe35f6e4e2ca197527edf8c37c832832",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260111",
+    "fullStartDateTime": "202601112300",
+    "endDate": "20260112"
+  },
+  "createdAt": "202601120302",
+  "originalUrlBase": "/th?id=OHR.SnowOtters_FR-FR5221259508"
+}
