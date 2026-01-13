@@ -1,0 +1,43 @@
+{
+  "date": "13 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Memorias ocultas en el valle",
+  "bsTitle": "Memorias ocultas en el valle",
+  "caption": "Valle de Clwyd, Gales, Reino Unido",
+  "copyright": "Valle de Clwyd, Gales, Reino Unido (© Valerie Blencowe/Getty Images)",
+  "copyrightOnly": "© Valerie Blencowe/Getty Images",
+  "copyrightLink": "/search?q=A%c3%b1o+nuevo+viejo&form=hpcapt&filters=HpDate%3a%2220260112_2300%22",
+  "description": "El Valle de Clwyd se presenta como uno de los paisajes más fértiles y tranquilos del nordeste de Gales, Reino Unido. Sus campos ordenados, los setos maduros y las suaves colinas crean una estampa que refleja siglos de tradición agrícola. Los pueblos históricos que salpican el valle, con sus iglesias antiguas y calles estrechas, encajan de manera natural en un entorno donde la vida rural mantiene un ritmo pausado y muy característico.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_WalesWinter%22&FORM=HPQUIZ",
+  "hash": "55caeb17f2e138050773602451cc92d1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ES-ES5513593147_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ES-ES5513593147_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ES-ES5513593147_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ES-ES5513593147_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260112",
+    "fullStartDateTime": "202601122300",
+    "endDate": "20260113"
+  },
+  "createdAt": "202601130252",
+  "originalUrlBase": "/th?id=OHR.WalesWinter_ES-ES5513593147"
+}

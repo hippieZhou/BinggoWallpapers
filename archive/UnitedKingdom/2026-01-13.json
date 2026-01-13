@@ -1,0 +1,43 @@
+{
+  "date": "Jan 13, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Apple rhymes and old times",
+  "bsTitle": "Apple rhymes and old times",
+  "caption": "Hen Galan",
+  "copyright": "Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)",
+  "copyrightOnly": "© Valerie Blencowe/Getty Images",
+  "copyrightLink": "/search?q=Hen+Galan+Wales&form=hpcapt&filters=HpDate%3a%2220260113_0000%22",
+  "description": "Most people wrap up their New Year plans by the first week of January. Wales, however, has a charming habit of saying, 'Hold on—we've got one more celebration left.' Enter Hen Galan, the 'Old New Year,' observed on 13 January 13 in parts of Wales, most famously in the Gwaun Valley. The date survives from the old Julian calendar, kept long after the rest of Britain adopted the Gregorian one.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_WalesWinter%22&FORM=HPQUIZ",
+  "hash": "6d655e470a93df84d80b479c6a1df5d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_EN-GB1888088613_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260113",
+    "fullStartDateTime": "202601130000",
+    "endDate": "20260114"
+  },
+  "createdAt": "202601130252",
+  "originalUrlBase": "/th?id=OHR.WalesWinter_EN-GB1888088613"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 12, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Otter-ly Estonia",
+  "bsTitle": "Otter-ly Estonia",
+  "caption": "Eurasian otter and pup, Estonia",
+  "copyright": "Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)",
+  "copyrightOnly": "© Sven Zacek/naturepl.com",
+  "copyrightLink": "/search?q=Eurasian+otter&form=hpcapt&filters=HpDate%3a%2220260112_0500%22",
+  "description": "The clue isn't the tracks in the snow—it's the frosted faces peeking out like they've just discovered winter. Estonia is one of Europe's best places to spot Eurasian otters, thanks to its clean rivers, wide wetlands and snack-filled coastline. This protected species was named Estonia's Animal of the Year in 2024. While globally considered near threatened, their population here has grown substantially, reaching an estimated 2,000 in recent years, up from a historic low of just 300 before the turn of the millennium.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_SnowOtters%22&FORM=HPQUIZ",
+  "hash": "aa2cc7c0ee44f87da9e6adb9d6f9c741",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_EN-CA1225711176_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_EN-CA1225711176_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_EN-CA1225711176_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SnowOtters_EN-CA1225711176_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260112",
+    "fullStartDateTime": "202601120500",
+    "endDate": "20260113"
+  },
+  "createdAt": "202601130252",
+  "originalUrlBase": "/th?id=OHR.SnowOtters_EN-CA1225711176"
+}

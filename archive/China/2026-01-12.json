@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "苹果韵，旧时光",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e5%85%8b%e5%8d%a2%e4%bc%8a%e5%be%b7%e8%b0%b7&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_WalesWinter%22&FORM=HPQUIZ",
+  "hash": "12f3326c63d6b341b36e0dca5fa03267",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260112",
+    "fullStartDateTime": "202601121600",
+    "endDate": "20260113"
+  },
+  "createdAt": "202601130252",
+  "originalUrlBase": "/th?id=OHR.WalesWinter_ZH-CN3692879767"
+}

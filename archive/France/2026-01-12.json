@@ -1,0 +1,43 @@
+{
+  "date": "13 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Pommes, comptines et Calennig",
+  "bsTitle": "Pommes, comptines et Calennig",
+  "caption": "Hen Galan",
+  "copyright": "Vallée de Clwyd, Pays de Galles (© Valerie Blencowe/Getty Images)",
+  "copyrightOnly": "© Valerie Blencowe/Getty Images",
+  "copyrightLink": "/search?q=Hen+Galan+Pays+de+Galles&form=hpcapt&filters=HpDate%3a%2220260112_2300%22",
+  "description": "Alors que beaucoup remballent leurs bonnes résolutions dès la première semaine de janvier, le Pays de Galles, quant à lui, aime prolonger la magie. Hen Galan, le «\u202FVieux Nouvel An\u202F», est célébré le 13 janvier dans certaines vallées, notamment celle de Gwaun. Cette date vient du calendrier julien, conservé longtemps après que le reste de la Grande-Bretagne ait adopté le calendrier grégorien.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260112_WalesWinter%22&FORM=HPQUIZ",
+  "hash": "604d419c2b4e32e407a7de81512d71e4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260112",
+    "fullStartDateTime": "202601122300",
+    "endDate": "20260113"
+  },
+  "createdAt": "202601130252",
+  "originalUrlBase": "/th?id=OHR.WalesWinter_FR-FR5382261184"
+}
