@@ -179,6 +179,15 @@
   <data name="SettingsPage_AdvancedSection.Text" xml:space="preserve">
     <value>高级设置</value>
   </data>
+  <data name="SettingsPage_StartupExpander.Header" xml:space="preserve">
+    <value>开机自启动</value>
+  </data>
+  <data name="SettingsPage_StartupExpander.Description" xml:space="preserve">
+    <value>设置应用在系统启动时自动运行</value>
+  </data>
+  <data name="SettingsPage_StartupToggle.Header" xml:space="preserve">
+    <value>开机时自动启动</value>
+  </data>
   <data name="SettingsPage_SyncCard.Header" xml:space="preserve">
     <value>同步数据</value>
   </data>
@@ -208,6 +217,15 @@
   </data>
   <data name="SettingsPage_LogClearButton.Content" xml:space="preserve">
     <value>清空</value>
+  </data>
+  <data name="SettingsPage_TrayIconExpander.Header" xml:space="preserve">
+    <value>系统托盘图标</value>
+  </data>
+  <data name="SettingsPage_TrayIconExpander.Description" xml:space="preserve">
+    <value>在系统托盘中显示应用图标，方便快速访问</value>
+  </data>
+  <data name="SettingsPage_TrayIconToggle.Header" xml:space="preserve">
+    <value>启用系统托盘图标</value>
   </data>
   <data name="SettingsPage_AboutSection.Text" xml:space="preserve">
     <value>关于</value>

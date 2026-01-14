@@ -179,6 +179,15 @@
   <data name="SettingsPage_AdvancedSection.Text" xml:space="preserve">
     <value>Advanced</value>
   </data>
+  <data name="SettingsPage_StartupExpander.Header" xml:space="preserve">
+    <value>Startup</value>
+  </data>
+  <data name="SettingsPage_StartupExpander.Description" xml:space="preserve">
+    <value>Set the app to run automatically when the system starts</value>
+  </data>
+  <data name="SettingsPage_StartupToggle.Header" xml:space="preserve">
+    <value>Launch at startup</value>
+  </data>
   <data name="SettingsPage_SyncCard.Header" xml:space="preserve">
     <value>Sync data</value>
   </data>
@@ -208,6 +217,15 @@
   </data>
   <data name="SettingsPage_LogClearButton.Content" xml:space="preserve">
     <value>Clear</value>
+  </data>
+  <data name="SettingsPage_TrayIconExpander.Header" xml:space="preserve">
+    <value>System tray icon</value>
+  </data>
+  <data name="SettingsPage_TrayIconExpander.Description" xml:space="preserve">
+    <value>Display the app icon in the system tray for quick access</value>
+  </data>
+  <data name="SettingsPage_TrayIconToggle.Header" xml:space="preserve">
+    <value>Enable system tray icon</value>
   </data>
   <data name="SettingsPage_AboutSection.Text" xml:space="preserve">
     <value>About</value>

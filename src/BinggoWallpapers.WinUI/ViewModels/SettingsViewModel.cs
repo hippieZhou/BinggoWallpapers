@@ -57,6 +57,24 @@ public partial class SettingsViewModel : ObservableRecipient
     [ObservableProperty]
     public partial long LogFileSizeInBytes { get; set; }
 
+    [ObservableProperty]
+    private bool _isTrayIconEnabled;
+
+    partial void OnIsTrayIconEnabledChanged(bool value)
+    {
+        _logger.LogInformation("TrayIcon 设置已更改: {IsEnabled}", value);
+        // TODO: 实现 TrayIcon 的启用/禁用逻辑
+    }
+
+    [ObservableProperty]
+    private bool _isStartupEnabled;
+
+    partial void OnIsStartupEnabledChanged(bool value)
+    {
+        _logger.LogInformation("开机自启动设置已更改: {IsEnabled}", value);
+        // TODO: 实现开机自启动的启用/禁用逻辑
+    }
+
     [RelayCommand]
     private async Task OnSwitchLanguage(string language)
     {
