@@ -53,6 +53,7 @@
     <PackageReference Include="Serilog.Sinks.File" />
     <PackageReference Include="Serilog.Formatting.Compact" />
     <PackageReference Include="Serilog.Sinks.Map" />
+    <PackageReference Include="0x5BFA.TrayIconFlyout.WinUI" />
   </ItemGroup>
 
   <ItemGroup>
