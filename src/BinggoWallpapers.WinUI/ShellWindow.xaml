@@ -20,7 +20,7 @@
     PersistenceId="MainWindow"
     mc:Ignorable="d">
     <Window.SystemBackdrop>
-        <MicaBackdrop />
+        <MicaBackdrop Kind="Base" />
     </Window.SystemBackdrop>
 
     <Grid x:Name="ContentArea">

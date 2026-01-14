@@ -10,6 +10,7 @@ using BinggoWallpapers.WinUI.Services;
 using BinggoWallpapers.WinUI.Services.Impl;
 using BinggoWallpapers.WinUI.ViewModels;
 using BinggoWallpapers.WinUI.Views;
+using BinggoWallpapers.WinUI.Views.TrayIcon;
 using CommunityToolkit.Mvvm.Messaging;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -151,6 +152,12 @@ public static class ServiceCollectionExtensions
         services.AddTransient<DetailViewModel>();
         services.AddTransient<DetailPage>();
         services.AddTransient<ShellViewModel>();
+
+        services.AddSingleton<DefaultTrayIconFlyout>();
+        services.AddSingleton<DefaultTrayIconFlyoutViewModel>();
+
+        services.AddSingleton<DefaultTrayIconMeunFlyout>();
+        services.AddSingleton<DefaultTrayIconMeunFlyoutViewModel>();
         return services;
     }
 
@@ -174,6 +181,7 @@ public static class ServiceCollectionExtensions
         services.AddSingleton<INavigationViewService, NavigationViewService>();
         services.AddSingleton<IImageRenderService, ImageRenderService>();
         services.AddSingleton<IImageExportService, ImageExportService>();
+        services.AddSingleton<ITrayIconSelectorService, TrayIconSelectorService>();
 
         // Dispatcher Queue
         services.AddSingleton(dispatcherQueue);

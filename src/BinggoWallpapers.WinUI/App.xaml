@@ -19,6 +19,7 @@
                 <ResourceDictionary Source="/Styles/Colors.xaml" />
                 <ResourceDictionary Source="/Styles/GridViewItem.xaml" />
                 <ResourceDictionary Source="/Styles/NavigationView.xaml" />
+                <ResourceDictionary Source="/Styles/TrayIcon.xaml" />
             </ResourceDictionary.MergedDictionaries>
 
             <!--  Fonts  -->

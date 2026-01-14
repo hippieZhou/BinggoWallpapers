@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<me:TrayIconFlyout
+    x:Class="BinggoWallpapers.WinUI.Views.TrayIcon.DefaultTrayIconFlyout"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:dto="using:BinggoWallpapers.Core.DTOs"
+    xmlns:ex="using:ImageEx"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views.TrayIcon"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:me="using:U5BFA.Libraries"
+    xmlns:ui="using:CommunityToolkit.WinUI"
+    Width="360"
+    Height="520"
+    mc:Ignorable="d">
+
+    <me:TrayIconFlyoutIsland>
+        <Grid Height="520" Background="{ThemeResource FlyoutOverlayBackgroundBrush}">
+            <FlipView ItemsSource="{x:Bind ViewModel.Wallpapers}">
+                <FlipView.ItemTemplate>
+                    <DataTemplate x:DataType="dto:WallpaperInfoDto">
+                        <Grid>
+                            <ex:ImageEx
+                                EnableLazyLoading="True"
+                                IsCacheEnabled="True"
+                                Source="{x:Bind Url}"
+                                Stretch="UniformToFill"
+                                Tag="{x:Bind Id}" />
+                        </Grid>
+                    </DataTemplate>
+                </FlipView.ItemTemplate>
+            </FlipView>
+        </Grid>
+    </me:TrayIconFlyoutIsland>
+</me:TrayIconFlyout>
