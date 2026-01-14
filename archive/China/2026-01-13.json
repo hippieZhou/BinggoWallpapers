@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "帕拉米蒂的历史之阶",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊 (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b8%95%e6%8b%89%e7%b1%b3%e8%92%82%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+  "hash": "03e168c80290763f3e521ff9f4957f0e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260113",
+    "fullStartDateTime": "202601131600",
+    "endDate": "20260114"
+  },
+  "createdAt": "202601140300",
+  "originalUrlBase": "/th?id=OHR.PalamidiFortress_ZH-CN5420143053"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "14 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une histoire d’escalier qui remonte le temps…",
+  "bsTitle": "Une histoire d’escalier qui remonte le temps…",
+  "caption": "Forteresse de Palamède, Grèce",
+  "copyright": "Les escaliers de la forteresse de Palamède, Nafplio, Grèce (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=forteresse+Palam%c3%a8de&form=hpcapt&filters=HpDate%3a%2220260113_2300%22",
+  "description": "Surplombant Nafplio à 216 mètres d’altitude, la forteresse de Palamède, située en Grèce, est un chef-d’œuvre vénitien achevé en 1714. Ses huit bastions, conçus pour résister de manière indépendante, racontent une histoire de stratégie et de courage\u202F: tombée aux mains des Ottomans un an après sa construction, elle fut reprise par les Grecs en 1822, qui baptisèrent ses bastions du nom de héros antiques comme Achille et Léonidas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+  "hash": "94af021aba330b7fc882f649dfe415f9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260113",
+    "fullStartDateTime": "202601132300",
+    "endDate": "20260114"
+  },
+  "createdAt": "202601140300",
+  "originalUrlBase": "/th?id=OHR.PalamidiFortress_FR-FR5605647086"
+}

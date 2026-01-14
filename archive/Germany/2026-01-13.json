@@ -1,0 +1,43 @@
+{
+  "date": "14. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Geschichte Stufe für Stufe",
+  "bsTitle": "Geschichte Stufe für Stufe",
+  "caption": "Festung Palamidi, Nafplio, Griechenland",
+  "copyright": "Die Treppe der Festung Palamidi, Nafplio, Griechenland (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=Palamidi+Festung&form=hpcapt&filters=HpDate%3a%2220260113_2300%22",
+  "description": "Wer den Aufstieg wagt, wird nicht nur mit einer atemberaubenden Aussicht belohnt, sondern erfährt auch ein Stück europäischer Wehrgeschichte. Über der griechischen Hafenstadt Nafplio thront die Festung Palamidi, eine venezianische Anlage aus dem Jahr 1714, die 216 Meter über der Stadt liegt. Ihr System aus acht Bastionen war so entworfen, dass jede Einheit auch dann weiterkämpfen konnte, wenn eine benachbarte Bastion fiel. Dies ist ein Musterbeispiel frühneuzeitlicher Militärarchitektur. 1715 nahmen die Osmanen die Festung ein, doch 1822 eroberte Griechenland sie zurück und benannte einzelne Bastionen nach Helden wie Achilles oder Leonidas. Berühmt ist der Treppenweg, der lange als „999 Stufen“ überliefert war, tatsächlich aber 857 Stufen umfasst. Der Anstieg ist anspruchsvoll, wird aber mit einem weiten Panorama über den Argolischen Golf belohnt. Von oben ist zu sehen, wie klug Mauern, Scharten und Höhenlinien miteinander verzahnt sind.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+  "hash": "d66e3be111316345ae16341cf98b4891",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260113",
+    "fullStartDateTime": "202601132300",
+    "endDate": "20260114"
+  },
+  "createdAt": "202601140300",
+  "originalUrlBase": "/th?id=OHR.PalamidiFortress_DE-DE8463442485"
+}

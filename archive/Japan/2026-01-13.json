@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 14 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は米国の「階段の日」",
+  "bsTitle": "今日は米国の「階段の日」",
+  "caption": "今日は米国の「階段の日」",
+  "copyright": "パラミディ要塞, ギリシャ (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%91%e3%83%a9%e3%83%9f%e3%83%87%e3%82%a3%e8%a6%81%e5%a1%9e&form=hpcapt&filters=HpDate%3a%2220260113_1500%22",
+  "description": "今日は米国の「階段の日」。エレベーターやエスカレーターを使わずに階段を使い、健康を促進することを目的とした啓発イベントで、毎年 1 月の第 2 水曜日に行われます。今日は、階段を使ってより健康的な生活への一歩を踏み出しましょう…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+  "hash": "fa5a2d65d5be7d9201ca9a6adac4bb95",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260113",
+    "fullStartDateTime": "202601131500",
+    "endDate": "20260114"
+  },
+  "createdAt": "202601140300",
+  "originalUrlBase": "/th?id=OHR.PalamidiFortress_JA-JP0089449076"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Ascensori ne abbiamo?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Scalinata della fortezza di Palamidi, Nauplia, Grecia (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Palamidi+Nauplia+Grecia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260113_PalamidiFortress%22&FORM=HPQUIZ",
+  "hash": "f0e9f04a5ad6cf7c80f423c33f6604a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_IT-IT3360933956_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_IT-IT3360933956_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_IT-IT3360933956_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_IT-IT3360933956_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260113",
+    "fullStartDateTime": "202601132300",
+    "endDate": "20260114"
+  },
+  "createdAt": "202601140300",
+  "originalUrlBase": "/th?id=OHR.PalamidiFortress_IT-IT3360933956"
+}
