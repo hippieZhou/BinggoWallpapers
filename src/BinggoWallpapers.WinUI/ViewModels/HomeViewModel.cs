@@ -3,19 +3,21 @@
 using System.Collections.ObjectModel;
 using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.Core.Services;
+using BinggoWallpapers.WinUI.Messages;
 using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.Notifications;
 using BinggoWallpapers.WinUI.Selectors;
 using BinggoWallpapers.WinUI.Services;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.Messaging;
 using CommunityToolkit.WinUI.Collections;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Logging;
 
 namespace BinggoWallpapers.WinUI.ViewModels;
 
-public partial class HomeViewModel : ObservableRecipient, INavigationAware
+public partial class HomeViewModel : ObservableRecipient, INavigationAware, IRecipient<RefreshWallpapersCompletedMessage>
 {
     private readonly IMarketSelectorService _marketSelectorService;
     private readonly IManagementService _managementService;
@@ -52,6 +54,8 @@ public partial class HomeViewModel : ObservableRecipient, INavigationAware
         _inAppNotificationService = inAppNotificationService;
         _memoryCache = memoryCache;
         _logger = logger;
+
+        IsActive = true;
 
         Markets = new ObservableCollection<MarketInfoDto>(_marketSelectorService.SupportedMarkets);
         SelectedMarket = _marketSelectorService.Market;
@@ -117,5 +121,10 @@ public partial class HomeViewModel : ObservableRecipient, INavigationAware
         // 导航到详情页
         var navigationService = App.GetService<INavigationService>();
         navigationService.NavigateTo<DetailViewModel>(wallpaper);
+    }
+
+    public void Receive(RefreshWallpapersCompletedMessage message)
+    {
+        LoadedCommand.Execute(CancellationToken.None);
     }
 }

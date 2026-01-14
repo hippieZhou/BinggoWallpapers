@@ -1,8 +1,10 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
+using System.Collections.ObjectModel;
+using BinggoWallpapers.Core.DTOs;
+using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.Notifications;
 using BinggoWallpapers.WinUI.Selectors;
-using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.Views.UserControls;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
@@ -20,6 +22,8 @@ public partial class SettingsViewModel : ObservableRecipient
     private readonly IDownloadSelectorService _downloadSelector;
     private readonly ILanguageSelectorService _languageSelector;
     private readonly IThemeSelectorService _themeSelector;
+    private readonly ITrayIconSelectorService _trayIconService;
+    private readonly IMarketSelectorService _marketSelectorService;
     private readonly IInAppNotificationService _inAppNotificationService;
     private readonly ILogger<SettingsViewModel> _logger;
 
@@ -28,6 +32,8 @@ public partial class SettingsViewModel : ObservableRecipient
     IDownloadSelectorService downloadSelector,
     ILanguageSelectorService languageSelector,
     IThemeSelectorService themeSelector,
+    ITrayIconSelectorService trayIconService,
+    IMarketSelectorService marketSelectorService,
     IInAppNotificationService inAppNotificationService,
     ILogger<SettingsViewModel> logger)
     {
@@ -35,6 +41,8 @@ public partial class SettingsViewModel : ObservableRecipient
         _downloadSelector = downloadSelector;
         _languageSelector = languageSelector;
         _themeSelector = themeSelector;
+        _trayIconService = trayIconService;
+        _marketSelectorService = marketSelectorService;
         _inAppNotificationService = inAppNotificationService;
         _logger = logger;
 
@@ -43,6 +51,10 @@ public partial class SettingsViewModel : ObservableRecipient
 
         CurrentLanguage = _languageSelector.Language;
         CurrentTheme = _themeSelector.Theme;
+        IsTrayIconEnabled = _trayIconService.IsEnabled;
+
+        Markets = new ObservableCollection<MarketInfoDto>(_marketSelectorService.SupportedMarkets);
+        SelectedMarket = _marketSelectorService.Market;
     }
 
     [ObservableProperty]
@@ -56,23 +68,36 @@ public partial class SettingsViewModel : ObservableRecipient
 
     [ObservableProperty]
     public partial long LogFileSizeInBytes { get; set; }
+    [ObservableProperty]
+    public partial bool IsStartupEnabled { get; set; }
+    [ObservableProperty]
+    public partial bool IsTrayIconEnabled { get; set; }
+
+    public ObservableCollection<MarketInfoDto> Markets { get; private set; }
 
     [ObservableProperty]
-    private bool _isTrayIconEnabled;
-
-    partial void OnIsTrayIconEnabledChanged(bool value)
-    {
-        _logger.LogInformation("TrayIcon 设置已更改: {IsEnabled}", value);
-        // TODO: 实现 TrayIcon 的启用/禁用逻辑
-    }
-
-    [ObservableProperty]
-    private bool _isStartupEnabled;
+    public partial MarketInfoDto SelectedMarket { get; set; }
 
     partial void OnIsStartupEnabledChanged(bool value)
     {
         _logger.LogInformation("开机自启动设置已更改: {IsEnabled}", value);
         // TODO: 实现开机自启动的启用/禁用逻辑
+    }
+
+    partial void OnIsTrayIconEnabledChanged(bool value)
+    {
+        _logger.LogInformation("TrayIcon 设置已更改: {IsEnabled}", value);
+        _ = Task.Run(async () =>
+        {
+            try
+            {
+                await _trayIconService.ToggleAsync(value);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "切换 TrayIcon 状态失败");
+            }
+        });
     }
 
     [RelayCommand]
@@ -93,6 +118,36 @@ public partial class SettingsViewModel : ObservableRecipient
             CurrentTheme = param;
             await _themeSelector.SetThemeAsync(param);
         }
+    }
+
+    [RelayCommand]
+    private void OnSwitchMarket(MarketInfoDto market)
+    {
+        if (market is not null && SelectedMarket?.Code != market.Code)
+        {
+            SelectedMarket = market;
+        }
+    }
+
+    partial void OnSelectedMarketChanged(MarketInfoDto oldValue, MarketInfoDto newValue)
+    {
+        if (oldValue is null || newValue is null || oldValue.Code == newValue.Code)
+        {
+            return;
+        }
+
+        _ = Task.Run(async () =>
+        {
+            try
+            {
+                await _marketSelectorService.SetMarketAsync(newValue);
+                _logger.LogInformation("区域设置已更改: {MarketCode}", newValue.Code);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "切换区域设置失败");
+            }
+        });
     }
 
     [RelayCommand]

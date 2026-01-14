@@ -32,7 +32,7 @@ public static class WallpaperMapper
             Title: wallpaperInfo.Title ?? string.Empty,
             Copyright: wallpaperInfo.Copyright ?? string.Empty,
             CopyrightOnly: wallpaperInfo.CopyrightOnly ?? string.Empty,
-            CopyrightLink: wallpaperInfo.CopyrightLink ?? string.Empty,
+            CopyrightLink:$"{HTTPConstants.BingBaseUrl}{wallpaperInfo.CopyrightLink}"  ?? string.Empty,
             Caption: wallpaperInfo.Caption ?? string.Empty,
             Description: wallpaperInfo.Description,
             Url: GetBestResolutionUrl(wallpaperInfo.ImageResolutions)

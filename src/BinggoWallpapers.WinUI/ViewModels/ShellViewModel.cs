@@ -1,11 +1,13 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
 using BinggoWallpapers.Core.Services;
+using BinggoWallpapers.WinUI.Messages;
 using BinggoWallpapers.WinUI.Notifications;
 using BinggoWallpapers.WinUI.Services;
 using BinggoWallpapers.WinUI.Views;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.Messaging;
 using CommunityToolkit.WinUI.Behaviors;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.UI.Xaml.Controls;
@@ -60,7 +62,7 @@ public partial class ShellViewModel(
     }
 
     [RelayCommand(IncludeCancelCommand = true, FlowExceptionsToTaskScheduler = true, AllowConcurrentExecutions = false)]
-    private async Task OnFetchRequest(CancellationToken cancellationToken)
+    private async Task Refresh(CancellationToken cancellationToken)
     {
         try
         {
@@ -83,6 +85,7 @@ public partial class ShellViewModel(
         finally
         {
             BadgeNotificationManager.Current.ClearBadge();
+            Messenger.Send(new RefreshWallpapersCompletedMessage());
         }
     }
 
