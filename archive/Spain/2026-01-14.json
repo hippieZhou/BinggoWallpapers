@@ -1,0 +1,43 @@
+{
+  "date": "15 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Belleza nórdica",
+  "bsTitle": "Belleza nórdica",
+  "caption": "El pueblo pesquero de Reine, Noruega",
+  "copyright": "El pueblo pesquero de Reine, Noruega (© Roberto Moiola/Cavan Images/SuperStock)",
+  "copyrightOnly": "© Roberto Moiola/Cavan Images/SuperStock",
+  "copyrightLink": "/search?q=Reine&form=hpcapt&filters=HpDate%3a%2220260114_2300%22",
+  "description": "Reine, en el archipiélago de Lofoten, es uno de los pueblos pesqueros más fotografiados de Noruega. Situado sobre la isla de Moskenesøya y rodeado de montañas escarpadas, su historia como centro comercial y pesquero se remonta al siglo XVIII. En la actualidad, conserva su esencia tradicional gracias a sus rorbuer, las antiguas cabañas de pescadores que aún se alinean junto al agua, y a una pequeña comunidad de aproximadamente 300 personas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260114_ReineSunrise%22&FORM=HPQUIZ",
+  "hash": "7228ed0f70a00aa767cc3e7e0caa0403",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ReineSunrise_ES-ES5820604211_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ReineSunrise_ES-ES5820604211_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ReineSunrise_ES-ES5820604211_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ReineSunrise_ES-ES5820604211_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260114",
+    "fullStartDateTime": "202601142300",
+    "endDate": "20260115"
+  },
+  "createdAt": "202601150254",
+  "originalUrlBase": "/th?id=OHR.ReineSunrise_ES-ES5820604211"
+}

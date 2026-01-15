@@ -1,0 +1,43 @@
+{
+  "date": "Jan 14, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Ascending history at Palamidi",
+  "bsTitle": "Ascending history at Palamidi",
+  "caption": "National Take the Stairs Day",
+  "copyright": "The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "© George Pachantouris/Getty Images",
+  "copyrightLink": "/search?q=Palamidi+fortress&form=hpcapt&filters=HpDate%3a%2220260114_0800%22",
+  "description": "National Take the Stairs Day, observed on the second Wednesday of January, encourages everyone to add small bursts of movement to daily life. Choosing stairs instead of elevators, or fitting in a short walk or bike ride, helps build healthier habits. With millions living with chronic lung disease and air quality concerns growing, simple actions that strengthen our bodies matter more than ever.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260114_PalamidiFortress%22&FORM=HPQUIZ",
+  "hash": "1dd0bd9efe492fae5ff7d38b7d020f64",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260114",
+    "fullStartDateTime": "202601140800",
+    "endDate": "20260115"
+  },
+  "createdAt": "202601150254",
+  "originalUrlBase": "/th?id=OHR.PalamidiFortress_EN-US0244863129"
+}

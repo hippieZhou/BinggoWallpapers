@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Palamidi+fortress&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260114_PalamidiFortress%22&FORM=HPQUIZ",
+  "hash": "acb72b119f7d50f6846a249825c04478",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ROW0874671580_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ROW0874671580_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ROW0874671580_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PalamidiFortress_ROW0874671580_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260114",
+    "fullStartDateTime": "202601140800",
+    "endDate": "20260115"
+  },
+  "createdAt": "202601150254",
+  "originalUrlBase": "/th?id=OHR.PalamidiFortress_ROW0874671580"
+}
