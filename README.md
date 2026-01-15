@@ -1,6 +1,6 @@
 <div align="center">
 
-# BinggoWallpapers
+# Binggo Wallpapers
 
   <img src="design/app_icon.svg" alt="BinggoWallpapers" width="128" height="128">
 
@@ -12,7 +12,9 @@
 
 </div>
 
-> 一个基于 WinUI 3 的必应壁纸应用，让您轻松浏览、下载和设置来自世界各地的精美壁纸。
+> A WinUI 3-based Bing wallpaper application that lets you easily browse, download, and set beautiful wallpapers from around the world.
+
+[English](README.md) | **[中文](README.zh-CN.md)**
 
 [![Build and Test](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml)
 [![codecov](https://codecov.io/gh/hippiezhou/BinggoWallpapers/branch/main/graph/badge.svg?token=SX3PU5ZP2I)](https://codecov.io/gh/hippiezhou/BinggoWallpapers)
@@ -21,104 +23,104 @@
 ![.NET 10](https://img.shields.io/badge/.NET-10.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ 功能特性
+## ✨ Features
 
-### 🌍 多地区支持
+### 🌍 Multi-Region Support
 
--   **14 个地区**：中国 🇨🇳、美国 🇺🇸、英国 🇬🇧、日本 🇯🇵、德国 🇩🇪、法国 🇫🇷、西班牙 🇪🇸、意大利 🇮🇹、俄罗斯 🇷🇺、韩国 🇰🇷、巴西 🇧🇷、澳大利亚 🇦🇺、加拿大 🇨🇦、印度 🇮🇳
--   **本地化内容**：每个地区提供独特的壁纸内容，反映当地文化和风景
--   **一键切换**：轻松在不同地区间切换，发现更多精彩壁纸
--   **智能语言适配**：自动根据地区设置对应的语言标头
--   **并发收集**：支持多地区并发数据收集，提升效率
+-   **14 Regions**: China 🇨🇳, United States 🇺🇸, United Kingdom 🇬🇧, Japan 🇯🇵, Germany 🇩🇪, France 🇫🇷, Spain 🇪🇸, Italy 🇮🇹, Russia 🇷🇺, South Korea 🇰🇷, Brazil 🇧🇷, Australia 🇦🇺, Canada 🇨🇦, India 🇮🇳
+-   **Localized Content**: Each region offers unique wallpaper content reflecting local culture and scenery
+-   **One-Click Switch**: Easily switch between regions to discover more amazing wallpapers
+-   **Smart Language Adaptation**: Automatically sets corresponding language headers based on region
+-   **Concurrent Collection**: Supports concurrent data collection across multiple regions for improved efficiency
 
-### 🖼️ 壁纸管理
+### 🖼️ Wallpaper Management
 
--   **实时浏览**：查看最新的必应每日壁纸
--   **历史归档**：浏览历史壁纸，发现经典作品，支持增量加载
--   **多分辨率下载**：支持 4 种分辨率（1366x768、1920x1080、1920x1200、3840x2160 4K）
--   **本地数据库**：SQLite 存储壁纸信息，支持离线浏览
--   **增量加载**：使用 IncrementalLoadingCollection 实现流畅的无限滚动
+-   **Real-Time Browsing**: View the latest Bing daily wallpapers
+-   **Historical Archive**: Browse historical wallpapers and discover classic works with incremental loading support
+-   **Multi-Resolution Download**: Support for 4 resolutions (1366x768, 1920x1080, 1920x1200, 3840x2160 4K)
+-   **Local Database**: SQLite storage for wallpaper information with offline browsing support
+-   **Incremental Loading**: Smooth infinite scrolling using IncrementalLoadingCollection
 
-### 🎨 图像编辑与特效
+### 🎨 Image Editing & Effects
 
--   **实时特效预览**：7 种图像特效（曝光、色温、色调、模糊、对比度、饱和度、像素化）
--   **Win2D 图形引擎**：基于 Microsoft.Graphics.Win2D 的高性能图像处理
--   **Mockup 预览**：在设备模型中预览壁纸效果
--   **高质量导出**：支持 2x 高分辨率导出为 PNG/JPEG 格式
--   **实时渲染**：CanvasControl 实现流畅的实时特效预览
+-   **Real-Time Effect Preview**: 7 image effects (Exposure, Temperature, Tint, Blur, Contrast, Saturation, Pixelation)
+-   **Win2D Graphics Engine**: High-performance image processing based on Microsoft.Graphics.Win2D
+-   **Mockup Preview**: Preview wallpaper effects in device models
+-   **High-Quality Export**: Support for 2x high-resolution export in PNG/JPEG format
+-   **Real-Time Rendering**: Smooth real-time effect preview using CanvasControl
 
-### 💎 用户体验
+### 💎 User Experience
 
--   **现代化界面**：基于 WinUI 3 的 Fluent Design 设计语言
--   **响应式布局**：适配不同屏幕尺寸，优雅的动画过渡
--   **加载动画**：Shimmer 加载效果、优雅的加载状态提示
--   **错误处理**：友好的错误提示和重试机制，完整的日志记录
--   **应用内通知**：StackedNotificationsBehavior 实现优雅的消息提示
--   **系统通知**：支持 Windows 系统级通知
+-   **Modern Interface**: Fluent Design language based on WinUI 3
+-   **Responsive Layout**: Adapts to different screen sizes with elegant animation transitions
+-   **Loading Animations**: Shimmer loading effects and elegant loading state indicators
+-   **Error Handling**: User-friendly error prompts and retry mechanisms with comprehensive logging
+-   **In-App Notifications**: Elegant message notifications using StackedNotificationsBehavior
+-   **System Notifications**: Support for Windows system-level notifications
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-查看 [快速开始指南](docs/QuickStart.md) 了解详细的技术栈、系统要求、开发环境搭建、配置和运行应用，以及数据库管理相关操作。
+Check out the [Quick Start Guide](docs/QuickStart.md) for detailed information about the tech stack, system requirements, development environment setup, configuration and running the application, as well as database management operations.
 
-## 🔄 持续集成
+## 🔄 Continuous Integration
 
-本项目使用 GitHub Actions 进行持续集成和自动化。查看 [GitHub Actions 说明文档](.github/ACTIONS.md) 了解详细的工作流配置和使用方式。
+This project uses GitHub Actions for continuous integration and automation. Check out the [GitHub Actions Documentation](.github/ACTIONS.md) for detailed workflow configuration and usage.
 
--   **构建状态**：点击顶部的 "Build and Test" 徽章查看最新构建状态
--   **测试覆盖率**：点击 "codecov" 徽章查看详细的代码覆盖率报告
--   **工作流历史**：访问 [Actions](https://github.com/hippiezhou/BinggoWallpapers/actions) 页面查看所有构建历史
+-   **Build Status**: Click the "Build and Test" badge at the top to view the latest build status
+-   **Test Coverage**: Click the "codecov" badge to view detailed code coverage reports
+-   **Workflow History**: Visit the [Actions](https://github.com/hippiezhou/BinggoWallpapers/actions) page to view all build history
 
-## 🤝 贡献指南
+## 🤝 Contributing
 
-欢迎所有形式的贡献！
+Contributions of all kinds are welcome!
 
-### 如何贡献
+### How to Contribute
 
-1. **Fork 项目**
-2. **创建功能分支** (`git checkout -b feature/AmazingFeature`)
-3. **提交更改** (`git commit -m 'Add some AmazingFeature'`)
-4. **推送到分支** (`git push origin feature/AmazingFeature`)
-5. **创建 Pull Request**
+1. **Fork the Project**
+2. **Create a Feature Branch** (`git checkout -b feature/AmazingFeature`)
+3. **Commit Your Changes** (`git commit -m 'Add some AmazingFeature'`)
+4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
+5. **Open a Pull Request**
 
-### 开发规范
+### Development Guidelines
 
--   **代码风格**：遵循 C# 编码规范和 .editorconfig 配置
--   **命名规范**：使用有意义的变量和函数名
--   **注释规范**：添加 XML 文档注释
--   **测试要求**：为新功能添加单元测试，确保测试覆盖率不降低
--   **提交规范**：使用清晰的提交信息（推荐使用 Conventional Commits）
--   **代码审查**：确保代码通过所有测试和 CI 检查
+-   **Code Style**: Follow C# coding standards and .editorconfig configuration
+-   **Naming Conventions**: Use meaningful variable and function names
+-   **Comment Standards**: Add XML documentation comments
+-   **Testing Requirements**: Add unit tests for new features, ensure test coverage does not decrease
+-   **Commit Standards**: Use clear commit messages (Conventional Commits recommended)
+-   **Code Review**: Ensure code passes all tests and CI checks
 
-## 🔒 隐私策略
+## 🔒 Privacy Policy
 
-我们非常重视您的隐私。本应用：
+We take your privacy seriously. This application:
 
--   ✅ **不收集**任何个人信息
--   ✅ **不跟踪**用户行为
--   ✅ **不上传**任何数据到服务器
--   ✅ 所有数据**仅本地存储**
+-   ✅ **Does not collect** any personal information
+-   ✅ **Does not track** user behavior
+-   ✅ **Does not upload** any data to servers
+-   ✅ All data is **stored locally only**
 
-查看完整的 [隐私策略](PRIVACY_POLICY.md) 或 [在线版本](https://hippiezhou.github.io/products/binggo-wallpapers/privacy-policy)。
+View the complete [Privacy Policy](PRIVACY_POLICY.md) or [online version](https://hippiezhou.github.io/products/binggo-wallpapers/privacy-policy).
 
-## 📄 许可证
+## 📄 License
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE.txt) 文件了解详情。
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
-## 🙏 致谢
+## 🙏 Acknowledgments
 
--   [Microsoft WinUI](https://github.com/microsoft/microsoft-ui-xaml) - 现代化的 Windows UI 框架
--   [CommunityToolkit](https://github.com/CommunityToolkit) - 优秀的 WinUI 工具包
--   [Bing Wallpaper API](https://www.bing.com/HPImageArchive.aspx) - 必应壁纸数据源
--   [Microsoft.Graphics.Win2D](https://github.com/Microsoft/Win2D) - 高性能 2D 图形渲染
--   [Entity Framework Core](https://github.com/dotnet/efcore) - 数据访问 ORM 框架
--   [Serilog](https://github.com/serilog/serilog) - 结构化日志记录框架
+-   [Microsoft WinUI](https://github.com/microsoft/microsoft-ui-xaml) - Modern Windows UI framework
+-   [CommunityToolkit](https://github.com/CommunityToolkit) - Excellent WinUI toolkit
+-   [Bing Wallpaper API](https://www.bing.com/HPImageArchive.aspx) - Bing wallpaper data source
+-   [Microsoft.Graphics.Win2D](https://github.com/Microsoft/Win2D) - High-performance 2D graphics rendering
+-   [Entity Framework Core](https://github.com/dotnet/efcore) - Data access ORM framework
+-   [Serilog](https://github.com/serilog/serilog) - Structured logging framework
 
-## 📞 联系我
+## 📞 Contact
 
--   **项目主页**：[GitHub Repository](https://github.com/hippiezhou/BinggoWallpapers)
--   **问题反馈**：[Issues](https://github.com/hippiezhou/BinggoWallpapers/issues)
--   **功能建议**：[Discussions](https://github.com/hippiezhou/BinggoWallpapers/discussions)
+-   **Project Homepage**: [GitHub Repository](https://github.com/hippiezhou/BinggoWallpapers)
+-   **Issue Reporting**: [Issues](https://github.com/hippiezhou/BinggoWallpapers/issues)
+-   **Feature Suggestions**: [Discussions](https://github.com/hippiezhou/BinggoWallpapers/discussions)
 
 ---
 
-⭐ 如果这个项目对您有帮助，请给我一个星标！
+⭐ If this project helps you, please give it a star!
