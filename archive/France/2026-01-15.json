@@ -1,0 +1,43 @@
+{
+  "date": "16 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Promenons-nous dans les bois…",
+  "bsTitle": "Promenons-nous dans les bois…",
+  "caption": "Cerf cachés dans la forêt",
+  "copyright": "Cerf cachés dans la forêt (© AB Photography/Getty images)",
+  "copyrightOnly": "© AB Photography/Getty images",
+  "copyrightLink": "/search?q=cerf+for%c3%aat&form=hpcapt&filters=HpDate%3a%2220260115_2300%22",
+  "description": "En hiver, la forêt française se fait plus silencieuse, presque solennelle. Sous les branches nues et la lumière pâle, le cerf avance avec lenteur, économisant chaque geste. Le froid resserre le monde vivant, et lui, grand seigneur des bois, s’adapte. Son pelage s’épaissit, sa couleur se fond dans les gris et les bruns de la saison, le rendant presque invisible entre hêtres et sapins.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_DeerWinter%22&FORM=HPQUIZ",
+  "hash": "6b9f8ad83ab8546c99c7a41ca7694e52",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260115",
+    "fullStartDateTime": "202601152300",
+    "endDate": "20260116"
+  },
+  "createdAt": "202601160255",
+  "originalUrlBase": "/th?id=OHR.DeerWinter_FR-FR0583142086"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Tradição, cores e história",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Fitas do Bonfim em Salvador, Bahia (© Lazyllama/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lavagem+do+Bonfim&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_Bonfim%22&FORM=HPQUIZ",
+  "hash": "39e8d66444a213e9ed827c2f8324a383",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260115",
+    "fullStartDateTime": "202601150300",
+    "endDate": "20260116"
+  },
+  "createdAt": "202601160255",
+  "originalUrlBase": "/th?id=OHR.Bonfim_PT-BR7860220146"
+}

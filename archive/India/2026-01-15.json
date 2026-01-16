@@ -1,0 +1,43 @@
+{
+  "date": "Jan 16, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Eye see you",
+  "bsTitle": "Eye see you",
+  "caption": "Leopard at Etosha National Park, Namibia",
+  "copyright": "Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)",
+  "copyrightOnly": "© Norbert Achtelik/Cavan Images",
+  "copyrightLink": "/search?q=Leopard&form=hpcapt&filters=HpDate%3a%2220260115_1830%22",
+  "description": "If you've ever watched a wildlife documentary, you know the moment: the camera pans across a quiet savannah and suddenly a leopard appears as if it has been there all along. That quiet reveal says everything about how these cats operate. They move with precision, slipping through grass and branches without making a sound. Their build, muscular but lean, helps them climb, sprint and hide in plain sight. Their rosetted coats? No two patterns match, each serving as natural camouflage from sunrise to moonlight.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260115_EtoshaLeopard%22&FORM=HPQUIZ",
+  "hash": "81ded40f495c3bd25f0204b8503c7626",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-IN9874770632_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-IN9874770632_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-IN9874770632_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaLeopard_EN-IN9874770632_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260115",
+    "fullStartDateTime": "202601151830",
+    "endDate": "20260116"
+  },
+  "createdAt": "202601160255",
+  "originalUrlBase": "/th?id=OHR.EtoshaLeopard_EN-IN9874770632"
+}
