@@ -1,0 +1,43 @@
+{
+  "date": "17. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Kuppel an der Piazza del Plebiscito",
+  "bsTitle": "Kuppel an der Piazza del Plebiscito",
+  "caption": "Basilika San Francesco di Paola, Neapel, Italien",
+  "copyright": "Basilika San Francesco di Paola, Neapel, Italien (© javarman3/Getty Images)",
+  "copyrightOnly": "© javarman3/Getty Images",
+  "copyrightLink": "/search?q=San+Francesco+di+Paola+Neapel&form=hpcapt&filters=HpDate%3a%2220260116_2300%22",
+  "description": "Ein Spaziergang über die großen Plätze Neapels in Italien gleicht einer Reise durch die Jahrhunderte. Zwischen Arkaden, Säulen und Kuppeln entfaltet sich eine sich ständig wandelnde Architektur: Barocke Fassaden weichen weiten klassizistischen Höfen, während sich enge Gassen zu großzügigen Räumen öffnen. Schließlich erreicht man die Piazza del Plebiscito, die mit ihrer Weite, Helligkeit und Größe beeindruckt. Gegenüber fällt ein Bau ins Auge, der fast römisch wirkt, nämlich die Basilica di San Francesco di Paola.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260116_NaplesBasilica%22&FORM=HPQUIZ",
+  "hash": "4c77d7779103265896f8d8b7215f7676",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_DE-DE0460748064_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260116",
+    "fullStartDateTime": "202601162300",
+    "endDate": "20260117"
+  },
+  "createdAt": "202601170246",
+  "originalUrlBase": "/th?id=OHR.NaplesBasilica_DE-DE0460748064"
+}

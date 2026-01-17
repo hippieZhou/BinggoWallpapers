@@ -1,0 +1,43 @@
+{
+  "date": "17 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Tierra de menor tamaño y gran valor",
+  "bsTitle": "Tierra de menor tamaño y gran valor",
+  "caption": "Día de Menorca",
+  "copyright": "Faro de Punta Nati, Ciudadela, Menorca, España (© Jorge Garcia Argazkiak/Getty Images)",
+  "copyrightOnly": "© Jorge Garcia Argazkiak/Getty Images",
+  "copyrightLink": "/search?q=Menorca&form=hpcapt&filters=HpDate%3a%2220260116_2300%22",
+  "description": "El Día de Menorca se celebra cada 17 de enero para recordar un momento clave de la historia de la isla: la conquista por Alfonso III de Aragón en 1287, que marcó un antes y un después en su pasado mediterráneo. Esta fecha coincide con la festividad de San Antón, patrón de Menorca, y se ha convertido en una jornada muy especial desde que se institucionalizó en 1982.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260116_Menorca%22&FORM=HPQUIZ",
+  "hash": "33711d7e6d74c874bed0300c46b9ebfa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Menorca_ES-ES6251409346_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Menorca_ES-ES6251409346_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Menorca_ES-ES6251409346_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Menorca_ES-ES6251409346_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260116",
+    "fullStartDateTime": "202601162300",
+    "endDate": "20260117"
+  },
+  "createdAt": "202601170246",
+  "originalUrlBase": "/th?id=OHR.Menorca_ES-ES6251409346"
+}

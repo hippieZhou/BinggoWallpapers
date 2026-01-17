@@ -1,0 +1,43 @@
+{
+  "date": "17 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le dôme de la Piazza del Plebiscito",
+  "bsTitle": "Le dôme de la Piazza del Plebiscito",
+  "caption": "Basilique San Francesco di Paola, Naples, Italie",
+  "copyright": "Basilique San Francesco di Paola, Naples, Italie (© javarman3/Getty Images)",
+  "copyrightOnly": "© javarman3/Getty Images",
+  "copyrightLink": "/search?q=Basilique+San+Francesco+di+Paola+Naples&form=hpcapt&filters=HpDate%3a%2220260116_2300%22",
+  "description": "Déambuler dans Naples, c’est comme feuilleter un livre d’histoire grandeur nature. Les galeries voûtées, les colonnades majestueuses et les dômes inspirés de l’Antiquité s’élèvent comme des chapitres sculptés dans la pierre. À chaque rue de la ville italienne, le décor change : façades baroques, cours néoclassiques baignées de lumière… Puis, soudain, une silhouette romaine se dévoile : la basilique San Francesco di Paola, majestueuse gardienne de la Piazza del Plebiscito.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260116_NaplesBasilica%22&FORM=HPQUIZ",
+  "hash": "5bedf958af26870ec362f3ca169f872a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_FR-FR0794724932_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_FR-FR0794724932_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_FR-FR0794724932_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_FR-FR0794724932_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260116",
+    "fullStartDateTime": "202601162300",
+    "endDate": "20260117"
+  },
+  "createdAt": "202601170246",
+  "originalUrlBase": "/th?id=OHR.NaplesBasilica_FR-FR0794724932"
+}
