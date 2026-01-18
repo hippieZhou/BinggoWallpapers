@@ -1,0 +1,43 @@
+{
+  "date": "18 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un desierto disfrazado",
+  "bsTitle": "Un desierto disfrazado",
+  "caption": "Parque Nacional White Sands, Nuevo México, EE. UU.",
+  "copyright": "Parque Nacional White Sands, Nuevo México, EE. UU. (© Francesco Carucci/Getty Images)",
+  "copyrightOnly": "© Francesco Carucci/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+White+Sands&form=hpcapt&filters=HpDate%3a%2220260117_2300%22",
+  "description": "Si “Frozen” cambiara el hielo por arena, el resultado se parecería al Parque Nacional de White Sands, en Nuevo México, Estados Unidos: un mar de dunas blancas que engañan a la vista y permanecen frescas incluso en pleno verano. Este lugar fue declarado monumento nacional en 1933 para proteger un fenómeno geológico excepcional: el mayor campo de dunas de yeso del mundo, formado durante miles de años a partir de cristales descompuestos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260117_WhiteSandsNM%22&FORM=HPQUIZ",
+  "hash": "8894a405b6afe066ec320f2be80975f5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ES-ES6358910879_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ES-ES6358910879_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ES-ES6358910879_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ES-ES6358910879_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260117",
+    "fullStartDateTime": "202601172300",
+    "endDate": "20260118"
+  },
+  "createdAt": "202601180302",
+  "originalUrlBase": "/th?id=OHR.WhiteSandsNM_ES-ES6358910879"
+}

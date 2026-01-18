@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 18 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "雪原のような石膏砂漠",
+  "bsTitle": "雪原のような石膏砂漠",
+  "caption": "雪原のような石膏砂漠",
+  "copyright": "ホワイトサンズ国立公園, 米国 ニューメキシコ州 (© Francesco Carucci/Getty Images)",
+  "copyrightOnly": "© Francesco Carucci/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%82%b5%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260117_1500%22",
+  "description": "ここはホワイトサンズ国立公園。米国ニューメキシコ州のトゥラロサ盆地に位置し、石膏の結晶でできた約 710km² もの広大な砂丘で知られています。まるで雪原のようなその景観は、「地球に落ちてきた男」や「ザ・ウォーカー」など数々の映画のロケ地としても使用されました…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260117_WhiteSandsNM%22&FORM=HPQUIZ",
+  "hash": "db0485e2b326442a1d75b504d71dc7f4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260117",
+    "fullStartDateTime": "202601171500",
+    "endDate": "20260118"
+  },
+  "createdAt": "202601180302",
+  "originalUrlBase": "/th?id=OHR.WhiteSandsNM_JA-JP0644225456"
+}

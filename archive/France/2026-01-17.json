@@ -1,0 +1,43 @@
+{
+  "date": "18 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le mirage d’un désert",
+  "bsTitle": "Le mirage d’un désert",
+  "caption": "Parc National des White Sands, Nouveau-Mexique, États-Unis",
+  "copyright": "Parc National des White Sands, Nouveau-Mexique, États-Unis (© Francesco Carucci/Getty Images)",
+  "copyrightOnly": "© Francesco Carucci/Getty Images",
+  "copyrightLink": "/search?q=White+Sands+Nouveau+Mexique&form=hpcapt&filters=HpDate%3a%2220260117_2300%22",
+  "description": "Imaginez un désert blanc qui scintille comme de la neige : nous voici à White Sands, au cœur du Nouveau-Mexique (États-Unis). Ici, les dunes ne sont pas de sable ordinaire comme celui de notre Dune du Pilat, mais de gypse, formées par des cristaux érodés durant des millénaires. Elles s’étendent sur 712 km², restant fraîches même sous le soleil brûlant, tel un mirage glacé au milieu du désert.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260117_WhiteSandsNM%22&FORM=HPQUIZ",
+  "hash": "06051546a8198969eb1328fdc09ae83d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_FR-FR3833859459_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260117",
+    "fullStartDateTime": "202601172300",
+    "endDate": "20260118"
+  },
+  "createdAt": "202601180302",
+  "originalUrlBase": "/th?id=OHR.WhiteSandsNM_FR-FR3833859459"
+}

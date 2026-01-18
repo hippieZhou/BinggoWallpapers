@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Pace e Sabbia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parco Nazionale delle Sabbie Bianche, Nuovo Messico, USA (© Francesco Carucci/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+Nazionale+delle+Sabbie+Bianche&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260117_WhiteSandsNM%22&FORM=HPQUIZ",
+  "hash": "061fa2528aab40e5e2d97a2a29580d51",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_IT-IT4233174692_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_IT-IT4233174692_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_IT-IT4233174692_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_IT-IT4233174692_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260117",
+    "fullStartDateTime": "202601172300",
+    "endDate": "20260118"
+  },
+  "createdAt": "202601180302",
+  "originalUrlBase": "/th?id=OHR.WhiteSandsNM_IT-IT4233174692"
+}

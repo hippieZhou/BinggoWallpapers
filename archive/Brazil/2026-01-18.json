@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um deserto disfarçado",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parque Nacional de White Sands, Novo México, EUA (© Francesco Carucci/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+de+White+Sands&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_WhiteSandsNM%22&FORM=HPQUIZ",
+  "hash": "6ceb9f74a1df970768ee398ac785abbc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_PT-BR0724108799_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260118",
+    "fullStartDateTime": "202601180300",
+    "endDate": "20260119"
+  },
+  "createdAt": "202601180302",
+  "originalUrlBase": "/th?id=OHR.WhiteSandsNM_PT-BR0724108799"
+}
