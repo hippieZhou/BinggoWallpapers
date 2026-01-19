@@ -1,0 +1,43 @@
+{
+  "date": "19 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand la nature fait son pop art",
+  "bsTitle": "Quand la nature fait son pop art",
+  "caption": "Lac Abraham, Alberta, Canada",
+  "copyright": "Le lac Abraham en hiver, Alberta, Canada (© Luis F Arevalo/Getty Images)",
+  "copyrightOnly": "© Luis F Arevalo/Getty Images",
+  "copyrightLink": "/search?q=Lac+Abraham+Canada&form=hpcapt&filters=HpDate%3a%2220260118_2300%22",
+  "description": "Sous la glace, le temps semble figé. Des bulles blanches s’empilent comme des perles dans un cristal limpide : bienvenue au lac Abraham, le plus grand réservoir d’eau d’Alberta, niché dans les plaines de Kootenay, au pied des majestueuses Rocheuses canadiennes. Ici, l’hiver emprisonne un souffle invisible : le méthane.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_BubblesAbraham%22&FORM=HPQUIZ",
+  "hash": "3652e2ed1c92bbc5217d648d18dd0558",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_FR-FR1152470154_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260118",
+    "fullStartDateTime": "202601182300",
+    "endDate": "20260119"
+  },
+  "createdAt": "202601190302",
+  "originalUrlBase": "/th?id=OHR.BubblesAbraham_FR-FR1152470154"
+}

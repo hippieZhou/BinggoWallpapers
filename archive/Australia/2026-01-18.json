@@ -1,0 +1,43 @@
+{
+  "date": "Jan 18, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "White Sands National Park, New Mexico, United States",
+  "copyright": "White Sands National Park, New Mexico, United States (© Francesco Carucci/Getty Images)",
+  "copyrightOnly": "© Francesco Carucci/Getty Images",
+  "copyrightLink": "/search?q=White+Sands+National+Park+New+Mexico&form=hpcapt&filters=HpDate%3a%2220260118_0800%22",
+  "description": "If 'Frozen' traded ice for sand, the result would look a lot like White Sands National Park in New Mexico, United States—cool, white dunes that\u202Fdeceive\u202Fthe\u202Feye at first glance. It was established\u202Fto protect a rare geological phenomenon: the world's largest gypsum\u202Fdunefield. These dunes\u202Fwere\u202Fformed\u202Ffrom gypsum crystals that broke down over thousands of years,\u202Fcreating\u202Fbright waves that stay cool even in summer.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260118_WhiteSandsNM%22&FORM=HPQUIZ",
+  "hash": "40220bb03c21eb0bbe029f2fe7ad4a1d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ROW5464182169_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ROW5464182169_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ROW5464182169_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhiteSandsNM_ROW5464182169_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260118",
+    "fullStartDateTime": "202601180800",
+    "endDate": "20260119"
+  },
+  "createdAt": "202601190302",
+  "originalUrlBase": "/th?id=OHR.WhiteSandsNM_ROW5464182169"
+}
