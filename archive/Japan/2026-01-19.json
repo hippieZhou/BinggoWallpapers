@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 20 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は「大寒」",
+  "bsTitle": "今日は「大寒」",
+  "caption": "今日は「大寒」",
+  "copyright": "雪に覆われた星峠の棚田, 新潟県 十日町市 (© solakoudai/Shutterstock)",
+  "copyrightOnly": "© solakoudai/Shutterstock",
+  "copyrightLink": "/search?q=%e6%98%9f%e5%b3%a0%e3%81%ae%e6%a3%9a%e7%94%b0&form=hpcapt&filters=HpDate%3a%2220260119_1500%22",
+  "description": "今日 1 月 20 日は二十四節気の「大寒」。一年のうちで最も寒さが厳しくなる時期とされています。そして、今日の画像は、新潟県十日町市の星峠の棚田。十日町市は、日本有数の豪雪地帯として知られており、この時期は例年、棚田だけでなく町内全域が真っ白な雪に覆われ、冬ならではの静かで厳かな景色を見せています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_Daikan2026%22&FORM=HPQUIZ",
+  "hash": "1b5516a212f0a705e7d155481441d2a7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260119",
+    "fullStartDateTime": "202601191500",
+    "endDate": "20260120"
+  },
+  "createdAt": "202601200257",
+  "originalUrlBase": "/th?id=OHR.Daikan2026_JA-JP0917583221"
+}

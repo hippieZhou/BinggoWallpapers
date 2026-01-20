@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 19, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Nature's pop art",
+  "bsTitle": "Nature's pop art",
+  "caption": "Abraham Lake, Alberta",
+  "copyright": "Frozen Abraham Lake, Alberta (© Luis F Arevalo/Getty Images)",
+  "copyrightOnly": "© Luis F Arevalo/Getty Images",
+  "copyrightLink": "/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220260119_0500%22",
+  "description": "The surface looks busy, but everything else is still. White bubbles stack under clear ice as if time stalled halfway through a reaction. Unusual? Yes. Mysterious? Only until you look closer. This is Abraham Lake, Alberta's largest reservoir, which was created in 1972. It is located in the 'Kootenay Plains area of the Canadian Rockies' front range,' where winter captures gas in mid-escape.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_BubblesAbraham%22&FORM=HPQUIZ",
+  "hash": "700de78d04cc2a0d4a7aaa2910f3ef9e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260119",
+    "fullStartDateTime": "202601190500",
+    "endDate": "20260120"
+  },
+  "createdAt": "202601200257",
+  "originalUrlBase": "/th?id=OHR.BubblesAbraham_EN-CA5502622883"
+}

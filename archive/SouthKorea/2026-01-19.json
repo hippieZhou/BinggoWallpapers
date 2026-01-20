@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Frozen Abraham Lake, Alberta, Canada (© Luis F Arevalo/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Abraham+Lake+Alberta&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260119_BubblesAbraham%22&FORM=HPQUIZ",
+  "hash": "9b0f63392f383f6464c47a8bf995b54c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_ROW5591187969_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_ROW5591187969_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_ROW5591187969_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_ROW5591187969_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260119",
+    "fullStartDateTime": "202601190800",
+    "endDate": "20260120"
+  },
+  "createdAt": "202601200257",
+  "originalUrlBase": "/th?id=OHR.BubblesAbraham_ROW5591187969"
+}
