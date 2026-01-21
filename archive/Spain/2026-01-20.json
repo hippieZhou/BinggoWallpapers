@@ -1,0 +1,43 @@
+{
+  "date": "21 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Arquitectura de cristal y hielo",
+  "bsTitle": "Arquitectura de cristal y hielo",
+  "caption": "Palacio de Cristal del Retiro, Madrid, España",
+  "copyright": "Palacio de Cristal del Retiro, Madrid, España (© All rights reserved - Copyright/Getty Images)",
+  "copyrightOnly": "© All rights reserved - Copyright/Getty Images",
+  "copyrightLink": "/search?q=Palacio+de+Cristal+del+Retiro&form=hpcapt&filters=HpDate%3a%2220260120_2300%22",
+  "description": "Bajo un manto de nieve, el Palacio de Cristal del Retiro en Madrid ofrece un espectáculo único. Esta joya arquitectónica de hierro y cristal, construida en 1887 para albergar exposiciones de flora, se refleja en los estanques que la rodean, creando un escenario de ensueño durante el invierno. Sus amplios ventanales y su delicada estructura permiten que la luz transforme cada visita en una experiencia inolvidable. Curiosamente, este palacio se inspira en la Gran Exposición de Londres de 1851, un dato que sorprende a muchos visitantes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_FITUR%22&FORM=HPQUIZ",
+  "hash": "55aea8ae328cd211cc340edfc45dfbfa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ES-ES6773132633_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260120",
+    "fullStartDateTime": "202601202300",
+    "endDate": "20260121"
+  },
+  "createdAt": "202601210255",
+  "originalUrlBase": "/th?id=OHR.FITUR_ES-ES6773132633"
+}

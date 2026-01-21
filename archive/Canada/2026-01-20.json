@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 20, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Life on the edge of the ice",
+  "bsTitle": "Life on the edge of the ice",
+  "caption": "Penguin Awareness Day",
+  "copyright": "Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)",
+  "copyrightOnly": "© Paul Souders/DanitaDelimont.com/Alamy",
+  "copyrightLink": "/search?q=Penguin+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260120_0500%22",
+  "description": "Penguins thrive in some of Earth's coldest waters. Today's image shows a gentoo penguin beneath a vault of shimmering blue ice, its sharp silhouette etched against the frozen world around it. Penguin Awareness Day, observed on January 20, shines a spotlight on the birds that bring life, noise and personality to Earth's iciest coastlines.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_IciclePenguin%22&FORM=HPQUIZ",
+  "hash": "c9e73dd7567e58834cbcfc74ef076a85",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IciclePenguin_EN-CA6119036779_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260120",
+    "fullStartDateTime": "202601200500",
+    "endDate": "20260121"
+  },
+  "createdAt": "202601210255",
+  "originalUrlBase": "/th?id=OHR.IciclePenguin_EN-CA6119036779"
+}

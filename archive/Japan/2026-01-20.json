@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 21 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はリスの日",
+  "bsTitle": "今日はリスの日",
+  "caption": "今日はリスの日",
+  "copyright": "赤褐色の毛並みが美しいキタリス (© Galina Jacyna/Getty Images)",
+  "copyrightOnly": "© Galina Jacyna/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220260120_1500%22",
+  "description": "今日 1 月 21 日は｢リスの日｣。米国ノースカロライナ州にある自然保護施設のスタッフが、2001 年に提唱した記念日です。この美しい毛皮やふさふさした尾を持つ可愛い動物は、種子を散布するなど、自然界で重要な役割を果たしています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_BerrySquirrel%22&FORM=HPQUIZ",
+  "hash": "4012f3dd62a61a39422f2010c78d4203",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260120",
+    "fullStartDateTime": "202601201500",
+    "endDate": "20260121"
+  },
+  "createdAt": "202601210255",
+  "originalUrlBase": "/th?id=OHR.BerrySquirrel_JA-JP1197927538"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "21 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une touche de caramel dans la neige",
+  "bsTitle": "Une touche de caramel dans la neige",
+  "caption": "Journée Mondiale de l’Écureuil",
+  "copyright": "Écureuil roux d’Eurasie (© Galina Jacyna/Getty Images)",
+  "copyrightOnly": "© Galina Jacyna/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9e+de+l%27%c3%89cureuil&form=hpcapt&filters=HpDate%3a%2220260120_2300%22",
+  "description": "Dans la blancheur hivernale, surgit d’un bond un petit animal couleur caramel : l’écureuil roux d’Eurasie. Ses oreilles ornées de pinceaux soyeux et son pelage épais lui donnent une allure presque féerique. Agile et discret, il parcourt les forêts de feuillus et de conifères en sautant de branche en branche avec une précision étonnante. Son régime est varié : graines, noix, cônes de pin, baies et même les champignons. Avant l’arrivée du grand froid, il enfouit ses provisions dans de nombreux recoins et bâtit son nid douillet, appelé « drey » de son terme anglophone, au creux des arbres ou dans les fourches des branches.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_BerrySquirrel%22&FORM=HPQUIZ",
+  "hash": "d2bb24f02a6d86a6fb488e412fc09e5c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_FR-FR1330095052_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260120",
+    "fullStartDateTime": "202601202300",
+    "endDate": "20260121"
+  },
+  "createdAt": "202601210255",
+  "originalUrlBase": "/th?id=OHR.BerrySquirrel_FR-FR1330095052"
+}

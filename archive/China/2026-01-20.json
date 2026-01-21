@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "冬日白雪中的一抹红",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "欧亚红松鼠 (© Galina Jacyna/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260120_BerrySquirrel%22&FORM=HPQUIZ",
+  "hash": "c387a6a3eebd9339aed28bbf00a5860d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260120",
+    "fullStartDateTime": "202601201600",
+    "endDate": "20260121"
+  },
+  "createdAt": "202601210255",
+  "originalUrlBase": "/th?id=OHR.BerrySquirrel_ZH-CN7382553646"
+}
