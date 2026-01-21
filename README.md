@@ -14,7 +14,7 @@
 
 > A WinUI 3-based Bing wallpaper application that lets you easily browse, download, and set beautiful wallpapers from around the world.
 
-[English](README.md) | **[中文](README.zh-CN.md)**
+English | **[中文](README.zh-CN.md)**
 
 [![Build and Test](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml)
 [![codecov](https://codecov.io/gh/hippiezhou/BinggoWallpapers/branch/main/graph/badge.svg?token=SX3PU5ZP2I)](https://codecov.io/gh/hippiezhou/BinggoWallpapers)

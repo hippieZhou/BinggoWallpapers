@@ -14,7 +14,7 @@
 
 > 一个基于 WinUI 3 的必应壁纸应用，让您轻松浏览、下载和设置来自世界各地的精美壁纸。
 
-**[English](README.md)** | [中文](README.zh-CN.md)
+中文 | **[English](README.md)**
 
 [![Build and Test](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml)
 [![codecov](https://codecov.io/gh/hippiezhou/BinggoWallpapers/branch/main/graph/badge.svg?token=SX3PU5ZP2I)](https://codecov.io/gh/hippiezhou/BinggoWallpapers)
