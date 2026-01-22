@@ -1,0 +1,70 @@
+name: Sync Wallpapers to Supabase
+
+on:
+  schedule:
+    # 在收集壁纸后运行（UTC 01:30，确保数据已收集）
+    - cron: "30 1 * * *"
+  workflow_dispatch: # 支持手动触发
+  workflow_run:
+    # 在收集壁纸 workflow 完成后触发
+    workflows: ["Collect Bing Wallpapers"]
+    types:
+      - completed
+
+permissions:
+  contents: read
+
+jobs:
+  sync-to-supabase:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
+
+    steps:
+      - name: 检出代码库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装 Python 依赖
+        run: |
+          pip install requests
+
+      - name: 同步数据到 Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          echo "🚀 开始同步数据到 Supabase..."
+          
+          # 检查必要的环境变量
+          if [ -z "$SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "❌ 错误: 缺少 Supabase 配置"
+            echo "请在 GitHub Secrets 中设置:"
+            echo "  - SUPABASE_URL: Supabase 项目 URL"
+            echo "  - SUPABASE_SERVICE_ROLE_KEY: Supabase Service Role Key"
+            exit 1
+          fi
+          
+          # 使用 Python 脚本同步数据
+          python3 scripts/sync_to_supabase.py
+
+      - name: 生成同步报告
+        if: always()
+        run: |
+          echo "## 📊 Supabase 同步摘要" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**执行时间:** $(date +'%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "**触发方式:** ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ job.status }}" == "success" ]; then
+            echo "✅ **状态:** 数据同步成功" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ **状态:** 数据同步失败" >> $GITHUB_STEP_SUMMARY
+          fi

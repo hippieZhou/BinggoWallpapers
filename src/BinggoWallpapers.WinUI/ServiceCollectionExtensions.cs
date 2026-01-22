@@ -154,7 +154,7 @@ public static class ServiceCollectionExtensions
         return services;
     }
 
-    public static IServiceCollection AddOptions(this IServiceCollection services)
+    public static IServiceCollection AddOptions(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddOptionsWithValidateOnStart<LocalSettingsOptions>()
             .BindConfiguration(nameof(LocalSettingsOptions))
@@ -162,6 +162,11 @@ public static class ServiceCollectionExtensions
         services.AddOptionsWithValidateOnStart<LoggingOptions>()
             .BindConfiguration(nameof(LoggingOptions))
             .ValidateDataAnnotations();
+        
+        // 注册 Supabase 配置（可选，如果未配置则使用默认值）
+        services.Configure<SupabaseOptions>(
+            configuration.GetSection(nameof(SupabaseOptions)));
+        
         return services;
     }
 

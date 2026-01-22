@@ -50,7 +50,7 @@ public partial class App : Application
                 services.AddLogging(context.Configuration);
                 services.AddSettings();
                 services.AddMvvm();
-                services.AddOptions();
+                services.AddOptions(context.Configuration);
 
                 services.AddApplicationLayer(DispatcherQueue.GetForCurrentThread());
                 services.AddCorelayer(AppInfo.AppDataPath);
