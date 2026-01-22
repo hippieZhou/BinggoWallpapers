@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 22 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "雪に覆われた温泉の街",
+  "bsTitle": "雪に覆われた温泉の街",
+  "caption": "雪に覆われた温泉の街",
+  "copyright": "カルロヴィ・ヴァリ, チェコ (© Henryk Sadura/Getty Images)",
+  "copyrightOnly": "© Henryk Sadura/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%ab%e3%83%ab%e3%83%ad%e3%83%b4%e3%82%a3%e3%83%bb%e3%83%b4%e3%82%a1%e3%83%aa&form=hpcapt&filters=HpDate%3a%2220260121_1500%22",
+  "description": "ここはカルロヴィ・ヴァリ。チェコ共和国西部のボヘミア地方に位置し、温泉保養地としてよく知られる都市です。街はエーガー川とテプラー川の合流点に広がり、美しい渓谷沿いには、パステルカラーで彩られた可愛い建物と多数の温泉施設が並んでいます…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260121_KarlovyVary%22&FORM=HPQUIZ",
+  "hash": "adcaa0b12d5d965252cddc17a9c1d8d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260121",
+    "fullStartDateTime": "202601211500",
+    "endDate": "20260122"
+  },
+  "createdAt": "202601220300",
+  "originalUrlBase": "/th?id=OHR.KarlovyVary_JA-JP1329702586"
+}

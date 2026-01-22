@@ -1,0 +1,43 @@
+{
+  "date": "22 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Bohème et thermale",
+  "bsTitle": "Bohème et thermale",
+  "caption": "Karlovy Vary, Bohême, Tchéquie",
+  "copyright": "Karlovy Vary, Bohême, Tchéquie (© Henryk Sadura/Getty Images)",
+  "copyrightOnly": "© Henryk Sadura/Getty Images",
+  "copyrightLink": "/search?q=Karlovy+Vary&form=hpcapt&filters=HpDate%3a%2220260121_2300%22",
+  "description": "L’hiver enveloppe Karlovy Vary d’un voile pastel, au cœur d’une vallée façonnée par la chaleur des sources qui jaillissent sous ses collines. Cette ville nichée en Bohême (actuelle Tchéquie) doit son destin à une rencontre fortuite : au XIVᵉ siècle, Charles IV, roi de Bohême et futur empereur romain, y découvre une eau fumante. Ce moment marque alors le début d’une histoire intimement liée au bien-être.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260121_KarlovyVary%22&FORM=HPQUIZ",
+  "hash": "34525ba368d82455b719668a1ef3d4eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_FR-FR4051423733_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_FR-FR4051423733_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_FR-FR4051423733_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_FR-FR4051423733_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260121",
+    "fullStartDateTime": "202601212300",
+    "endDate": "20260122"
+  },
+  "createdAt": "202601220300",
+  "originalUrlBase": "/th?id=OHR.KarlovyVary_FR-FR4051423733"
+}
