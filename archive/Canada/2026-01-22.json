@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 22, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A Bohemian spa story",
+  "bsTitle": "A Bohemian spa story",
+  "caption": "Karlovy Vary, Bohemia, Czechia",
+  "copyright": "Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)",
+  "copyrightOnly": "© Henryk Sadura/Getty Images",
+  "copyrightLink": "/search?q=Karlovy+Vary&form=hpcapt&filters=HpDate%3a%2220260122_0500%22",
+  "description": "In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of Charles IV, then king of Bohemia (a historic region of Czechia) and later Roman Emperor, encountering a steaming pool here in the 14th century, an early moment that set this quiet part of Bohemia on the path to becoming a spa retreat.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260122_KarlovyVary%22&FORM=HPQUIZ",
+  "hash": "2029878517287a3b8f16138f9b92b045",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260122",
+    "fullStartDateTime": "202601220500",
+    "endDate": "20260123"
+  },
+  "createdAt": "202601230256",
+  "originalUrlBase": "/th?id=OHR.KarlovyVary_EN-CA8625581136"
+}

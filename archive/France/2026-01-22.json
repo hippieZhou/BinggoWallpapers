@@ -1,0 +1,43 @@
+{
+  "date": "23 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand la tradition viking s’invite à table",
+  "bsTitle": "Quand la tradition viking s’invite à table",
+  "caption": "Þorrablót, Fête du milieu de l’hiver en Islande",
+  "copyright": "Des moutons dans la neige, Islande (© Christophe Lehenaff/Getty Images)",
+  "copyrightOnly": "© Christophe Lehenaff/Getty Images",
+  "copyrightLink": "/search?q=Thorrablot+Islande&form=hpcapt&filters=HpDate%3a%2220260122_2300%22",
+  "description": "Lorsque janvier enveloppe l’Islande de son souffle glacé, une chaleur inattendue s’invite dans les foyers : le Þorrablót. Héritée des vikings, cette fête hivernale, jadis offrande aux dieux pour traverser la rigueur des saisons, est aujourd’hui un hymne à la convivialité et à la mémoire. C’est un hommage à une époque où la survie dépendait de l’ingéniosité et du lien communautaire.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260122_IcelandSheep%22&FORM=HPQUIZ",
+  "hash": "6b12869a3a44a7e6f2006f0cde62f2e6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_FR-FR4056749778_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_FR-FR4056749778_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_FR-FR4056749778_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_FR-FR4056749778_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260122",
+    "fullStartDateTime": "202601222300",
+    "endDate": "20260123"
+  },
+  "createdAt": "202601230256",
+  "originalUrlBase": "/th?id=OHR.IcelandSheep_FR-FR4056749778"
+}

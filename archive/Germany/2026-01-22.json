@@ -1,0 +1,43 @@
+{
+  "date": "23. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Festmahl trotz Frost",
+  "bsTitle": "Festmahl trotz Frost",
+  "caption": "Þorrablót, isländisches Mittwinterfest",
+  "copyright": "Weidende Schafe im Schnee, Island (© Christophe Lehenaff/Getty Images)",
+  "copyrightOnly": "© Christophe Lehenaff/Getty Images",
+  "copyrightLink": "/search?q=Island+Mittwinterfest&form=hpcapt&filters=HpDate%3a%2220260122_2300%22",
+  "description": "Wenn der Winter Island mit eisiger Klarheit überzieht, verwandelt das Þorrablót die dunkelste Zeit des Jahres in ein Fest voller Wärme und kulturellen Selbstbewusstseins. Das traditionsreiche Mittwinterfest, dessen Name auf die mythologische Gestalt Þorri zurückgeht, reicht bis in die Wikingerzeit zurück. Ursprünglich baten die Menschen damit die Götter um Schutz, heute rückt die bewusste Pflege des Erbes in den Fokus.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260122_IcelandSheep%22&FORM=HPQUIZ",
+  "hash": "943f336a7f6dffa68699da0f779b5dcb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_DE-DE7690872056_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260122",
+    "fullStartDateTime": "202601222300",
+    "endDate": "20260123"
+  },
+  "createdAt": "202601230256",
+  "originalUrlBase": "/th?id=OHR.IcelandSheep_DE-DE7690872056"
+}

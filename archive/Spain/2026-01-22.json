@@ -1,0 +1,43 @@
+{
+  "date": "23 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Escarcha y luces festivas",
+  "bsTitle": "Escarcha y luces festivas",
+  "caption": "Fiestas de San Ildefonso",
+  "copyright": "Luces de Toledo encendidas tras una tormenta de nieve (© Cavan Images/Getty Images)",
+  "copyrightOnly": "© Cavan Images/Getty Images",
+  "copyrightLink": "/search?q=Toledo+Castilla+La+Mancha&form=hpcapt&filters=HpDate%3a%2220260122_2300%22",
+  "description": "Cada 23 de enero, Toledo celebra las Fiestas de San Ildefonso, una cita tradicional que forma parte de la identidad cultural de la ciudad desde hace más de cuatro siglos. En pleno invierno, cuando las luces nocturnas realzan el perfil histórico de Toledo, estas fiestas ofrecen una oportunidad única para conocer la ciudad desde un punto de vista cercano y popular.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260122_Toledo%22&FORM=HPQUIZ",
+  "hash": "c0cef436d2bc3de37edd062c75ec9e50",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Toledo_ES-ES4779443125_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260122",
+    "fullStartDateTime": "202601222300",
+    "endDate": "20260123"
+  },
+  "createdAt": "202601230256",
+  "originalUrlBase": "/th?id=OHR.Toledo_ES-ES4779443125"
+}
