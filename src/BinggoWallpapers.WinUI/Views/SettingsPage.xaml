@@ -7,10 +7,12 @@
     xmlns:dto="using:BinggoWallpapers.Core.DTOs"
     xmlns:helpers="using:BinggoWallpapers.WinUI.Helpers"
     xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:model="using:BinggoWallpapers.WinUI.Models"
     xmlns:ui="using:CommunityToolkit.WinUI"
     xmlns:xaml="using:Microsoft.UI.Xaml"
+    x:Name="SettingsPageRoot"
     mc:Ignorable="d">
     <Page.Resources>
         <helpers:EnumToBooleanConverter x:Key="EnumToBooleanConverter" />
@@ -118,11 +120,28 @@
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>
                 </controls:SettingsExpander>
-
                 <TextBlock
                     x:Uid="SettingsPage_AdvancedSection"
                     d:Text="高级设置"
                     Style="{StaticResource SettingsSectionHeaderTextBlockStyle}" />
+                <controls:SettingsCard
+                    x:Uid="SettingsPage_StartupExpander"
+                    d:Description="设置应用在系统启动时自动运行"
+                    d:Header="开机自启动"
+                    HeaderIcon="{ui:FontIcon Glyph=&#xE768;}"
+                    Visibility="Collapsed">
+                    <ToggleSwitch
+                        x:Uid="SettingsPage_StartupToggle"
+                        d:Header="开机时自动启动"
+                        IsOn="{x:Bind ViewModel.IsStartupEnabled, Mode=TwoWay}" />
+                </controls:SettingsCard>
+                <controls:SettingsCard
+                    x:Uid="SettingsPage_TrayIconExpander"
+                    d:Description="在系统托盘中显示应用图标，方便快速访问"
+                    d:Header="系统托盘图标"
+                    HeaderIcon="{ui:FontIcon Glyph=&#xE7C4;}">
+                    <ToggleSwitch IsOn="{x:Bind ViewModel.IsTrayIconEnabled, Mode=TwoWay}" />
+                </controls:SettingsCard>
                 <controls:SettingsCard
                     x:Uid="SettingsPage_SyncCard"
                     d:Description="可获取作者自建的归档数据集合"
@@ -131,7 +150,6 @@
                     <Button
                         x:Uid="SettingsPage_SyncButton"
                         Width="120"
-                        Margin="0,0,28,0"
                         d:Content="同步"
                         Command="{x:Bind ViewModel.FetchFromGithubCommand}" />
                 </controls:SettingsCard>

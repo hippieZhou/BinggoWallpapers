@@ -1,6 +1,6 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
-using BinggoWallpapers.WinUI.Models;
+using BinggoWallpapers.WinUI.Messages;
 using CommunityToolkit.Mvvm.Input;
 using CommunityToolkit.Mvvm.Messaging;
 using CommunityToolkit.WinUI.Behaviors;

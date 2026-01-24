@@ -17,7 +17,8 @@ public class ActivationService(
     ILanguageSelectorService languageSelectorService,
     IMarketSelectorService regionSelectorService,
     IThemeSelectorService themeSelectorService,
-    ILoggingSelectorService loggingSelectorService) : IActivationService
+    ILoggingSelectorService loggingSelectorService,
+    ITrayIconSelectorService trayIconSelectorService) : IActivationService
 {
     private readonly UIElement _shell = null;
 
@@ -66,6 +67,7 @@ public class ActivationService(
         await regionSelectorService.InitializeAsync().ConfigureAwait(false);
         await themeSelectorService.InitializeAsync().ConfigureAwait(false);
         await loggingSelectorService.InitializeAsync().ConfigureAwait(false);
+        await trayIconSelectorService.InitializeAsync().ConfigureAwait(false);
     }
 
     private async Task StartupAsync()
@@ -73,6 +75,6 @@ public class ActivationService(
         await downloadSelectorService.SetRequestedDownloadPathAsync();
         await languageSelectorService.SetRequestedLanguageAsync();
         await themeSelectorService.SetRequestedThemeAsync();
-        await Task.CompletedTask;
+        await trayIconSelectorService.SetRequestedTrayIconAsync();
     }
 }

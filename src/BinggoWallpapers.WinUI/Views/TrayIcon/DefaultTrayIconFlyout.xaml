@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<me:TrayIconFlyout
+    x:Class="BinggoWallpapers.WinUI.Views.TrayIcon.DefaultTrayIconFlyout"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:dto="using:BinggoWallpapers.Core.DTOs"
+    xmlns:ex="using:ImageEx"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views.TrayIcon"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:me="using:U5BFA.Libraries"
+    xmlns:ui="using:CommunityToolkit.WinUI"
+    Width="360"
+    Height="520"
+    mc:Ignorable="d">
+
+    <me:TrayIconFlyoutIsland>
+        <Grid Height="520" Background="{ThemeResource FlyoutOverlayBackgroundBrush}">
+            <ex:ImageEx
+                EnableLazyLoading="True"
+                IsCacheEnabled="True"
+                Source="{x:Bind local:DefaultTrayIconFlyout.ConvertToMobileResolution(ViewModel.Wallpaper.Url), Mode=OneWay}"
+                Stretch="UniformToFill" />
+            <TextBlock
+                Margin="24"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Style="{StaticResource SubtitleTextBlockStyle}"
+                Text="{x:Bind ViewModel.Wallpaper.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}"
+                TextLineBounds="TrimToCapHeight"
+                TextWrapping="NoWrap" />
+            <StackPanel Margin="24,24,12,24" VerticalAlignment="Bottom">
+                <TextBlock
+                    x:Name="subtitleText"
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                    Style="{StaticResource CaptionTextBlockStyle}"
+                    Text="{x:Bind ViewModel.Wallpaper.Copyright, Mode=OneWay}"
+                    TextTrimming="WordEllipsis">
+                    <ToolTipService.ToolTip>
+                        <ToolTip Visibility="{Binding ElementName=subtitleText, Path=IsTextTrimmed}">
+                            <TextBlock Text="{x:Bind ViewModel.Wallpaper.Copyright, Mode=OneWay}" TextWrapping="Wrap" />
+                        </ToolTip>
+                    </ToolTipService.ToolTip>
+                </TextBlock>
+                <HyperlinkButton
+                    HorizontalAlignment="Right"
+                    Content="{ui:FontIcon FontSize=14,
+                                          Glyph=&#xE8A7;}"
+                    NavigateUri="{x:Bind ViewModel.Wallpaper.CopyrightLink, Mode=OneWay}" />
+            </StackPanel>
+        </Grid>
+    </me:TrayIconFlyoutIsland>
+</me:TrayIconFlyout>

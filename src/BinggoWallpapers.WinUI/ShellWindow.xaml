@@ -20,7 +20,7 @@
     PersistenceId="MainWindow"
     mc:Ignorable="d">
     <Window.SystemBackdrop>
-        <MicaBackdrop />
+        <MicaBackdrop Kind="Base" />
     </Window.SystemBackdrop>
 
     <Grid x:Name="ContentArea">
@@ -87,7 +87,7 @@
                 </i:EventTriggerBehavior>
             </i:Interaction.Behaviors>
             <TitleBar.RightHeader>
-                <uc:LoadingButton Command="{x:Bind ViewModel.FetchRequestCommand}" />
+                <uc:LoadingButton Command="{x:Bind ViewModel.RefreshCommand}" />
             </TitleBar.RightHeader>
         </TitleBar>
 

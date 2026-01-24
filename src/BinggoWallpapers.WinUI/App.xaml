@@ -19,17 +19,8 @@
                 <ResourceDictionary Source="/Styles/Colors.xaml" />
                 <ResourceDictionary Source="/Styles/GridViewItem.xaml" />
                 <ResourceDictionary Source="/Styles/NavigationView.xaml" />
+                <ResourceDictionary Source="/Styles/TrayIcon.xaml" />
             </ResourceDictionary.MergedDictionaries>
-
-            <!--  Fonts  -->
-            <FontFamily x:Key="MontserratBold">/Assets/Fonts/Montserrat-Bold.ttf#Montserrat</FontFamily>
-            <FontFamily x:Key="MontserratMedium">/Assets/Fonts/Montserrat-Medium.ttf#Montserrat</FontFamily>
-            <FontFamily x:Key="MontserratRegular">/Assets/Fonts/Montserrat-Regular.ttf#Montserrat</FontFamily>
-            <FontFamily x:Key="MontserratSemiBold">/Assets/Fonts/Montserrat-SemiBold.ttf#Montserrat</FontFamily>
-
-            <FontFamily x:Key="RobotoMonoBold">/Assets/Fonts/RobotoMono-Bold.ttf#Roboto Mono</FontFamily>
-            <FontFamily x:Key="RobotoMonoMedium">/Assets/Fonts/RobotoMono-Medium.ttf#Roboto Mono</FontFamily>
-            <FontFamily x:Key="RobotoMonoRegular">/Assets/Fonts/RobotoMono-Regular.ttf#Roboto Mono</FontFamily>
 
             <!--  Converters  -->
             <converters:StringFormatConverter x:Key="StringFormatConverter" />

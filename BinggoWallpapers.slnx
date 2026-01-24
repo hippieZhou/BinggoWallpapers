@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution>
+  <Configurations>
+    <Platform Name="arm64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Packages.props" />
+    <File Path="NuGet.config" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/BinggoWallpapers.Collector/BinggoWallpapers.Collector.csproj" />
+    <Project Path="src/BinggoWallpapers.Core.Tests/BinggoWallpapers.Core.Tests.csproj" />
+    <Project Path="src/BinggoWallpapers.Core/BinggoWallpapers.Core.csproj">
+      <Platform Solution="*|arm64" Project="arm64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+    </Project>
+    <Project Path="src/BinggoWallpapers.WinUI/BinggoWallpapers.WinUI.csproj">
+      <Platform Solution="*|arm64" Project="arm64" />
+      <Platform Solution="*|x64" Project="x64" />
+      <Platform Solution="*|x86" Project="x86" />
+      <Deploy />
+    </Project>
+  </Folder>
+</Solution>

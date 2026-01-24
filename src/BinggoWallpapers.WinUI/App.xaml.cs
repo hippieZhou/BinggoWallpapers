@@ -64,13 +64,7 @@ public partial class App : Application
 
         AppInstance.GetCurrent().Activated += OnActivated;
 
-        UnhandledException += App_UnhandledException;
-    }
-
-    private void App_UnhandledException(object sender, Microsoft.UI.Xaml.UnhandledExceptionEventArgs e)
-    {
-        GetService<ILogger<App>>().LogError(e.Exception, e.Message);
-        e.Handled = true;
+        SetupGlobalExceptionHandlers();
     }
 
     protected async override void OnLaunched(LaunchActivatedEventArgs args)
@@ -97,5 +91,44 @@ public partial class App : Application
         {
             await GetService<IActivationService>().ActivateAsync(localArgsDataReference);
         });
+    }
+
+    private void SetupGlobalExceptionHandlers()
+    {
+        // Handle exceptions from the current AppDomain (non-UI thread crashes)
+        AppDomain.CurrentDomain.UnhandledException += (s, e) =>
+        {
+            if (e.ExceptionObject is Exception ex)
+            {
+                LogException("AppDomain.UnhandledException", ex);
+            }
+        };
+
+        // Handle exceptions from background tasks (Task.Run, async void, etc.)
+        TaskScheduler.UnobservedTaskException += (s, e) =>
+        {
+            LogException("TaskScheduler.UnobservedTaskException", e.Exception);
+            e.SetObserved();
+        };
+
+        // Handle exceptions from the UI thread
+        UnhandledException += (sender, e) =>
+        {
+            LogException("Application.UnhandledException", e.Exception);
+            e.Handled = true;
+        };
+    }
+
+    private static void LogException(string source, Exception ex)
+    {
+        var message = $"[{source}] {ex?.GetType().Name}: {ex?.Message}";
+        if (ex?.InnerException != null)
+        {
+            message += $"\nInner: {ex.InnerException.GetType().Name}: {ex.InnerException.Message}";
+        }
+
+        message += $"\nStack: {ex?.StackTrace}";
+
+        GetService<ILogger<App>>().LogError(ex, message);
     }
 }

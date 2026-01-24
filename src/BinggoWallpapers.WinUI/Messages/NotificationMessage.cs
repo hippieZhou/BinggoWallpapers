@@ -3,7 +3,7 @@
 using CommunityToolkit.Mvvm.Messaging.Messages;
 using Microsoft.UI.Xaml.Controls;
 
-namespace BinggoWallpapers.WinUI.Models;
+namespace BinggoWallpapers.WinUI.Messages;
 
 /// <summary>
 /// 错误消息模型
