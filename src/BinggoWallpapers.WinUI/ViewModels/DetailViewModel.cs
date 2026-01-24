@@ -62,6 +62,9 @@ public partial class DetailViewModel(
     [ObservableProperty]
     public partial bool IsExporting { get; set; }
 
+    [ObservableProperty]
+    public partial bool EditMode { get; set; }
+
     public void OnNavigatedFrom()
     {
         Wallpaper = null;
@@ -122,22 +125,6 @@ public partial class DetailViewModel(
             IsInitialized = false;
             logger.LogError(ex, $"加载壁纸预览失败: {ex.Message}");
         }
-    }
-
-    [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false)]
-    private async Task<string> OnViewMoreDetails(CancellationToken cancellationToken = default)
-    {
-        if (Wallpaper is null)
-        {
-            return string.Empty;
-        }
-
-        var jsonDetails = await managementService.GetMoreDetailsAsync(Wallpaper.Id, cancellationToken);
-        return $@"
-```json
-{jsonDetails}
-```
-";
     }
 
     [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false)]

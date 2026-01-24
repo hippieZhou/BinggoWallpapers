@@ -30,6 +30,7 @@
     <PackageReference Include="CommunityToolkit.Labs.WinUI.OpacityMaskView" />
     <PackageReference Include="CommunityToolkit.Labs.WinUI.Shimmer" />
     <PackageReference Include="CommunityToolkit.Labs.WinUI.TokenView" />
+    <PackageReference Include="CommunityToolkit.Labs.WinUI.TransitionHelper" />
     <PackageReference Include="CommunityToolkit.Mvvm" />
     <PackageReference Include="CommunityToolkit.WinUI.Behaviors" />
     <PackageReference Include="CommunityToolkit.WinUI.Animations" />

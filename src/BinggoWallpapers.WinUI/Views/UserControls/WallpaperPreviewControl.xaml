@@ -12,6 +12,8 @@
     <Grid>
         <canvas:CanvasControl
             x:Name="Canvas"
+            MaxWidth="1920"
+            MaxHeight="1080"
             CreateResources="Canvas_CreateResources"
             Draw="Canvas_Draw" />
         <ProgressRing

@@ -60,9 +60,6 @@ public sealed partial class WallpaperPreviewControl : UserControl
     public partial bool IsInitialized { get; set; }
 
     [GeneratedDependencyProperty]
-    public partial bool ShowScreenBorder { get; set; }
-
-    [GeneratedDependencyProperty]
     public new partial double CornerRadius { get; set; }
 
     #endregion

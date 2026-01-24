@@ -19,9 +19,9 @@ public sealed partial class DetailPage : Page
         ViewModel = App.GetService<DetailViewModel>();
     }
 
-    private void ToggleEditState()
+    private void SwitchEditMode()
     {
-        WallpaperView.IsPaneOpen = !WallpaperView.IsPaneOpen;
+        ViewModel.EditMode = !ViewModel.EditMode;
     }
 
     private void ShadowRect_Loaded(object sender, RoutedEventArgs e)

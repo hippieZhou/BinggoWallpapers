@@ -17,6 +17,15 @@
     xmlns:uc="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:ui="using:CommunityToolkit.WinUI"
     mc:Ignorable="d">
+    <Page.Resources>
+        <ui:TransitionHelper x:Key="MyTransitionHelper">
+            <ui:TransitionConfig Id="image" ScaleMode="Scale" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="title" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="description" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="copyright" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="fullStartDateTime" />
+        </ui:TransitionHelper>
+    </Page.Resources>
     <i:Interaction.Behaviors>
         <i:EventTriggerBehavior EventName="Loaded">
             <i:InvokeCommandAction Command="{x:Bind ViewModel.LoadedCommand}" />
@@ -27,6 +36,7 @@
         <SplitView
             x:Name="WallpaperView"
             DisplayMode="Inline"
+            IsPaneOpen="{x:Bind ViewModel.EditMode, Mode=TwoWay}"
             PanePlacement="Right">
             <SplitView.Pane>
                 <ScrollViewer>
@@ -59,15 +69,15 @@
 
                         <controls:SwitchPresenter Grid.Row="1" Value="{Binding SelectedItem.Tag, ElementName=segmentedControl}">
                             <controls:Case Value="advance">
-                                    <uc:EffectAdjustmentControl
-                                        Blur="{x:Bind ViewModel.Blur, Mode=TwoWay}"
-                                        Contrast="{x:Bind ViewModel.Contrast, Mode=TwoWay}"
-                                        CornerRadius="{x:Bind ViewModel.CornerRadius, Mode=TwoWay}"
-                                        Exposure="{x:Bind ViewModel.Exposure, Mode=TwoWay}"
-                                        PixelScale="{x:Bind ViewModel.PixelScale, Mode=TwoWay}"
-                                        Saturation="{x:Bind ViewModel.Saturation, Mode=TwoWay}"
-                                        Temperature="{x:Bind ViewModel.Temperature, Mode=TwoWay}"
-                                        Tint="{x:Bind ViewModel.Tint, Mode=TwoWay}" />
+                                <uc:EffectAdjustmentControl
+                                    Blur="{x:Bind ViewModel.Blur, Mode=TwoWay}"
+                                    Contrast="{x:Bind ViewModel.Contrast, Mode=TwoWay}"
+                                    CornerRadius="{x:Bind ViewModel.CornerRadius, Mode=TwoWay}"
+                                    Exposure="{x:Bind ViewModel.Exposure, Mode=TwoWay}"
+                                    PixelScale="{x:Bind ViewModel.PixelScale, Mode=TwoWay}"
+                                    Saturation="{x:Bind ViewModel.Saturation, Mode=TwoWay}"
+                                    Temperature="{x:Bind ViewModel.Temperature, Mode=TwoWay}"
+                                    Tint="{x:Bind ViewModel.Tint, Mode=TwoWay}" />
                             </controls:Case>
                             <controls:Case Value="default">
                                 <Grid
@@ -164,6 +174,7 @@
                         <uc:WallpaperPreviewControl
                             x:Name="WallpaperPreviewControl"
                             Margin="24"
+                            ui:TransitionHelper.Id="image"
                             BlurAmount="{x:Bind ViewModel.Blur, Mode=OneWay}"
                             ContrastAmount="{x:Bind ViewModel.Contrast, Mode=OneWay}"
                             CornerRadius="{x:Bind ViewModel.CornerRadius, Mode=OneWay}"
@@ -172,10 +183,17 @@
                             IsInitialized="{x:Bind ViewModel.IsInitialized, Mode=OneWay}"
                             Pixelation="{x:Bind ViewModel.PixelScale, Mode=OneWay}"
                             SaturationAmount="{x:Bind ViewModel.Saturation, Mode=OneWay}"
-                            ShowScreenBorder="False"
                             TemperatureAmount="{x:Bind ViewModel.Temperature, Mode=OneWay}"
                             TintAmount="{x:Bind ViewModel.Tint, Mode=OneWay}"
+                            Visibility="Visible"
                             WallpaperImage="{x:Bind ViewModel.WallpaperImage, Mode=OneWay}" />
+                        <uc:WallpaperInfoControl
+                            x:Name="WallpaperInfoControl"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Helper="{StaticResource MyTransitionHelper}"
+                            Model="{x:Bind ViewModel.Wallpaper, Mode=OneWay}"
+                            Visibility="Collapsed" />
                     </Grid>
 
                     <Grid
@@ -191,18 +209,17 @@
                         </Grid.Shadow>
                         <CommandBar DefaultLabelPosition="Collapsed">
                             <CommandBar.PrimaryCommands>
-                                <AppBarButton Command="{x:Bind ViewModel.ViewMoreDetailsCommand}" Icon="{ui:FontIcon Glyph=&#xE946;}">
+                                <AppBarButton Icon="{ui:FontIcon Glyph=&#xE946;}">
                                     <i:Interaction.Behaviors>
                                         <i:EventTriggerBehavior EventName="Click">
-                                            <i:ChangePropertyAction
-                                                PropertyName="Visibility"
-                                                TargetObject="{Binding ElementName=MoreDetails}"
-                                                Value="Visible" />
+                                            <ui:StartTransitionAction
+                                                Source="{Binding ElementName=WallpaperPreviewControl}"
+                                                Target="{Binding ElementName=WallpaperInfoControl}"
+                                                Transition="{StaticResource MyTransitionHelper}" />
                                         </i:EventTriggerBehavior>
                                     </i:Interaction.Behaviors>
                                 </AppBarButton>
-                                <AppBarButton Click="{x:Bind ToggleEditState}" Icon="{ui:FontIcon Glyph=&#xE790;}" />
-                                <AppBarButton Icon="{ui:FontIcon Glyph=&#xE975;}" />
+                                <AppBarButton Click="{x:Bind SwitchEditMode}" Icon="{ui:FontIcon Glyph=&#xE790;}" />
                                 <AppBarButton Icon="{ui:FontIcon Glyph=&#xE896;}">
                                     <AppBarButton.Flyout>
                                         <MenuFlyout
@@ -217,23 +234,5 @@
                 </Grid>
             </SplitView.Content>
         </SplitView>
-
-        <uc:MoreDetailsPanel
-            x:Name="MoreDetails"
-            Details="{x:Bind ViewModel.ViewMoreDetailsCommand.ExecutionTask, Mode=OneWay, Converter={StaticResource TaskResultConverter}}"
-            Visibility="Collapsed">
-            <animations:Implicit.ShowAnimations>
-                <animations:OpacityAnimation
-                    From="0"
-                    To="1"
-                    Duration="0:0:0.187" />
-            </animations:Implicit.ShowAnimations>
-            <animations:Implicit.HideAnimations>
-                <animations:OpacityAnimation
-                    From="1"
-                    To="0"
-                    Duration="0:0:0.187" />
-            </animations:Implicit.HideAnimations>
-        </uc:MoreDetailsPanel>
     </Grid>
 </Page>

@@ -1,9 +1,8 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
+using BinggoWallpapers.WinUI.Helpers;
 using Microsoft.Extensions.Logging;
 using Microsoft.Graphics.Canvas;
-using Microsoft.Graphics.Canvas.Effects;
-using Microsoft.Graphics.Canvas.Geometry;
 using Windows.Foundation;
 using Windows.Graphics.Imaging;
 using Windows.Storage;
@@ -90,8 +89,8 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
                 var imageRect = new Rect(0, 0, wallpaperImage.Size.Width, wallpaperImage.Size.Height);
                 var scaledCornerRadius = cornerRadius * scaleFactor;
 
-                // 绘制壁纸并应用效果和圆角
-                DrawWallpaperWithEffects(session, wallpaperImage, effect, imageRect, scaledCornerRadius);
+                // 绘制壁纸并应用效果和圆角（使用 Helper 方法）
+                ImageDrawingHelper.DrawImageWithEffects(session, wallpaperImage, effect, imageRect, imageRect, scaledCornerRadius);
             }
 
             // 导出到文件
@@ -104,96 +103,6 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
         {
             logger.LogError(ex, $"导出到文件失败: {ex.Message}");
             return false;
-        }
-    }
-
-    private static void DrawWallpaperWithEffects(
-        CanvasDrawingSession session,
-        CanvasBitmap wallpaperImage,
-        (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
-        Rect imageRect,
-        float cornerRadius)
-    {
-        var combinedEffect = new ContrastEffect
-        {
-            Name = "ContrastEffect",
-            Source = new ExposureEffect
-            {
-                Name = "ExposureEffect",
-                Source = new TemperatureAndTintEffect
-                {
-                    Name = "TemperatureAndTintEffect",
-                    Source = new SaturationEffect
-                    {
-                        Name = "SaturationEffect",
-                        Source = new GaussianBlurEffect
-                        {
-                            Name = "GaussianBlurEffect",
-                            Source = new ScaleEffect
-                            {
-                                Name = "ScaleDown",
-                                Source = new ScaleEffect
-                                {
-                                    Name = "ScaleUp",
-                                    Source = wallpaperImage,
-                                    Scale = new System.Numerics.Vector2(effect.pixelScale, effect.pixelScale),
-                                    InterpolationMode = CanvasImageInterpolation.NearestNeighbor,
-                                    BorderMode = EffectBorderMode.Hard
-                                },
-                                Scale = new System.Numerics.Vector2(1f / effect.pixelScale, 1f / effect.pixelScale),
-                                InterpolationMode = CanvasImageInterpolation.NearestNeighbor,
-                                BorderMode = EffectBorderMode.Hard
-                            },
-                            BlurAmount = effect.blur,
-                            BorderMode = EffectBorderMode.Hard
-                        },
-                        Saturation = effect.saturation
-                    },
-                    Temperature = effect.temperature,
-                    Tint = effect.tint
-                },
-                Exposure = effect.exposure
-            },
-            Contrast = effect.contrast
-        };
-
-        var destRect = new Rect(0, 0, wallpaperImage.SizeInPixels.Width, wallpaperImage.SizeInPixels.Height);
-
-        // 如果有圆角，创建圆角几何路径并裁剪图片的四个角
-        if (cornerRadius > 0)
-        {
-            var width = (float)imageRect.Width;
-            var height = (float)imageRect.Height;
-
-            // 限制圆角半径不超过矩形尺寸的一半
-            var radius = Math.Min(cornerRadius, Math.Min(width, height) / 2);
-
-            // 使用 Win2D 内置的 CreateRoundedRectangle 方法创建圆角矩形
-            var roundedRect = CanvasGeometry.CreateRoundedRectangle(
-                session.Device,
-                (float)imageRect.X,
-                (float)imageRect.Y,
-                width,
-                height,
-                radius,
-                radius);
-
-            // 使用圆角路径创建裁剪层，将图片的四个角裁剪为相同的圆角
-            using (session.CreateLayer(1.0f, roundedRect))
-            {
-                session.DrawImage(
-                    combinedEffect,  // 要绘制的效果
-                    imageRect,       // 输出区域（绘制的位置和大小）
-                    destRect);       // 输入区域（原图范围）
-            }
-        }
-        else
-        {
-            // 没有圆角，直接绘制
-            session.DrawImage(
-                combinedEffect,  // 要绘制的效果
-                imageRect,       // 输出区域（绘制的位置和大小）
-                destRect);       // 输入区域（原图范围）
         }
     }
 
