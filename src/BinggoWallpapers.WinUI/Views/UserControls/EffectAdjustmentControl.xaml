@@ -40,6 +40,7 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
         <Slider
@@ -152,5 +153,16 @@
             Grid.Row="6"
             Style="{StaticResource ValueTextBlock}"
             Text="{x:Bind PixelScale.ToString('N', Culture), Mode=OneWay}" />
+
+        <Slider
+            x:Uid="DetailPage_CornerRadiusSlider"
+            Grid.Row="7"
+            Maximum="100"
+            Minimum="0"
+            Value="{x:Bind CornerRadius, Mode=TwoWay}" />
+        <TextBlock
+            Grid.Row="7"
+            Style="{StaticResource ValueTextBlock}"
+            Text="{x:Bind CornerRadius.ToString('F0', Culture), Mode=OneWay}" />
     </Grid>
 </UserControl>

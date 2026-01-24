@@ -51,6 +51,9 @@ public partial class DetailViewModel(
     public partial float PixelScale { get; set; } = 1;
 
     [ObservableProperty]
+    public partial float CornerRadius { get; set; } = 0;
+
+    [ObservableProperty]
     public partial bool IsInitialized { get; set; }
 
     [ObservableProperty]
@@ -58,18 +61,6 @@ public partial class DetailViewModel(
 
     [ObservableProperty]
     public partial bool IsExporting { get; set; }
-
-    [ObservableProperty]
-    public partial double Left { get; set; }
-
-    [ObservableProperty]
-    public partial double Top { get; set; }
-
-    [ObservableProperty]
-    public partial double Right { get; set; }
-
-    [ObservableProperty]
-    public partial double Bottom { get; set; }
 
     public void OnNavigatedFrom()
     {
@@ -182,7 +173,7 @@ public partial class DetailViewModel(
     {
         Exposure = Blur = Tint = Temperature = Contrast = 0;
         Saturation = PixelScale = 1;
-        Left = Top = Right = Bottom = 0;
+        CornerRadius = 0;
     }
 
     [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false, FlowExceptionsToTaskScheduler = true)]
@@ -205,10 +196,10 @@ public partial class DetailViewModel(
                   saturation: Saturation,
                   blur: Blur,
                   pixelScale: PixelScale),
-                 (left: (float)Left,
-                  top: (float)Top,
-                  right: (float)Right,
-                  bottom: (float)Bottom));
+                 (left: CornerRadius,
+                  top: CornerRadius,
+                  right: CornerRadius,
+                  bottom: CornerRadius));
             if (success)
             {
                 inAppNotificationService.ShowSuccess($"导出壁纸: {Wallpaper.Title}");

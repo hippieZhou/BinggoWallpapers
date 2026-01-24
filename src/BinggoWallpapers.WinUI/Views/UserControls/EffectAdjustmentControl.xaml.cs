@@ -36,5 +36,8 @@ public sealed partial class EffectAdjustmentControl : UserControl
     public partial float Blur { get; set; }
 
     [GeneratedDependencyProperty(DefaultValue = 0F)]
-    public partial float PixelScale { get; set; } 
+    public partial float PixelScale { get; set; }
+
+    [GeneratedDependencyProperty(DefaultValue = 0F)]
+    public new partial float CornerRadius { get; set; }
 }

@@ -59,21 +59,15 @@
 
                         <controls:SwitchPresenter Grid.Row="1" Value="{Binding SelectedItem.Tag, ElementName=segmentedControl}">
                             <controls:Case Value="advance">
-                                <StackPanel Spacing="12">
                                     <uc:EffectAdjustmentControl
                                         Blur="{x:Bind ViewModel.Blur, Mode=TwoWay}"
                                         Contrast="{x:Bind ViewModel.Contrast, Mode=TwoWay}"
+                                        CornerRadius="{x:Bind ViewModel.CornerRadius, Mode=TwoWay}"
                                         Exposure="{x:Bind ViewModel.Exposure, Mode=TwoWay}"
                                         PixelScale="{x:Bind ViewModel.PixelScale, Mode=TwoWay}"
                                         Saturation="{x:Bind ViewModel.Saturation, Mode=TwoWay}"
                                         Temperature="{x:Bind ViewModel.Temperature, Mode=TwoWay}"
                                         Tint="{x:Bind ViewModel.Tint, Mode=TwoWay}" />
-                                    <uc:CornerAdjustmentControl
-                                        Bottom="{x:Bind ViewModel.Bottom, Mode=TwoWay}"
-                                        Left="{x:Bind ViewModel.Left, Mode=TwoWay}"
-                                        Right="{x:Bind ViewModel.Right, Mode=TwoWay}"
-                                        Top="{x:Bind ViewModel.Top, Mode=TwoWay}" />
-                                </StackPanel>
                             </controls:Case>
                             <controls:Case Value="default">
                                 <Grid
@@ -167,23 +161,20 @@
                         Grid.RowSpan="2" />
 
                     <Grid Grid.Row="0">
-                        <uc:MockupCanvasControl
-                            x:Name="MockupControl"
+                        <uc:WallpaperPreviewControl
+                            x:Name="WallpaperPreviewControl"
                             Margin="24"
                             BlurAmount="{x:Bind ViewModel.Blur, Mode=OneWay}"
-                            BottomCornerRadius="{x:Bind ViewModel.Bottom, Mode=OneWay}"
                             ContrastAmount="{x:Bind ViewModel.Contrast, Mode=OneWay}"
+                            CornerRadius="{x:Bind ViewModel.CornerRadius, Mode=OneWay}"
                             CreateResourcesCommand="{x:Bind ViewModel.CreateResourcesCommand}"
                             ExposureAmount="{x:Bind ViewModel.Exposure, Mode=OneWay}"
                             IsInitialized="{x:Bind ViewModel.IsInitialized, Mode=OneWay}"
-                            LeftCornerRadius="{x:Bind ViewModel.Left, Mode=OneWay}"
                             Pixelation="{x:Bind ViewModel.PixelScale, Mode=OneWay}"
-                            RightCornerRadius="{x:Bind ViewModel.Right, Mode=OneWay}"
                             SaturationAmount="{x:Bind ViewModel.Saturation, Mode=OneWay}"
                             ShowScreenBorder="False"
                             TemperatureAmount="{x:Bind ViewModel.Temperature, Mode=OneWay}"
                             TintAmount="{x:Bind ViewModel.Tint, Mode=OneWay}"
-                            TopCornerRadius="{x:Bind ViewModel.Top, Mode=OneWay}"
                             WallpaperImage="{x:Bind ViewModel.WallpaperImage, Mode=OneWay}" />
                     </Grid>
 

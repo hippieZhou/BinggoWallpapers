@@ -20,7 +20,7 @@ public interface IImageRenderService
     /// </summary>
     void DrawUserImageOnScreen(CanvasDrawingSession session, CanvasBitmap userImage, Rect targetRect, Rect imageDrawRect,
         (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
-        (float left, float top, float right, float bottom) cornerRadius = default);
+        float cornerRadius = 0);
 
     /// <summary>
     /// 清空绘制资源

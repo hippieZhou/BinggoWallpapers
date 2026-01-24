@@ -320,6 +320,9 @@
   <data name="DetailPage_PixelScaleSlider.Header" xml:space="preserve">
     <value>Pixelation</value>
   </data>
+  <data name="DetailPage_CornerRadiusSlider.Header" xml:space="preserve">
+    <value>Corner Radius</value>
+  </data>
   <data name="DetailPage_NoPresetsText.Text" xml:space="preserve">
     <value>No presets available</value>
   </data>

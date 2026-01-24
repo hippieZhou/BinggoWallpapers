@@ -320,6 +320,9 @@
   <data name="DetailPage_PixelScaleSlider.Header" xml:space="preserve">
     <value>像素度</value>
   </data>
+  <data name="DetailPage_CornerRadiusSlider.Header" xml:space="preserve">
+    <value>圆角半径</value>
+  </data>
   <data name="DetailPage_NoPresetsText.Text" xml:space="preserve">
     <value>暂无预设</value>
   </data>

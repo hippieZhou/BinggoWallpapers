@@ -13,16 +13,16 @@ using Windows.Foundation;
 
 namespace BinggoWallpapers.WinUI.Views.UserControls;
 
-public sealed partial class MockupCanvasControl : UserControl
+public sealed partial class WallpaperPreviewControl : UserControl
 {
     private readonly IImageRenderService _renderService;
-    private readonly ILogger<MockupCanvasControl> _logger;
+    private readonly ILogger<WallpaperPreviewControl> _logger;
 
-    public MockupCanvasControl()
+    public WallpaperPreviewControl()
     {
         InitializeComponent();
         _renderService = App.GetService<IImageRenderService>();
-        _logger = App.GetService<ILogger<MockupCanvasControl>>();
+        _logger = App.GetService<ILogger<WallpaperPreviewControl>>();
     }
 
     public CanvasControl GetCanvasControl() => Canvas;
@@ -63,16 +63,7 @@ public sealed partial class MockupCanvasControl : UserControl
     public partial bool ShowScreenBorder { get; set; }
 
     [GeneratedDependencyProperty]
-    public partial double LeftCornerRadius { get; set; }
-
-    [GeneratedDependencyProperty]
-    public partial double TopCornerRadius { get; set; }
-
-    [GeneratedDependencyProperty]
-    public partial double RightCornerRadius { get; set; }
-
-    [GeneratedDependencyProperty]
-    public partial double BottomCornerRadius { get; set; }
+    public new partial double CornerRadius { get; set; }
 
     #endregion
 
@@ -119,22 +110,7 @@ public sealed partial class MockupCanvasControl : UserControl
         Canvas.Invalidate();
     }
 
-    partial void OnLeftCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
-    {
-        Canvas.Invalidate();
-    }
-
-    partial void OnTopCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
-    {
-        Canvas.Invalidate();
-    }
-
-    partial void OnRightCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
-    {
-        Canvas.Invalidate();
-    }
-
-    partial void OnBottomCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
+    partial void OnCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
     {
         Canvas.Invalidate();
     }
@@ -181,19 +157,18 @@ public sealed partial class MockupCanvasControl : UserControl
                 imageRect = new Rect(offsetX, 0, drawWidth, drawHeight);
             }
 
-            // 应用效果并绘制壁纸
-            _renderService.DrawUserImageOnScreen(session, WallpaperImage, imageRect, imageRect,
-                (contrast: ContrastAmount,
+            // 准备效果参数
+            var effect = (
+                contrast: ContrastAmount,
                 exposure: ExposureAmount,
                 tint: TintAmount,
                 temperature: TemperatureAmount,
                 saturation: SaturationAmount,
                 blur: BlurAmount,
-                pixelScale: Pixelation),
-                (left: (float)LeftCornerRadius,
-                top: (float)TopCornerRadius,
-                right: (float)RightCornerRadius,
-                bottom: (float)BottomCornerRadius));
+                pixelScale: Pixelation);
+
+            // 应用效果并绘制壁纸（使用统一的圆角半径）
+            _renderService.DrawUserImageOnScreen(session, WallpaperImage, imageRect, imageRect, effect, (float)CornerRadius);
         }
         catch (Exception ex)
         {
