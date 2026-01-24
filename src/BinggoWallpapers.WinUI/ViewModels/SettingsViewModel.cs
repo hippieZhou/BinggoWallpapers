@@ -24,6 +24,7 @@ public partial class SettingsViewModel : ObservableRecipient
     private readonly IThemeSelectorService _themeSelector;
     private readonly ITrayIconSelectorService _trayIconService;
     private readonly IMarketSelectorService _marketSelectorService;
+    private readonly IStartupSelectorService _startupSelectorService;
     private readonly IInAppNotificationService _inAppNotificationService;
     private readonly ILogger<SettingsViewModel> _logger;
 
@@ -34,6 +35,7 @@ public partial class SettingsViewModel : ObservableRecipient
     IThemeSelectorService themeSelector,
     ITrayIconSelectorService trayIconService,
     IMarketSelectorService marketSelectorService,
+    IStartupSelectorService startupSelectorService,
     IInAppNotificationService inAppNotificationService,
     ILogger<SettingsViewModel> logger)
     {
@@ -43,6 +45,7 @@ public partial class SettingsViewModel : ObservableRecipient
         _themeSelector = themeSelector;
         _trayIconService = trayIconService;
         _marketSelectorService = marketSelectorService;
+        _startupSelectorService = startupSelectorService;
         _inAppNotificationService = inAppNotificationService;
         _logger = logger;
 
@@ -52,6 +55,7 @@ public partial class SettingsViewModel : ObservableRecipient
         CurrentLanguage = _languageSelector.Language;
         CurrentTheme = _themeSelector.Theme;
         IsTrayIconEnabled = _trayIconService.IsEnabled;
+        IsStartupEnabled = _startupSelectorService.IsEnabled;
 
         Markets = new ObservableCollection<MarketInfoDto>(_marketSelectorService.SupportedMarkets);
         SelectedMarket = _marketSelectorService.Market;
@@ -81,7 +85,17 @@ public partial class SettingsViewModel : ObservableRecipient
     partial void OnIsStartupEnabledChanged(bool value)
     {
         _logger.LogInformation("开机自启动设置已更改: {IsEnabled}", value);
-        // TODO: 实现开机自启动的启用/禁用逻辑
+        _ = Task.Run(async () =>
+        {
+            try
+            {
+                await _startupSelectorService.ToggleAsync(value);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "切换开机自启动状态失败");
+            }
+        });
     }
 
     partial void OnIsTrayIconEnabledChanged(bool value)
