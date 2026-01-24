@@ -3,6 +3,7 @@
 using System.Numerics;
 using Microsoft.Graphics.Canvas;
 using Microsoft.Graphics.Canvas.Effects;
+using Microsoft.Graphics.Canvas.Geometry;
 using Microsoft.UI;
 using Windows.Foundation;
 
@@ -45,7 +46,8 @@ public class ImageRenderService : IImageRenderService
     }
 
     public void DrawUserImageOnScreen(CanvasDrawingSession session, CanvasBitmap userImage, Rect screenRect, Rect imageDrawRect,
-        (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect)
+        (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
+        (float left, float top, float right, float bottom) cornerRadius = default)
     {
         var combinedEffect = new ContrastEffect
         {
@@ -92,15 +94,137 @@ public class ImageRenderService : IImageRenderService
 
         var destRect = new Rect(0, 0, userImage.SizeInPixels.Width, userImage.SizeInPixels.Height);
 
-        // 创建剪裁区域，确保图片不超出屏幕边界
-        using (session.CreateLayer(1.0f, screenRect))
+        // 如果有圆角，创建圆角几何路径
+        if (cornerRadius.left > 0 || cornerRadius.top > 0 || cornerRadius.right > 0 || cornerRadius.bottom > 0)
         {
-            session.DrawImage(
-                combinedEffect,  // 要绘制的效果
-                imageDrawRect,   // 输出区域（屏幕上绘制的位置和大小）
-                destRect        // 输入区域（原图范围）
-                );
+            var roundedRect = CreateRoundedRectangleGeometry(
+                session.Device,
+                screenRect,
+                cornerRadius.left,    // topLeft
+                cornerRadius.top,     // topRight
+                cornerRadius.right,   // bottomRight
+                cornerRadius.bottom); // bottomLeft
+
+            // 使用圆角路径创建裁剪层
+            using (session.CreateLayer(1.0f, roundedRect))
+            {
+                session.DrawImage(
+                    combinedEffect,  // 要绘制的效果
+                    imageDrawRect,   // 输出区域（屏幕上绘制的位置和大小）
+                    destRect        // 输入区域（原图范围）
+                    );
+            }
         }
+        else
+        {
+            // 没有圆角，使用矩形裁剪
+            using (session.CreateLayer(1.0f, screenRect))
+            {
+                session.DrawImage(
+                    combinedEffect,  // 要绘制的效果
+                    imageDrawRect,   // 输出区域（屏幕上绘制的位置和大小）
+                    destRect        // 输入区域（原图范围）
+                    );
+            }
+        }
+    }
+
+    /// <summary>
+    /// 创建具有不同圆角半径的圆角矩形几何路径
+    /// </summary>
+    private static CanvasGeometry CreateRoundedRectangleGeometry(
+        ICanvasResourceCreator resourceCreator,
+        Rect rect,
+        float topLeft,
+        float topRight,
+        float bottomRight,
+        float bottomLeft)
+    {
+        var pathBuilder = new CanvasPathBuilder(resourceCreator);
+        var x = (float)rect.X;
+        var y = (float)rect.Y;
+        var width = (float)rect.Width;
+        var height = (float)rect.Height;
+
+        // 限制圆角半径不超过矩形尺寸的一半
+        topLeft = Math.Min(topLeft, Math.Min(width, height) / 2);
+        topRight = Math.Min(topRight, Math.Min(width, height) / 2);
+        bottomRight = Math.Min(bottomRight, Math.Min(width, height) / 2);
+        bottomLeft = Math.Min(bottomLeft, Math.Min(width, height) / 2);
+
+        // 从左上角开始
+        pathBuilder.BeginFigure(x + topLeft, y);
+
+        // 上边
+        if (topRight > 0)
+        {
+            pathBuilder.AddLine(x + width - topRight, y);
+            pathBuilder.AddArc(
+                new Vector2(x + width - topRight, y + topRight),
+                topRight,
+                topRight,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x + width, y);
+        }
+
+        // 右边
+        if (bottomRight > 0)
+        {
+            pathBuilder.AddLine(x + width, y + height - bottomRight);
+            pathBuilder.AddArc(
+                new Vector2(x + width - bottomRight, y + height - bottomRight),
+                bottomRight,
+                bottomRight,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x + width, y + height);
+        }
+
+        // 下边
+        if (bottomLeft > 0)
+        {
+            pathBuilder.AddLine(x + bottomLeft, y + height);
+            pathBuilder.AddArc(
+                new Vector2(x + bottomLeft, y + height - bottomLeft),
+                bottomLeft,
+                bottomLeft,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x, y + height);
+        }
+
+        // 左边
+        if (topLeft > 0)
+        {
+            pathBuilder.AddLine(x, y + topLeft);
+            pathBuilder.AddArc(
+                new Vector2(x + topLeft, y + topLeft),
+                topLeft,
+                topLeft,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x, y);
+        }
+
+        pathBuilder.EndFigure(CanvasFigureLoop.Closed);
+        return CanvasGeometry.CreatePath(pathBuilder);
     }
 
     public void CleanUp(CanvasDrawingSession session)

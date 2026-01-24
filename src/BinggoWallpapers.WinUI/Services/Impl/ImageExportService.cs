@@ -3,6 +3,8 @@
 using Microsoft.Extensions.Logging;
 using Microsoft.Graphics.Canvas;
 using Microsoft.Graphics.Canvas.Effects;
+using Microsoft.Graphics.Canvas.Geometry;
+using Windows.Foundation;
 using Windows.Graphics.Imaging;
 using Windows.Storage;
 using Windows.Storage.Pickers;
@@ -16,6 +18,7 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
     public async Task<bool> ExportWallpaperAsync(
         CanvasBitmap wallpaperImage,
         (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
+        (float left, float top, float right, float bottom) cornerRadius = default,
         float scaleFactor = 2.0f)
     {
         if (wallpaperImage == null)
@@ -46,7 +49,7 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
                 return false;
             }
 
-            return await ExportWallpaperToFileAsync(wallpaperImage, file, effect, scaleFactor);
+            return await ExportWallpaperToFileAsync(wallpaperImage, file, effect, cornerRadius, scaleFactor);
         }
         catch (Exception ex)
         {
@@ -59,6 +62,7 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
         CanvasBitmap wallpaperImage,
         StorageFile file,
         (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
+        (float left, float top, float right, float bottom) cornerRadius,
         float scaleFactor)
     {
         try
@@ -77,14 +81,21 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
             // 在渲染目标上绘制壁纸并应用效果
             using (var session = renderTarget.CreateDrawingSession())
             {
-                // 清除背景
-                session.Clear(Windows.UI.Color.FromArgb(255, 0, 0, 0)); // 黑色背景
+                // 清除背景（透明背景，以便圆角效果可见）
+                session.Clear(Windows.UI.Color.FromArgb(0, 0, 0, 0));
 
                 // 应用缩放变换
                 session.Transform = System.Numerics.Matrix3x2.CreateScale(scaleFactor);
 
-                // 绘制壁纸并应用效果
-                DrawWallpaperWithEffects(session, wallpaperImage, effect);
+                var imageRect = new Rect(0, 0, wallpaperImage.Size.Width, wallpaperImage.Size.Height);
+                var scaledCornerRadius = (
+                    left: cornerRadius.left * scaleFactor,
+                    top: cornerRadius.top * scaleFactor,
+                    right: cornerRadius.right * scaleFactor,
+                    bottom: cornerRadius.bottom * scaleFactor);
+
+                // 绘制壁纸并应用效果和圆角
+                DrawWallpaperWithEffects(session, wallpaperImage, effect, imageRect, scaledCornerRadius);
             }
 
             // 导出到文件
@@ -103,7 +114,9 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
     private static void DrawWallpaperWithEffects(
         CanvasDrawingSession session,
         CanvasBitmap wallpaperImage,
-        (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect)
+        (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
+        Rect imageRect,
+        (float left, float top, float right, float bottom) cornerRadius)
     {
         var combinedEffect = new ContrastEffect
         {
@@ -148,7 +161,134 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
             Contrast = effect.contrast
         };
 
-        session.DrawImage(combinedEffect);
+        var destRect = new Rect(0, 0, wallpaperImage.SizeInPixels.Width, wallpaperImage.SizeInPixels.Height);
+
+        // 如果有圆角，应用圆角裁剪
+        if (cornerRadius.left > 0 || cornerRadius.top > 0 || cornerRadius.right > 0 || cornerRadius.bottom > 0)
+        {
+            var roundedRect = CreateRoundedRectangleGeometry(
+                session.Device,
+                imageRect,
+                cornerRadius.left,
+                cornerRadius.top,
+                cornerRadius.right,
+                cornerRadius.bottom);
+
+            using (session.CreateLayer(1.0f, roundedRect))
+            {
+                session.DrawImage(
+                    combinedEffect,  // 要绘制的效果
+                    imageRect,       // 输出区域（绘制的位置和大小）
+                    destRect        // 输入区域（原图范围）
+                    );
+            }
+        }
+        else
+        {
+            session.DrawImage(
+                combinedEffect,  // 要绘制的效果
+                imageRect,       // 输出区域（绘制的位置和大小）
+                destRect        // 输入区域（原图范围）
+                );
+        }
+    }
+
+    /// <summary>
+    /// 创建具有不同圆角半径的圆角矩形几何路径
+    /// </summary>
+    private static CanvasGeometry CreateRoundedRectangleGeometry(
+        ICanvasResourceCreator resourceCreator,
+        Rect rect,
+        float topLeft,
+        float topRight,
+        float bottomRight,
+        float bottomLeft)
+    {
+        var pathBuilder = new CanvasPathBuilder(resourceCreator);
+        var x = (float)rect.X;
+        var y = (float)rect.Y;
+        var width = (float)rect.Width;
+        var height = (float)rect.Height;
+
+        // 限制圆角半径不超过矩形尺寸的一半
+        topLeft = Math.Min(topLeft, Math.Min(width, height) / 2);
+        topRight = Math.Min(topRight, Math.Min(width, height) / 2);
+        bottomRight = Math.Min(bottomRight, Math.Min(width, height) / 2);
+        bottomLeft = Math.Min(bottomLeft, Math.Min(width, height) / 2);
+
+        // 从左上角开始
+        pathBuilder.BeginFigure(x + topLeft, y);
+
+        // 上边
+        if (topRight > 0)
+        {
+            pathBuilder.AddLine(x + width - topRight, y);
+            pathBuilder.AddArc(
+                new System.Numerics.Vector2(x + width - topRight, y + topRight),
+                topRight,
+                topRight,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x + width, y);
+        }
+
+        // 右边
+        if (bottomRight > 0)
+        {
+            pathBuilder.AddLine(x + width, y + height - bottomRight);
+            pathBuilder.AddArc(
+                new System.Numerics.Vector2(x + width - bottomRight, y + height - bottomRight),
+                bottomRight,
+                bottomRight,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x + width, y + height);
+        }
+
+        // 下边
+        if (bottomLeft > 0)
+        {
+            pathBuilder.AddLine(x + bottomLeft, y + height);
+            pathBuilder.AddArc(
+                new System.Numerics.Vector2(x + bottomLeft, y + height - bottomLeft),
+                bottomLeft,
+                bottomLeft,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x, y + height);
+        }
+
+        // 左边
+        if (topLeft > 0)
+        {
+            pathBuilder.AddLine(x, y + topLeft);
+            pathBuilder.AddArc(
+                new System.Numerics.Vector2(x + topLeft, y + topLeft),
+                topLeft,
+                topLeft,
+                0,
+                CanvasSweepDirection.Clockwise,
+                CanvasArcSize.Small);
+        }
+        else
+        {
+            pathBuilder.AddLine(x, y);
+        }
+
+        pathBuilder.EndFigure(CanvasFigureLoop.Closed);
+        return CanvasGeometry.CreatePath(pathBuilder);
     }
 
     private static async Task SaveRenderTargetToStreamAsync(CanvasRenderTarget renderTarget, IRandomAccessStream stream, string fileType)

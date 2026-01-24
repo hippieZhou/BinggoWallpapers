@@ -182,6 +182,7 @@ public partial class DetailViewModel(
     {
         Exposure = Blur = Tint = Temperature = Contrast = 0;
         Saturation = PixelScale = 1;
+        Left = Top = Right = Bottom = 0;
     }
 
     [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false, FlowExceptionsToTaskScheduler = true)]
@@ -203,7 +204,11 @@ public partial class DetailViewModel(
                   temperature: Temperature,
                   saturation: Saturation,
                   blur: Blur,
-                  pixelScale: PixelScale));
+                  pixelScale: PixelScale),
+                 (left: (float)Left,
+                  top: (float)Top,
+                  right: (float)Right,
+                  bottom: (float)Bottom));
             if (success)
             {
                 inAppNotificationService.ShowSuccess($"导出壁纸: {Wallpaper.Title}");

@@ -62,6 +62,18 @@ public sealed partial class MockupCanvasControl : UserControl
     [GeneratedDependencyProperty]
     public partial bool ShowScreenBorder { get; set; }
 
+    [GeneratedDependencyProperty]
+    public partial double LeftCornerRadius { get; set; }
+
+    [GeneratedDependencyProperty]
+    public partial double TopCornerRadius { get; set; }
+
+    [GeneratedDependencyProperty]
+    public partial double RightCornerRadius { get; set; }
+
+    [GeneratedDependencyProperty]
+    public partial double BottomCornerRadius { get; set; }
+
     #endregion
 
     #region OnPropertyChanged
@@ -103,6 +115,26 @@ public sealed partial class MockupCanvasControl : UserControl
     }
 
     partial void OnPixelationPropertyChanged(DependencyPropertyChangedEventArgs e)
+    {
+        Canvas.Invalidate();
+    }
+
+    partial void OnLeftCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
+    {
+        Canvas.Invalidate();
+    }
+
+    partial void OnTopCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
+    {
+        Canvas.Invalidate();
+    }
+
+    partial void OnRightCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
+    {
+        Canvas.Invalidate();
+    }
+
+    partial void OnBottomCornerRadiusPropertyChanged(DependencyPropertyChangedEventArgs e)
     {
         Canvas.Invalidate();
     }
@@ -157,7 +189,11 @@ public sealed partial class MockupCanvasControl : UserControl
                 temperature: TemperatureAmount,
                 saturation: SaturationAmount,
                 blur: BlurAmount,
-                pixelScale: Pixelation));
+                pixelScale: Pixelation),
+                (left: (float)LeftCornerRadius,
+                top: (float)TopCornerRadius,
+                right: (float)RightCornerRadius,
+                bottom: (float)BottomCornerRadius));
         }
         catch (Exception ex)
         {
