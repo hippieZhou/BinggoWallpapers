@@ -60,7 +60,7 @@
     <PackageVersion Include="Microsoft.Xaml.Behaviors.WinUI.Managed" Version="3.0.1" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
     <!-- Other UI Packages -->
-    <PackageVersion Include="0x5BFA.TrayIconFlyout.WinUI" Version="1.0.0-preview3" />
+    <PackageVersion Include="0x5BFA.TrayIconFlyout.WinUI" Version="1.0.0-preview4" />
     <PackageVersion Include="ImageEx.WinUI" Version="4.0.0" />
     <PackageVersion Include="WinUIEx" Version="2.9.0" />
     <!-- Logging Packages -->

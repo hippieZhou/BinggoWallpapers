@@ -332,13 +332,4 @@
   <data name="DetailPage_ExportButton.Content" xml:space="preserve">
     <value>Export</value>
   </data>
-  <data name="DetailPage_ImageInfoButton.Label" xml:space="preserve">
-    <value>Image Info</value>
-  </data>
-  <data name="DetailPage_DownloadOriginalButton.Label" xml:space="preserve">
-    <value>Download Original</value>
-  </data>
-  <data name="DetailPage_EditImageButton.Label" xml:space="preserve">
-    <value>Edit Image</value>
-  </data>
 </root>
