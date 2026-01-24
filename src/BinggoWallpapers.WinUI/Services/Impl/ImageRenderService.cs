@@ -130,7 +130,7 @@ public class ImageRenderService : IImageRenderService
     }
 
     /// <summary>
-    /// 创建具有不同圆角半径的圆角矩形几何路径
+    /// 创建具有不同圆角半径的圆角矩形几何路径（类似 WinUI3 的 CornerRadius）
     /// </summary>
     private static CanvasGeometry CreateRoundedRectangleGeometry(
         ICanvasResourceCreator resourceCreator,
@@ -146,19 +146,29 @@ public class ImageRenderService : IImageRenderService
         var width = (float)rect.Width;
         var height = (float)rect.Height;
 
-        // 限制圆角半径不超过矩形尺寸的一半
+        // 限制圆角半径不超过矩形尺寸的一半（类似 WinUI3 的行为）
         topLeft = Math.Min(topLeft, Math.Min(width, height) / 2);
         topRight = Math.Min(topRight, Math.Min(width, height) / 2);
         bottomRight = Math.Min(bottomRight, Math.Min(width, height) / 2);
         bottomLeft = Math.Min(bottomLeft, Math.Min(width, height) / 2);
 
         // 从左上角开始
-        pathBuilder.BeginFigure(x + topLeft, y);
+        if (topLeft > 0)
+        {
+            pathBuilder.BeginFigure(x + topLeft, y);
+        }
+        else
+        {
+            pathBuilder.BeginFigure(x, y);
+        }
 
-        // 上边
+        // 上边（从左到右）
         if (topRight > 0)
         {
             pathBuilder.AddLine(x + width - topRight, y);
+            // 右上角圆弧：AddArc 需要先指定下一个点，然后画圆弧
+            // 下一个点是 (x + width, y + topRight)，圆弧中心在 (x + width - topRight, y + topRight)
+            pathBuilder.AddLine(x + width, y + topRight);
             pathBuilder.AddArc(
                 new Vector2(x + width - topRight, y + topRight),
                 topRight,
@@ -172,10 +182,11 @@ public class ImageRenderService : IImageRenderService
             pathBuilder.AddLine(x + width, y);
         }
 
-        // 右边
+        // 右边（从上到下）
         if (bottomRight > 0)
         {
             pathBuilder.AddLine(x + width, y + height - bottomRight);
+            pathBuilder.AddLine(x + width - bottomRight, y + height);
             pathBuilder.AddArc(
                 new Vector2(x + width - bottomRight, y + height - bottomRight),
                 bottomRight,
@@ -189,10 +200,11 @@ public class ImageRenderService : IImageRenderService
             pathBuilder.AddLine(x + width, y + height);
         }
 
-        // 下边
+        // 下边（从右到左）
         if (bottomLeft > 0)
         {
             pathBuilder.AddLine(x + bottomLeft, y + height);
+            pathBuilder.AddLine(x, y + height - bottomLeft);
             pathBuilder.AddArc(
                 new Vector2(x + bottomLeft, y + height - bottomLeft),
                 bottomLeft,
@@ -206,10 +218,11 @@ public class ImageRenderService : IImageRenderService
             pathBuilder.AddLine(x, y + height);
         }
 
-        // 左边
+        // 左边（从下到上）
         if (topLeft > 0)
         {
             pathBuilder.AddLine(x, y + topLeft);
+            pathBuilder.AddLine(x + topLeft, y);
             pathBuilder.AddArc(
                 new Vector2(x + topLeft, y + topLeft),
                 topLeft,

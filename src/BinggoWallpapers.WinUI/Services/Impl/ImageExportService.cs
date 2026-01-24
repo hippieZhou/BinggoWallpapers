@@ -216,13 +216,22 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
         bottomRight = Math.Min(bottomRight, Math.Min(width, height) / 2);
         bottomLeft = Math.Min(bottomLeft, Math.Min(width, height) / 2);
 
-        // 从左上角开始
-        pathBuilder.BeginFigure(x + topLeft, y);
+        // 从左上角开始（如果左上角有圆角，从圆角起点开始）
+        if (topLeft > 0)
+        {
+            pathBuilder.BeginFigure(x + topLeft, y);
+        }
+        else
+        {
+            pathBuilder.BeginFigure(x, y);
+        }
 
-        // 上边
+        // 上边（从左到右）
         if (topRight > 0)
         {
             pathBuilder.AddLine(x + width - topRight, y);
+            // 右上角圆弧：从 (x + width - topRight, y) 到 (x + width, y + topRight)
+            // 圆弧中心在 (x + width - topRight, y + topRight)，半径 topRight
             pathBuilder.AddArc(
                 new System.Numerics.Vector2(x + width - topRight, y + topRight),
                 topRight,
@@ -236,10 +245,11 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
             pathBuilder.AddLine(x + width, y);
         }
 
-        // 右边
+        // 右边（从上到下）
         if (bottomRight > 0)
         {
             pathBuilder.AddLine(x + width, y + height - bottomRight);
+            // 右下角圆弧：从 (x + width, y + height - bottomRight) 到 (x + width - bottomRight, y + height)
             pathBuilder.AddArc(
                 new System.Numerics.Vector2(x + width - bottomRight, y + height - bottomRight),
                 bottomRight,
@@ -253,10 +263,11 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
             pathBuilder.AddLine(x + width, y + height);
         }
 
-        // 下边
+        // 下边（从右到左）
         if (bottomLeft > 0)
         {
             pathBuilder.AddLine(x + bottomLeft, y + height);
+            // 左下角圆弧：从 (x + bottomLeft, y + height) 到 (x, y + height - bottomLeft)
             pathBuilder.AddArc(
                 new System.Numerics.Vector2(x + bottomLeft, y + height - bottomLeft),
                 bottomLeft,
@@ -270,10 +281,11 @@ public class ImageExportService(ILogger<ImageExportService> logger) : IImageExpo
             pathBuilder.AddLine(x, y + height);
         }
 
-        // 左边
+        // 左边（从下到上）
         if (topLeft > 0)
         {
             pathBuilder.AddLine(x, y + topLeft);
+            // 左上角圆弧：从 (x, y + topLeft) 到起始点 (x + topLeft, y)
             pathBuilder.AddArc(
                 new System.Numerics.Vector2(x + topLeft, y + topLeft),
                 topLeft,
