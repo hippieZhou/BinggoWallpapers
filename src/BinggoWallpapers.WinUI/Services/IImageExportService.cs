@@ -15,6 +15,6 @@ public interface IImageExportService
     Task<bool> ExportWallpaperAsync(
         CanvasBitmap wallpaperImage,
         (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
-        (float left, float top, float right, float bottom) cornerRadius = default,
+        float cornerRadius = 0,
         float scaleFactor = 2.0f);
 }
