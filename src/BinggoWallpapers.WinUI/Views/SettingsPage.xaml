@@ -128,8 +128,7 @@
                     x:Uid="SettingsPage_StartupExpander"
                     d:Description="设置应用在系统启动时自动运行"
                     d:Header="开机自启动"
-                    HeaderIcon="{ui:FontIcon Glyph=&#xE768;}"
-                    Visibility="Collapsed">
+                    HeaderIcon="{ui:FontIcon Glyph=&#xE768;}">
                     <ToggleSwitch
                         x:Uid="SettingsPage_StartupToggle"
                         d:Header="开机时自动启动"

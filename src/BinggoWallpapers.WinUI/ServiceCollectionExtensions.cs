@@ -138,6 +138,7 @@ public static class ServiceCollectionExtensions
         services.AddSingleton<ILanguageSelectorService, LanguageSelectorService>();
         services.AddSingleton<IDownloadSelectorService, DownloadSelectorService>();
         services.AddSingleton<ILoggingSelectorService, LoggingSelectorService>();
+        services.AddSingleton<IStartupSelectorService, StartupSelectorService>();
         return services;
     }
 
