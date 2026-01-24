@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Tradição viking",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ovelhas na neve, Islândia (© Christophe Lehenaff/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cultura+Islandesa&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_IcelandSheep%22&FORM=HPQUIZ",
+  "hash": "f1984fa47985476775410377d3dc30ea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_PT-BR6680059407_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260123",
+    "fullStartDateTime": "202601230300",
+    "endDate": "20260124"
+  },
+  "createdAt": "202601240250",
+  "originalUrlBase": "/th?id=OHR.IcelandSheep_PT-BR6680059407"
+}

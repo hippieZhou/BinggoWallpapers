@@ -1,0 +1,43 @@
+{
+  "date": "24 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un manto de belleza invernal",
+  "bsTitle": "Un manto de belleza invernal",
+  "caption": "Pueblo de Andermatt en los Alpes, Suiza",
+  "copyright": "Pueblo de Andermatt en los Alpes, Suiza (© Xantana/Getty Images)",
+  "copyrightOnly": "© Xantana/Getty Images",
+  "copyrightLink": "/search?q=Pueblo+de+Andermatt+en+los+Alpes+suizos&form=hpcapt&filters=HpDate%3a%2220260123_2300%22",
+  "description": "Situado en el valle de Urseren, a unos 1.440 metros de altitud, Andermatt es un pintoresco pueblo suizo rodeado por los imponentes Alpes. Durante siglos fue un cruce estratégico y hoy sigue conectado por tres pasos históricos: Gotardo, Furka y Oberalp. El paso del Gotardo ha sido clave para unir el norte y el sur de Europa, una función comparable a la que han tenido los Pirineos como eje natural de comunicación en España.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_AndermattSwiss%22&FORM=HPQUIZ",
+  "hash": "1b05bca769715e1dd7e937ad8508bf7c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ES-ES1707128541_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ES-ES1707128541_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ES-ES1707128541_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ES-ES1707128541_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260123",
+    "fullStartDateTime": "202601232300",
+    "endDate": "20260124"
+  },
+  "createdAt": "202601240250",
+  "originalUrlBase": "/th?id=OHR.AndermattSwiss_ES-ES1707128541"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jan 24, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A window seat to wildlife",
+  "bsTitle": "A window seat to wildlife",
+  "caption": "Big Garden Birdwatch",
+  "copyright": "Red kite in snow (© Carl Mckie/500px/Getty Images)",
+  "copyrightOnly": "© Carl Mckie/500px/Getty Images",
+  "copyrightLink": "/search?q=Big+Garden+Birdwatch&form=hpcapt&filters=HpDate%3a%2220260124_0000%22",
+  "description": "Every January, gardens across the United Kingdom turn into open-air theatres. The performers arrive uninvited, refuse encores and steal snacks without apology. Welcome to Big Garden Birdwatch—the one weekend when staring out of the window is officially productive.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_BigGardenBirdwatch2026%22&FORM=HPQUIZ",
+  "hash": "f1682d830b1bfd24ea18ddbbacef48be",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260124",
+    "fullStartDateTime": "202601240000",
+    "endDate": "20260125"
+  },
+  "createdAt": "202601240250",
+  "originalUrlBase": "/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Bellezza è imperfezione",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Torre di Pisa, Pisa, Toscana (© seng chye teo/Moment)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Torre+di+Pisa&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260123_PisaTower%22&FORM=HPQUIZ",
+  "hash": "2633d5c5a146272f3f51aea5bdbbcf0a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260123",
+    "fullStartDateTime": "202601232300",
+    "endDate": "20260124"
+  },
+  "createdAt": "202601240250",
+  "originalUrlBase": "/th?id=OHR.PisaTower_IT-IT3619940805"
+}
