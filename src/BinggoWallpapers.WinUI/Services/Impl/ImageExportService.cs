@@ -1,9 +1,9 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
-using BinggoWallpapers.WinUI.Models;
+using BinggoWallpapers.WinUI.Helpers;
 using Microsoft.Extensions.Logging;
 using Microsoft.Graphics.Canvas;
-using Microsoft.Graphics.Canvas.UI.Xaml;
+using Windows.Foundation;
 using Windows.Graphics.Imaging;
 using Windows.Storage;
 using Windows.Storage.Pickers;
@@ -12,16 +12,20 @@ using WinRT.Interop;
 
 namespace BinggoWallpapers.WinUI.Services.Impl;
 
-public class ImageExportService(IImageRenderService renderService, ILogger<ImageExportService> logger) : IImageExportService
+public class ImageExportService(ILogger<ImageExportService> logger) : IImageExportService
 {
-    public async Task<bool> ExportCanvasAsync(
-        CanvasControl canvasControl,
-        CanvasBitmap mockupImage,
-        CanvasBitmap userImage,
-        DeviceConfiguration deviceConfig,
+    public async Task<bool> ExportWallpaperAsync(
+        CanvasBitmap wallpaperImage,
         (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
+        float cornerRadius = 0,
         float scaleFactor = 2.0f)
     {
+        if (wallpaperImage == null)
+        {
+            logger.LogWarning("壁纸图片为空，无法导出");
+            return false;
+        }
+
         try
         {
             var picker = new FileSavePicker
@@ -44,49 +48,49 @@ public class ImageExportService(IImageRenderService renderService, ILogger<Image
                 return false;
             }
 
-            return await ExportCanvasToFileAsync(canvasControl, file, mockupImage, userImage, deviceConfig, effect, scaleFactor);
+            return await ExportWallpaperToFileAsync(wallpaperImage, file, effect, cornerRadius, scaleFactor);
         }
         catch (Exception ex)
         {
-            logger.LogError(ex, $"Export failed: {ex.Message}");
+            logger.LogError(ex, $"导出失败: {ex.Message}");
             return false;
         }
     }
 
-    private async Task<bool> ExportCanvasToFileAsync(
-        CanvasControl canvasControl,
+    private async Task<bool> ExportWallpaperToFileAsync(
+        CanvasBitmap wallpaperImage,
         StorageFile file,
-        CanvasBitmap mockupImage,
-        CanvasBitmap userImage,
-        DeviceConfiguration deviceConfig,
         (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect,
+        float cornerRadius,
         float scaleFactor)
     {
-        if (mockupImage == null)
-        {
-            return false;
-        }
-
         try
         {
-            var canvasSize = canvasControl.Size;
-            var highResWidth = (float)(canvasSize.Width * scaleFactor);
-            var highResHeight = (float)(canvasSize.Height * scaleFactor);
+            var imageSize = wallpaperImage.Size;
+            var highResWidth = (float)(imageSize.Width * scaleFactor);
+            var highResHeight = (float)(imageSize.Height * scaleFactor);
 
             // 创建离屏渲染目标
-            using var renderTarget = new CanvasRenderTarget(canvasControl, highResWidth, highResHeight, 96 * scaleFactor);
+            using var renderTarget = new CanvasRenderTarget(
+                wallpaperImage.Device,
+                highResWidth,
+                highResHeight,
+                wallpaperImage.Dpi * scaleFactor);
 
-            // 在渲染目标上绘制内容
+            // 在渲染目标上绘制壁纸并应用效果
             using (var session = renderTarget.CreateDrawingSession())
             {
-                // 清除背景
-                session.Clear(Windows.UI.Color.FromArgb(255, 255, 255, 255)); // 白色背景
+                // 清除背景（透明背景，以便圆角效果可见）
+                session.Clear(Windows.UI.Color.FromArgb(0, 0, 0, 0));
 
                 // 应用缩放变换
                 session.Transform = System.Numerics.Matrix3x2.CreateScale(scaleFactor);
 
-                // 重新绘制mockup和用户图片
-                DrawMockupContent(session, canvasSize, mockupImage, userImage, deviceConfig, effect);
+                var imageRect = new Rect(0, 0, wallpaperImage.Size.Width, wallpaperImage.Size.Height);
+                var scaledCornerRadius = cornerRadius * scaleFactor;
+
+                // 绘制壁纸并应用效果和圆角（使用 Helper 方法）
+                ImageDrawingHelper.DrawImageWithEffects(session, wallpaperImage, effect, imageRect, imageRect, scaledCornerRadius);
             }
 
             // 导出到文件
@@ -97,35 +101,8 @@ public class ImageExportService(IImageRenderService renderService, ILogger<Image
         }
         catch (Exception ex)
         {
-            logger.LogError(ex, $"Export to file failed: {ex.Message}");
+            logger.LogError(ex, $"导出到文件失败: {ex.Message}");
             return false;
-        }
-    }
-
-    private void DrawMockupContent(
-        CanvasDrawingSession session,
-        Windows.Foundation.Size canvasSize,
-        CanvasBitmap mockupImage,
-        CanvasBitmap userImage,
-        DeviceConfiguration deviceConfig,
-        (float contrast, float exposure, float tint, float temperature, float saturation, float blur, float pixelScale) effect)
-    {
-        // 计算mockup显示区域
-        var mockupRect = renderService.CalculateMockupRect(canvasSize, mockupImage.Size);
-
-        // 绘制mockup图片
-        renderService.DrawMockup(session, mockupImage, mockupRect);
-
-        // 如果有用户图片，绘制到屏幕区域
-        if (userImage != null)
-        {
-            var screenRect = renderService.CalculateScreenRect(mockupRect, deviceConfig);
-            var imageDrawRect = renderService.CalculateUserImageRect(
-                screenRect,
-                userImage.Size,
-                deviceConfig.ScreenAspectRatio);
-
-            renderService.DrawUserImageOnScreen(session, userImage, screenRect, imageDrawRect, effect);
         }
     }
 

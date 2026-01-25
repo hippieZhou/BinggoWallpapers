@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <UserControl
-    x:Class="BinggoWallpapers.WinUI.Views.UserControls.MockupCanvasControl"
+    x:Class="BinggoWallpapers.WinUI.Views.UserControls.WallpaperPreviewControl"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:canvas="using:Microsoft.Graphics.Canvas.UI.Xaml"
@@ -12,6 +12,8 @@
     <Grid>
         <canvas:CanvasControl
             x:Name="Canvas"
+            MaxWidth="1920"
+            MaxHeight="1080"
             CreateResources="Canvas_CreateResources"
             Draw="Canvas_Draw" />
         <ProgressRing

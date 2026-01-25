@@ -5,7 +5,6 @@ using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.Core.Services;
 using BinggoWallpapers.WinUI.Notifications;
 using BinggoWallpapers.WinUI.Services;
-using BinggoWallpapers.WinUI.Views.UserControls;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Microsoft.Extensions.Logging;
@@ -23,9 +22,6 @@ public partial class DetailViewModel(
 {
     [ObservableProperty]
     public partial ObservableCollection<ResolutionInfoDto> SupportedResolutions { get; set; }
-
-    [ObservableProperty]
-    public partial CanvasBitmap MockupImage { get; set; }
 
     [ObservableProperty]
     public partial CanvasBitmap WallpaperImage { get; set; }
@@ -55,6 +51,9 @@ public partial class DetailViewModel(
     public partial float PixelScale { get; set; } = 1;
 
     [ObservableProperty]
+    public partial float CornerRadius { get; set; } = 0;
+
+    [ObservableProperty]
     public partial bool IsInitialized { get; set; }
 
     [ObservableProperty]
@@ -63,12 +62,13 @@ public partial class DetailViewModel(
     [ObservableProperty]
     public partial bool IsExporting { get; set; }
 
+    [ObservableProperty]
+    public partial bool EditMode { get; set; }
+
     public void OnNavigatedFrom()
     {
         Wallpaper = null;
 
-        MockupImage?.Dispose();
-        MockupImage = null;
         WallpaperImage?.Dispose();
         WallpaperImage = null;
     }
@@ -116,9 +116,6 @@ public partial class DetailViewModel(
             IsInitialized = false;
             logger.LogInformation($"开始加载壁纸预览: {Wallpaper.Title}");
 
-            MockupImage?.Dispose();
-            MockupImage = await LoadImageAsync("ms-appx:///Assets/Mockups/microsoft-surface-book.png", canvasControl, logger);
-
             WallpaperImage?.Dispose();
             WallpaperImage = await LoadImageAsync(Wallpaper.Url, canvasControl, logger);
             IsInitialized = true;
@@ -128,22 +125,6 @@ public partial class DetailViewModel(
             IsInitialized = false;
             logger.LogError(ex, $"加载壁纸预览失败: {ex.Message}");
         }
-    }
-
-    [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false)]
-    private async Task<string> OnViewMoreDetails(CancellationToken cancellationToken = default)
-    {
-        if (Wallpaper is null)
-        {
-            return string.Empty;
-        }
-
-        var jsonDetails = await managementService.GetMoreDetailsAsync(Wallpaper.Id, cancellationToken);
-        return $@"
-```json
-{jsonDetails}
-```
-";
     }
 
     [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false)]
@@ -179,12 +160,13 @@ public partial class DetailViewModel(
     {
         Exposure = Blur = Tint = Temperature = Contrast = 0;
         Saturation = PixelScale = 1;
+        CornerRadius = 0;
     }
 
     [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false, FlowExceptionsToTaskScheduler = true)]
-    private async Task OnExportWallpaper(MockupCanvasControl mockupCanvasControl, CancellationToken cancellationToken = default)
+    private async Task OnExportWallpaper(CancellationToken cancellationToken = default)
     {
-        if (Wallpaper == null)
+        if (Wallpaper == null || WallpaperImage == null)
         {
             return;
         }
@@ -192,22 +174,16 @@ public partial class DetailViewModel(
         try
         {
             IsExporting = true;
-            var canvasControl = mockupCanvasControl.GetCanvasControl();
-            var mockup = mockupCanvasControl.MockupImage;
-            var image = mockupCanvasControl.WallpaperImage;
-            var config = mockupCanvasControl.Configuration;
-            var success = await exportService.ExportCanvasAsync(
-                 canvasControl,
-                 mockup,
-                 image,
-                 config!,
+            var success = await exportService.ExportWallpaperAsync(
+                 WallpaperImage,
                  (contrast: Contrast,
                   exposure: Exposure,
                   tint: Tint,
                   temperature: Temperature,
                   saturation: Saturation,
                   blur: Blur,
-                  pixelScale: PixelScale));
+                  pixelScale: PixelScale),
+                 CornerRadius);
             if (success)
             {
                 inAppNotificationService.ShowSuccess($"导出壁纸: {Wallpaper.Title}");
@@ -216,6 +192,7 @@ public partial class DetailViewModel(
         catch (Exception ex)
         {
             inAppNotificationService.ShowError($"导出壁纸失败: {ex.Message}");
+            logger.LogError(ex, "导出壁纸失败");
         }
         finally
         {

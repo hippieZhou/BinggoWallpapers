@@ -30,6 +30,7 @@
     <PackageReference Include="CommunityToolkit.Labs.WinUI.OpacityMaskView" />
     <PackageReference Include="CommunityToolkit.Labs.WinUI.Shimmer" />
     <PackageReference Include="CommunityToolkit.Labs.WinUI.TokenView" />
+    <PackageReference Include="CommunityToolkit.Labs.WinUI.TransitionHelper" />
     <PackageReference Include="CommunityToolkit.Mvvm" />
     <PackageReference Include="CommunityToolkit.WinUI.Behaviors" />
     <PackageReference Include="CommunityToolkit.WinUI.Animations" />
@@ -41,26 +42,21 @@
     <PackageReference Include="CommunityToolkit.WinUI.Controls.HeaderedControls" />
     <PackageReference Include="CommunityToolkit.WinUI.Converters" />
     <PackageReference Include="CommunityToolkit.WinUI.Media" />
+    <PackageReference Include="WinUIEx" />
     <PackageReference Include="ImageEx.WinUI" />
+    <PackageReference Include="0x5BFA.TrayIconFlyout.WinUI" />
     <PackageReference Include="Microsoft.Extensions.Hosting" />
     <PackageReference Include="Microsoft.Graphics.Win2D" />
     <PackageReference Include="Microsoft.WindowsAppSDK" />
     <PackageReference Include="Microsoft.Xaml.Behaviors.WinUI.Managed" />
     <PackageReference Include="Serilog.Exceptions" />
-    <PackageReference Include="WinUIEx" />
     <PackageReference Include="Serilog.Extensions.Hosting" />
     <PackageReference Include="Serilog.Sinks.Debug" />
     <PackageReference Include="Serilog.Sinks.File" />
     <PackageReference Include="Serilog.Formatting.Compact" />
     <PackageReference Include="Serilog.Sinks.Map" />
-    <PackageReference Include="0x5BFA.TrayIconFlyout.WinUI" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Content Update="Assets\Mockups\microsoft-surface-book.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
 
   <ItemGroup>
     <None Update="appsettings.json">

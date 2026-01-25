@@ -17,6 +17,15 @@
     xmlns:uc="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:ui="using:CommunityToolkit.WinUI"
     mc:Ignorable="d">
+    <Page.Resources>
+        <ui:TransitionHelper x:Key="MyTransitionHelper">
+            <ui:TransitionConfig Id="image" ScaleMode="Scale" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="title" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="description" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="copyright" />
+            <ui:TransitionConfig EnableClipAnimation="true" Id="fullStartDateTime" />
+        </ui:TransitionHelper>
+    </Page.Resources>
     <i:Interaction.Behaviors>
         <i:EventTriggerBehavior EventName="Loaded">
             <i:InvokeCommandAction Command="{x:Bind ViewModel.LoadedCommand}" />
@@ -27,6 +36,7 @@
         <SplitView
             x:Name="WallpaperView"
             DisplayMode="Inline"
+            IsPaneOpen="{x:Bind ViewModel.EditMode, Mode=TwoWay}"
             PanePlacement="Right">
             <SplitView.Pane>
                 <ScrollViewer>
@@ -59,150 +69,15 @@
 
                         <controls:SwitchPresenter Grid.Row="1" Value="{Binding SelectedItem.Tag, ElementName=segmentedControl}">
                             <controls:Case Value="advance">
-                                <Grid
-                                    animations:Implicit.HideAnimations="{StaticResource HideTransitions}"
-                                    animations:Implicit.ShowAnimations="{StaticResource ShowTransitions}"
-                                    Style="{StaticResource CardGridStyle}">
-                                    <Grid.Resources>
-                                        <x:Double x:Key="SliderTrackThemeHeight">4</x:Double>
-                                        <Style BasedOn="{StaticResource DefaultSliderStyle}" TargetType="Slider">
-                                            <Setter Property="Margin" Value="0,0,0,0" />
-                                            <Setter Property="Padding" Value="0" />
-                                            <Setter Property="MinWidth" Value="100" />
-                                            <Setter Property="StepFrequency" Value="0.1" />
-                                            <Setter Property="TickFrequency" Value="0.1" />
-                                            <Setter Property="Grid.ColumnSpan" Value="2" />
-                                        </Style>
-                                        <Style x:Key="ValueTextBlock" TargetType="TextBlock">
-                                            <Setter Property="HorizontalAlignment" Value="Right" />
-                                            <Setter Property="Grid.Column" Value="1" />
-                                        </Style>
-                                    </Grid.Resources>
-                                    <Grid.ColumnDefinitions>
-                                        <ColumnDefinition MinWidth="144" />
-                                        <ColumnDefinition />
-                                    </Grid.ColumnDefinitions>
-                                    <Grid.RowDefinitions>
-                                        <RowDefinition Height="Auto" />
-                                        <RowDefinition Height="Auto" />
-                                        <RowDefinition Height="Auto" />
-                                        <RowDefinition Height="Auto" />
-                                        <RowDefinition Height="Auto" />
-                                        <RowDefinition Height="Auto" />
-                                        <RowDefinition Height="Auto" />
-                                    </Grid.RowDefinitions>
-
-                                    <Slider
-                                        x:Uid="DetailPage_ExposureSlider"
-                                        Grid.Row="0"
-                                        Foreground="Transparent"
-                                        Maximum="2"
-                                        Minimum="-2"
-                                        Template="{StaticResource FancySliderControlTemplate}"
-                                        Value="{x:Bind ViewModel.Exposure, Mode=TwoWay}">
-                                        <Slider.Background>
-                                            <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
-                                                <LinearGradientBrush.GradientStops>
-                                                    <GradientStop Offset="0" Color="Black" />
-                                                    <GradientStop Offset="1" Color="White" />
-                                                </LinearGradientBrush.GradientStops>
-                                            </LinearGradientBrush>
-                                        </Slider.Background>
-                                    </Slider>
-                                    <TextBlock
-                                        Grid.Row="0"
-                                        Style="{StaticResource ValueTextBlock}"
-                                        Text="{x:Bind ViewModel.Exposure.ToString('N', Culture), Mode=OneWay}" />
-
-                                    <Slider
-                                        x:Uid="DetailPage_TemperatureSlider"
-                                        Grid.Row="1"
-                                        Foreground="Transparent"
-                                        Maximum="1"
-                                        Minimum="-1"
-                                        Template="{StaticResource FancySliderControlTemplate}"
-                                        Value="{x:Bind ViewModel.Temperature, Mode=TwoWay}">
-                                        <Slider.Background>
-                                            <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
-                                                <LinearGradientBrush.GradientStops>
-                                                    <GradientStop Offset="0" Color="Blue" />
-                                                    <GradientStop Offset="1" Color="Yellow" />
-                                                </LinearGradientBrush.GradientStops>
-                                            </LinearGradientBrush>
-                                        </Slider.Background>
-                                    </Slider>
-                                    <TextBlock
-                                        Grid.Row="1"
-                                        Style="{StaticResource ValueTextBlock}"
-                                        Text="{x:Bind ViewModel.Temperature.ToString('N', Culture), Mode=OneWay}" />
-
-                                    <Slider
-                                        x:Uid="DetailPage_TintSlider"
-                                        Grid.Row="2"
-                                        Foreground="Transparent"
-                                        Maximum="1"
-                                        Minimum="-1"
-                                        Template="{StaticResource FancySliderControlTemplate}"
-                                        Value="{x:Bind ViewModel.Tint, Mode=TwoWay}">
-                                        <Slider.Background>
-                                            <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
-                                                <LinearGradientBrush.GradientStops>
-                                                    <GradientStop Offset="0" Color="Red" />
-                                                    <GradientStop Offset="1" Color="Green" />
-                                                </LinearGradientBrush.GradientStops>
-                                            </LinearGradientBrush>
-                                        </Slider.Background>
-                                    </Slider>
-                                    <TextBlock
-                                        Grid.Row="2"
-                                        Style="{StaticResource ValueTextBlock}"
-                                        Text="{x:Bind ViewModel.Tint.ToString('N', Culture), Mode=OneWay}" />
-
-                                    <Slider
-                                        x:Uid="DetailPage_BlurSlider"
-                                        Grid.Row="3"
-                                        Maximum="5"
-                                        Minimum="0"
-                                        Value="{x:Bind ViewModel.Blur, Mode=TwoWay}" />
-                                    <TextBlock
-                                        Grid.Row="3"
-                                        Style="{StaticResource ValueTextBlock}"
-                                        Text="{x:Bind ViewModel.Blur.ToString('N', Culture), Mode=OneWay}" />
-
-                                    <Slider
-                                        x:Uid="DetailPage_ContrastSlider"
-                                        Grid.Row="4"
-                                        Foreground="Transparent"
-                                        Maximum="1"
-                                        Minimum="-1"
-                                        Value="{x:Bind ViewModel.Contrast, Mode=TwoWay}" />
-                                    <TextBlock
-                                        Grid.Row="4"
-                                        Style="{StaticResource ValueTextBlock}"
-                                        Text="{x:Bind ViewModel.Contrast.ToString('N', Culture), Mode=OneWay}" />
-
-                                    <Slider
-                                        x:Uid="DetailPage_SaturationSlider"
-                                        Grid.Row="5"
-                                        Maximum="1"
-                                        Minimum="0"
-                                        Value="{x:Bind ViewModel.Saturation, Mode=TwoWay}" />
-                                    <TextBlock
-                                        Grid.Row="5"
-                                        Style="{StaticResource ValueTextBlock}"
-                                        Text="{x:Bind ViewModel.Saturation.ToString('N', Culture), Mode=OneWay}" />
-
-                                    <Slider
-                                        x:Uid="DetailPage_PixelScaleSlider"
-                                        Grid.Row="6"
-                                        Maximum="1"
-                                        Minimum="0.1"
-                                        Value="{x:Bind ViewModel.PixelScale, Mode=TwoWay}" />
-                                    <TextBlock
-                                        Grid.Row="6"
-                                        Style="{StaticResource ValueTextBlock}"
-                                        Text="{x:Bind ViewModel.PixelScale.ToString('N', Culture), Mode=OneWay}" />
-                                </Grid>
+                                <uc:EffectAdjustmentControl
+                                    Blur="{x:Bind ViewModel.Blur, Mode=TwoWay}"
+                                    Contrast="{x:Bind ViewModel.Contrast, Mode=TwoWay}"
+                                    CornerRadius="{x:Bind ViewModel.CornerRadius, Mode=TwoWay}"
+                                    Exposure="{x:Bind ViewModel.Exposure, Mode=TwoWay}"
+                                    PixelScale="{x:Bind ViewModel.PixelScale, Mode=TwoWay}"
+                                    Saturation="{x:Bind ViewModel.Saturation, Mode=TwoWay}"
+                                    Temperature="{x:Bind ViewModel.Temperature, Mode=TwoWay}"
+                                    Tint="{x:Bind ViewModel.Tint, Mode=TwoWay}" />
                             </controls:Case>
                             <controls:Case Value="default">
                                 <Grid
@@ -229,7 +104,6 @@
                                 </Grid>
                             </controls:Case>
                         </controls:SwitchPresenter>
-
 
                         <StackPanel Grid.Row="2" Spacing="12">
                             <Grid
@@ -279,7 +153,6 @@
                                 Margin="2,0,0,0"
                                 HorizontalAlignment="Stretch"
                                 Command="{x:Bind ViewModel.ExportWallpaperCommand}"
-                                CommandParameter="{x:Bind MockupControl, Mode=OneTime}"
                                 IsEnabled="{x:Bind ViewModel.IsExporting, Converter={StaticResource InverseBoolToBooleanConverter}}" />
                         </Grid>
                     </Grid>
@@ -291,93 +164,75 @@
                         <RowDefinition Height="*" />
                         <RowDefinition Height="Auto" />
                     </Grid.RowDefinitions>
+
+                    <Grid
+                        x:Name="ShadowCastGrid"
+                        Grid.Row="0"
+                        Grid.RowSpan="2" />
+
                     <Grid Grid.Row="0">
-                        <uc:MockupCanvasControl
-                            x:Name="MockupControl"
+                        <uc:WallpaperPreviewControl
+                            x:Name="WallpaperPreviewControl"
                             Margin="24"
+                            ui:TransitionHelper.Id="image"
                             BlurAmount="{x:Bind ViewModel.Blur, Mode=OneWay}"
                             ContrastAmount="{x:Bind ViewModel.Contrast, Mode=OneWay}"
+                            CornerRadius="{x:Bind ViewModel.CornerRadius, Mode=OneWay}"
                             CreateResourcesCommand="{x:Bind ViewModel.CreateResourcesCommand}"
                             ExposureAmount="{x:Bind ViewModel.Exposure, Mode=OneWay}"
                             IsInitialized="{x:Bind ViewModel.IsInitialized, Mode=OneWay}"
-                            MockupImage="{x:Bind ViewModel.MockupImage, Mode=OneWay}"
                             Pixelation="{x:Bind ViewModel.PixelScale, Mode=OneWay}"
                             SaturationAmount="{x:Bind ViewModel.Saturation, Mode=OneWay}"
-                            ShowScreenBorder="False"
                             TemperatureAmount="{x:Bind ViewModel.Temperature, Mode=OneWay}"
                             TintAmount="{x:Bind ViewModel.Tint, Mode=OneWay}"
+                            Visibility="Visible"
                             WallpaperImage="{x:Bind ViewModel.WallpaperImage, Mode=OneWay}" />
+                        <uc:WallpaperInfoControl
+                            x:Name="WallpaperInfoControl"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Helper="{StaticResource MyTransitionHelper}"
+                            Model="{x:Bind ViewModel.Wallpaper, Mode=OneWay}"
+                            Visibility="Collapsed" />
                     </Grid>
 
-                    <CommandBar
-                        x:Name="CommandBar"
+                    <Grid
+                        x:Name="ShadowRect"
                         Grid.Row="1"
-                        DefaultLabelPosition="Right">
-                        <animations:Implicit.ShowAnimations>
-                            <animations:TranslationAnimation
-                                From="0,72,0"
-                                To="0,0,0"
-                                Duration="0:0:0.6" />
-                        </animations:Implicit.ShowAnimations>
-                        <animations:Implicit.HideAnimations>
-                            <animations:TranslationAnimation
-                                From="0,0,0"
-                                To="0,72,0"
-                                Duration="0:0:0.4" />
-                        </animations:Implicit.HideAnimations>
-                        <CommandBar.PrimaryCommands>
-                            <AppBarButton
-                                x:Uid="DetailPage_ImageInfoButton"
-                                Command="{x:Bind ViewModel.ViewMoreDetailsCommand}"
-                                Icon="{ui:FontIcon Glyph=&#xE946;}"
-                                LabelPosition="Default">
-                                <i:Interaction.Behaviors>
-                                    <i:EventTriggerBehavior EventName="Click">
-                                        <i:ChangePropertyAction
-                                            PropertyName="Visibility"
-                                            TargetObject="{Binding ElementName=MoreDetails}"
-                                            Value="Visible" />
-                                    </i:EventTriggerBehavior>
-                                </i:Interaction.Behaviors>
-                            </AppBarButton>
-                            <AppBarSeparator />
-                            <AppBarButton
-                                x:Uid="DetailPage_DownloadOriginalButton"
-                                Icon="{ui:FontIcon Glyph=&#xE896;}"
-                                IsEnabled="{x:Bind ViewModel.IsDownloading, Mode=OneWay, Converter={StaticResource InverseBoolToBooleanConverter}}">
-                                <AppBarButton.Flyout>
-                                    <MenuFlyout
-                                        helpers:MenuFlyoutHelper.Command="{x:Bind ViewModel.DownloadWallpaperCommand}"
-                                        helpers:MenuFlyoutHelper.ItemSource="{x:Bind ViewModel.SupportedResolutions, Mode=OneWay}"
-                                        Placement="Top" />
-                                </AppBarButton.Flyout>
-                            </AppBarButton>
-                            <AppBarToggleButton
-                                x:Uid="DetailPage_EditImageButton"
-                                Click="{x:Bind ToggleEditState}"
-                                Icon="{ui:FontIcon Glyph=&#xE70F;}" />
-                        </CommandBar.PrimaryCommands>
-                    </CommandBar>
+                        Margin="0,0,0,24"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Loaded="ShadowRect_Loaded"
+                        Style="{StaticResource CardGridStyle}">
+                        <Grid.Shadow>
+                            <ThemeShadow x:Name="shadow" />
+                        </Grid.Shadow>
+                        <CommandBar DefaultLabelPosition="Collapsed">
+                            <CommandBar.PrimaryCommands>
+                                <AppBarButton Icon="{ui:FontIcon Glyph=&#xE946;}">
+                                    <i:Interaction.Behaviors>
+                                        <i:EventTriggerBehavior EventName="Click">
+                                            <ui:StartTransitionAction
+                                                Source="{Binding ElementName=WallpaperPreviewControl}"
+                                                Target="{Binding ElementName=WallpaperInfoControl}"
+                                                Transition="{StaticResource MyTransitionHelper}" />
+                                        </i:EventTriggerBehavior>
+                                    </i:Interaction.Behaviors>
+                                </AppBarButton>
+                                <AppBarButton Click="{x:Bind SwitchEditMode}" Icon="{ui:FontIcon Glyph=&#xE790;}" />
+                                <AppBarButton Icon="{ui:FontIcon Glyph=&#xE896;}">
+                                    <AppBarButton.Flyout>
+                                        <MenuFlyout
+                                            helpers:MenuFlyoutHelper.Command="{x:Bind ViewModel.DownloadWallpaperCommand}"
+                                            helpers:MenuFlyoutHelper.ItemSource="{x:Bind ViewModel.SupportedResolutions, Mode=OneWay}"
+                                            Placement="Top" />
+                                    </AppBarButton.Flyout>
+                                </AppBarButton>
+                            </CommandBar.PrimaryCommands>
+                        </CommandBar>
+                    </Grid>
                 </Grid>
             </SplitView.Content>
         </SplitView>
-
-        <uc:MoreDetailsPanel
-            x:Name="MoreDetails"
-            Details="{x:Bind ViewModel.ViewMoreDetailsCommand.ExecutionTask, Mode=OneWay, Converter={StaticResource TaskResultConverter}}"
-            Visibility="Collapsed">
-            <animations:Implicit.ShowAnimations>
-                <animations:OpacityAnimation
-                    From="0"
-                    To="1"
-                    Duration="0:0:0.187" />
-            </animations:Implicit.ShowAnimations>
-            <animations:Implicit.HideAnimations>
-                <animations:OpacityAnimation
-                    From="1"
-                    To="0"
-                    Duration="0:0:0.187" />
-            </animations:Implicit.HideAnimations>
-        </uc:MoreDetailsPanel>
     </Grid>
 </Page>

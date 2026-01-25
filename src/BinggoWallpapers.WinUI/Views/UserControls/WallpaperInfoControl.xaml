@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<UserControl
+    x:Class="BinggoWallpapers.WinUI.Views.UserControls.WallpaperInfoControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:ex="using:ImageEx"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views.UserControls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ui="using:CommunityToolkit.WinUI"
+    mc:Ignorable="d">
+
+    <Grid
+        Width="520"
+        Height="800"
+        Background="{ThemeResource SystemControlBackgroundChromeMediumBrush}"
+        CornerRadius="{StaticResource OverlayCornerRadius}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <ex:ImageEx
+                x:Name="WallpaperImage"
+                ui:TransitionHelper.Id="image"
+                Source="{x:Bind Model.Url, Mode=OneWay}"
+                Stretch="UniformToFill" />
+            <Button
+                Width="48"
+                Height="48"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Top"
+                Content="&#xE845;"
+                CornerRadius="{StaticResource OverlayCornerRadius}"
+                Style="{StaticResource NavigationBackButtonNormalStyle}">
+                <i:Interaction.Behaviors>
+                    <i:EventTriggerBehavior EventName="Click">
+                        <ui:ReverseTransitionAction Transition="{x:Bind Helper, Mode=OneWay}" />
+                    </i:EventTriggerBehavior>
+                </i:Interaction.Behaviors>
+            </Button>
+        </Grid>
+
+        <Grid Grid.Row="1" Margin="12">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Spacing="6">
+                <TextBlock
+                    ui:TransitionHelper.Id="title"
+                    Style="{StaticResource TitleTextBlockStyle}"
+                    Text="{x:Bind Model.Title, Mode=OneWay}" />
+                <TextBlock
+                    Margin="0,0,0,24"
+                    ui:TransitionHelper.Id="copyright"
+                    Style="{StaticResource CaptionTextBlockStyle}"
+                    Text="{x:Bind Model.Copyright, Mode=OneWay}" />
+                <TextBlock
+                    ui:TransitionHelper.Id="description"
+                    FontSize="14"
+                    Foreground="{StaticResource TextFillColorSecondaryBrush}"
+                    Style="{StaticResource CaptionTextBlockStyle}"
+                    Text="{x:Bind Model.Description, Mode=OneWay}" />
+            </StackPanel>
+            <StackPanel
+                Grid.Row="1"
+                Margin="12"
+                HorizontalAlignment="Right"
+                Orientation="Horizontal">
+                <TextBlock
+                    VerticalAlignment="Center"
+                    ui:TransitionHelper.Id="fullStartDateTime"
+                    Text="{x:Bind Model.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

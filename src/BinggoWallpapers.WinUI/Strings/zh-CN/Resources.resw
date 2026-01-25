@@ -320,6 +320,9 @@
   <data name="DetailPage_PixelScaleSlider.Header" xml:space="preserve">
     <value>像素度</value>
   </data>
+  <data name="DetailPage_CornerRadiusSlider.Header" xml:space="preserve">
+    <value>圆角半径</value>
+  </data>
   <data name="DetailPage_NoPresetsText.Text" xml:space="preserve">
     <value>暂无预设</value>
   </data>
@@ -331,14 +334,5 @@
   </data>
   <data name="DetailPage_ExportButton.Content" xml:space="preserve">
     <value>导出</value>
-  </data>
-  <data name="DetailPage_ImageInfoButton.Label" xml:space="preserve">
-    <value>图片信息</value>
-  </data>
-  <data name="DetailPage_DownloadOriginalButton.Label" xml:space="preserve">
-    <value>下载原图</value>
-  </data>
-  <data name="DetailPage_EditImageButton.Label" xml:space="preserve">
-    <value>编辑图片</value>
   </data>
 </root>
