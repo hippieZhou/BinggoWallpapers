@@ -1,0 +1,43 @@
+{
+  "date": "Jan 24, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Andermatt village in the Alps, Switzerland",
+  "copyright": "Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)",
+  "copyrightOnly": "© Xantana/Getty Images",
+  "copyrightLink": "/search?q=Andermatt+Switzerland&form=hpcapt&filters=HpDate%3a%2220260124_0800%22",
+  "description": "Nestled in the Urseren Valley at about 1,437 metres, Andermatt is a charming Swiss village embraced by the majestic Alps. Long a vital crossroads, it's linked by three iconic passes—Gotthard, Furka and Oberalp—each enhancing its allure as a gateway between regions and cultures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_AndermattSwiss%22&FORM=HPQUIZ",
+  "hash": "cc0d2356ba7911978d4ff3ef82fd525f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260124",
+    "fullStartDateTime": "202601240800",
+    "endDate": "20260125"
+  },
+  "createdAt": "202601250307",
+  "originalUrlBase": "/th?id=OHR.AndermattSwiss_ROW7938991512"
+}

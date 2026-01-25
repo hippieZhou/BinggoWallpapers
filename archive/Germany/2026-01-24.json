@@ -1,0 +1,43 @@
+{
+  "date": "25. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Abend voller Geschichte",
+  "bsTitle": "Ein Abend voller Geschichte",
+  "caption": "Burns Night in Schottland",
+  "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Schottland (© Alister Firth/Alamy)",
+  "copyrightOnly": "© Alister Firth/Alamy",
+  "copyrightLink": "/search?q=Burns+Supper+Robert+Burns+Schottland&form=hpcapt&filters=HpDate%3a%2220260124_2300%22",
+  "description": "Jedes Jahr am 25. Januar gedenken Menschen in Schottland und auf der ganzen Welt Robert Burns, dem Nationaldichter des Landes. An seinem Geburtstag findet traditionell die sogenannte Burns Night statt – ein Abend, der Humor, Tradition und geselliges Beisammensein verbindet und auch als Burns Supper bekannt ist. Im Mittelpunkt steht dabei oft Haggis, eine herzhafte Spezialität aus Fleisch, Hafer und Gewürzen, die mit Neeps (Steckrüben) und Tatties (Kartoffelpüree) serviert wird. Es werden Gedichte von Burns vorgetragen, Whisky ausgeschenkt und nicht selten gemeinsam „Auld Lang Syne“ angestimmt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_BurnsPark%22&FORM=HPQUIZ",
+  "hash": "23fed69606fd0f0d84124e1f0b1ef5d6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_DE-DE8456925914_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260124",
+    "fullStartDateTime": "202601242300",
+    "endDate": "20260125"
+  },
+  "createdAt": "202601250307",
+  "originalUrlBase": "/th?id=OHR.BurnsPark_DE-DE8456925914"
+}

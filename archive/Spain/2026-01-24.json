@@ -1,0 +1,43 @@
+{
+  "date": "25 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Cena de poesías",
+  "bsTitle": "Cena de poesías",
+  "caption": "Noche de Burns en Escocia",
+  "copyright": "Parque Nacional del Patrimonio Burns, Ayr, Ayrshire, Escocia (© Alister Firth/Alamy)",
+  "copyrightOnly": "© Alister Firth/Alamy",
+  "copyrightLink": "/search?q=Ayr+Ayrshire+Escocia&form=hpcapt&filters=HpDate%3a%2220260124_2300%22",
+  "description": "Cada 25 de enero, Escocia y amigos de todo el mundo celebran la Burns Night en honor a Robert Burns, poeta nacional del país. La velada combina cercanía y buen humor con una cena tradicional donde el protagonista es el haggis, un pudin salado de carne picada, avena y especias, acompañado de neeps (nabos machacados) y tatties (puré de patatas). La noche se completa con lecturas de sus poemas, brindis con whisky escocés y el canto final de “Auld Lang Syne”. En España, esta canción es conocida por sonar cada Nochevieja, un curioso vínculo cultural entre ambos países.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_BurnsPark%22&FORM=HPQUIZ",
+  "hash": "d2e450fcb01025471a9d402af9163bab",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ES-ES4298228176_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ES-ES4298228176_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ES-ES4298228176_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ES-ES4298228176_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260124",
+    "fullStartDateTime": "202601242300",
+    "endDate": "20260125"
+  },
+  "createdAt": "202601250307",
+  "originalUrlBase": "/th?id=OHR.BurnsPark_ES-ES4298228176"
+}

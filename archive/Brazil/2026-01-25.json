@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "História e modernidade",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ponte Estaiada, São Paulo, SP (© Carlos Alkmin/Getty images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Anivers%c3%a1rio+de+S%c3%a3o+Paulo&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_AnniversarySP%22&FORM=HPQUIZ",
+  "hash": "3fd0fa2495806f0594837527af78c135",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260125",
+    "fullStartDateTime": "202601250300",
+    "endDate": "20260126"
+  },
+  "createdAt": "202601250307",
+  "originalUrlBase": "/th?id=OHR.AnniversarySP_PT-BR3102321116"
+}

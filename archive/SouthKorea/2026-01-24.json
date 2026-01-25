@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Andermatt+Switzerland&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260124_AndermattSwiss%22&FORM=HPQUIZ",
+  "hash": "cc0d2356ba7911978d4ff3ef82fd525f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260124",
+    "fullStartDateTime": "202601240800",
+    "endDate": "20260125"
+  },
+  "createdAt": "202601250307",
+  "originalUrlBase": "/th?id=OHR.AndermattSwiss_ROW7938991512"
+}
