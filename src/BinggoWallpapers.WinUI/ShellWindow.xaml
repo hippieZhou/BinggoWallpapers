@@ -87,7 +87,7 @@
                 </i:EventTriggerBehavior>
             </i:Interaction.Behaviors>
             <TitleBar.RightHeader>
-                <uc:LoadingButton Command="{x:Bind ViewModel.RefreshCommand}" />
+                <uc:DownloadButton />
             </TitleBar.RightHeader>
         </TitleBar>
 
