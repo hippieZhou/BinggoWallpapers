@@ -87,7 +87,7 @@ public class DownloadService(
         // 检查是否已在队列中
         var existingDownload = _downloadQueue.Values.FirstOrDefault(d =>
             d.Wallpaper.Id == wallpaper.Id && d.Resolution.Code == resolution.Code &&
-            d.Status is DownloadStatus.Pending or DownloadStatus.InProgress);
+            d.Status is DownloadStatus.Waiting or DownloadStatus.InProgress);
 
         if (existingDownload != null)
         {
@@ -116,7 +116,7 @@ public class DownloadService(
         if (_downloadQueue.TryGetValue(downloadId, out var download))
         {
             var cancelOldStatus = download.Status;
-            download.Status = DownloadStatus.Cancelled;
+            download.Status = DownloadStatus.Canceled;
             download.CompletedTime = DateTimeProvider.GetUtcNow().DateTime;
             OnDownloadStatusChanged(downloadId, cancelOldStatus, download.Status, download);
         }
@@ -170,7 +170,7 @@ public class DownloadService(
             DownloadId = Guid.NewGuid(),
             Wallpaper = wallpaper,
             Resolution = resolution,
-            Status = DownloadStatus.Pending,
+            Status = DownloadStatus.Waiting,
             StartTime = DateTime.Now
         };
     }
@@ -245,7 +245,7 @@ public class DownloadService(
         catch (OperationCanceledException)
         {
             var cancelledOldStatus = downloadInfo.Status;
-            downloadInfo.Status = DownloadStatus.Cancelled;
+            downloadInfo.Status = DownloadStatus.Canceled;
             downloadInfo.CompletedTime = DateTimeProvider.GetUtcNow().DateTime;
             OnDownloadStatusChanged(downloadInfo.DownloadId, cancelledOldStatus, downloadInfo.Status, downloadInfo);
             logger.LogInformation("下载被取消: {Title}", downloadInfo.Wallpaper.Title);

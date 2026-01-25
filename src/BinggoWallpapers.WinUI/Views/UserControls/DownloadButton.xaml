@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<UserControl
+    x:Class="BinggoWallpapers.WinUI.Views.UserControls.DownloadButton"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views.UserControls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <UserControl.Resources>
+        <DataTemplate x:Key="EmptyPanel">
+            <StackPanel
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Spacing="24">
+                <FontIcon
+                    FontSize="64"
+                    Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"
+                    Glyph="&#xEBD3;" />
+                <StackPanel HorizontalAlignment="Center" Spacing="12">
+                    <TextBlock
+                        x:Uid="DownloadPage_Empty"
+                        HorizontalAlignment="Center"
+                        d:Text="暂无下载记录"
+                        Style="{ThemeResource SubtitleTextBlockStyle}" />
+                    <TextBlock
+                        x:Uid="DownloadPage_Navigation"
+                        HorizontalAlignment="Center"
+                        d:Text="请前往壁纸详情页进行下载"
+                        Opacity="0.7"
+                        Style="{ThemeResource BodyTextBlockStyle}" />
+                </StackPanel>
+            </StackPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <StackPanel
+        x:Name="DownloadProgressPanel"
+        VerticalAlignment="Center"
+        Orientation="Horizontal">
+        <Button
+            x:Name="DownloadBtn"
+            Padding="0"
+            AutomationProperties.Name="Wallpaper downloads"
+            CornerRadius="16"
+            ToolTipService.ToolTip="Wallpaper downloads">
+            <Button.Content>
+                <Grid>
+                    <ProgressRing
+                        x:Name="DownloadProgressRing"
+                        Width="32"
+                        Height="32"
+                        IsActive="False" />
+                    <FontIcon
+                        AutomationProperties.AccessibilityView="Raw"
+                        FontSize="14"
+                        Glyph="&#xE896;" />
+                </Grid>
+            </Button.Content>
+            <Button.Flyout>
+                <Flyout x:Name="DownloadFlyout">
+                    <Grid
+                        MinWidth="360"
+                        MinHeight="520"
+                        MaxWidth="420"
+                        Margin="0,0,0,-12"
+                        VerticalAlignment="Stretch">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0">
+                            <local:DownloadProgressList />
+                            <!--<ContentControl
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                ContentTemplate="{StaticResource EmptyPanel}" />-->
+                        </Grid>
+                        <HyperlinkButton
+                            Grid.Row="1"
+                            Margin="0,4,0,0"
+                            HorizontalAlignment="Right"
+                            Click="ManageDownloadsClicked"
+                            Content="Manage wallpapers" />
+                    </Grid>
+                </Flyout>
+            </Button.Flyout>
+        </Button>
+    </StackPanel>
+</UserControl>

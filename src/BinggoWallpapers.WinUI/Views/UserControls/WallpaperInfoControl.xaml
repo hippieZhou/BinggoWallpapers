@@ -9,6 +9,7 @@
     xmlns:local="using:BinggoWallpapers.WinUI.Views.UserControls"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:ui="using:CommunityToolkit.WinUI"
+    RequestedTheme="Dark"
     mc:Ignorable="d">
 
     <Grid

@@ -15,7 +15,6 @@ public class PageService : IPageService
     public PageService()
     {
         Configure<HomeViewModel, HomePage>();
-        Configure<DownloadViewModel, DownloadPage>();
         Configure<DetailViewModel, DetailPage>();
         Configure<SettingsViewModel, SettingsPage>();
     }
