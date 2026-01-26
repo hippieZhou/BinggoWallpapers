@@ -1,0 +1,43 @@
+{
+  "date": "26. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wie aus dem Märchen entsprungen",
+  "bsTitle": "Wie aus dem Märchen entsprungen",
+  "caption": "Schloss Neuschwanstein, Hohenschwangau, Bayern",
+  "copyright": "Schneebedecktes Schloss Neuschwanstein bei Hohenschwangau, Bayern (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+  "copyrightOnly": "© www.fredconcha.com @ All Rights Reserved/Getty Images",
+  "copyrightLink": "/search?q=Schloss+Neuschwanstein&form=hpcapt&filters=HpDate%3a%2220260125_2300%22",
+  "description": "Kaum ein Schloss hat die Fantasie der Menschen weltweit so sehr geprägt wie Neuschwanstein – und das nicht nur in Bayern. Walt Disney ließ sich bei der Gestaltung des Dornröschen-Schlosses im kalifornischen Disneyland von diesem Anblick inspirieren. Heute ragt das Bauwerk hoch über Hohenschwangau und die verschneiten Allgäuer Wälder empor und wirkt wie ein Tor in eine andere Zeit.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_NeuschwansteinWinter%22&FORM=HPQUIZ",
+  "hash": "cf1fcfa7bde1271aea401ac7b0fdb164",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260125",
+    "fullStartDateTime": "202601252300",
+    "endDate": "20260126"
+  },
+  "createdAt": "202601260309",
+  "originalUrlBase": "/th?id=OHR.NeuschwansteinWinter_DE-DE8806606737"
+}

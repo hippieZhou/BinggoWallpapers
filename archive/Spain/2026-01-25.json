@@ -1,0 +1,43 @@
+{
+  "date": "26 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una villa detenida en el tiempo",
+  "bsTitle": "Una villa detenida en el tiempo",
+  "caption": "Ochagavía cubierta de nieve, Navarra, España",
+  "copyright": "Ochagavía cubierta de nieve, Navarra, España (© PhotosTime/Getty Images)",
+  "copyrightOnly": "© PhotosTime/Getty Images",
+  "copyrightLink": "/search?q=Ochagav%c3%ada+en+Navarra&form=hpcapt&filters=HpDate%3a%2220260125_2300%22",
+  "description": "Cubierta de nieve, Ochagavía (Otsagabia) ofrece una de las imágenes invernales más sugerentes de Navarra. Esta villa de poco más de 480 habitantes, situada en el valle de Salazar, a 85 kilómetros de Pamplona, destaca por su arquitectura tradicional, con casas de piedra, tejados muy inclinados y un puente medieval sobre el río Anduña que parece sacado de una postal.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_Navarra%22&FORM=HPQUIZ",
+  "hash": "6596986f21bf2e6025b341d16a2fe990",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ES-ES9772390059_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260125",
+    "fullStartDateTime": "202601252300",
+    "endDate": "20260126"
+  },
+  "createdAt": "202601260309",
+  "originalUrlBase": "/th?id=OHR.Navarra_ES-ES9772390059"
+}

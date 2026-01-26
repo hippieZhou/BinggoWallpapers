@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 1月 月 26 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "色鮮やかな空の下に広がる凍った湖",
+  "bsTitle": "色鮮やかな空の下に広がる凍った湖",
+  "caption": "色鮮やかな空の下に広がる凍った湖",
+  "copyright": "アブラハムレイク, カナダ (© Luis F Arevalo/Getty Images)",
+  "copyrightOnly": "© Luis F Arevalo/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e3%83%ac%e3%82%a4%e3%82%af&form=hpcapt&filters=HpDate%3a%2220260125_1500%22",
+  "description": "ここはアブラハムレイク。カナダ・アルバータ州に造られた人工湖で、面積は約 53.7km² に及ぶ同州最大の貯水池です。ロッキー山脈特有の岩粉によって生まれる美しいターコイズブルーの湖水が広がり、周囲の山々を映し出す絶景スポットとして人気です…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_BubblesAbraham%22&FORM=HPQUIZ",
+  "hash": "52c2fd433eb1a2559ac3f76414a02566",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260125",
+    "fullStartDateTime": "202601251500",
+    "endDate": "20260126"
+  },
+  "createdAt": "202601260309",
+  "originalUrlBase": "/th?id=OHR.BubblesAbraham_JA-JP9895459899"
+}

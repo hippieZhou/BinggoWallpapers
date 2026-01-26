@@ -1,0 +1,43 @@
+{
+  "date": "26 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une touche de couleurs qui ravive l’hiver",
+  "bsTitle": "Une touche de couleurs qui ravive l’hiver",
+  "caption": "Une mésange bleue en hiver",
+  "copyright": "Une mésange bleue en hiver (© Marc Andreu/Getty Images)",
+  "copyrightOnly": "© Marc Andreu/Getty Images",
+  "copyrightLink": "/search?q=m%c3%a9sange+bleue&form=hpcapt&filters=HpDate%3a%2220260125_2300%22",
+  "description": "Sous la lumière douce d’un matin d’hiver, une petite silhouette bleue et jaune danse entre les branches nues. C’est la mésange bleue, joyau de nos jardins européens. Son plumage éclatant, surmonté d’un bonnet azur, capte chaque rayon de soleil et illumine la grisaille. Agile et vive, elle parcourt les rameaux en quête de graines ou d’insectes cachés, offrant un ballet discret mais plein de grâce.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_BluetitWinter%22&FORM=HPQUIZ",
+  "hash": "d2c666bc9db865977ec19810fe4e43ab",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260125",
+    "fullStartDateTime": "202601252300",
+    "endDate": "20260126"
+  },
+  "createdAt": "202601260309",
+  "originalUrlBase": "/th?id=OHR.BluetitWinter_FR-FR1512662576"
+}

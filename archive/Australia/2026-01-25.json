@@ -1,0 +1,43 @@
+{
+  "date": "Jan 25, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Burns National Heritage Park, Ayr, Ayrshire, Scotland",
+  "copyright": "Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)",
+  "copyrightOnly": "© Alister Firth/Alamy",
+  "copyrightLink": "/search?q=Burns+National+Heritage+Park+Ayr&form=hpcapt&filters=HpDate%3a%2220260125_0800%22",
+  "description": "In the charming village of Alloway, just south of Ayr in Ayrshire, Burns National Heritage Park brings to life the world of Robert Burns, Scotland's beloved national poet. At its heart lies the thatched cottage, where Burns was born in 1759, in a clay-built home constructed by his father—now fully restored as part of the Robert Burns Birthplace Museum.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260125_BurnsPark%22&FORM=HPQUIZ",
+  "hash": "f7e57ac9c8e04132fbaee0f9e0c7c421",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ROW7455567401_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ROW7455567401_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ROW7455567401_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BurnsPark_ROW7455567401_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260125",
+    "fullStartDateTime": "202601250800",
+    "endDate": "20260126"
+  },
+  "createdAt": "202601260309",
+  "originalUrlBase": "/th?id=OHR.BurnsPark_ROW7455567401"
+}
