@@ -1,0 +1,43 @@
+{
+  "date": "27 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Sociable y ancestral",
+  "bsTitle": "Sociable y ancestral",
+  "caption": "Pelícanos ceñudos, Lago Kerkini, Grecia",
+  "copyright": "Pelícanos ceñudos, Lago Kerkini, Grecia (© Guy Edwardes/naturepl.com)",
+  "copyrightOnly": "© Guy Edwardes/naturepl.com",
+  "copyrightLink": "/search?q=Pel%c3%adcano+ce%c3%b1udo&form=hpcapt&filters=HpDate%3a%2220260126_2300%22",
+  "description": "El invierno en el lago Kerkini, en el norte de Grecia, regala algunas de las mejores vistas de pelícanos ceñudos de Europa. Sus enormes siluetas se deslizan en grupos compactos sobre las aguas tranquilas, dejando patente su impresionante tamaño. Con más de tres metros de envergadura, figuran entre las aves voladoras más grandes del mundo. Las condiciones invernales del lago permiten observarlos a corta distancia, con nitidez y continuidad.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_DalmationPelicans%22&FORM=HPQUIZ",
+  "hash": "27d3a1b4d244ca1024e2097212096598",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260126",
+    "fullStartDateTime": "202601262300",
+    "endDate": "20260127"
+  },
+  "createdAt": "202601270301",
+  "originalUrlBase": "/th?id=OHR.DalmationPelicans_ES-ES2127597270"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "27. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Eleganz über stillem Wasser",
+  "bsTitle": "Eleganz über stillem Wasser",
+  "caption": "Krauskopfpelikane, Kerkini-See, Griechenland",
+  "copyright": "Krauskopfpelikane, Kerkini-See, Griechenland (© Guy Edwardes/naturepl.com)",
+  "copyrightOnly": "© Guy Edwardes/naturepl.com",
+  "copyrightLink": "/search?q=Krauskopfpelikane&form=hpcapt&filters=HpDate%3a%2220260126_2300%22",
+  "description": "Wenn der Winter klare Linien in die Landschaft zeichnet, wird der Kerkini-See in Nordgriechenland zur Bühne eines besonderen Naturschauspiels. In dieser Jahreszeit lassen sich Krauskopfpelikane hier aus nächster Nähe beobachten. Mit ihren imposanten Silhouetten gleiten sie beinahe schwerelos über das ruhige Wasser. Mit einer Flügelspannweite von über drei Metern zählen sie zu den größten flugfähigen Vögeln der Welt und am Kerkini-See zeigen sie sich von ihrer eindrucksvollsten Seite.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_DalmationPelicans%22&FORM=HPQUIZ",
+  "hash": "6e40e979591627851fa103ec15da0cb1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260126",
+    "fullStartDateTime": "202601262300",
+    "endDate": "20260127"
+  },
+  "createdAt": "202601270301",
+  "originalUrlBase": "/th?id=OHR.DalmationPelicans_DE-DE9659953215"
+}

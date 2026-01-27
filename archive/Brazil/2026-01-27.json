@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Asas sobre Kerkini",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pelicanos-crespos no Lago Kerkini, Grécia (© Guy Edwardes/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Pelicanos+crespos&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_DalmationPelicans%22&FORM=HPQUIZ",
+  "hash": "4eb9958d3e03f08d64d4d427b06ef9f5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260127",
+    "fullStartDateTime": "202601270300",
+    "endDate": "20260128"
+  },
+  "createdAt": "202601270301",
+  "originalUrlBase": "/th?id=OHR.DalmationPelicans_PT-BR5399288780"
+}

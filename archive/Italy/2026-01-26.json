@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Oltre il bianco velo?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pellicani crespi, lago Kerkini, Grecia (© Guy Edwardes/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Pelecanus+crispus&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_DalmationPelicans%22&FORM=HPQUIZ",
+  "hash": "0bc13c35f14b9f2ef3dd77449f9d08e9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_IT-IT3852237792_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_IT-IT3852237792_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_IT-IT3852237792_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_IT-IT3852237792_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260126",
+    "fullStartDateTime": "202601262300",
+    "endDate": "20260127"
+  },
+  "createdAt": "202601270301",
+  "originalUrlBase": "/th?id=OHR.DalmationPelicans_IT-IT3852237792"
+}

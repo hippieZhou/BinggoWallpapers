@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Retiro Park, Madrid, Spain (© All rights reserved-Copyright/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Retiro+Park+Madrid&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260126_FITUR%22&FORM=HPQUIZ",
+  "hash": "b39f26a5db11bc4088c8b2d36a39af4b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ROW7734232756_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ROW7734232756_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ROW7734232756_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FITUR_ROW7734232756_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260126",
+    "fullStartDateTime": "202601260800",
+    "endDate": "20260127"
+  },
+  "createdAt": "202601270301",
+  "originalUrlBase": "/th?id=OHR.FITUR_ROW7734232756"
+}
