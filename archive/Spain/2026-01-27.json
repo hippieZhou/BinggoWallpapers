@@ -1,0 +1,43 @@
+{
+  "date": "28 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Fluye en la naturaleza",
+  "bsTitle": "Fluye en la naturaleza",
+  "caption": "Parque Nacional Whanganui, Manawatu-Whanganui, Nueva Zelanda",
+  "copyright": "Parque Nacional Whanganui, Manawatu-Whanganui, Nueva Zelanda (© Matthew Micah Wright/Getty Images)",
+  "copyrightOnly": "© Matthew Micah Wright/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Whanganui+en+Nueva+Zelanda&form=hpcapt&filters=HpDate%3a%2220260127_2300%22",
+  "description": "El Parque Nacional de Whanganui ofrece uno de los paisajes fluviales más singulares de Nueva Zelanda. Fundado en 1986, abarca unos 740 kilómetros cuadrados en el centro de la Isla Norte, con el río Whanganui dibujando largas y tranquilas curvas a través de un denso bosque. Aunque el río no está oficialmente dentro del parque, modela casi todo lo que lo rodea, incluido el Whanganui Journey, uno de los Grandes Paseos de Nueva Zelanda.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_WhanganuiPark%22&FORM=HPQUIZ",
+  "hash": "6d1b04d28b3f0deca4b46c88caccbac9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ES-ES1389152194_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ES-ES1389152194_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ES-ES1389152194_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ES-ES1389152194_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260127",
+    "fullStartDateTime": "202601272300",
+    "endDate": "20260128"
+  },
+  "createdAt": "202601280259",
+  "originalUrlBase": "/th?id=OHR.WhanganuiPark_ES-ES1389152194"
+}

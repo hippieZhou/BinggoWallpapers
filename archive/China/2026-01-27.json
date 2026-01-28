@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "随河而行",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%96%b0%e8%a5%bf%e5%85%b0%e6%97%ba%e6%a0%bc%e5%8a%aa%e4%bc%8a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_WhanganuiPark%22&FORM=HPQUIZ",
+  "hash": "b0dc6a5ec9fd8fbce80b449ffaad7903",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260127",
+    "fullStartDateTime": "202601271600",
+    "endDate": "20260128"
+  },
+  "createdAt": "202601280259",
+  "originalUrlBase": "/th?id=OHR.WhanganuiPark_ZH-CN5664518836"
+}

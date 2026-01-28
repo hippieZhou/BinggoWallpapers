@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 27, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Feather forecast: pelicans ahead",
+  "bsTitle": "Feather forecast: pelicans ahead",
+  "caption": "Dalmatian pelicans, Lake Kerkini, Greece",
+  "copyright": "Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)",
+  "copyrightOnly": "© Guy Edwardes/naturepl.com",
+  "copyrightLink": "/search?q=Dalmatian+pelicans&form=hpcapt&filters=HpDate%3a%2220260127_0500%22",
+  "description": "Winter at Lake Kerkini in Greece delivers some of Europe's clearest views of Dalmatian pelicans. Their large silhouettes move in tight, steady groups across the still water, making their scale hard to miss. With wingspans stretching over 3 metres, they rank among the world's largest flying birds. Lake Kerkini's predictable winter conditions offer reliable, close-range views of their size, grace and coordinated movement.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260127_DalmationPelicans%22&FORM=HPQUIZ",
+  "hash": "17a2ce5fe727bf9dbc35778871256aeb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-CA1377390120_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-CA1377390120_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-CA1377390120_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-CA1377390120_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260127",
+    "fullStartDateTime": "202601270500",
+    "endDate": "20260128"
+  },
+  "createdAt": "202601280259",
+  "originalUrlBase": "/th?id=OHR.DalmationPelicans_EN-CA1377390120"
+}
