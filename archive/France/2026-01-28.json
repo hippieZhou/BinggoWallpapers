@@ -1,0 +1,43 @@
+{
+  "date": "29 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un incontournable de Milwaukee",
+  "bsTitle": "Un incontournable de Milwaukee",
+  "caption": "Milwaukee City Hall, Wisconsin, États-Unis",
+  "copyright": "L'atrium ouvert de huit étages du Milwaukee City Hall, Wisconsin, États-Unis (© lavin photography/Getty Images)",
+  "copyrightOnly": "© lavin photography/Getty Images",
+  "copyrightLink": "/search?q=Milwaukee+ville&form=hpcapt&filters=HpDate%3a%2220260128_2300%22",
+  "description": "Si vous avez déjà visité Milwaukee et levé les yeux en flânant dans son centre-ville, votre regard s’est très probablement posé sur l’impressionnant City Hall. Achevé en 1895, ce chef-d’œuvre de style Renaissance flamande ne se contente pas de dominer la ville : il en incarne l’âme. Pendant près de huit décennies, il fut le plus haut édifice de Milwaukee, symbole d’une cité en plein essor. Son architecte, Henry C. Koch, y a mêlé des influences germaniques à l’histoire locale, hommage à la forte empreinte allemande qui façonna le quartier, un peu comme nos hôtels de ville français, tels ceux de Lille ou de Lyon, porteurs de l’identité d’une cité.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_MilwaukeeHall%22&FORM=HPQUIZ",
+  "hash": "2dc2847869eb160a7517896910fe1fd7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_FR-FR8690417570_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260128",
+    "fullStartDateTime": "202601282300",
+    "endDate": "20260129"
+  },
+  "createdAt": "202601290323",
+  "originalUrlBase": "/th?id=OHR.MilwaukeeHall_FR-FR8690417570"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "密尔沃基的传奇故事",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%af%86%e5%b0%94%e6%b2%83%e5%9f%ba%e5%b8%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_MilwaukeeHall%22&FORM=HPQUIZ",
+  "hash": "b4bc2c5d5f50c88ed51d6392ca8d7615",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260128",
+    "fullStartDateTime": "202601281600",
+    "endDate": "20260129"
+  },
+  "createdAt": "202601290323",
+  "originalUrlBase": "/th?id=OHR.MilwaukeeHall_ZH-CN5779477975"
+}

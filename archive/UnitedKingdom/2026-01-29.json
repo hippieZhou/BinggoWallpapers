@@ -1,0 +1,43 @@
+{
+  "date": "Jan 29, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A tall story of Milwaukee",
+  "bsTitle": "A tall story of Milwaukee",
+  "caption": "Milwaukee City Hall, Wisconsin, United States",
+  "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, USA (© lavin photography/Getty Images)",
+  "copyrightOnly": "© lavin photography/Getty Images",
+  "copyrightLink": "/search?q=Milwaukee+city&form=hpcapt&filters=HpDate%3a%2220260129_0000%22",
+  "description": "If\u202Fyou've\u202Fever wandered through downtown Milwaukee in the United States and looked up in awe, chances are you were staring at the iconic Milwaukee City Hall. Completed in 1895, this towering Flemish Renaissance Revival masterpiece\u202Fdoesn't\u202Fjust dominate the skyline; it\u202Fdefines\u202Fit. For\u202Fnearly eight\u202Fdecades, it stood as the city's tallest building, a title it proudly held until 1973.\u202FDesigned by architect Henry C Koch, this hall blends German-inspired architecture with Milwaukee's own historic influences. That connection\u202Fisn't\u202Faccidental—its design pays tribute to the city's strong German heritage, which shaped much of the surrounding neighbourhood as well.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_MilwaukeeHall%22&FORM=HPQUIZ",
+  "hash": "492660e042745580875c2b66156b6dad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260129",
+    "fullStartDateTime": "202601290000",
+    "endDate": "20260130"
+  },
+  "createdAt": "202601290323",
+  "originalUrlBase": "/th?id=OHR.MilwaukeeHall_EN-GB2048442838"
+}

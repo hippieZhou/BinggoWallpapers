@@ -1,0 +1,43 @@
+{
+  "date": "29 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una historia exagerada de Milwaukee",
+  "bsTitle": "Una historia exagerada de Milwaukee",
+  "caption": "Ayuntamiento de Milwaukee, Wisconsin, EE. UU.",
+  "copyright": "Atrio abierto de ocho plantas del Ayuntamiento de Milwaukee, Wisconsin, EE. UU. (© lavin photography/Getty Images)",
+  "copyrightOnly": "© lavin photography/Getty Images",
+  "copyrightLink": "/search?q=Milwaukee+Wisconsin+en+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220260128_2300%22",
+  "description": "Si alguna vez has paseado por el centro de Milwaukee, en Estados Unidos, y has levantado la vista con asombro, lo más probable es que estuvieras admirando el icónico Ayuntamiento de Milwaukee. Terminada en 1895, esta imponente obra del Renacimiento flamenco no solo domina el horizonte, sino que lo define. Durante casi ocho décadas, fue el edificio más alto de la ciudad, título que conservó hasta 1973. Diseñado por el arquitecto Henry C. Koch, combina la arquitectura alemana con influencias históricas locales, rindiendo homenaje a la fuerte herencia alemana de Milwaukee, que también marcó el barrio circundante.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260128_MilwaukeeHall%22&FORM=HPQUIZ",
+  "hash": "481b70f5ec1ec16729c4184fde7128bf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260128",
+    "fullStartDateTime": "202601282300",
+    "endDate": "20260129"
+  },
+  "createdAt": "202601290323",
+  "originalUrlBase": "/th?id=OHR.MilwaukeeHall_ES-ES2661368914"
+}

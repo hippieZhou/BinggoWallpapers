@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O ponto alto da memória",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Prefeitura de Milwaukee, Wisconsin, Estados Unidos (© lavin photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Milwaukee+Wisconsin+EUA&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_MilwaukeeHall%22&FORM=HPQUIZ",
+  "hash": "6dc85832822d99ebb98fdf199bb557f8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260129",
+    "fullStartDateTime": "202601290300",
+    "endDate": "20260130"
+  },
+  "createdAt": "202601290323",
+  "originalUrlBase": "/th?id=OHR.MilwaukeeHall_PT-BR7635077740"
+}
