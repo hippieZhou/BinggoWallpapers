@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Entre o mito e a maré",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Monte St. Michael em Marazion, Cornualha, Inglaterra (© Baxter Bradford/robertharding/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Monte+de+St+Michael+na+Inglaterra&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_StMichaelsCornwall%22&FORM=HPQUIZ",
+  "hash": "c8b01b49e0125fd35e5071b79de67462",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260130",
+    "fullStartDateTime": "202601300300",
+    "endDate": "20260131"
+  },
+  "createdAt": "202601300323",
+  "originalUrlBase": "/th?id=OHR.StMichaelsCornwall_PT-BR8735847757"
+}

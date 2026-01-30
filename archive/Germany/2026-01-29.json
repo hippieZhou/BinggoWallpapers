@@ -1,0 +1,43 @@
+{
+  "date": "30. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo das Meer den Weg freigibt",
+  "bsTitle": "Wo das Meer den Weg freigibt",
+  "caption": "St. Michael's Mount in Marazion, Cornwall, England",
+  "copyright": "St. Michael’s Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)",
+  "copyrightOnly": "© Baxter Bradford/robertharding/Getty Images",
+  "copyrightLink": "/search?q=St+Michaels+Mount&form=hpcapt&filters=HpDate%3a%2220260129_2300%22",
+  "description": "Vor der Küste Cornwalls erhebt sich eine kleine Insel aus dem Meer, die nur bei Ebbe mit dem Festland verbunden ist. Mehrmals am Tag wird ein jahrhundertealter Granitdamm freigelegt, über den einst Pilger und Fischer gingen. So erreicht man St. Michael’s Mount, eine Gezeiteninsel vor Marazion im englischen Cornwall. Heute wird sie vom National Trust betreut, und seit dem 17.\u202FJahrhundert lebt hier die Familie St.\u202FAubyn. Auf kleinem Raum treffen Mythen, mittelalterliche Geschichte und eindrucksvolle Küstenlandschaften aufeinander.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_StMichaelsCornwall%22&FORM=HPQUIZ",
+  "hash": "7e7a0617fe79bd9fa382a0dcfa16d277",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260129",
+    "fullStartDateTime": "202601292300",
+    "endDate": "20260130"
+  },
+  "createdAt": "202601300323",
+  "originalUrlBase": "/th?id=OHR.StMichaelsCornwall_DE-DE4570450459"
+}

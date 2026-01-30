@@ -1,0 +1,43 @@
+{
+  "date": "30 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde el mar se abre paso",
+  "bsTitle": "Donde el mar se abre paso",
+  "caption": "Monte San Miguel en Marazion, Cornualles, Inglaterra",
+  "copyright": "Monte San Miguel en Marazion, Cornualles, Inglaterra (© Baxter Bradford/robertharding/Getty Images)",
+  "copyrightOnly": "© Baxter Bradford/robertharding/Getty Images",
+  "copyrightLink": "/search?q=St+Michaels+Mount&form=hpcapt&filters=HpDate%3a%2220260129_2300%22",
+  "description": "El Monte San Miguel, en Marazion, es uno de los paisajes más sugerentes de Cornualles, Inglaterra. Su silueta sobre las aguas de Mounts Bay crea una impresión casi mágica. Se trata de una isla mareal que queda unida a la costa por un antiguo camino de granito visible solo cuando la marea baja. En la cima se alza un castillo que conserva elementos medievales y una larga historia vinculada a antiguas tradiciones religiosas. Fue un punto estratégico durante conflictos costeros y aún hoy se pueden recorrer sus salas y jardines mientras se disfrutan vistas amplias del litoral. La isla mantiene una pequeña comunidad que cuida el entorno y conserva la singular identidad del sitio.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_StMichaelsCornwall%22&FORM=HPQUIZ",
+  "hash": "0e85b8ae34f3244425fa1da585cef7e6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260129",
+    "fullStartDateTime": "202601292300",
+    "endDate": "20260130"
+  },
+  "createdAt": "202601300323",
+  "originalUrlBase": "/th?id=OHR.StMichaelsCornwall_ES-ES2889178961"
+}

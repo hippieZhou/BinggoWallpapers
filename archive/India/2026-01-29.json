@@ -1,0 +1,43 @@
+{
+  "date": "Jan 30, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Where the sea makes way",
+  "bsTitle": "Where the sea makes way",
+  "caption": "St. Michael's Mount in Marazion, Cornwall, England",
+  "copyright": "St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)",
+  "copyrightOnly": "© Baxter Bradford/robertharding/Getty Images",
+  "copyrightLink": "/search?q=St+Michaels+Mount&form=hpcapt&filters=HpDate%3a%2220260129_1830%22",
+  "description": "Picture a small island rising from the Cornish sea, connected to the mainland only when the tide retreats. For a few hours a day, you can wander across a centuries-old granite causeway made smooth by pilgrims and fishermen. This is St. Michael's Mount, just off the coast of Marazion, in Cornwall, England. Managed by the National Trust and home to the St. Aubyn family since the 1600s, the mount blends myth, medieval history and sweeping coastal views.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_StMichaelsCornwall%22&FORM=HPQUIZ",
+  "hash": "d0dac72f8effe1b68429ac99339ce3f7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260129",
+    "fullStartDateTime": "202601291830",
+    "endDate": "20260130"
+  },
+  "createdAt": "202601300323",
+  "originalUrlBase": "/th?id=OHR.StMichaelsCornwall_EN-IN0431194953"
+}

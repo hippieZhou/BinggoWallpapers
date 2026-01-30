@@ -1,0 +1,43 @@
+{
+  "date": "30 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Comme un air de déjà-vu…",
+  "bsTitle": "Comme un air de déjà-vu…",
+  "caption": "St. Michael's Mount, Marazion, Cornouailles, Angleterre, Royaume-Uni",
+  "copyright": "St. Michael's Mount à Marazion, Cornouailles, Angleterre, Royaume-Uni (© Baxter Bradford/robertharding/Getty Images)",
+  "copyrightOnly": "© Baxter Bradford/robertharding/Getty Images",
+  "copyrightLink": "/search?q=St+Michaels+Mount+Cornouailles&form=hpcapt&filters=HpDate%3a%2220260129_2300%22",
+  "description": "Imaginez une île surgissant des flots turquoise de Cornouailles (Angleterre), reliée à la terre ferme seulement lorsque la mer se retire. Il est possible d’y accéder seulement quelques heures par jour, en empruntant une chaussée de granit polie par des siècles de passage de pèlerins et de pêcheurs. Bienvenue à St Michael’s Mount, le Mont Saint-Michel anglais, joyau posé face à Marazion, où légendes et histoire s’entrelacent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260129_StMichaelsCornwall%22&FORM=HPQUIZ",
+  "hash": "596690e917cd41661bfabe11d99d80af",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_FR-FR8333014700_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260129",
+    "fullStartDateTime": "202601292300",
+    "endDate": "20260130"
+  },
+  "createdAt": "202601300323",
+  "originalUrlBase": "/th?id=OHR.StMichaelsCornwall_FR-FR8333014700"
+}
