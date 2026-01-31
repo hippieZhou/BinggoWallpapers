@@ -1,0 +1,43 @@
+{
+  "date": "Jan. 30, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Carved for the cold",
+  "bsTitle": "Carved for the cold",
+  "caption": "Winterlude begins",
+  "copyright": "'Kimono' sculpted by Hiroaki Kimura and Masaki Takahashi of Japan, Winterlude 2010 (© PensiveDragon/Shutterstock)",
+  "copyrightOnly": "© PensiveDragon/Shutterstock",
+  "copyrightLink": "/search?q=Winterlude+2026&form=hpcapt&filters=HpDate%3a%2220260130_0500%22",
+  "description": "Winterlude starts today in Ottawa–Gatineau, and the forecast is simple: dress warmly and stay outside longer than planned. The festival began in 1979, when the National Capital Commission set out to make winter feel inviting rather than isolating—and that thinking still holds.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_WinterludeKimono%22&FORM=HPQUIZ",
+  "hash": "12a5de8bcaa392dde62138855c91185e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260130",
+    "fullStartDateTime": "202601300500",
+    "endDate": "20260131"
+  },
+  "createdAt": "202601310315",
+  "originalUrlBase": "/th?id=OHR.WinterludeKimono_EN-CA4738768244"
+}

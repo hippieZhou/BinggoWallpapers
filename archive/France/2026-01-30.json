@@ -1,0 +1,43 @@
+{
+  "date": "31 janv. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un mirage noir et blanc dans la savane",
+  "bsTitle": "Un mirage noir et blanc dans la savane",
+  "caption": "Parc National d’Etosha, Namibie",
+  "copyright": "Des zèbres des plaines, Parc National d’Etosha, Namibie (© Mogens Trolle/Shutterstock)",
+  "copyrightOnly": "© Mogens Trolle/Shutterstock",
+  "copyrightLink": "/search?q=z%c3%a8bres+des+plaines&form=hpcapt&filters=HpDate%3a%2220260130_2300%22",
+  "description": "Certains animaux se fondent dans la nature… Mais pas les zèbres. Avec leurs rayures noires et blanches, le camouflage semble difficile. Pourtant, il s’agit là d’un véritable chef-d’œuvre d’ingéniosité. Le 31 janvier, la Journée internationale du zèbre leur rend hommage, rappelant que ces équidés africains sont bien plus qu’une robe aux motifs graphiques.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+  "hash": "dfd74251175875202b598cb0064c98fa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260130",
+    "fullStartDateTime": "202601302300",
+    "endDate": "20260131"
+  },
+  "createdAt": "202601310315",
+  "originalUrlBase": "/th?id=OHR.EtoshaZebra_FR-FR8636454138"
+}

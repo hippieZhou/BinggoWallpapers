@@ -1,0 +1,43 @@
+{
+  "date": "31 de ene. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La unión hace la fuerza",
+  "bsTitle": "La unión hace la fuerza",
+  "caption": "Cebras de llanura, Parque Nacional Etosha, Namibia",
+  "copyright": "Cebras de llanura, Parque Nacional Etosha, Namibia (© Mogens Trolle/Shutterstock)",
+  "copyrightOnly": "© Mogens Trolle/Shutterstock",
+  "copyrightLink": "/search?q=Cebras+de+llanura&form=hpcapt&filters=HpDate%3a%2220260130_2300%22",
+  "description": "Las cebras de llanura son uno de los animales más reconocibles de África gracias a su patrón único de rayas que funciona como una identidad propia para cada individuo. Se desplazan en grandes grupos y recorren largas distancias en busca de agua y pastos frescos. Su estructura social es compleja y se basa en la cooperación constante entre los miembros del grupo. A pesar de su apariencia tranquila, son animales muy resistentes, capaces de soportar cambios bruscos de temperatura y largas jornadas de movimiento por territorios abiertos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+  "hash": "bf75530808ec5760fb00e544421f7281",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_ES-ES3051919725_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_ES-ES3051919725_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_ES-ES3051919725_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_ES-ES3051919725_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260130",
+    "fullStartDateTime": "202601302300",
+    "endDate": "20260131"
+  },
+  "createdAt": "202601310315",
+  "originalUrlBase": "/th?id=OHR.EtoshaZebra_ES-ES3051919725"
+}

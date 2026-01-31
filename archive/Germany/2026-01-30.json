@@ -1,0 +1,43 @@
+{
+  "date": "31. Jan.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Liebe auf den ersten Streifen",
+  "bsTitle": "Liebe auf den ersten Streifen",
+  "caption": "Internationaler Zebra-Tag",
+  "copyright": "Steppenzebras, Etosha-Nationalpark, Namibia (© Mogens Trolle/Shutterstock)",
+  "copyrightOnly": "© Mogens Trolle/Shutterstock",
+  "copyrightLink": "/search?q=Steppenzebras&form=hpcapt&filters=HpDate%3a%2220260130_2300%22",
+  "description": "Während manche Tiere beinahe lautlos in der Landschaft verschwinden, fallen Zebras mit ihren schwarz-weißen Streifen sofort ins Auge. Das auffällige Muster erfüllt gleich mehrere Zwecke und ist bei jedem Tier einzigartig, vergleichbar mit einem Fingerabdruck. Am 31. Januar erinnert der Internationale Zebra-Tag an diese faszinierenden Huftiere. Zebras sind ausschließlich in Afrika heimisch und lassen sich in drei Arten unterscheiden. Steppenzebras, wie auf unserem Bild aus dem Etosha-Nationalpark in Namibia zu sehen, tragen breite Streifen, Bergzebras zeigen feine Linien und Grévy-Zebras fallen durch besonders schmale, elegante Muster auf.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+  "hash": "652e04976881fda50937b4a5347dd4aa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260130",
+    "fullStartDateTime": "202601302300",
+    "endDate": "20260131"
+  },
+  "createdAt": "202601310315",
+  "originalUrlBase": "/th?id=OHR.EtoshaZebra_DE-DE4542235434"
+}

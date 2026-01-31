@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "L'eleganza della savana",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Zebre delle pianure, Parco Nazionale di Etosha, Namibia (© Mogens Trolle/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Zebra+di+pianura&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260130_EtoshaZebra%22&FORM=HPQUIZ",
+  "hash": "37a4b68f97c41e1f9875f68628533489",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260130",
+    "fullStartDateTime": "202601302300",
+    "endDate": "20260131"
+  },
+  "createdAt": "202601310315",
+  "originalUrlBase": "/th?id=OHR.EtoshaZebra_IT-IT4234811619"
+}
