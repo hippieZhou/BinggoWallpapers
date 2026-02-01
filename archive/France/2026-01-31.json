@@ -1,0 +1,43 @@
+{
+  "date": "1 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’ombre d’une promesse",
+  "bsTitle": "L’ombre d’une promesse",
+  "caption": "Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche",
+  "copyright": "Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "© Raimund Linke/Getty Images",
+  "copyrightLink": "/search?q=marmotte+des+Alpes&form=hpcapt&filters=HpDate%3a%2220260131_2300%22",
+  "description": "Sous les herbes rases des Alpes, la marmotte vit au rythme des saisons, discrète gardienne des hauteurs. Quand l’été dore les prairies, elle s’aventure hors de son terrier, museau frémissant, à l’affût des fleurs et des herbes fraîches. Sa silhouette trapue, ses cris stridents résonnent comme des éclats de vie dans le silence minéral des montagnes. Elle se nourrit avec frénésie, car chaque brin d’herbe constitue une réserve pour l’hiver.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "485812d282151026565a616fe4e236f6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_FR-FR0828345948_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_FR-FR0828345948_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_FR-FR0828345948_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_FR-FR0828345948_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260131",
+    "fullStartDateTime": "202601312300",
+    "endDate": "20260201"
+  },
+  "createdAt": "202602010345",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_FR-FR0828345948"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "1 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Celebrando sobre hielo",
+  "bsTitle": "Celebrando sobre hielo",
+  "caption": "Þorrablót, festival de mediados de invierno en Islandia",
+  "copyright": "Ovejas pastando en la nieve, Islandia (© Christophe Lehenaff/Getty Images)",
+  "copyrightOnly": "© Christophe Lehenaff/Getty Images",
+  "copyrightLink": "/search?q=%c3%9eorrabl%c3%b3t&form=hpcapt&filters=HpDate%3a%2220260131_2300%22",
+  "description": "El Þorrablót es uno de los festivales invernales más emblemáticos de Islandia, una celebración que hunde sus raíces en antiguas tradiciones nórdicas vinculadas al mes de Þorri, cuando el invierno alcanza su punto más duro. Durante estas fechas, los islandeses se reúnen para compartir comidas conservadas típicas del invierno, recordar historias del pasado y reforzar la cohesión comunitaria frente al frío y la oscuridad. Es un momento en el que la cultura islandesa se afirma y se celebra, casi como un ritual colectivo de resistencia y alegría en medio de la estación más extrema.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_IcelandSheep%22&FORM=HPQUIZ",
+  "hash": "a6b2ea811befdac887169934e71c2386",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_ES-ES7827276592_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_ES-ES7827276592_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_ES-ES7827276592_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcelandSheep_ES-ES7827276592_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260131",
+    "fullStartDateTime": "202601312300",
+    "endDate": "20260201"
+  },
+  "createdAt": "202602010345",
+  "originalUrlBase": "/th?id=OHR.IcelandSheep_ES-ES7827276592"
+}

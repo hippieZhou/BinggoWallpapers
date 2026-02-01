@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 1 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "水辺の貴婦人",
+  "bsTitle": "水辺の貴婦人",
+  "caption": "水辺の貴婦人",
+  "copyright": "セイタカシギ, フランス (© Antonio Sementa/500px/Getty Images)",
+  "copyrightOnly": "© Antonio Sementa/500px/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%bb%e3%82%a4%e3%82%bf%e3%82%ab%e3%82%b7%e3%82%ae&form=hpcapt&filters=HpDate%3a%2220260131_1500%22",
+  "description": "今日の画像はセイタカシギ（背高鷸）。チドリ目・セイタカシギ科に分類される水辺の鳥で、非常に長い赤い脚と、白と黒のコントラストが美しい体色が特徴です。細く真っすぐな黒いくちばしを持ち、スタイルの良い優雅な姿から「水辺の貴婦人」とも呼ばれています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_Echasse%22&FORM=HPQUIZ",
+  "hash": "53e98e79e5b59c870c7a9aba0b2fe92a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260131",
+    "fullStartDateTime": "202601311500",
+    "endDate": "20260201"
+  },
+  "createdAt": "202602010345",
+  "originalUrlBase": "/th?id=OHR.Echasse_JA-JP1351434706"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "1. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wände voller Wunder",
+  "bsTitle": "Wände voller Wunder",
+  "caption": "Buntes Haus in Olinda, Pernambuco, Brasilien",
+  "copyright": "Buntes Haus in Olinda, Brasilien (© Robert Pekar/Alamy)",
+  "copyrightOnly": "© Robert Pekar/Alamy",
+  "copyrightLink": "/search?q=Olinda%2c+Brasilien&form=hpcapt&filters=HpDate%3a%2220260131_2300%22",
+  "description": "Farbe prägt das Stadtbild von Olinda. Das auf dem Bild gezeigte Haus mit seinen kräftigen, klaren Farben steht exemplarisch für eine Stadt, in der Geschichte und Kreativität eng miteinander verbunden sind. Olinda wurde im 16. Jahrhundert im heutigen Bundesstaat Pernambuco im Nordosten Brasiliens als Kolonialsiedlung gegründet und entwickelte sich zu einem bedeutenden kulturellen Zentrum. Bis heute prägen portugiesische Architektur, afro-brasilianische Traditionen und jahrhundertelanger künstlerischer Ausdruck das Erscheinungsbild der Stadt. Die hügelige Altstadt ist geprägt von farbigen Fassaden, barocken Kirchen und schmalen Kopfsteinpflasterstraßen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260131_Olinda%22&FORM=HPQUIZ",
+  "hash": "3c5fc48b078beb1bfd664cce962cc497",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260131",
+    "fullStartDateTime": "202601312300",
+    "endDate": "20260201"
+  },
+  "createdAt": "202602010345",
+  "originalUrlBase": "/th?id=OHR.Olinda_DE-DE3587898033"
+}
