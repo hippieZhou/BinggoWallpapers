@@ -1,0 +1,43 @@
+{
+  "date": "2. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Neugieriges Gemurmel",
+  "bsTitle": "Neugieriges Gemurmel",
+  "caption": "Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich",
+  "copyright": "Alpenmurmeltiere, Nationalpark Hohe Tauern, Österreich (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "© Raimund Linke/Getty Images",
+  "copyrightLink": "/search?q=Alpenmurmeltiere&form=hpcapt&filters=HpDate%3a%2220260201_2300%22",
+  "description": "Vor der beeindruckenden Bergkulisse des Nationalparks Hohe Tauern in Österreich zeigen sich die Alpenmurmeltiere von ihrer neugierigen Seite. Die geselligen Nagetiere verbringen den Sommer auf alpinen Wiesen, wo sie Nahrung sammeln und im Familienverband leben. Den Winter über halten sie in ihren weit verzweigten Bauen eine mehrmonatige Winterruhe. Sobald die ersten warmen Tage einsetzen, erscheinen sie wieder an der Oberfläche. Dieses Naturereignis gilt vielerorts als stiller Hinweis auf den nahenden Frühling.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "80399661977cfe8ec1c9c00622ebdade",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_DE-DE4432571270_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260201",
+    "fullStartDateTime": "202602012300",
+    "endDate": "20260202"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_DE-DE4432571270"
+}

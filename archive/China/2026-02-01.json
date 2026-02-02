@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "影子的承诺",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%98%bf%e5%b0%94%e5%8d%91%e6%96%af%e5%b1%b1%e5%9c%9f%e6%8b%a8%e9%bc%a0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "038d78f6d2a259e8ca9e24a650d85895",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260201",
+    "fullStartDateTime": "202602011600",
+    "endDate": "20260202"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_ZH-CN6323637910"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Plutôt beurre sucre ou chocolat\u202F?",
+  "bsTitle": "Plutôt beurre sucre ou chocolat\u202F?",
+  "caption": "Le phare de Kermorvan au coucher de soleil",
+  "copyright": "Le phare de Kermorvan au coucher de soleil, Bretagne, France (© Fisfra/Getty Images)",
+  "copyrightOnly": "© Fisfra/Getty Images",
+  "copyrightLink": "/search?q=Phare+Kermorvan&form=hpcapt&filters=HpDate%3a%2220260201_2300%22",
+  "description": "Chaque 2 février, la Chandeleur vient éclairer l’hiver d’une promesse : celle des jours qui s’allongent et du printemps qui approche. Jadis, on allumait des cierges pour protéger les récoltes et célébrer la lumière renaissante. Aujourd’hui, ce rituel se transforme en un geste gourmand : faire sauter des crêpes, rondes et dorées comme des soleils.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_BretagneCrepe%22&FORM=HPQUIZ",
+  "hash": "8010f647712adebd44697f9e0ff256ec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260201",
+    "fullStartDateTime": "202602012300",
+    "endDate": "20260202"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.BretagneCrepe_FR-FR4282491151"
+}

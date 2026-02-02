@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O veredito da marmota",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Marmotas-alpinas, Parque Nacional Hohe Tauern, Áustria (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=dia+da+marmota&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "eb460747ff7bcfd358349638dfbb9207",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_PT-BR0573834201_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260202",
+    "fullStartDateTime": "202602020300",
+    "endDate": "20260203"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_PT-BR0573834201"
+}

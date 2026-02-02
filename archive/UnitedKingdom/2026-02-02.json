@@ -1,0 +1,43 @@
+{
+  "date": "Feb 2, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A shadow's promise",
+  "bsTitle": "A shadow's promise",
+  "caption": "Groundhog Day",
+  "copyright": "Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "© Raimund Linke/Getty Images",
+  "copyrightLink": "/search?q=Groundhog+Day+tradition&form=hpcapt&filters=HpDate%3a%2220260202_0000%22",
+  "description": "Every February 2, the world turns its eyes to a furry little forecaster with a penchant for popping out of holes: the groundhog. Legend has it that if this pint-sized predictor sees its shadow, winter drags on for six more weeks. No shadow? Spring is just around the corner. It's a quirky tradition that turns a small rodent into a celebrity meteorologist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "d282f03496955ff9281655707fde7466",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_EN-GB8463846788_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260202",
+    "fullStartDateTime": "202602020000",
+    "endDate": "20260203"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_EN-GB8463846788"
+}

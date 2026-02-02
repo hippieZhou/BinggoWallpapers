@@ -1,0 +1,43 @@
+{
+  "date": "Feb 1, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Colourful house in Olinda, Brazil",
+  "copyright": "Colourful house in Olinda, Brazil (© Robert Pekar/Alamy)",
+  "copyrightOnly": "© Robert Pekar/Alamy",
+  "copyrightLink": "/search?q=Olinda+city+in+Brazil&form=hpcapt&filters=HpDate%3a%2220260201_0800%22",
+  "description": "Colour feels at home in Olinda. The house seen in today's image, painted in bold, joyful tones, reflects a city where history and creativity live side by side. Founded in the 16th century in Pernambuco, northeastern Brazil, Olinda grew from a colonial stronghold into a cultural landmark shaped by Portuguese architecture, Afro-Brazilian traditions and centuries of artistic expression. Its hills are lined with pastel facades, baroque churches and narrow cobblestone streets that seem designed for wandering rather than rushing.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_Olinda%22&FORM=HPQUIZ",
+  "hash": "ba3776b3b16c5662d1f7ae5d050b2a70",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_ROW1984314260_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_ROW1984314260_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_ROW1984314260_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_ROW1984314260_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260201",
+    "fullStartDateTime": "202602010800",
+    "endDate": "20260202"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.Olinda_ROW1984314260"
+}

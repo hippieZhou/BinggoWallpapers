@@ -1,0 +1,43 @@
+{
+  "date": "2 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Guardiana de las montañas",
+  "bsTitle": "Guardiana de las montañas",
+  "caption": "Marmotas alpinas, Parque Nacional Hohe Tauern, Austria",
+  "copyright": "Marmotas alpinas, Parque Nacional Hohe Tauern, Austria (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "© Raimund Linke/Getty Images",
+  "copyrightLink": "/search?q=Marmota+alpina&form=hpcapt&filters=HpDate%3a%2220260201_2300%22",
+  "description": "Las marmotas alpinas son uno de los habitantes más carismáticos de las montañas centrales de Europa. Destacan por su vida social y su capacidad para adaptarse a los inviernos más duros. Viven en colonias que cooperan entre sí y utilizan silbidos agudos para advertir de la presencia de depredadores. Poseen cuerpos robustos y gruesos abrigos de pelo que las protegen del frío extremo y, durante el invierno, hibernan varios meses gracias a una notable disminución de su temperatura corporal. Excavan amplias galerías subterráneas donde se refugian y crían a sus crías. En la imagen de hoy vemos marmotas alpinas en el Parque Nacional Hohe Tauern, en Austria, un paisaje donde este animal se ha convertido en un símbolo de la vida de alta montaña.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "1b076641dc9a9b269402304f81212a17",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ES-ES4070068615_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ES-ES4070068615_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ES-ES4070068615_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ES-ES4070068615_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260201",
+    "fullStartDateTime": "202602012300",
+    "endDate": "20260202"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_ES-ES4070068615"
+}

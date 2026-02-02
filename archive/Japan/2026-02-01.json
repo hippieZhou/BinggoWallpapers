@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 2 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はグラウンドホッグデー",
+  "bsTitle": "今日はグラウンドホッグデー",
+  "caption": "今日はグラウンドホッグデー",
+  "copyright": "アルプスマーモット, オーストリア (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "© Raimund Linke/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%b0%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%89%e3%83%9b%e3%83%83%e3%82%b0%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260201_1500%22",
+  "description": "今日、2 月 2 日はグラウンドホッグデー。主に北米で行われる、春の訪れを占う日です。冬眠から目覚めたグラウンドホッグが巣穴から出たとき、自分の影を見て驚いて巣穴に戻れば、その後もしばらく冬が続くとされ、影を見ずに外にとどまれば、春の到来が近いとされています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "161f2f4f0a8eae54e30edd249079fb16",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_JA-JP1553270450_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_JA-JP1553270450_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_JA-JP1553270450_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_JA-JP1553270450_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260201",
+    "fullStartDateTime": "202602011500",
+    "endDate": "20260202"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_JA-JP1553270450"
+}

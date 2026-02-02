@@ -1,0 +1,43 @@
+{
+  "date": "Feb 2, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Bavaria's gem",
+  "bsTitle": "Bavaria's gem",
+  "caption": "Neuschwanstein Castle, Bavaria, Germany",
+  "copyright": "Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+  "copyrightOnly": "© www.fredconcha.com @ All Rights Reserved/Getty Images",
+  "copyrightLink": "/search?q=Neuschwanstein+Castle&form=hpcapt&filters=HpDate%3a%2220260201_1830%22",
+  "description": "The story of Neuschwanstein Castle begins with the dreams of King Ludwig II of Bavaria, who imagined a retreat inspired by medieval legends and grand operas. Set among mountains and forests in Germany, the castle rises with delicate towers and intricate stonework that seem to float above the valley. Although construction started in the nineteenth century, the palace was never fully completed, which adds to its aura of mystery.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260201_NeuschwansteinWinter%22&FORM=HPQUIZ",
+  "hash": "dc2048d2b8457f92b4a8bd3999f3ed46",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260201",
+    "fullStartDateTime": "202602011830",
+    "endDate": "20260202"
+  },
+  "createdAt": "202602020336",
+  "originalUrlBase": "/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562"
+}
