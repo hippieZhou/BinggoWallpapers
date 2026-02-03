@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Os segredos de Lake Tahoe",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Emerald Bay e Ilha Fanette, Lake Tahoe, Califórnia, Estados Unidos (© Bill Stevenson/Cavan Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lake+Tahoe+na+Calif%c3%b3rnia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_FanetteIsland%22&FORM=HPQUIZ",
+  "hash": "32e5332296a2c5aa1f11176687dc0fbd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260203",
+    "fullStartDateTime": "202602030300",
+    "endDate": "20260204"
+  },
+  "createdAt": "202602030330",
+  "originalUrlBase": "/th?id=OHR.FanetteIsland_PT-BR0814646829"
+}

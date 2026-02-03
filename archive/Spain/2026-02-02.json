@@ -1,0 +1,43 @@
+{
+  "date": "3 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde el tiempo se detiene",
+  "bsTitle": "Donde el tiempo se detiene",
+  "caption": "Bahía Esmeralda e isla Fannette, lago Tahoe, California, EE. UU.",
+  "copyright": "Bahía Esmeralda e isla Fannette, lago Tahoe, California, EE. UU. (© Bill Stevenson/Cavan Images)",
+  "copyrightOnly": "© Bill Stevenson/Cavan Images",
+  "copyrightLink": "/search?q=Isla+Fannette&form=hpcapt&filters=HpDate%3a%2220260202_2300%22",
+  "description": "En la imagen de hoy descubrimos la Bahía Esmeralda y la isla Fannette, en el lago Tahoe, en California (Estados Unidos). Este enclave destaca por el contraste entre el azul profundo del agua y las laderas cubiertas de pinos que descienden hasta la orilla. En lo alto de la pequeña isla se conservan las ruinas de la antigua \"Casa de té\" construida en los años veinte, un pequeño refugio de piedra que ofrecía a sus visitantes una vista privilegiada del entorno. El relieve abrupto y la claridad del agua crean una sensación de calma que invita a imaginar cómo era la vida en este rincón remoto cuando aún se llegaba a la isla en pequeñas embarcaciones a remo o motor. El ambiente alpino y el silencio que envuelve la escena transmiten una belleza que parece suspendida en el tiempo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_FanetteIsland%22&FORM=HPQUIZ",
+  "hash": "eb4a7cebd15614cb2ba677245b36f4a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260202",
+    "fullStartDateTime": "202602022300",
+    "endDate": "20260203"
+  },
+  "createdAt": "202602030330",
+  "originalUrlBase": "/th?id=OHR.FanetteIsland_ES-ES4459822597"
+}

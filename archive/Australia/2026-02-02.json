@@ -1,0 +1,43 @@
+{
+  "date": "Feb 2, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Alpine marmots, Hohe Tauern National Park, Austria",
+  "copyright": "Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "© Raimund Linke/Getty Images",
+  "copyrightLink": "/search?q=Alpine+marmots&form=hpcapt&filters=HpDate%3a%2220260202_0800%22",
+  "description": "Alpine marmots are among the most charismatic inhabitants of the central European mountains. They stand out for their social life and their ability to adapt to the harshest winters. They live in colonies that cooperate with each other and use sharp whistles to warn of predators. Their bodies are robust, and they have thick coats of fur that protect them from extreme cold. During winter, they hibernate for several months thanks to a remarkable drop in body temperature. They dig extensive underground tunnels where they take shelter and raise their young. In today's image, we see alpine marmots in Hohe Tauern National Park in Austria, a landscape where this animal has become a symbol of high mountain life. Observing them in the wild allows us to admire their social behaviour and survival skills, connecting visitors with nature in its most authentic state.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260202_AlpineMarmots%22&FORM=HPQUIZ",
+  "hash": "c8c18282d26d76f3c9fb6452c09cefd9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ROW2437915597_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ROW2437915597_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ROW2437915597_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_ROW2437915597_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260202",
+    "fullStartDateTime": "202602020800",
+    "endDate": "20260203"
+  },
+  "createdAt": "202602030330",
+  "originalUrlBase": "/th?id=OHR.AlpineMarmots_ROW2437915597"
+}
