@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 4 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は立春",
+  "bsTitle": "今日は立春",
+  "caption": "今日は立春",
+  "copyright": "梅の枝に止まるメジロ (© naotoshinkai/Getty Images)",
+  "copyrightOnly": "© naotoshinkai/Getty Images",
+  "copyrightLink": "/search?q=%e6%a2%85%e3%81%ae%e6%9e%9d%e3%81%ab%e6%ad%a2%e3%81%be%e3%82%8b%e3%83%a1%e3%82%b8%e3%83%ad&form=hpcapt&filters=HpDate%3a%2220260203_1500%22",
+  "description": "今日 2 月 4 日は立春。二十四節気では春の始まりとされ、1 年の節目ともいえる日です。そして画像は、梅の枝に止まるメジロです。「チー、チー」と鳴きながら、庭木や公園の梅のつぼみを軽やかに飛び回り、春の気配をいち早く知らせてくれます…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_Risshun2026%22&FORM=HPQUIZ",
+  "hash": "f36005069481b24c7866e9b42154113b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260203",
+    "fullStartDateTime": "202602031500",
+    "endDate": "20260204"
+  },
+  "createdAt": "202602040327",
+  "originalUrlBase": "/th?id=OHR.Risshun2026_JA-JP6581085415"
+}

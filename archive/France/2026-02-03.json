@@ -1,0 +1,43 @@
+{
+  "date": "4 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La grâce incarnée",
+  "bsTitle": "La grâce incarnée",
+  "caption": "Le milan royal sous la neige",
+  "copyright": "Le milan royal sous la neige (© Carl Mckie/500px/Getty Images)",
+  "copyrightOnly": "© Carl Mckie/500px/Getty Images",
+  "copyrightLink": "/search?q=milan+royal&form=hpcapt&filters=HpDate%3a%2220260203_2300%22",
+  "description": "Dans notre ciel d’Europe, une silhouette élégante fend l’air : le milan royal. Son plumage brun roux, sa tête claire et sa queue caractéristique en forme de triangle en font un maître du vol. Avec ses larges ailes, il glisse au-dessus des champs tout en souplesse, décrivant des cercles lents, comme suspendu au vent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_BigGardenBirdwatch2026%22&FORM=HPQUIZ",
+  "hash": "8c124596307d38b81aba28118c5b20b1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260203",
+    "fullStartDateTime": "202602032300",
+    "endDate": "20260204"
+  },
+  "createdAt": "202602040327",
+  "originalUrlBase": "/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "4 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La joya de Baviera",
+  "bsTitle": "La joya de Baviera",
+  "caption": "Castillo de Neuschwanstein, Baviera, Alemania",
+  "copyright": "Castillo de Neuschwanstein, Baviera, Alemania (© www.fredconcha.com @ All Rights Reserved/Getty Images)",
+  "copyrightOnly": "© www.fredconcha.com @ All Rights Reserved/Getty Images",
+  "copyrightLink": "/search?q=Castillo+de+Neuschwanstein&form=hpcapt&filters=HpDate%3a%2220260203_2300%22",
+  "description": "La historia del Castillo de Neuschwanstein comienza con los sueños del rey Luis II de Baviera, quien imaginó un retiro inspirado en leyendas medievales y grandiosas óperas. Rodeado de montañas y bosques, el castillo se alza con delicadas torres y un intrincado trabajo en piedra que parece flotar sobre el valle. Aunque su construcción comenzó en el siglo XIX, el palacio nunca se completó del todo, lo que contribuye a su aura de misterio.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260203_NeuschwansteinWinter%22&FORM=HPQUIZ",
+  "hash": "05f72c58eb8995d2fcca503d73e3bf45",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260203",
+    "fullStartDateTime": "202602032300",
+    "endDate": "20260204"
+  },
+  "createdAt": "202602040327",
+  "originalUrlBase": "/th?id=OHR.NeuschwansteinWinter_ES-ES8143316489"
+}
