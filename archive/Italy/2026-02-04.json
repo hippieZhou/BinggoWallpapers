@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Sole, Sale, Sole",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Bacini di evaporazione del sale sull'isola di Gozo, Malta (© Marius Roman/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Gozo+Malta&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+  "hash": "de1e59953ae32a7975f9e2fe99bacf0a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260204",
+    "fullStartDateTime": "202602042300",
+    "endDate": "20260205"
+  },
+  "createdAt": "202602050328",
+  "originalUrlBase": "/th?id=OHR.MaltaSalt_IT-IT4724990773"
+}

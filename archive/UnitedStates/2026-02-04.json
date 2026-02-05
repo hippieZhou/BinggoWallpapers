@@ -1,0 +1,43 @@
+{
+  "date": "Feb 4, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The face of change",
+  "bsTitle": "The face of change",
+  "caption": "Rosa Parks Day",
+  "copyright": "Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)",
+  "copyrightOnly": "© Cyrus McCrimmon/The Denver Post via Getty Images",
+  "copyrightLink": "/search?q=Rosa+Parks&form=hpcapt&filters=HpDate%3a%2220260204_0800%22",
+  "description": "Picture this: it's 1955, a winter evening in Montgomery, Alabama. A seamstress heads home after work. The bus fills with other passengers. The driver demands she give up her seat. Rosa Parks wasn't trying to make waves, but her refusal set off a chain reaction that would propel the civil rights movement into a new phase. Raised in rural Alabama, she grew up under segregation and later worked with the NAACP as a secretary and investigator, gathering testimony of racial violence and discrimination. By the time she declined to move, she was already a committed activist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_ParksGlass%22&FORM=HPQUIZ",
+  "hash": "8a327321f43f5d3b62cd340f594277e2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260204",
+    "fullStartDateTime": "202602040800",
+    "endDate": "20260205"
+  },
+  "createdAt": "202602050328",
+  "originalUrlBase": "/th?id=OHR.ParksGlass_EN-US0280057691"
+}

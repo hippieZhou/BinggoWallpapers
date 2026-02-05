@@ -1,0 +1,43 @@
+{
+  "date": "5 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’art sans égal des vagues",
+  "bsTitle": "L’art sans égal des vagues",
+  "caption": "Les marais salants de Gozo, Malte",
+  "copyright": "Les marais salants de Gozo, Malte (© Marius Roman/Getty Images)",
+  "copyrightOnly": "© Marius Roman/Getty Images",
+  "copyrightLink": "/search?q=Gozo+Malte&form=hpcapt&filters=HpDate%3a%2220260204_2300%22",
+  "description": "Imaginez un rivage où l’histoire des vagues s’imprime à chaque marée. À Xwejni Bay, sur l’île de Gozo, la seconde île de l’archipel maltais, le littoral calcaire se transforme en un damier de bassins taillés à la main, vestiges d’un savoir-faire transmis depuis des siècles. À chaque marée, l’eau s’y dépose, puis le soleil méditerranéen opère sa magie : il évapore doucement l’eau, laissant derrière lui des cristaux de sel purs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+  "hash": "82763cf368f3eab5d88012f1eb34aa0d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260204",
+    "fullStartDateTime": "202602042300",
+    "endDate": "20260205"
+  },
+  "createdAt": "202602050328",
+  "originalUrlBase": "/th?id=OHR.MaltaSalt_FR-FR2211478643"
+}

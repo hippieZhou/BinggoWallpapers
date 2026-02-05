@@ -1,0 +1,43 @@
+{
+  "date": "5 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Atrapados en una cuadrícula",
+  "bsTitle": "Atrapados en una cuadrícula",
+  "caption": "Estanques de evaporación de sal en la isla de Gozo, Malta",
+  "copyright": "Estanques de evaporación de sal en la isla de Gozo, Malta (© Marius Roman/Getty Images)",
+  "copyrightOnly": "© Marius Roman/Getty Images",
+  "copyrightLink": "/search?q=Gozo+Malta&form=hpcapt&filters=HpDate%3a%2220260204_2300%22",
+  "description": "Los estanques de evaporación de sal de Gozo conforman uno de los paisajes más singulares de Malta. Estas estructuras cuadradas, talladas en la roca costera, llevan utilizándose desde épocas remotas y aún conservan un marcado carácter artesanal. El proceso depende completamente de la combinación de sol y viento, que permite que el agua del mar se evapore lentamente y deje tras de sí una fina capa de cristales de sal. Pasear por esta zona es como recorrer un mosaico natural que cambia de tonalidad según la luz del día.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+  "hash": "9acde55fd8db88777e9830149400da1d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ES-ES5429332602_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ES-ES5429332602_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ES-ES5429332602_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ES-ES5429332602_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260204",
+    "fullStartDateTime": "202602042300",
+    "endDate": "20260205"
+  },
+  "createdAt": "202602050328",
+  "originalUrlBase": "/th?id=OHR.MaltaSalt_ES-ES5429332602"
+}

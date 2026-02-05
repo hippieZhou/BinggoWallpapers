@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "No ritmo da maré",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tanques de evaporação de sal na ilha de Gozo, Malta (© Marius Roman/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=ilha+de+Gozo+Malta&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_MaltaSalt%22&FORM=HPQUIZ",
+  "hash": "1c88bd3c63771218c596499fbc3b960b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_PT-BR2481485521_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_PT-BR2481485521_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_PT-BR2481485521_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_PT-BR2481485521_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260205",
+    "fullStartDateTime": "202602050300",
+    "endDate": "20260206"
+  },
+  "createdAt": "202602050328",
+  "originalUrlBase": "/th?id=OHR.MaltaSalt_PT-BR2481485521"
+}

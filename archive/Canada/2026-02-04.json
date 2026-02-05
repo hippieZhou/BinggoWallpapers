@@ -1,0 +1,43 @@
+{
+  "date": "Feb. 4, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Grace on the wing",
+  "bsTitle": "Grace on the wing",
+  "caption": "Red kite in snow",
+  "copyright": "Red kite in snow (© Carl Mckie/500px/Getty Images)",
+  "copyrightOnly": "© Carl Mckie/500px/Getty Images",
+  "copyrightLink": "/search?q=Red+kite+bird&form=hpcapt&filters=HpDate%3a%2220260204_0500%22",
+  "description": "Red kites are striking birds of prey known for their reddish‑brown bodies, pale heads and long, forked tails that help them steer with impressive precision. Mostly found in Europe, they thrive in countries such as the United Kingdom, Spain, France and Germany. The Chiltern Hills in England are one of the biggest conservation success stories: once nearly wiped out there, the birds rebounded after chicks from Spain were released in the late 1980s and early 1990s.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_BigGardenBirdwatch2026%22&FORM=HPQUIZ",
+  "hash": "2a0e570e5461c8c71e714ce04a4d525a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260204",
+    "fullStartDateTime": "202602040500",
+    "endDate": "20260205"
+  },
+  "createdAt": "202602050328",
+  "originalUrlBase": "/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "5. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Natur im Quadrat",
+  "bsTitle": "Natur im Quadrat",
+  "caption": "Salzpfannen auf der Insel Gozo, Malta",
+  "copyright": "Salzpfannen auf der Insel Gozo, Malta (© Marius Roman/Getty Images)",
+  "copyrightOnly": "© Marius Roman/Getty Images",
+  "copyrightLink": "/search?q=Gozo+Malta&form=hpcapt&filters=HpDate%3a%2220260204_2300%22",
+  "description": "Die Xwejni Bay auf der maltesischen Insel Gozo wirkt wie eine stille Choreografie aus Meer, Stein und Sonne. Vor Jahrhunderten begannen Familien damit, die weichen Kalksteinplatten der Küste zu bearbeiten und ein Raster aus flachen Becken anzulegen. Bei jeder Welle füllt sich ein Teil der Becken mit Meerwasser, das anschließend in der Sonne verdunstet – zurück bleibt naturbelassenes Mittelmeersalz. Die warmen, trockenen Sommer Maltas schaffen dafür ideale Bedingungen, sodass hier eine bis heute lebendige Tradition der Salzgewinnung begann. Die ersten Kristalle bilden sich meist im Mai, wenn die Erntesaison startet. In Handarbeit wird das Salz geharkt, zusammengefegt und in kleinen Haufen getrocknet.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260204_MaltaSalt%22&FORM=HPQUIZ",
+  "hash": "d80523961d8a0a1b66eaba5163bd5cde",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_DE-DE3076934153_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260204",
+    "fullStartDateTime": "202602042300",
+    "endDate": "20260205"
+  },
+  "createdAt": "202602050328",
+  "originalUrlBase": "/th?id=OHR.MaltaSalt_DE-DE3076934153"
+}
