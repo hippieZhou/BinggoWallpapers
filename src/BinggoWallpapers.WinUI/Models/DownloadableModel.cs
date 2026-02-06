@@ -11,10 +11,13 @@ namespace BinggoWallpapers.WinUI.Models;
 public partial class DownloadableModel : ObservableObject
 {
     private readonly DownloadInfoDto _downloadInfo;
+    private readonly IDownloadService _downloadService;
     private readonly ILogger<DownloadableModel> _logger;
-    public DownloadableModel(DownloadInfoDto downloadInfo)
+    
+    public DownloadableModel(DownloadInfoDto downloadInfo, IDownloadService downloadService)
     {
         _downloadInfo = downloadInfo;
+        _downloadService = downloadService;
         _logger = App.GetService<ILogger<DownloadableModel>>();
     }
 
@@ -68,14 +71,41 @@ public partial class DownloadableModel : ObservableObject
         return status == DownloadStatus.Failed ? Visibility.Visible : Visibility.Collapsed;
     }
 
+    /// <summary>
+    /// 更新下载信息（仅在值变化时更新，减少不必要的 UI 刷新）
+    /// </summary>
     public void Update()
     {
-        Status = _downloadInfo.Status;
-        Progress = _downloadInfo.ProgressPercentage;
-        DownloadSpeed = _downloadInfo.DownloadSpeed;
-        EstimatedTimeRemaining = _downloadInfo.EstimatedTimeRemaining;
-        TotalBytes = _downloadInfo.TotalBytes;
-        ErrorMessage = _downloadInfo.ErrorMessage;
+        // 仅在值变化时更新属性，减少不必要的 UI 刷新
+        if (Status != _downloadInfo.Status)
+        {
+            Status = _downloadInfo.Status;
+        }
+
+        if (Math.Abs(Progress - _downloadInfo.ProgressPercentage) > 0.01)
+        {
+            Progress = _downloadInfo.ProgressPercentage;
+        }
+
+        if (Math.Abs(DownloadSpeed - _downloadInfo.DownloadSpeed) > 0.01)
+        {
+            DownloadSpeed = _downloadInfo.DownloadSpeed;
+        }
+
+        if (EstimatedTimeRemaining != _downloadInfo.EstimatedTimeRemaining)
+        {
+            EstimatedTimeRemaining = _downloadInfo.EstimatedTimeRemaining;
+        }
+
+        if (TotalBytes != _downloadInfo.TotalBytes)
+        {
+            TotalBytes = _downloadInfo.TotalBytes;
+        }
+
+        if (ErrorMessage != _downloadInfo.ErrorMessage)
+        {
+            ErrorMessage = _downloadInfo.ErrorMessage;
+        }
     }
 
     public string StatusToText(DownloadStatus status)
@@ -86,7 +116,7 @@ public partial class DownloadableModel : ObservableObject
             DownloadStatus.InProgress => "Downloading..",
             DownloadStatus.Completed => "Downloaded",
             DownloadStatus.Canceled => "Canceled",
-            DownloadStatus.Failed => "failed",
+            DownloadStatus.Failed => "Failed", // 统一大小写格式
             _ => string.Empty,
         };
     }
@@ -96,8 +126,7 @@ public partial class DownloadableModel : ObservableObject
     {
         try
         {
-            var downloadService = App.GetService<IDownloadService>();
-            await downloadService.CancelDownloadAsync(DownloadId, cancellationToken);
+            await _downloadService.CancelDownloadAsync(DownloadId, cancellationToken);
         }
         catch (Exception ex)
         {
@@ -105,6 +134,10 @@ public partial class DownloadableModel : ObservableObject
         }
     }
 
+    /// <summary>
+    /// 重试下载任务
+    /// 注意：重试会创建新的下载任务，ViewModel 会通过事件自动更新模型
+    /// </summary>
     [RelayCommand(IncludeCancelCommand = true)]
     private async Task OnRetry(CancellationToken cancellationToken = default)
     {
@@ -120,13 +153,17 @@ public partial class DownloadableModel : ObservableObject
             _logger.LogInformation("开始重试下载任务: {DownloadId}", DownloadId);
 
             // 重新创建下载任务
-            var downloadService = App.GetService<IDownloadService>();
-            var newDownloadId = await downloadService.DownloadAsync(
+            // 注意：新任务会有新的 DownloadId，ViewModel 会通过 DownloadStatusChanged 事件
+            // 自动创建新的 DownloadableModel，旧的模型会被新模型替换
+            var newDownloadId = await _downloadService.DownloadAsync(
                 _downloadInfo.Wallpaper,
                 _downloadInfo.Resolution,
                 cancellationToken);
 
             _logger.LogInformation("重试下载任务创建成功: 原ID {OldId} -> 新ID {NewId}", DownloadId, newDownloadId);
+            
+            // 注意：由于新任务有新的 DownloadId，当前模型会保留旧状态
+            // ViewModel 会通过事件处理添加新模型，用户界面会显示新的下载任务
         }
         catch (Exception ex)
         {

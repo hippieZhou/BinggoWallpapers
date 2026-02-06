@@ -1,4 +1,5 @@
 using System.Collections.ObjectModel;
+using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.Core.Services;
 using BinggoWallpapers.WinUI.Models;
 using CommunityToolkit.Mvvm.ComponentModel;
@@ -17,6 +18,13 @@ public sealed partial class DownloadProgressList : UserControl
     public DownloadProgressList()
     {
         InitializeComponent();
+        Unloaded += OnUnloaded;
+    }
+
+    private void OnUnloaded(object sender, Microsoft.UI.Xaml.RoutedEventArgs e)
+    {
+        // 取消事件订阅，防止内存泄漏
+        ViewModel.UnsubscribeEvents();
     }
 
     [GeneratedDependencyProperty]
@@ -26,6 +34,7 @@ public sealed partial class DownloadProgressList : UserControl
 public partial class DownloadProgressListViewModel : ObservableObject
 {
     private readonly IDownloadService _downloadService;
+    private readonly Dictionary<Guid, DownloadableModel> _downloadModelsIndex = new();
 
     public ObservableCollection<DownloadableModel> Downloads = [];
 
@@ -39,6 +48,36 @@ public partial class DownloadProgressListViewModel : ObservableObject
     }
 
     /// <summary>
+    /// 取消事件订阅，防止内存泄漏
+    /// </summary>
+    public void UnsubscribeEvents()
+    {
+        _downloadService.DownloadProgressUpdated -= OnDownloadProgressUpdated;
+        _downloadService.DownloadStatusChanged -= OnDownloadStatusChanged;
+    }
+
+    /// <summary>
+    /// 更新或添加下载模型（公共方法，避免代码重复）
+    /// </summary>
+    /// <param name="downloadInfo">下载信息</param>
+    private void UpdateOrAddDownloadModel(DownloadInfoDto downloadInfo)
+    {
+        // 使用字典索引快速查找，O(1) 时间复杂度
+        if (_downloadModelsIndex.TryGetValue(downloadInfo.DownloadId, out var existingModel))
+        {
+            // 更新现有的 DownloadModel
+            existingModel.Update();
+        }
+        else
+        {
+            // 创建新的 DownloadModel 并添加到集合和索引中
+            var downloadModel = new DownloadableModel(downloadInfo, _downloadService);
+            Downloads.Add(downloadModel);
+            _downloadModelsIndex[downloadInfo.DownloadId] = downloadModel;
+        }
+    }
+
+    /// <summary>
     /// 处理下载进度更新事件
     /// </summary>
     private void OnDownloadProgressUpdated(object sender, DownloadProgressEventArgs e)
@@ -46,18 +85,7 @@ public partial class DownloadProgressListViewModel : ObservableObject
         // 确保在 UI 线程上更新
         App.MainWindow.DispatcherQueue.TryEnqueue(() =>
         {
-            var downloadModel = Downloads.FirstOrDefault(d => d.DownloadId == e.DownloadInfo.DownloadId);
-            if (downloadModel is not null)
-            {
-                // 更新现有的 DownloadModel
-                downloadModel.Update();
-            }
-            else
-            {
-                // 创建新的 DownloadModel 并添加到集合中
-                downloadModel = new DownloadableModel(e.DownloadInfo);
-                Downloads.Add(downloadModel);
-            }
+            UpdateOrAddDownloadModel(e.DownloadInfo);
         });
     }
 
@@ -69,18 +97,7 @@ public partial class DownloadProgressListViewModel : ObservableObject
         // 确保在 UI 线程上更新
         App.MainWindow.DispatcherQueue.TryEnqueue(() =>
         {
-            var downloadModel = Downloads.FirstOrDefault(d => d.DownloadId == e.DownloadInfo.DownloadId);
-            if (downloadModel is not null)
-            {
-                // 更新现有的 DownloadModel
-                downloadModel.Update();
-            }
-            else
-            {
-                // 创建新的 DownloadModel 并添加到集合中
-                downloadModel = new DownloadableModel(e.DownloadInfo);
-                Downloads.Add(downloadModel);
-            }
+            UpdateOrAddDownloadModel(e.DownloadInfo);
         });
     }
 
@@ -90,13 +107,15 @@ public partial class DownloadProgressListViewModel : ObservableObject
         var downloads = _downloadService.GetAllDownloads();
         foreach (var download in downloads)
         {
-            if (Downloads.Any(d => d.DownloadId == download.DownloadId))
+            // 使用字典索引快速查找，避免重复添加
+            if (_downloadModelsIndex.ContainsKey(download.DownloadId))
             {
                 continue;
             }
 
-            var downloadModel = new DownloadableModel(download);
+            var downloadModel = new DownloadableModel(download, _downloadService);
             Downloads.Add(downloadModel);
+            _downloadModelsIndex[download.DownloadId] = downloadModel;
         }
     }
 
@@ -105,5 +124,6 @@ public partial class DownloadProgressListViewModel : ObservableObject
     {
         await _downloadService.ClearDownloadQueueAsync(cancellationToken);
         Downloads.Clear();
+        _downloadModelsIndex.Clear();
     }
 }
