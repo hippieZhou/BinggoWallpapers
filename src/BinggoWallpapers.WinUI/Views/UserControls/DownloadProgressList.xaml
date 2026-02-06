@@ -31,14 +31,13 @@
             Text="Downloads" />
         <Button
             HorizontalAlignment="Right"
-            AutomationProperties.Name="More options"
             Content="{ui:FontIcon Glyph=&#xE712;,
                                   FontSize=16}"
             Style="{StaticResource SubtleButtonStyle}"
             ToolTipService.ToolTip="More options">
             <Button.Flyout>
                 <MenuFlyout>
-                    <MenuFlyoutItem Text="Clear history" />
+                    <MenuFlyoutItem Command="{x:Bind ViewModel.ClearDownloadQueueCommand}" Text="Clear history" />
                 </MenuFlyout>
             </Button.Flyout>
         </Button>
@@ -75,24 +74,8 @@
                                 <Button
                                     Grid.Column="1"
                                     Padding="2"
-                                    AutomationProperties.Name="More info"
-                                    Style="{StaticResource SubtleButtonStyle}"
-                                    ToolTipService.ToolTip="More info">
-                                    <Button.Flyout>
-                                        <Flyout>
-                                            <TextBlock MaxWidth="320" TextWrapping="Wrap">
-                                                <Run Text="{x:Bind ResolutionName}" />
-                                                <Bold>-</Bold>
-                                                <Run Text="{x:Bind ModelDetails.Title}" />
-                                            </TextBlock>
-                                        </Flyout>
-                                    </Button.Flyout>
-                                    <FontIcon
-                                        AutomationProperties.AccessibilityView="Raw"
-                                        FontSize="12"
-                                        Foreground="{ThemeResource AccentTextFillColorPrimaryBrush}"
-                                        Glyph="&#xE946;" />
-                                </Button>
+                                    Content="{x:Bind ResolutionName}"
+                                    Style="{StaticResource TertiaryButtonStyle}" />
                             </Grid>
                         </controls:SettingsCard.Header>
                         <controls:SettingsCard.HeaderIcon>

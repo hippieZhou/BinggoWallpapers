@@ -61,13 +61,9 @@
             </GridView.ItemTemplate>
             <GridView.Header>
                 <uc:CustomHeader
-                    Title="{x:Bind ViewModel.Today.Title, Mode=OneWay}"
+                    Title="{x:Bind ViewModel.Today.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:yyyy-MM-dd}}"
                     Margin="0,0,0,12"
-                    Desc="{x:Bind ViewModel.Today.Caption, Mode=OneWay}"
-                    ItemsSource="{x:Bind ViewModel.Markets, Mode=OneWay}"
-                    SelectedItem="{x:Bind ViewModel.SelectedMarket, Mode=TwoWay}"
-                    Source="{x:Bind ViewModel.Today.Url, Mode=OneWay}"
-                    Subtitle="{x:Bind ViewModel.Today.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:yyyy-MM-dd}}">
+                    Source="{x:Bind ViewModel.Today.Url, Mode=OneWay}">
                     <i:Interaction.Behaviors>
                         <behaviors:FadeHeaderBehavior />
                     </i:Interaction.Behaviors>
