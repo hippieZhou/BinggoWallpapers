@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "拉古塞拉——奥运赛季的巅峰",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=2026%e5%b9%b4%e5%86%ac%e5%ad%a3%e5%a5%a5%e8%bf%90%e4%bc%9a&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_GiauPass%22&FORM=HPQUIZ",
+  "hash": "511263ffb07c26955456c9a28e35a473",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260205",
+    "fullStartDateTime": "202602051600",
+    "endDate": "20260206"
+  },
+  "createdAt": "202602060327",
+  "originalUrlBase": "/th?id=OHR.GiauPass_ZH-CN3901214501"
+}

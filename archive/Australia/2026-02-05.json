@@ -1,0 +1,43 @@
+{
+  "date": "Feb 5, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Salt evaporation ponds on the island of Gozo, Malta",
+  "copyright": "Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)",
+  "copyrightOnly": "© Marius Roman/Getty Images",
+  "copyrightLink": "/search?q=Gozo+Malta&form=hpcapt&filters=HpDate%3a%2220260205_0800%22",
+  "description": "Xwejni Bay in Gozo, Malta, has a way of making everyday elements look like a quiet choreography between sea, stone and sun. You can't help but pause and look closer, right? Centuries back, families began carving these limestone pans, shaping hundreds of basins that trap seawater with each wave. Once the water settles in, the sun's heat does the rest, slowly evaporating it into natural Mediterranean salt. Gozo became a salt-making hub because its limestone coast is easy to shape, and its warm, dry summers keep the crystallisation process steady. The first crystals form around May, marking the beginning of the harvesting season. Workers rake the salt by hand, sweep it with brooms and brushes, gather it into small piles to dry for another day, then bag it and store it in the caves.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_MaltaSalt%22&FORM=HPQUIZ",
+  "hash": "2654155ef2dd3964f26a4d6e3a5e4a9f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ROW3900508445_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ROW3900508445_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ROW3900508445_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ROW3900508445_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260205",
+    "fullStartDateTime": "202602050800",
+    "endDate": "20260206"
+  },
+  "createdAt": "202602060327",
+  "originalUrlBase": "/th?id=OHR.MaltaSalt_ROW3900508445"
+}

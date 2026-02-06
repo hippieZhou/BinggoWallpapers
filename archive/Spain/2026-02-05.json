@@ -1,0 +1,43 @@
+{
+  "date": "6 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Oro de Italia",
+  "bsTitle": "Oro de Italia",
+  "caption": "Juegos Olímpicos de Invierno 2026",
+  "copyright": "Pico Ra Gusela en el Paso Giau, cerca de Cortina d’Ampezzo, Italia (© Tomasz Podolski/Getty Images)",
+  "copyrightOnly": "© Tomasz Podolski/Getty Images",
+  "copyrightLink": "/search?q=Juegos+Ol%c3%admpicos+de+Invierno+2026&form=hpcapt&filters=HpDate%3a%2220260205_2300%22",
+  "description": "Los Juegos Olímpicos de Invierno de 2026 se celebrarán del 6 al 22 de febrero en Italia, con sedes repartidas entre Milán y Cortina d’Ampezzo. Muy cerca de Cortina se encuentra el Paso de Giau, uno de los collados más icónicos de los Dolomitas, desde el que emerge la inconfundible Ra Gusela, una aguja de roca que domina el horizonte.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260205_GiauPass%22&FORM=HPQUIZ",
+  "hash": "ef28bf0a26da35e800857af81e4d4e1e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GiauPass_ES-ES1985178184_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260205",
+    "fullStartDateTime": "202602052300",
+    "endDate": "20260206"
+  },
+  "createdAt": "202602060327",
+  "originalUrlBase": "/th?id=OHR.GiauPass_ES-ES1985178184"
+}
