@@ -1,7 +1,6 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
 using System.Collections.ObjectModel;
-using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.Notifications;
 using BinggoWallpapers.WinUI.Selectors;
@@ -10,6 +9,7 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Microsoft.Extensions.Logging;
 using Microsoft.UI.Xaml;
+using Microsoft.UI.Xaml.Controls;
 using Microsoft.Windows.Storage.Pickers;
 using Windows.ApplicationModel.DataTransfer;
 using Windows.System;
@@ -57,8 +57,9 @@ public partial class SettingsViewModel : ObservableRecipient
         IsTrayIconEnabled = _trayIconService.IsEnabled;
         IsStartupEnabled = _startupSelectorService.IsEnabled;
 
-        Markets = new ObservableCollection<MarketInfoDto>(_marketSelectorService.SupportedMarkets);
-        SelectedMarket = _marketSelectorService.Market;
+        var markets = marketSelectorService.SupportedMarkets.Select(x => new MarketInfoModel(CurrentLanguage, x));
+        Markets = new ObservableCollection<MarketInfoModel>(markets);
+        CurrentMarket = Markets.FirstOrDefault(x => x.Meta == _marketSelectorService.Market);
     }
 
     [ObservableProperty]
@@ -77,10 +78,9 @@ public partial class SettingsViewModel : ObservableRecipient
     [ObservableProperty]
     public partial bool IsTrayIconEnabled { get; set; }
 
-    public ObservableCollection<MarketInfoDto> Markets { get; private set; }
-
+    public ObservableCollection<MarketInfoModel> Markets { get; private set; }
     [ObservableProperty]
-    public partial MarketInfoDto SelectedMarket { get; set; }
+    public partial MarketInfoModel CurrentMarket { get; set; }
 
     partial void OnIsStartupEnabledChanged(bool value)
     {
@@ -134,36 +134,29 @@ public partial class SettingsViewModel : ObservableRecipient
         }
     }
 
-    [RelayCommand]
-    private void OnSwitchMarket(MarketInfoDto market)
+    [RelayCommand(IncludeCancelCommand = true)]
+    private async Task OnSwitchMarket(SelectionChangedEventArgs args, CancellationToken cancellationToken = default)
     {
-        if (market is not null && SelectedMarket?.Code != market.Code)
-        {
-            SelectedMarket = market;
-        }
-    }
-
-    partial void OnSelectedMarketChanged(MarketInfoDto oldValue, MarketInfoDto newValue)
-    {
-        if (oldValue is null || newValue is null || oldValue.Code == newValue.Code)
+        var market = args.AddedItems.OfType<MarketInfoModel>().FirstOrDefault();
+        if (market is null ||
+            string.Equals(CurrentMarket.ToString(), market.ToString(), StringComparison.OrdinalIgnoreCase))
         {
             return;
         }
 
-        _ = Task.Run(async () =>
-        {
-            try
-            {
-                await _marketSelectorService.SetMarketAsync(newValue);
-                _logger.LogInformation("区域设置已更改: {MarketCode}", newValue.Code);
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "切换区域设置失败");
-            }
-        });
-    }
+        CurrentMarket = market;
 
+        try
+        {
+            await _marketSelectorService.SetMarketAsync(CurrentMarket.Meta);
+            _logger.LogInformation("区域设置已更改: {MarketCode}", CurrentMarket.Meta.Code);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "切换区域设置失败");
+        }
+    }
+ 
     [RelayCommand]
     private async Task OnFetchFromGithub()
     {

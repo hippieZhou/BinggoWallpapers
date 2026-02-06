@@ -1,3 +1,4 @@
+using BinggoWallpapers.Core.Http.Enums;
 using BinggoWallpapers.WinUI.Models;
 using Microsoft.Extensions.Logging;
 using Microsoft.UI.Xaml;
@@ -27,5 +28,10 @@ public sealed partial class DownloadButton : UserControl
         {
             App.GetService<ILogger<DownloadButton>>().LogError(ex, ex.Message);
         }
+    }
+
+    public static bool UpdateProgressRing(DownloadProgressList sender)
+    {
+        return sender.ViewModel.Downloads.Any(d => d.Status is DownloadStatus.InProgress or DownloadStatus.Waiting);
     }
 }

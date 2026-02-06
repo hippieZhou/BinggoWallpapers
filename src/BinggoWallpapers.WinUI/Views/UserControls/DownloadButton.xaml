@@ -50,7 +50,7 @@
                         x:Name="DownloadProgressRing"
                         Width="32"
                         Height="32"
-                        IsActive="False" />
+                        IsActive="{x:Bind DownloadProgresses.InProgress, Mode=OneWay}" />
                     <FontIcon
                         AutomationProperties.AccessibilityView="Raw"
                         FontSize="14"
@@ -70,7 +70,7 @@
                             <RowDefinition Height="Auto" />
                         </Grid.RowDefinitions>
                         <Grid Grid.Row="0">
-                            <local:DownloadProgressList />
+                            <local:DownloadProgressList x:Name="DownloadProgresses" />
                             <!--<ContentControl
                                 HorizontalAlignment="Center"
                                 VerticalAlignment="Center"

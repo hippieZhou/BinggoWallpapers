@@ -24,7 +24,7 @@ public class DownloadService(
     private readonly ConcurrentDictionary<Guid, DownloadInfoDto> _downloadQueue = new();
     private readonly ConcurrentDictionary<Guid, CancellationTokenSource> _downloadCancellations = new();
     // 使用复合键索引，优化重复检查性能：O(1) 查找
-    private readonly ConcurrentDictionary<(string WallpaperId, ResolutionCode ResolutionCode), Guid> _downloadIndex = new();
+    private readonly ConcurrentDictionary<(Guid WallpaperId, ResolutionCode ResolutionCode), Guid> _downloadIndex = new();
 
     /// <summary>
     /// 下载进度更新事件

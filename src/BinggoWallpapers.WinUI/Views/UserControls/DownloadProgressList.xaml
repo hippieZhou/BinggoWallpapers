@@ -26,19 +26,22 @@
             <ColumnDefinition Width="Auto" />
         </Grid.ColumnDefinitions>
         <TextBlock
+            x:Uid="DownloadProgressList_Title"
+            d:Text="Downloads"
             FontWeight="SemiBold"
-            Foreground="{ThemeResource TextFillColorSecondaryBrush}"
-            Text="Downloads" />
+            Foreground="{ThemeResource TextFillColorSecondaryBrush}" />
         <Button
             HorizontalAlignment="Right"
-            AutomationProperties.Name="More options"
             Content="{ui:FontIcon Glyph=&#xE712;,
                                   FontSize=16}"
             Style="{StaticResource SubtleButtonStyle}"
             ToolTipService.ToolTip="More options">
             <Button.Flyout>
                 <MenuFlyout>
-                    <MenuFlyoutItem Text="Clear history" />
+                    <MenuFlyoutItem
+                        x:Uid="DownloadProgressList_Clear"
+                        d:Text="Clear history"
+                        Command="{x:Bind ViewModel.ClearDownloadQueueCommand}" />
                 </MenuFlyout>
             </Button.Flyout>
         </Button>
@@ -75,24 +78,8 @@
                                 <Button
                                     Grid.Column="1"
                                     Padding="2"
-                                    AutomationProperties.Name="More info"
-                                    Style="{StaticResource SubtleButtonStyle}"
-                                    ToolTipService.ToolTip="More info">
-                                    <Button.Flyout>
-                                        <Flyout>
-                                            <TextBlock MaxWidth="320" TextWrapping="Wrap">
-                                                <Run Text="{x:Bind ResolutionName}" />
-                                                <Bold>-</Bold>
-                                                <Run Text="{x:Bind ModelDetails.Title}" />
-                                            </TextBlock>
-                                        </Flyout>
-                                    </Button.Flyout>
-                                    <FontIcon
-                                        AutomationProperties.AccessibilityView="Raw"
-                                        FontSize="12"
-                                        Foreground="{ThemeResource AccentTextFillColorPrimaryBrush}"
-                                        Glyph="&#xE946;" />
-                                </Button>
+                                    Content="{x:Bind ResolutionName}"
+                                    Style="{StaticResource TertiaryButtonStyle}" />
                             </Grid>
                         </controls:SettingsCard.Header>
                         <controls:SettingsCard.HeaderIcon>

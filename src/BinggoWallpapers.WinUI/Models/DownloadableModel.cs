@@ -116,7 +116,7 @@ public partial class DownloadableModel : ObservableObject
             DownloadStatus.InProgress => "Downloading..",
             DownloadStatus.Completed => "Downloaded",
             DownloadStatus.Canceled => "Canceled",
-            DownloadStatus.Failed => "Failed", // 统一大小写格式
+            DownloadStatus.Failed => "Failed",
             _ => string.Empty,
         };
     }

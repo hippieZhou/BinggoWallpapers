@@ -1,10 +1,12 @@
 using System.Collections.ObjectModel;
 using BinggoWallpapers.Core.DTOs;
+using BinggoWallpapers.Core.Http.Enums;
 using BinggoWallpapers.Core.Services;
 using BinggoWallpapers.WinUI.Models;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using CommunityToolkit.WinUI;
+using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 
 // To learn more about WinUI, the WinUI project structure,
@@ -14,32 +16,36 @@ namespace BinggoWallpapers.WinUI.Views.UserControls;
 
 public sealed partial class DownloadProgressList : UserControl
 {
-    public DownloadProgressListViewModel ViewModel { get; } = new();
+    public DownloadProgressListViewModel ViewModel { get; }
     public DownloadProgressList()
     {
+        ViewModel = new DownloadProgressListViewModel(d => InProgress = d);
         InitializeComponent();
         Unloaded += OnUnloaded;
     }
 
-    private void OnUnloaded(object sender, Microsoft.UI.Xaml.RoutedEventArgs e)
+    private void OnUnloaded(object sender, RoutedEventArgs e)
     {
         // 取消事件订阅，防止内存泄漏
-        ViewModel.UnsubscribeEvents();
+        //ViewModel.UnsubscribeEvents();
     }
 
     [GeneratedDependencyProperty]
-    public partial object? DownloadProgresses { get; set; }
+    public partial bool InProgress { get; set; }
 }
 
 public partial class DownloadProgressListViewModel : ObservableObject
 {
+    private readonly Action<bool> _callback;
     private readonly IDownloadService _downloadService;
     private readonly Dictionary<Guid, DownloadableModel> _downloadModelsIndex = new();
 
     public ObservableCollection<DownloadableModel> Downloads = [];
 
-    public DownloadProgressListViewModel()
+    public DownloadProgressListViewModel(Action<bool> callback)
     {
+        _callback = callback;
+
         _downloadService = App.GetService<IDownloadService>();
 
         // 订阅下载事件
@@ -75,6 +81,9 @@ public partial class DownloadProgressListViewModel : ObservableObject
             Downloads.Add(downloadModel);
             _downloadModelsIndex[downloadInfo.DownloadId] = downloadModel;
         }
+
+        var inProgress = downloadInfo.Status is DownloadStatus.Waiting or DownloadStatus.InProgress;
+        _callback?.Invoke(inProgress);
     }
 
     /// <summary>
