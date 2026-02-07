@@ -30,7 +30,7 @@ public record DownloadInfoDto
     /// <summary>
     /// 下载状态
     /// </summary>
-    public DownloadStatus Status { get; set; } = DownloadStatus.Pending;
+    public DownloadStatus Status { get; set; } = DownloadStatus.Waiting;
 
     /// <summary>
     /// 下载进度百分比 (0-100)

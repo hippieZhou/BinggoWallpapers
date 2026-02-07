@@ -11,7 +11,7 @@ public enum DownloadStatus
     /// <summary>
     /// 准备开始
     /// </summary>
-    Pending,
+    Waiting,
 
     /// <summary>
     /// 正在下载
@@ -31,5 +31,5 @@ public enum DownloadStatus
     /// <summary>
     /// 下载取消
     /// </summary>
-    Cancelled,
+    Canceled,
 }

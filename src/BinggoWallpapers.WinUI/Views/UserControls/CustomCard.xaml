@@ -66,10 +66,9 @@
         <ui:Effects.Shadow>
             <media:AttachedCardShadow
                 BlurRadius="10"
-                CornerRadius="9"
-                Opacity="0"
-                Offset="0,4,0"
-                Color="#000000" />
+                CornerRadius="16"
+                Opacity="0.2"
+                Offset="0,4,0" />
         </ui:Effects.Shadow>
 
         <!--  壁纸图片容器  -->

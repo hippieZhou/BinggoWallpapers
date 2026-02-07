@@ -61,6 +61,15 @@ public partial class ShellViewModel(
         }
     }
 
+    [RelayCommand]
+    private void OnItemInvoked(NavigationViewItemInvokedEventArgs args)
+    {
+        if (args.InvokedItemContainer is NavigationViewItem item && string.Equals($"{item.Tag}", "Refresh", StringComparison.OrdinalIgnoreCase))
+        {
+            RefreshCommand.Execute(CancellationToken.None);
+        }
+    }
+
     [RelayCommand(IncludeCancelCommand = true, FlowExceptionsToTaskScheduler = true, AllowConcurrentExecutions = false)]
     private async Task Refresh(CancellationToken cancellationToken)
     {

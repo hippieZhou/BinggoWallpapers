@@ -47,7 +47,7 @@ public sealed class FileDownloadProgress
     /// <summary>
     /// 下载状态
     /// </summary>
-    public DownloadStatus Status { get; set; } = DownloadStatus.Pending;
+    public DownloadStatus Status { get; set; } = DownloadStatus.Waiting;
 
     /// <summary>
     /// 错误信息（如果有）
