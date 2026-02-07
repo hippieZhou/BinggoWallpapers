@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O espelho do céu",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Salar de Uyuni na Bolívia (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Salar+de+Uyuni+Bol%c3%advia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_SalarUyuni%22&FORM=HPQUIZ",
+  "hash": "38e6058169cb1e0b3a1181ed217fec64",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_PT-BR5319110687_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_PT-BR5319110687_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_PT-BR5319110687_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_PT-BR5319110687_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260207",
+    "fullStartDateTime": "202602070300",
+    "endDate": "20260208"
+  },
+  "createdAt": "202602070320",
+  "originalUrlBase": "/th?id=OHR.SalarUyuni_PT-BR5319110687"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "在盐沼与天空之间，万物静谧",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%8e%bb%e5%88%a9%e7%bb%b4%e4%ba%9a%e4%b9%8c%e5%b0%a4%e5%b0%bc%e7%9b%90%e6%b2%bc&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SalarUyuni%22&FORM=HPQUIZ",
+  "hash": "5e49da46885c74ac1bfe2d0a1dd896b3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260206",
+    "fullStartDateTime": "202602061600",
+    "endDate": "20260207"
+  },
+  "createdAt": "202602070320",
+  "originalUrlBase": "/th?id=OHR.SalarUyuni_ZH-CN4163237089"
+}

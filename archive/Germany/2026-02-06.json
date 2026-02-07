@@ -1,0 +1,43 @@
+{
+  "date": "7. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Stille zwischen Salz und Himmel",
+  "bsTitle": "Stille zwischen Salz und Himmel",
+  "caption": "Salzebene Salar de Uyuni, Bolivien",
+  "copyright": "Salzebene Salar de Uyuni, Bolivien (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "© Abstract Aerial Art/Getty Images",
+  "copyrightLink": "/search?q=Salar+de+Uyuni+Bolivien&form=hpcapt&filters=HpDate%3a%2220260206_2300%22",
+  "description": "Wer den Salar de Uyuni in Bolivien erreicht, steht plötzlich vor einer fast unwirklich wirkenden Weite – eine Ebene, die sich bis zum Horizont ausbreitet. Mit einer Fläche von rund 10.500 Quadratkilometern ist er die größte Salzebene der Erde. Er liegt auf dem Altiplano auf über 3.600 Metern Höhe. In der Regenzeit entsteht durch eine dünne Wasserfläche ein nahezu perfekter Spiegel, in dem sich Wolken, Himmel und Boden zu einer einzigen schimmernden Fläche vereinen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SalarUyuni%22&FORM=HPQUIZ",
+  "hash": "77a5a775bf59c4d09a64f71f78ad7475",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_DE-DE1726865557_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_DE-DE1726865557_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_DE-DE1726865557_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_DE-DE1726865557_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260206",
+    "fullStartDateTime": "202602062300",
+    "endDate": "20260207"
+  },
+  "createdAt": "202602070320",
+  "originalUrlBase": "/th?id=OHR.SalarUyuni_DE-DE1726865557"
+}

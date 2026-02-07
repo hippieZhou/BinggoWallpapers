@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 7 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "さっぽろ雪まつり開催中",
+  "bsTitle": "さっぽろ雪まつり開催中",
+  "caption": "さっぽろ雪まつり開催中",
+  "copyright": "大通公園, 札幌市 (© Reuters/Kimimasa Mayama)",
+  "copyrightOnly": "© Reuters/Kimimasa Mayama",
+  "copyrightLink": "/search?q=%e5%a4%a7%e9%80%9a%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260206_1500%22",
+  "description": "現在、北海道札幌市では、2 月 4 日から 11 日にかけてさっぽろ雪まつりが行われています。精巧な大雪像やライトアップが街を彩るこの祭典は、1950 年に地元の中・高校生が 6 つの雪像を大通公園に設置したことをきっかけに始まりました。今では世界中から観光客が訪れる北海道最大級の冬のイベントへと成長しました…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260206_SapporoSnowFestival2026%22&FORM=HPQUIZ",
+  "hash": "2ec02227545a716597727bbdfd590af8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260206",
+    "fullStartDateTime": "202602061500",
+    "endDate": "20260207"
+  },
+  "createdAt": "202602070320",
+  "originalUrlBase": "/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944"
+}
