@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 8 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "紺碧の夜空に映える美しい街並み",
+  "bsTitle": "紺碧の夜空に映える美しい街並み",
+  "caption": "紺碧の夜空に映える美しい街並み",
+  "copyright": "ケルキラ島, ギリシャ (© whitewizzard/Getty Images)",
+  "copyrightOnly": "© whitewizzard/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%b1%e3%83%ab%e3%82%ad%e3%83%a9%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260207_1500%22",
+  "description": "ここはケルキラ島。ギリシャ北西部のイオニア海に浮かぶ島で、鎌のような細長い形が特徴です。島の西北端から東南端までの長さは約 60km、面積は約 592km² で、兵庫県の淡路島とほぼ同じ大きさです。海沿いには風と波に削られた岩礁が続き、内陸には森林の丘や澄んだ入り江が点在します。こうした多彩な地形が、島の豊かな色彩と表情を生み出しています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_CorfuGreece%22&FORM=HPQUIZ",
+  "hash": "77436b04509206c5e88638f4828dbe18",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260207",
+    "fullStartDateTime": "202602071500",
+    "endDate": "20260208"
+  },
+  "createdAt": "202602080350",
+  "originalUrlBase": "/th?id=OHR.CorfuGreece_JA-JP0379760885"
+}

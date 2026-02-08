@@ -1,0 +1,43 @@
+{
+  "date": "8 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La noche iluminada",
+  "bsTitle": "La noche iluminada",
+  "caption": "Corfú de noche, Grecia",
+  "copyright": "Corfú de noche, Grecia (© whitewizzard/Getty Images)",
+  "copyrightOnly": "© whitewizzard/Getty Images",
+  "copyrightLink": "/search?q=Corf%c3%ba+Grecia&form=hpcapt&filters=HpDate%3a%2220260207_2300%22",
+  "description": "Hoy admiramos la impresionante belleza de Corfú de noche en Grecia, con calles del casco antiguo suavemente iluminadas y un puerto que reúne paseantes, barcas y terrazas animadas. Los cafés suenan con voces y música, las plazas respiran una brisa ligera y la iluminación resalta arcos, balcones y piedra. El ambiente es sereno y vibrante a la vez, ideal para caminar sin prisas, probar un helado y tomar algo junto al mar.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_CorfuGreece%22&FORM=HPQUIZ",
+  "hash": "97d0966595af91a2d663c4f8aa3a3ab1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ES-ES2653018855_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ES-ES2653018855_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ES-ES2653018855_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ES-ES2653018855_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260207",
+    "fullStartDateTime": "202602072300",
+    "endDate": "20260208"
+  },
+  "createdAt": "202602080350",
+  "originalUrlBase": "/th?id=OHR.CorfuGreece_ES-ES2653018855"
+}

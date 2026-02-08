@@ -1,0 +1,43 @@
+{
+  "date": "Feb 7, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Salt, sky, and the stillness between",
+  "bsTitle": "Salt, sky, and the stillness between",
+  "caption": "Salar de Uyuni salt flats in Bolivia",
+  "copyright": "Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "© Abstract Aerial Art/Getty Images",
+  "copyrightLink": "/search?q=salar+de+uyuni+Bolivia&form=hpcapt&filters=HpDate%3a%2220260207_0800%22",
+  "description": "Salar de Uyuni in Bolivia doesn't ease you in—it erupts into view like a horizon made of light. It's the world's largest salt flat, stretching across roughly 4,000 square miles at nearly 12,000 feet above sea level. The landscape dramatically shifts with the seasons: when the rain arrives, the surface floods just enough to become an enormous mirror, so perfectly reflective that sky and ground melt into a single glowing plane.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_SalarUyuni%22&FORM=HPQUIZ",
+  "hash": "418999c7bc8985e6badbeffe491a3723",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260207",
+    "fullStartDateTime": "202602070800",
+    "endDate": "20260208"
+  },
+  "createdAt": "202602080350",
+  "originalUrlBase": "/th?id=OHR.SalarUyuni_EN-US1639129259"
+}

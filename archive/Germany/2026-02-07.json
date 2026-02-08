@@ -1,0 +1,43 @@
+{
+  "date": "8. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Zwischen Stille und Meer",
+  "bsTitle": "Zwischen Stille und Meer",
+  "caption": "Korfu bei Nacht, Griechenland",
+  "copyright": "Korfu bei Nacht, Griechenland (© whitewizzard/Getty Images)",
+  "copyrightOnly": "© whitewizzard/Getty Images",
+  "copyrightLink": "/search?q=Korfu+Griechenland&form=hpcapt&filters=HpDate%3a%2220260207_2300%22",
+  "description": "Nach Einbruch der Dunkelheit verändert sich die Stimmung in der Altstadt der griechischen Insel Korfu. Lampen beleuchten die alten Steinmauern und lassen die Festungsanlagen klar hervortreten. Die schmalen Gassen wirken wie ein gewachsenes Labyrinth. Das historische Zentrum gehört seit 2007 zum UNESCO-Welterbe und besonders am Abend wird sein über Jahrhunderte geformter Charakter sichtbar. Korfus Altstadt ist geprägt von venezianischen, französischen und britischen Einflüssen, die ein unverwechselbares mediterranes Stadtbild entstehen lassen. Diese Verbindung aus historischem Stadtkern und maritimer Lage erinnert in ihrer Wirkung an Hafenstädte wie Stralsund an der deutschen Ostseeküste, dessen Altstadt ebenfalls zum UNESCO-Welterbe zählt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_CorfuGreece%22&FORM=HPQUIZ",
+  "hash": "d7dba8a18e1c3f7119a6b4c875af76ee",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260207",
+    "fullStartDateTime": "202602072300",
+    "endDate": "20260208"
+  },
+  "createdAt": "202602080350",
+  "originalUrlBase": "/th?id=OHR.CorfuGreece_DE-DE1940142224"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Silenzi abitati",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Corfù, Grecia (© whitewizzard/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Corf%c3%b9+Grecia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_CorfuGreece%22&FORM=HPQUIZ",
+  "hash": "0418c8c49ea9d145995e9dc66cc2efbb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260207",
+    "fullStartDateTime": "202602072300",
+    "endDate": "20260208"
+  },
+  "createdAt": "202602080350",
+  "originalUrlBase": "/th?id=OHR.CorfuGreece_IT-IT2512677240"
+}

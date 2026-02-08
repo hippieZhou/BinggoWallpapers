@@ -1,0 +1,43 @@
+{
+  "date": "8 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Éblouissante de jour comme de nuit",
+  "bsTitle": "Éblouissante de jour comme de nuit",
+  "caption": "Corfou de nuit, Grèce",
+  "copyright": "Corfou de nuit, Grèce (© whitewizzard/Getty Images)",
+  "copyrightOnly": "© whitewizzard/Getty Images",
+  "copyrightLink": "/search?q=Corfou+Gr%c3%a8ce&form=hpcapt&filters=HpDate%3a%2220260207_2300%22",
+  "description": "En Grèce, Corfou, la nuit, offre un accueil à la fois doux et plein d’intensité au voyageur : des façades de pierre baignées par la lumière chaude des lampadaires, les silhouettes des forteresses se dressant dans l’obscurité, un labyrinthe de ruelles étroites façonné par le temps... Les influences méditerranéennes s’y superposent de façon harmonieuse, portées par le rythme tranquille de l’île après le coucher du soleil. Une atmosphère semblable à celle des vieilles villes françaises, où chaque pierre témoigne de siècles de cultures mêlées.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260207_CorfuGreece%22&FORM=HPQUIZ",
+  "hash": "830217a94e069bd3e6f8e9fab17d2dba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_FR-FR6104979945_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_FR-FR6104979945_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_FR-FR6104979945_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_FR-FR6104979945_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260207",
+    "fullStartDateTime": "202602072300",
+    "endDate": "20260208"
+  },
+  "createdAt": "202602080350",
+  "originalUrlBase": "/th?id=OHR.CorfuGreece_FR-FR6104979945"
+}
