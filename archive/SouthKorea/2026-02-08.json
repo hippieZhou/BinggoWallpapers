@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Corfu, Greece (© whitewizzard/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Corfu+Greece&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260208_CorfuGreece%22&FORM=HPQUIZ",
+  "hash": "869c8ab2c15a59fb96b606ef054a2c51",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ROW8621582269_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ROW8621582269_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ROW8621582269_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_ROW8621582269_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260208",
+    "fullStartDateTime": "202602080800",
+    "endDate": "20260209"
+  },
+  "createdAt": "202602090338",
+  "originalUrlBase": "/th?id=OHR.CorfuGreece_ROW8621582269"
+}

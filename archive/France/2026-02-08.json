@@ -1,0 +1,43 @@
+{
+  "date": "9 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Ni léopard ni chat",
+  "bsTitle": "Ni léopard ni chat",
+  "caption": "Chat-léopard de l’Amour, Russie",
+  "copyright": "Chat-léopard de l’Amour, Russie (© Valeriy Maleev/naturepl.com)",
+  "copyrightOnly": "© Valeriy Maleev/naturepl.com",
+  "copyrightLink": "/search?q=chat-l%c3%a9opard&form=hpcapt&filters=HpDate%3a%2220260208_2300%22",
+  "description": "Le chat-léopard est un petit félin qui vit en Asie du Sud, du Sud-Est et de l’Est. De la taille d’un chat domestique mais plus élancé, il mesure 40 à 80 cm environ, plus 20 à 30 cm de queue, avec des variations selon les régions. Au sud, son pelage prend des teintes dorées, tandis que les populations nordiques arborent un pelage gris pâle et plus dense qui les protège du froid — un contraste qui rappelle les différences entre les félins méditerranéens et ceux des montagnes françaises, marqués par leurs climats respectifs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260208_LeopardCat%22&FORM=HPQUIZ",
+  "hash": "7e0cec7e649cdeed4b75b4d18972622a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_FR-FR6480726195_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_FR-FR6480726195_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_FR-FR6480726195_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_FR-FR6480726195_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260208",
+    "fullStartDateTime": "202602082300",
+    "endDate": "20260209"
+  },
+  "createdAt": "202602090338",
+  "originalUrlBase": "/th?id=OHR.LeopardCat_FR-FR6480726195"
+}

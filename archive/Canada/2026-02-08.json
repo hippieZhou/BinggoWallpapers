@@ -1,0 +1,43 @@
+{
+  "date": "Feb. 8, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "From quiet nights to adventurous days",
+  "bsTitle": "From quiet nights to adventurous days",
+  "caption": "Corfu at night, Greece",
+  "copyright": "Corfu at night, Greece (© whitewizzard/Getty Images)",
+  "copyrightOnly": "© whitewizzard/Getty Images",
+  "copyrightLink": "/search?q=Corfu+Greece&form=hpcapt&filters=HpDate%3a%2220260208_0500%22",
+  "description": "The island of Corfu, Greece, meets you at night with a quiet kind of intensity: stone facades catching warm lamplight, fortress walls rising in sharp outline and narrow lanes unfolding like a lived-in labyrinth. The Old Town doesn't just look historic—it feels inhabited, shaped by centuries of shifting cultures and the slow rhythm of island life after dark.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260208_CorfuGreece%22&FORM=HPQUIZ",
+  "hash": "29f2b0de6dff87dfbe7b01b8f8858d72",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CorfuGreece_EN-CA8765263319_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260208",
+    "fullStartDateTime": "202602080500",
+    "endDate": "20260209"
+  },
+  "createdAt": "202602090338",
+  "originalUrlBase": "/th?id=OHR.CorfuGreece_EN-CA8765263319"
+}
