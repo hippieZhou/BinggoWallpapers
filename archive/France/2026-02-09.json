@@ -1,0 +1,43 @@
+{
+  "date": "10 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Lorsque les sirènes chantent",
+  "bsTitle": "Lorsque les sirènes chantent",
+  "caption": "Es Vedrà et Es Vedranell, Espagne",
+  "copyright": "Es Vedrà et Es Vedranell, Ibiza, Espagne (© L. Apolli/Getty Images)",
+  "copyrightOnly": "© L. Apolli/Getty Images",
+  "copyrightLink": "/search?q=Es+Vedra+Ibiza&form=hpcapt&filters=HpDate%3a%2220260209_2300%22",
+  "description": "Au sud-ouest d’Ibiza (Espagne), les îlots inhabités d’Es Vedrà et d’Es Vedranell surgissent de la Méditerranée comme deux géants minéraux. Classés « réserve naturelle », leurs reliefs abrupts — dont les falaises d’Es Vedrà qui s’élèvent à près de 400 mètres — évoquent une silhouette presque montagneuse au cœur de la mer. La silhouette irrégulière d’Es Vedranell, surnommée le « dragon endormi », semble veiller sur son imposant voisin. Le duo évoque ces promontoires rocheux de Corse qui, au crépuscule, semblent animés d’histoires anciennes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_IbizaIslets%22&FORM=HPQUIZ",
+  "hash": "26af4905017a4a4eb242cb06a1ea68cf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_FR-FR6531751588_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_FR-FR6531751588_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_FR-FR6531751588_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_FR-FR6531751588_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260209",
+    "fullStartDateTime": "202602092300",
+    "endDate": "20260210"
+  },
+  "createdAt": "202602100346",
+  "originalUrlBase": "/th?id=OHR.IbizaIslets_FR-FR6531751588"
+}

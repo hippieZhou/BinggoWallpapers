@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Dove cantano le sirene",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Isole di Es Vedrà ed Es Vedranell, Ibiza, Spagna (© L. Apolli/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Es+Vedra+Ibiza&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_IbizaIslets%22&FORM=HPQUIZ",
+  "hash": "8421cfa1b988a6a972f62ea89101e00f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_IT-IT7799437749_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_IT-IT7799437749_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_IT-IT7799437749_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_IT-IT7799437749_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260209",
+    "fullStartDateTime": "202602092300",
+    "endDate": "20260210"
+  },
+  "createdAt": "202602100346",
+  "originalUrlBase": "/th?id=OHR.IbizaIslets_IT-IT7799437749"
+}

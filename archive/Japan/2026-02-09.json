@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 10 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "穏やかな海に佇む神秘的な島",
+  "bsTitle": "穏やかな海に佇む神秘的な島",
+  "caption": "穏やかな海に佇む神秘的な島",
+  "copyright": "エス・ヴェドラ島, スペイン (© L. Apolli/Getty Images)",
+  "copyrightOnly": "© L. Apolli/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a8%e3%82%b9%e3%83%bb%e3%83%b4%e3%82%a7%e3%83%89%e3%83%a9%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260209_1500%22",
+  "description": "エス・ヴェドラはスペインのイビサ島南西に位置する無人島です。高さ約 400m の険しい崖のような島には、固有種のイビサカベカナヘビをはじめ、海鳥、岩場に適応した無脊椎動物、希少な植物など、多様な生物が生息しています。その独特な生態系を保全するため、島への上陸は禁じられています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_IbizaIslets%22&FORM=HPQUIZ",
+  "hash": "af9c21ef3c2dd403cc08ae35b6083cc2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260209",
+    "fullStartDateTime": "202602091500",
+    "endDate": "20260210"
+  },
+  "createdAt": "202602100346",
+  "originalUrlBase": "/th?id=OHR.IbizaIslets_JA-JP0828320693"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "海妖歌唱之处",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙 (© L. Apolli/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%bc%8a%e7%bb%b4%e8%90%a8%e5%b2%9b%e5%9f%83%e6%96%af%e7%bb%b4%e5%be%b7%e6%8b%89&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_IbizaIslets%22&FORM=HPQUIZ",
+  "hash": "8513ec3f801aa55f944b0dc2be1aa835",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260209",
+    "fullStartDateTime": "202602091600",
+    "endDate": "20260210"
+  },
+  "createdAt": "202602100346",
+  "originalUrlBase": "/th?id=OHR.IbizaIslets_ZH-CN4580106286"
+}

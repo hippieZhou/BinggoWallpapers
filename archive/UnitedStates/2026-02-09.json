@@ -1,0 +1,43 @@
+{
+  "date": "Feb 9, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Patterns in motion",
+  "bsTitle": "Patterns in motion",
+  "caption": "Amur leopard cat, Russia",
+  "copyright": "Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)",
+  "copyrightOnly": "© Valeriy Maleev/naturepl.com",
+  "copyrightLink": "/search?q=leopard+cat&form=hpcapt&filters=HpDate%3a%2220260209_0800%22",
+  "description": "The leopard cat is a small wild cat found across South, Southeast, and East Asia. Similar in size to a house cat but longer-legged and slenderer, it generally measures 15–30 inches long, with a tail about 7–12 inches. Depending on the region, adults weigh roughly 1–16 pounds. Their appearance varies widely: southern individuals tend to have warm golden coats, while those farther north often have pale gray fur that thickens for winter.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260209_LeopardCat%22&FORM=HPQUIZ",
+  "hash": "28cd7b36a40322b2e7b70dc6ec015d4b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260209",
+    "fullStartDateTime": "202602090800",
+    "endDate": "20260210"
+  },
+  "createdAt": "202602100346",
+  "originalUrlBase": "/th?id=OHR.LeopardCat_EN-US4669057608"
+}
