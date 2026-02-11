@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 11 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日から水戸の梅まつり",
+  "bsTitle": "今日から水戸の梅まつり",
+  "caption": "今日から水戸の梅まつり",
+  "copyright": "白梅の花 (© EarthScapeImageGraphy/Getty Images)",
+  "copyrightOnly": "© EarthScapeImageGraphy/Getty Images",
+  "copyrightLink": "/search?q=%e7%99%bd%e6%a2%85%e3%81%ae%e8%8a%b1&form=hpcapt&filters=HpDate%3a%2220260210_1500%22",
+  "description": "金沢の兼六園、岡山の後楽園とともに日本三名園のひとつに数えられている水戸の偕楽園。水戸藩第 9 代藩主、徳川斉昭によって作られました。「偕楽」の名は、「古の人は民と偕（とも）に楽しむ、故に能く楽しむなり」という中国の古典「孟子」の一節から名づけられており、藩士だけではなく、領民への開放も目的としていました…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_MitoPlumFestival2026%22&FORM=HPQUIZ",
+  "hash": "fa8c394b8afccb17cd5927843b03dc70",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260210",
+    "fullStartDateTime": "202602101500",
+    "endDate": "20260211"
+  },
+  "createdAt": "202602110344",
+  "originalUrlBase": "/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "11 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Pura fantasía",
+  "bsTitle": "Pura fantasía",
+  "caption": "Vista del atardecer de San Andrés y Playa de Las Teresitas, Tenerife",
+  "copyright": "Vista del atardecer de San Andrés y Playa de Las Teresitas, Tenerife (© EP-stock/Getty Images)",
+  "copyrightOnly": "© EP-stock/Getty Images",
+  "copyrightLink": "/search?q=Gala+de+la+Reina+del+Carnaval+de+Tenerife+2026&form=hpcapt&filters=HpDate%3a%2220260210_2300%22",
+  "description": "Hoy, 11 de febrero, se celebra la Gala de Elección de la Reina Adulta de Santa Cruz de Tenerife, una cita imprescindible del Carnaval con décadas de historia que cada año deslumbra con trajes de fantasía que pueden superar varias decenas de kilos y exigir meses de trabajo artesanal. Esta gala es símbolo de creatividad, patrimonio vivo y orgullo isleño, además de motor cultural y turístico para la capital tinerfeña. La puesta en escena combina música, coreografías y diseño con un público entregado y una audiencia fiel que sigue el certamen desde todos los rincones, atraída por la espectacularidad de cada fantasía y el carisma de las candidatas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_ReinaCarnaval%22&FORM=HPQUIZ",
+  "hash": "21c0ffe8bdc977b7c1b73a315468529d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ReinaCarnaval_ES-ES2850086580_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ReinaCarnaval_ES-ES2850086580_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ReinaCarnaval_ES-ES2850086580_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ReinaCarnaval_ES-ES2850086580_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260210",
+    "fullStartDateTime": "202602102300",
+    "endDate": "20260211"
+  },
+  "createdAt": "202602110344",
+  "originalUrlBase": "/th?id=OHR.ReinaCarnaval_ES-ES2850086580"
+}

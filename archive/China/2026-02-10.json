@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "对比之谷",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%ad%bb%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_BadwaterFlats%22&FORM=HPQUIZ",
+  "hash": "ab527e84259a14561f0cacb39ea33764",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260210",
+    "fullStartDateTime": "202602101600",
+    "endDate": "20260211"
+  },
+  "createdAt": "202602110344",
+  "originalUrlBase": "/th?id=OHR.BadwaterFlats_ZH-CN4713617982"
+}

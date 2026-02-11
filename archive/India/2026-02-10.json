@@ -1,0 +1,43 @@
+{
+  "date": "Feb 11, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The valley of contrasts",
+  "bsTitle": "The valley of contrasts",
+  "caption": "Death Valley National Park, California, United States",
+  "copyright": "Salt flats in Badwater Basin, Death Valley National Park, California, United States (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Death+Valley+National+Park&form=hpcapt&filters=HpDate%3a%2220260210_1830%22",
+  "description": "Death Valley National Park challenges first impressions. Spanning more than 13,760 square kilometres across California and Nevada, it is the largest national park in the contiguous United States. Across this vast expanse, salt flats, volcanic hills, sweeping sand dunes and distant snow-capped peaks create a landscape shaped by time and extremes. From the soaring heights of Telescope Peak, which rises over 3,350 metres above the desert floor, to the depths of Badwater Basin, 86 metres below sea level, the park is a study in contrasts.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_BadwaterFlats%22&FORM=HPQUIZ",
+  "hash": "942daa205d4cbfd60c124fabf42c105d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-IN9151471412_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260210",
+    "fullStartDateTime": "202602101830",
+    "endDate": "20260211"
+  },
+  "createdAt": "202602110344",
+  "originalUrlBase": "/th?id=OHR.BadwaterFlats_EN-IN9151471412"
+}

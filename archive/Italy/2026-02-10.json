@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Valli e contrasti",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Saline nel Badwater Basin, Valle della Morte, California, USA (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Valle+della+Morte&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260210_BadwaterFlats%22&FORM=HPQUIZ",
+  "hash": "2f571db24ebb2c7808088a250966fb43",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_IT-IT4791088413_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_IT-IT4791088413_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_IT-IT4791088413_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_IT-IT4791088413_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260210",
+    "fullStartDateTime": "202602102300",
+    "endDate": "20260211"
+  },
+  "createdAt": "202602110344",
+  "originalUrlBase": "/th?id=OHR.BadwaterFlats_IT-IT4791088413"
+}

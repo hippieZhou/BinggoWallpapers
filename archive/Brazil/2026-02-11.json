@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um deserto vestido de branco",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Salinas da Bacia de Badwater, Parque Nacional do Vale da Morte, Califórnia, EUA (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Vale+da+Morte&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_BadwaterFlats%22&FORM=HPQUIZ",
+  "hash": "b25b134719b82d20d4d51ac573486568",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_PT-BR0386889966_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_PT-BR0386889966_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_PT-BR0386889966_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_PT-BR0386889966_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260211",
+    "fullStartDateTime": "202602110300",
+    "endDate": "20260212"
+  },
+  "createdAt": "202602110344",
+  "originalUrlBase": "/th?id=OHR.BadwaterFlats_PT-BR0386889966"
+}
