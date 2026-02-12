@@ -1,0 +1,43 @@
+{
+  "date": "Feb 12, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Evolution in focus",
+  "bsTitle": "Evolution in focus",
+  "caption": "Darwin Day",
+  "copyright": "Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Karine Aigner/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Darwin+Day&form=hpcapt&filters=HpDate%3a%2220260211_1830%22",
+  "description": "Darwin Day marks more than a birthday—it marks a shift in thinking. Charles Darwin's observations connected variation, the survival of individuals best suited to their environment, and inheritance in ways science still builds on. His legacy rests on years of studying variation—finches, fossils, barnacles—and recognising patterns others had overlooked. When 'On the Origin of Species' was published in 1859, it offered a framework explaining how species evolve through natural selection.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_DarwinBooby%22&FORM=HPQUIZ",
+  "hash": "d69e510211d2f483f4a1ffa370dfa429",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_EN-IN9220190564_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260211",
+    "fullStartDateTime": "202602111830",
+    "endDate": "20260212"
+  },
+  "createdAt": "202602120338",
+  "originalUrlBase": "/th?id=OHR.DarwinBooby_EN-IN9220190564"
+}

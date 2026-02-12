@@ -1,0 +1,43 @@
+{
+  "date": "Feb 11, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Badwater Basin, Death Valley National Park, California, USA",
+  "copyright": "Salt flats in Badwater Basin, Death Valley National Park, California, USA (© Jim Patterson/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Death+Valley+National+Park&form=hpcapt&filters=HpDate%3a%2220260211_0800%22",
+  "description": "Death Valley National Park challenges first impressions. Spanning more than 1.34 million hectares across California and Nevada in the United States, it is the largest national park in the contiguous United States. Across this vast expanse, salt flats, volcanic hills, sweeping sand dunes and distant snowcapped peaks create a landscape shaped by time and extremes. From the soaring heights of Telescope Peak, which rises over 3,300 metres above the desert floor, to the depths of Badwater Basin, 86 metres below sea level, the park is a study in contrasts.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_BadwaterFlats%22&FORM=HPQUIZ",
+  "hash": "a6d3e03a31de2f9e3449a29c45ca7ef9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ROW9539566313_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ROW9539566313_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ROW9539566313_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_ROW9539566313_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260211",
+    "fullStartDateTime": "202602110800",
+    "endDate": "20260212"
+  },
+  "createdAt": "202602120338",
+  "originalUrlBase": "/th?id=OHR.BadwaterFlats_ROW9539566313"
+}

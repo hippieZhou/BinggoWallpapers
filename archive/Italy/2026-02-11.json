@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Un cambio vitale?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sula dai piedi azzurri, Isole Galápagos, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Darwin+Day&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_DarwinBooby%22&FORM=HPQUIZ",
+  "hash": "391d91d1be127600f28af8f015d1774f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260211",
+    "fullStartDateTime": "202602112300",
+    "endDate": "20260212"
+  },
+  "createdAt": "202602120338",
+  "originalUrlBase": "/th?id=OHR.DarwinBooby_IT-IT4879885475"
+}

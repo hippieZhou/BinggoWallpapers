@@ -1,0 +1,43 @@
+{
+  "date": "12 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Evolución en el punto de mira",
+  "bsTitle": "Evolución en el punto de mira",
+  "caption": "Día de Darwin",
+  "copyright": "Piquero de patas azules, Islas Galápagos, Ecuador (© Karine Aigner/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Karine Aigner/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=D%c3%ada+de+Darwin&form=hpcapt&filters=HpDate%3a%2220260211_2300%22",
+  "description": "Hoy celebramos el Día de Darwin y aprovechamos para observar con curiosidad y rigor la diversidad del mundo natural. Esta fecha nos recuerda que las especies cambian con el tiempo mediante procesos que podemos estudiar y comprender. La selección natural sigue siendo una idea poderosa para explicar la adaptación y el origen de rasgos que ayudan a sobrevivir y a reproducirse. Asimismo, destaca la importancia del trabajo paciente de la observación y la evidencia, y cómo cada organismo, en su entorno, contribuye a la gran historia de la vida en la Tierra.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_DarwinBooby%22&FORM=HPQUIZ",
+  "hash": "ef0e0a855240f7bddf1e8d760af1cbd5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_ES-ES2893793809_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260211",
+    "fullStartDateTime": "202602112300",
+    "endDate": "20260212"
+  },
+  "createdAt": "202602120338",
+  "originalUrlBase": "/th?id=OHR.DarwinBooby_ES-ES2893793809"
+}

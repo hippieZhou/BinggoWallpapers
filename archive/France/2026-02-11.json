@@ -1,0 +1,43 @@
+{
+  "date": "12 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’évolution en ligne de mire",
+  "bsTitle": "L’évolution en ligne de mire",
+  "caption": "Journée Darwin",
+  "copyright": "Fou à pieds bleus, Îles Galapagos, Équateur (© Karine Aigner/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Karine Aigner/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Journ%c3%a9e+Darwin&form=hpcapt&filters=HpDate%3a%2220260211_2300%22",
+  "description": "La Journée Darwin est plus qu’une date\u202F: elle marque un tournant dans notre manière de comprendre le vivant. En observant les variations, l’héritage et l’adaptation, Darwin a mis en lumière un fil conducteur que la science continue d’affiner. Ses années passées à étudier pinsons, fossiles et invertébrés lui ont permis d’identifier des scénarios que d’autres n’avaient pas vus. Dans « L’Origine des espèces », paru en 1859, il explique comment les espèces se transforment au fil du temps — un tournant scientifique comparable, pour l’histoire française, à la révolution conceptuelle qu’ont représentée les travaux de Buffon.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260211_DarwinBooby%22&FORM=HPQUIZ",
+  "hash": "a9117848a3afe8b648434cc773c17929",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_FR-FR2410210068_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_FR-FR2410210068_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_FR-FR2410210068_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DarwinBooby_FR-FR2410210068_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260211",
+    "fullStartDateTime": "202602112300",
+    "endDate": "20260212"
+  },
+  "createdAt": "202602120338",
+  "originalUrlBase": "/th?id=OHR.DarwinBooby_FR-FR2410210068"
+}
