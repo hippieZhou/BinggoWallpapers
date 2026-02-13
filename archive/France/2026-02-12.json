@@ -1,0 +1,43 @@
+{
+  "date": "13 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Construit pour rapprocher",
+  "bsTitle": "Construit pour rapprocher",
+  "caption": "Troisième pont de l’amitié lao-thaïlandaise",
+  "copyright": "Troisième pont de l’amitié lao-thaïlandaise reliant le Laos et la Thaïlande (© chaiyut samsuk/Getty Images)",
+  "copyrightOnly": "© chaiyut samsuk/Getty Images",
+  "copyrightLink": "/search?q=Troisi%c3%a8me+pont+de+l%e2%80%99amiti%c3%a9+lao-tha%c3%aflandaise&form=hpcapt&filters=HpDate%3a%2220260212_2300%22",
+  "description": "Avant les ponts, les rivières rythmaient nos déplacements. Puis les humains ont tracé de nouvelles trajectoires. Ce basculement met en lumière l’importance de liens transfrontaliers tels que le troisième pont de l’amitié lao-thaïlandaise. Ce dernier franchit le Mékong grâce à une structure en poutre-caisson, stable et efficace face au puissant courant du fleuve. Une prouesse qui rappelle, à l’échelle française, la manière dont certains ponts du Rhône ont transformé les déplacements entre régions autrefois isolées.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_FriendshipBridge%22&FORM=HPQUIZ",
+  "hash": "8b8452ef4ce946df3ddc0e25af016f3c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_FR-FR5704773652_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_FR-FR5704773652_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_FR-FR5704773652_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_FR-FR5704773652_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260212",
+    "fullStartDateTime": "202602122300",
+    "endDate": "20260213"
+  },
+  "createdAt": "202602130336",
+  "originalUrlBase": "/th?id=OHR.FriendshipBridge_FR-FR5704773652"
+}

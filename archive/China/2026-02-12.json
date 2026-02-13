@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "为拉近距离而建",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%ac%ac%e4%b8%89%e5%ba%a7%e6%b3%b0%e8%80%81%e5%8f%8b%e8%b0%8a%e5%a4%a7%e6%a1%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260212_FriendshipBridge%22&FORM=HPQUIZ",
+  "hash": "8b8996dc66e890d23857e90d02e56fa9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260212",
+    "fullStartDateTime": "202602121600",
+    "endDate": "20260213"
+  },
+  "createdAt": "202602130336",
+  "originalUrlBase": "/th?id=OHR.FriendshipBridge_ZH-CN5199165736"
+}
