@@ -1,0 +1,43 @@
+{
+  "date": "Feb 14, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Love in bloom",
+  "bsTitle": "Love in bloom",
+  "caption": "Happy Valentine's Day!",
+  "copyright": "Bleeding hearts (© Dorene Hookey/Cavan Images)",
+  "copyrightOnly": "© Dorene Hookey/Cavan Images",
+  "copyrightLink": "/search?q=Valentines+day&form=hpcapt&filters=HpDate%3a%2220260213_1830%22",
+  "description": "Valentine's Day celebrates the heart in all its forms—love that is bold or tender, hopeful or quietly vulnerable. Few symbols capture this emotion as naturally as the bleeding heart flower, pictured here. With its unmistakable heart-shaped blooms, the plant emerges each spring, growing up to 60 centimetres tall and spreading nearly 75 centimetres wide, creating a graceful, almost poetic display.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+  "hash": "ef8d1558504f2940e41dc9b68d66e5c6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260213",
+    "fullStartDateTime": "202602131830",
+    "endDate": "20260214"
+  },
+  "createdAt": "202602140324",
+  "originalUrlBase": "/th?id=OHR.ValentineHearts_EN-IN9333874983"
+}

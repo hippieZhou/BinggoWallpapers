@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 14 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はバレンタインデー",
+  "bsTitle": "今日はバレンタインデー",
+  "caption": "今日はバレンタインデー",
+  "copyright": "ハート型のケマンソウ, カナダ オンタリオ州 (© Dorene Hookey/Cavan Images)",
+  "copyrightOnly": "© Dorene Hookey/Cavan Images",
+  "copyrightLink": "/search?q=%e3%82%b1%e3%83%9e%e3%83%b3%e3%82%bd%e3%82%a6&form=hpcapt&filters=HpDate%3a%2220260213_1500%22",
+  "description": "今日 2 月 14 日は恋人たちの日、バレンタインデーです。日本を含め多くの国で、大切な人に感謝を示したり、贈り物をしたりする日として知られています。その正確な起源は不明ですが、古代ローマの冬至祭の一つであるルペルカーリア祭や聖バレンタイン祭といった、いくつかの古代の祭りと関連していると考えられています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+  "hash": "cab67d5d2917e7055e4fc920d036fafa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_JA-JP1565993875_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260213",
+    "fullStartDateTime": "202602131500",
+    "endDate": "20260214"
+  },
+  "createdAt": "202602140324",
+  "originalUrlBase": "/th?id=OHR.ValentineHearts_JA-JP1565993875"
+}

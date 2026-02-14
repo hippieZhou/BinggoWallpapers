@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A alegria que não cabe nas ruas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Escola de samba São Clemente no Sambódromo do Rio de Janeiro, 2016 (© YASUYOSHI CHIBA/AFP via Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+Carnaval&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_Carnaval26%22&FORM=HPQUIZ",
+  "hash": "719528ae627a0ea9c8cbff4a34d9471c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Carnaval26_PT-BR4981816549_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260214",
+    "fullStartDateTime": "202602140300",
+    "endDate": "20260215"
+  },
+  "createdAt": "202602140324",
+  "originalUrlBase": "/th?id=OHR.Carnaval26_PT-BR4981816549"
+}

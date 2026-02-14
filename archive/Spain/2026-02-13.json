@@ -1,0 +1,43 @@
+{
+  "date": "14 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Amor en floración",
+  "bsTitle": "Amor en floración",
+  "caption": "¡Feliz Día de San Valentín!",
+  "copyright": "Corazones sangrantes (© Dorene Hookey/Cavan Images)",
+  "copyrightOnly": "© Dorene Hookey/Cavan Images",
+  "copyrightLink": "/search?q=D%c3%ada+de+San+Valent%c3%adn&form=hpcapt&filters=HpDate%3a%2220260213_2300%22",
+  "description": "El 14 de febrero celebramos el Día de San Valentín, una fecha dedicada al cariño y a los gestos que hacen la vida más luminosa. No se trata solo de regalos ni de grandes declaraciones, sino de la oportunidad de reconocer la ternura que compartimos con quien nos acompaña. Es un momento propicio para detenerse y agradecer las pequeñas cosas que se construyen en el día a día, esas que dan calidez al invierno y dejan una huella serena en la memoria.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+  "hash": "f9665cab41001f0e28454aa3beab7063",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_ES-ES3038334122_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_ES-ES3038334122_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_ES-ES3038334122_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_ES-ES3038334122_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260213",
+    "fullStartDateTime": "202602132300",
+    "endDate": "20260214"
+  },
+  "createdAt": "202602140324",
+  "originalUrlBase": "/th?id=OHR.ValentineHearts_ES-ES3038334122"
+}

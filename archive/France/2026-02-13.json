@@ -1,0 +1,43 @@
+{
+  "date": "14 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’amour fleurissant",
+  "bsTitle": "L’amour fleurissant",
+  "caption": "Joyeuse Saint-Valentin !",
+  "copyright": "Cœurs de Marie (© Dorene Hookey/Cavan Images)",
+  "copyrightOnly": "© Dorene Hookey/Cavan Images",
+  "copyrightLink": "/search?q=Saint-Valentin&form=hpcapt&filters=HpDate%3a%2220260213_2300%22",
+  "description": "La Saint-Valentin célèbre le cœur sous toutes ses formes : l’élan courageux, l’affection discrète, l’espoir, ainsi que la fragilité assumée. Peu de symboles traduisent cette émotion aussi naturellement que le cœur de Marie, cette fleur délicate aux corolles en forme de cœur, qui s’épanouit chaque printemps. Haut d’environ 60 cm et large de près de 75 cm, le plant offre au jardin une scène gracieuse, presque poétique.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260213_ValentineHearts%22&FORM=HPQUIZ",
+  "hash": "55863c1b2057e8798f4a15184379ca36",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_FR-FR1591236824_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_FR-FR1591236824_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_FR-FR1591236824_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ValentineHearts_FR-FR1591236824_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260213",
+    "fullStartDateTime": "202602132300",
+    "endDate": "20260214"
+  },
+  "createdAt": "202602140324",
+  "originalUrlBase": "/th?id=OHR.ValentineHearts_FR-FR1591236824"
+}
