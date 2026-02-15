@@ -1,0 +1,43 @@
+{
+  "date": "15 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde cantan las sirenas",
+  "bsTitle": "Donde cantan las sirenas",
+  "caption": "Islotes de Es Vedrá y Es Vedranell, Ibiza",
+  "copyright": "Islotes de Es Vedrá y Es Vedranell, Ibiza (© L. Apolli/Getty Images)",
+  "copyrightOnly": "© L. Apolli/Getty Images",
+  "copyrightLink": "/search?q=Es+Vedr%c3%a1+Ibiza&form=hpcapt&filters=HpDate%3a%2220260214_2300%22",
+  "description": "En la costa suroeste de Ibiza, frente a Cala d’Hort, se alzan los islotes de Es Vedrá y Es Vedranell. El conjunto forma parte de las Reservas Naturales de Es Vedrá, Es Vedranell y los islotes de Poniente, protegidas desde 2002 e incluidas en la Red Natura 2000 por su valor ecológico. La zona reúne acantilados verticales, fondos marinos con gran diversidad y comunidades de aves marinas y lagartijas endémicas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_IbizaIslets%22&FORM=HPQUIZ",
+  "hash": "595f90da7b9cd44a8d05631ef66c9fa4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260214",
+    "fullStartDateTime": "202602142300",
+    "endDate": "20260215"
+  },
+  "createdAt": "202602150337",
+  "originalUrlBase": "/th?id=OHR.IbizaIslets_ES-ES3095870118"
+}

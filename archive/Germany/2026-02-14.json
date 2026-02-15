@@ -1,0 +1,43 @@
+{
+  "date": "15. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Taktgeber der Meere",
+  "bsTitle": "Die Taktgeber der Meere",
+  "caption": "Welttag der Wale",
+  "copyright": "Buckelwale in der Monterey Bay, Kalifornien, USA (© Kiliii Fish/Cavan Images)",
+  "copyrightOnly": "© Kiliii Fish/Cavan Images",
+  "copyrightLink": "/search?q=Wale&form=hpcapt&filters=HpDate%3a%2220260214_2300%22",
+  "description": "Wale sind nicht nur majestätische Meeresbewohner, sondern auch der Motor unserer Ozeane. Durch ihre Wanderungen und Ausscheidungen verteilen sie Nährstoffe, die das Wachstum von Phytoplankton fördern und somit ganze Nahrungsketten stabilisieren. Forscher bezeichnen diesen Prozess als „Whale Pump“.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_MontereyHumpbacks%22&FORM=HPQUIZ",
+  "hash": "99a26c53b38c647e74bddd27ee1a3f2e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_DE-DE4095114088_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260214",
+    "fullStartDateTime": "202602142300",
+    "endDate": "20260215"
+  },
+  "createdAt": "202602150337",
+  "originalUrlBase": "/th?id=OHR.MontereyHumpbacks_DE-DE4095114088"
+}

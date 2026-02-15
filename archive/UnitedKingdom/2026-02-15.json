@@ -1,0 +1,43 @@
+{
+  "date": "Feb 15, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Songs beneath the waves",
+  "bsTitle": "Songs beneath the waves",
+  "caption": "World Whale Day",
+  "copyright": "Humpback whales, Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)",
+  "copyrightOnly": "© Kiliii Fish/Cavan Images",
+  "copyrightLink": "/search?q=Whale&form=hpcapt&filters=HpDate%3a%2220260215_0000%22",
+  "description": "World Whale Day, observed on the third Sunday of February, began in the 1980s in Hawaii, where communities celebrated the seasonal return of migrating humpback whales. The day gained wider recognition after the International Whaling Commission's 1986 moratorium on commercial whaling, which marked a major milestone in international whale conservation.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_MontereyHumpbacks%22&FORM=HPQUIZ",
+  "hash": "ed3adc4ebfbe74f876c6e1f62705ca76",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-GB9754437276_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260215",
+    "fullStartDateTime": "202602150000",
+    "endDate": "20260216"
+  },
+  "createdAt": "202602150337",
+  "originalUrlBase": "/th?id=OHR.MontereyHumpbacks_EN-GB9754437276"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "15 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un chant sous les vagues",
+  "bsTitle": "Un chant sous les vagues",
+  "caption": "Baleines à bosse",
+  "copyright": "Baleines à bosse à Monterey, Californie, États-Unis (© Kiliii Fish/Cavan Images)",
+  "copyrightOnly": "© Kiliii Fish/Cavan Images",
+  "copyrightLink": "/search?q=Baleine+%c3%a0+bosse&form=hpcapt&filters=HpDate%3a%2220260214_2300%22",
+  "description": "Dans l’immensité de l’océan, la baleine à bosse incarne un retour saisonnier presque rituel. Depuis des décennies, les habitants des îles du Pacifique observent ces géants remonter vers les eaux chaudes où ils chantent, s’accouplent et mettent bas. Cette migration millimétrée témoigne d’une mémoire profonde, héritée de générations qui ont traversé les mêmes routes bleues.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260214_MontereyHumpbacks%22&FORM=HPQUIZ",
+  "hash": "ac8be6b3266580415c36b344c7f80dd5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_FR-FR2588165622_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260214",
+    "fullStartDateTime": "202602142300",
+    "endDate": "20260215"
+  },
+  "createdAt": "202602150337",
+  "originalUrlBase": "/th?id=OHR.MontereyHumpbacks_FR-FR2588165622"
+}
