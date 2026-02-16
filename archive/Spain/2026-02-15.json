@@ -1,0 +1,43 @@
+{
+  "date": "16 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde las montañas tocan el cielo",
+  "bsTitle": "Donde las montañas tocan el cielo",
+  "caption": "Banff, Alberta, Canadá",
+  "copyright": "Banff, Alberta, Canadá (© Herbert Rong/Getty Images)",
+  "copyrightOnly": "© Herbert Rong/Getty Images",
+  "copyrightLink": "/search?q=Parque+nacional+Banff&form=hpcapt&filters=HpDate%3a%2220260215_2300%22",
+  "description": "Hoy admiramos una vista panorámica del impresionante paisaje nevado de Banff, en Alberta, Canadá, un escenario que parece tallado en hielo y luz. En el corazón de las Montañas Rocosas se extiende el Parque Nacional Banff, el más antiguo de Canadá y Patrimonio de la Humanidad. En invierno, los picos se cubren de un blanco continuo y los bosques desprenden olor a resina fría. Las aguas termales ofrecen un respiro humeante frente al aire cortante y los miradores regalan amaneceres rosados que se reflejan en láminas de agua inmóviles. La vida salvaje mantiene su pulso silencioso con huellas de alce en la nieve y vuelos de águila sobre valles detenidos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_BanffWinter%22&FORM=HPQUIZ",
+  "hash": "667f3fdb91d814b5cd46cbde4cd9e213",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260215",
+    "fullStartDateTime": "202602152300",
+    "endDate": "20260216"
+  },
+  "createdAt": "202602160336",
+  "originalUrlBase": "/th?id=OHR.BanffWinter_ES-ES3143885243"
+}

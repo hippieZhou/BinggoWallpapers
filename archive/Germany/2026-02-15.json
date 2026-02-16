@@ -1,0 +1,43 @@
+{
+  "date": "16. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Kölle Alaaf!",
+  "bsTitle": "Kölle Alaaf!",
+  "caption": "Rosenmontagszug in Köln, Nordrhein-Westfalen",
+  "copyright": "Rosenmontagszug in Köln, Nordrhein-Westfalen (© mauritius images GmbH/Alamy)",
+  "copyrightOnly": "© mauritius images GmbH/Alamy",
+  "copyrightLink": "/search?q=Rosenmontag&form=hpcapt&filters=HpDate%3a%2220260215_2300%22",
+  "description": "Heute richtet sich der Blick auf Köln, wo der Rosenmontagszug den Höhepunkt des Karnevals bildet. Jedes Jahr verwandelt sich die Domstadt in eine farbenfrohe Bühne für eines der größten Straßenfeste Europas. Der sich über mehrere Kilometer durch die Innenstadt schlängelnde Zug besteht aus prachtvoll geschmückten Wagen, Musikkapellen und Fußgruppen, deren Mitglieder Kamelle (Süßigkeiten) und Strüßjer (kleine Blumensträuße) in die Menge werfen. Diese Tradition des organisierten Karnevals reicht bis ins Jahr 1823 zurück.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_RoseMondayCologne%22&FORM=HPQUIZ",
+  "hash": "db6caa7a20abd92e388ffb06ceae2e1f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RoseMondayCologne_DE-DE4534942479_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260215",
+    "fullStartDateTime": "202602152300",
+    "endDate": "20260216"
+  },
+  "createdAt": "202602160336",
+  "originalUrlBase": "/th?id=OHR.RoseMondayCologne_DE-DE4534942479"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il mito del drago",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Formazione rocciosa Dragon's Eye, spiaggia di Uttakleiv, Norvegia (© reisegraf/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Occhio+del+Drago+Uttakleiv&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_DragonsEyeRock%22&FORM=HPQUIZ",
+  "hash": "25640d2e93309aed31e123314f5ff3cd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_IT-IT5246962899_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260215",
+    "fullStartDateTime": "202602152300",
+    "endDate": "20260216"
+  },
+  "createdAt": "202602160336",
+  "originalUrlBase": "/th?id=OHR.DragonsEyeRock_IT-IT5246962899"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "16 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Parfait pour un grand bol d’air",
+  "bsTitle": "Parfait pour un grand bol d’air",
+  "caption": "Vue sur le Grand-Bornand",
+  "copyright": "Le Grand-Bornand, Haute-Savoie (© JACQUES Pierre/hemis.fr/Alamy)",
+  "copyrightOnly": "© JACQUES Pierre/hemis.fr/Alamy",
+  "copyrightLink": "/search?q=Le+Grand-Bornand&form=hpcapt&filters=HpDate%3a%2220260215_2300%22",
+  "description": "Au pied de la chaîne des Aravis, Le Grand-Bornand s’ouvre tel un village de carte postale où l’hiver respire encore l’authenticité montagnarde. Des chalets centenaires et leurs balcons sculptés aux clochers veillant sur les prés gelés, la vallée semble raconter une histoire vieille de plusieurs siècles, façonnée par les bergers et les neiges d’altitude.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260215_Bornand%22&FORM=HPQUIZ",
+  "hash": "f7767b51007a3d029ed26c053f55fe05",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260215",
+    "fullStartDateTime": "202602152300",
+    "endDate": "20260216"
+  },
+  "createdAt": "202602160336",
+  "originalUrlBase": "/th?id=OHR.Bornand_FR-FR4225399243"
+}
