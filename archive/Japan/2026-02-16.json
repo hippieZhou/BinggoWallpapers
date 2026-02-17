@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 17 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は中国の旧正月",
+  "bsTitle": "今日は中国の旧正月",
+  "caption": "今日は中国の旧正月",
+  "copyright": "春節の赤い提灯, 中国 (© Gins Wang/Getty Images)",
+  "copyrightOnly": "© Gins Wang/Getty Images",
+  "copyrightLink": "/search?q=%e6%98%a5%e7%af%80&form=hpcapt&filters=HpDate%3a%2220260216_1500%22",
+  "description": "今日、2 月 17 日は春節、旧正月です。中国をはじめ、韓国、ベトナム、モンゴルなどアジアの多くの国々で盛大に祝われます。日本でも、横浜や神戸の中華街で「春節祭」が開催され、獅子舞やランタンで華やかに彩られます…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_NewYearLantern%22&FORM=HPQUIZ",
+  "hash": "f15185d8ca1f37b6a2301aa3f9856c8c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260216",
+    "fullStartDateTime": "202602161500",
+    "endDate": "20260217"
+  },
+  "createdAt": "202602170331",
+  "originalUrlBase": "/th?id=OHR.NewYearLantern_JA-JP3079738564"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "17 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Quince días de luz y celebración",
+  "bsTitle": "Quince días de luz y celebración",
+  "caption": "Año Nuevo chino",
+  "copyright": "Faroles rojos para celebrar el Año Nuevo chino (© Gins Wang/Getty Images)",
+  "copyrightOnly": "© Gins Wang/Getty Images",
+  "copyrightLink": "/search?q=A%c3%b1o+Nuevo+chino&form=hpcapt&filters=HpDate%3a%2220260216_2300%22",
+  "description": "El Año Nuevo chino de 2026 comienza hoy y abre un ciclo festivo que se prolonga durante quince días hasta la primera luna llena del año lunar. En 2024, esta celebración fue inscrita en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad de la UNESCO, que reconoce su valor como práctica social compartida por millones de personas dentro y fuera de China.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_NewYearLantern%22&FORM=HPQUIZ",
+  "hash": "fd7aadd28747684d148b7cda0fbd6022",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260216",
+    "fullStartDateTime": "202602162300",
+    "endDate": "20260217"
+  },
+  "createdAt": "202602170331",
+  "originalUrlBase": "/th?id=OHR.NewYearLantern_ES-ES3189574771"
+}

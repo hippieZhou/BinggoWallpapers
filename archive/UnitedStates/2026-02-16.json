@@ -1,0 +1,43 @@
+{
+  "date": "Feb 16, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Legacies in view",
+  "bsTitle": "Legacies in view",
+  "caption": "Presidents' Day",
+  "copyright": "Lincoln Memorial, Washington, DC (© Westend61/Getty Images)",
+  "copyrightOnly": "© Westend61/Getty Images",
+  "copyrightLink": "/search?q=Presidents+Day&form=hpcapt&filters=HpDate%3a%2220260216_0800%22",
+  "description": "Presidents' Day is observed on the third Monday of February and is officially recognized at the federal level as Washington's Birthday. The holiday was originally celebrated on February 22, George Washington's birthday, before being rescheduled under the Uniform Monday Holiday Act. Passed in 1968 and implemented in 1971, the Act shifted several federal holidays to Mondays, creating standardized long weekends. Washington's Birthday was among those affected, which moved the observance away from Washington's actual birthday and allowed its meaning to broaden over time.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_PresidentsDay%22&FORM=HPQUIZ",
+  "hash": "afcd8b1b4fab850c85f2eb139c9d0b9a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260216",
+    "fullStartDateTime": "202602160800",
+    "endDate": "20260217"
+  },
+  "createdAt": "202602170331",
+  "originalUrlBase": "/th?id=OHR.PresidentsDay_EN-US6598155144"
+}

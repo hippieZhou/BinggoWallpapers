@@ -1,0 +1,43 @@
+{
+  "date": "17 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quinze jours de lumière",
+  "bsTitle": "Quinze jours de lumière",
+  "caption": "Nouvel An chinois",
+  "copyright": "Des lanternes rouges pour fêter le Nouvel An chinois (© Gins Wang/Getty Images)",
+  "copyrightOnly": "© Gins Wang/Getty Images",
+  "copyrightLink": "/search?q=Nouvel+An+chinois&form=hpcapt&filters=HpDate%3a%2220260216_2300%22",
+  "description": "Le Nouvel An chinois, souvent appelé Fête du Printemps, ouvre un cycle façonné autant par la lune que par les saisons. Depuis plus de deux millénaires, les familles scrutent la nouvelle lune de l’hiver pour accueillir un renouveau symbolique. Dans les rues, les lanternes rouges illuminent les façades et les places, telles des promesses de chance et de chaleur au cœur de la saison froide.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_NewYearLantern%22&FORM=HPQUIZ",
+  "hash": "fb1e2fe6c8e21375376be5fedecf1ef6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260216",
+    "fullStartDateTime": "202602162300",
+    "endDate": "20260217"
+  },
+  "createdAt": "202602170331",
+  "originalUrlBase": "/th?id=OHR.NewYearLantern_FR-FR2946545684"
+}

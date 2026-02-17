@@ -1,0 +1,43 @@
+{
+  "date": "Feb. 16, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "When Banff slows down",
+  "bsTitle": "When Banff slows down",
+  "caption": "Banff, Alberta",
+  "copyright": "Scenic view of lake by snowcapped mountains in Banff, Alberta (© Herbert Rong/Getty Images)",
+  "copyrightOnly": "© Herbert Rong/Getty Images",
+  "copyrightLink": "/search?q=Banff+town&form=hpcapt&filters=HpDate%3a%2220260216_0500%22",
+  "description": "Banff in Alberta didn't grow quietly. It arrived with railways, hot springs and a vision: to protect places of rare beauty. In 1883, railway workers stumbled upon warm mineral water bubbling from Sulphur Mountain—an unlikely surprise in the cold sweep of the Rockies. The discovery drew attention quickly. By 1885, the surrounding land has been set aside as a protected reserve. What did that lead to? The beginnings of Banff National Park, Canada's first, and a blueprint the country would return to again and again.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260216_BanffWinter%22&FORM=HPQUIZ",
+  "hash": "ed705b032fb2b504ea7304b5688bd33e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260216",
+    "fullStartDateTime": "202602160500",
+    "endDate": "20260217"
+  },
+  "createdAt": "202602170331",
+  "originalUrlBase": "/th?id=OHR.BanffWinter_EN-CA0779166638"
+}
