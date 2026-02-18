@@ -1,0 +1,43 @@
+{
+  "date": "Feb 17, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Ochagavía, Navarre, Spain",
+  "copyright": "Ochagavía, Navarre, Spain (© PhotosTime/Getty Images)",
+  "copyrightOnly": "© PhotosTime/Getty Images",
+  "copyrightLink": "/search?q=Ochagavia&form=hpcapt&filters=HpDate%3a%2220260217_0800%22",
+  "description": "Ochagavía in Spain offers one of Navarre's most evocative winter scenes. This village of just over 480 residents, located in the Salazar Valley, 85 kilometres from Pamplona, stands out for its traditional architecture, with stone houses, steeply pitched roofs and a medieval bridge over the Anduña River that looks straight out of a postcard.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260217_Navarra%22&FORM=HPQUIZ",
+  "hash": "cea5827cf9ee322881568592dddd84ba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ROW0874580487_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ROW0874580487_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ROW0874580487_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Navarra_ROW0874580487_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260217",
+    "fullStartDateTime": "202602170800",
+    "endDate": "20260218"
+  },
+  "createdAt": "202602180333",
+  "originalUrlBase": "/th?id=OHR.Navarra_ROW0874580487"
+}

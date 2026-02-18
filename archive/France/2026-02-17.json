@@ -1,0 +1,43 @@
+{
+  "date": "18 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Nés pour rester sauvages",
+  "bsTitle": "Nés pour rester sauvages",
+  "caption": "Chevaux de Przewalski",
+  "copyright": "Chevaux de Przewalski (© Nemyrivskyi Viacheslav/Getty Images)",
+  "copyrightOnly": "© Nemyrivskyi Viacheslav/Getty Images",
+  "copyrightLink": "/search?q=cheval+de+Przewalski&form=hpcapt&filters=HpDate%3a%2220260217_2300%22",
+  "description": "Certaines espèces n’ont jamais connu la domestication. Le cheval de Przewalski, dernier véritable cheval sauvage encore présent sur Terre, en est l’exemple le plus saisissant. Autrefois répandu dans les steppes d’Asie centrale, il a disparu de son milieu naturel dans les années 1960, victime de la chasse, de la compétition avec le bétail et de territoires de tailles toujours plus réduites. Sa survie tient du miracle : quelques chevaux capturés au début du XXᵉ siècle sont à l’origine de toute la population actuelle.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260217_PrzewalskisHorse%22&FORM=HPQUIZ",
+  "hash": "95608b4f2f0755101fd0f4afcc837fbf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260217",
+    "fullStartDateTime": "202602172300",
+    "endDate": "20260218"
+  },
+  "createdAt": "202602180333",
+  "originalUrlBase": "/th?id=OHR.PrzewalskisHorse_FR-FR3326076723"
+}

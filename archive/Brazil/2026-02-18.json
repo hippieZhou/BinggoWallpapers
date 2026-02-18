@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "As raízes profundas da resistência",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Savana em Piritiba, Bahia (© Gervanio Guimaraes/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Piritiba&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_SavanaBA%22&FORM=HPQUIZ",
+  "hash": "dc254f59e8edf290e129b9abc159fcdb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SavanaBA_PT-BR8450191150_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260218",
+    "fullStartDateTime": "202602180300",
+    "endDate": "20260219"
+  },
+  "createdAt": "202602180333",
+  "originalUrlBase": "/th?id=OHR.SavanaBA_PT-BR8450191150"
+}

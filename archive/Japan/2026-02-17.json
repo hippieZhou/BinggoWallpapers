@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 18 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "現存する唯一の野生馬",
+  "bsTitle": "現存する唯一の野生馬",
+  "caption": "現存する唯一の野生馬",
+  "copyright": "モウコノウマ (© Nemyrivskyi Viacheslav/Getty Images)",
+  "copyrightOnly": "© Nemyrivskyi Viacheslav/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%a2%e3%82%a6%e3%82%b3%e3%83%8e%e3%82%a6%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220260217_1500%22",
+  "description": "日本の干支の切り替わりは元日からですが、中国は旧暦に基づくため、春節（旧正月）から新しい干支が始まります。つまり、中国では昨日 2 月 17 日から馬の年、午年がスタートしました。というわけで、モウコノウマの写真をお届けします…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260217_PrzewalskisHorse%22&FORM=HPQUIZ",
+  "hash": "5fd576f85f87ba26c5ca0e3ba2b79c9c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_JA-JP3314314525_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_JA-JP3314314525_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_JA-JP3314314525_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_JA-JP3314314525_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260217",
+    "fullStartDateTime": "202602171500",
+    "endDate": "20260218"
+  },
+  "createdAt": "202602180333",
+  "originalUrlBase": "/th?id=OHR.PrzewalskisHorse_JA-JP3314314525"
+}
