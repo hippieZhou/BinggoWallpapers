@@ -1,0 +1,43 @@
+{
+  "date": "19 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Símbolo de Granada",
+  "bsTitle": "Símbolo de Granada",
+  "caption": "La Alhambra durante el invierno en Granada",
+  "copyright": "La Alhambra durante el invierno en Granada (© David Skinner/Getty Images)",
+  "copyrightOnly": "© David Skinner/Getty Images",
+  "copyrightLink": "/search?q=Alhambra%2c+conjunto+palaciego+en+Granada&form=hpcapt&filters=HpDate%3a%2220260218_2300%22",
+  "description": "La Alhambra durante el invierno en Granada conserva su carácter y convoca una lectura pausada de su historia. Es un momento propicio para recordar por qué este conjunto palaciego y fortaleza se convirtió en emblema cultural y en uno de los monumentos más visitados de España.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260218_GranadaAlhambra%22&FORM=HPQUIZ",
+  "hash": "97273859b20728d825e39fec1ee37db1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GranadaAlhambra_ES-ES3338584785_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260218",
+    "fullStartDateTime": "202602182300",
+    "endDate": "20260219"
+  },
+  "createdAt": "202602190332",
+  "originalUrlBase": "/th?id=OHR.GranadaAlhambra_ES-ES3338584785"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Quando a pedra te olha de volta",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Formação rochosa Olho do Dragão na praia de Uttakleiv, Noruega (© reisegraf/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Olho+Do+Drag%c3%a3o+na+Noruega&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_DragonsEyeRock%22&FORM=HPQUIZ",
+  "hash": "52ef1cd2716e3d44e6dcda44027f5387",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_PT-BR9453939614_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260219",
+    "fullStartDateTime": "202602190300",
+    "endDate": "20260220"
+  },
+  "createdAt": "202602190332",
+  "originalUrlBase": "/th?id=OHR.DragonsEyeRock_PT-BR9453939614"
+}
