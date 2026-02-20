@@ -1,0 +1,43 @@
+{
+  "date": "20 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde cae la luz",
+  "bsTitle": "Donde cae la luz",
+  "caption": "Cascada Horsetail, parque nacional de Yosemite, California, EE. UU.",
+  "copyright": "Cascada Horsetail, parque nacional de Yosemite, California, EE. UU. (© Jorge Villalba/Getty Images)",
+  "copyrightOnly": "© Jorge Villalba/Getty Images",
+  "copyrightLink": "/search?q=Cascada+Horsetail&form=hpcapt&filters=HpDate%3a%2220260219_2300%22",
+  "description": "La imagen de hoy muestra la impresionante cascada Horsetail en el parque nacional de Yosemite, en California (Estados Unidos). Una cascada que parece hecha de fuego, ya que el agua cae teñida de tonos naranjas y rojizos cuando la luz del atardecer incide con el ángulo justo, creando una ilusión óptica poco común. Este efecto solo se da durante algunos días de febrero y depende de que haya cielo despejado y suficiente caudal. La cascada Horsetail es estacional, aparece tras el deshielo y alcanza un desnivel cercano a los 650 metros.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_AdamsFirefall%22&FORM=HPQUIZ",
+  "hash": "e52068b0ca8244ba25de6ef0007a516f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ES-ES3757807854_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260219",
+    "fullStartDateTime": "202602192300",
+    "endDate": "20260220"
+  },
+  "createdAt": "202602200327",
+  "originalUrlBase": "/th?id=OHR.AdamsFirefall_ES-ES3757807854"
+}

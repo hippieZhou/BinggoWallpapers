@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Dove cade la luce",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cascata Horsetail, Parco Nazionale di Yosemite, California, USA (© Jorge Villalba/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cascata+Horsetail&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_AdamsFirefall%22&FORM=HPQUIZ",
+  "hash": "eb4d8ed099f6dc3b6106efc56c5e334a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_IT-IT7705285382_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260219",
+    "fullStartDateTime": "202602192300",
+    "endDate": "20260220"
+  },
+  "createdAt": "202602200327",
+  "originalUrlBase": "/th?id=OHR.AdamsFirefall_IT-IT7705285382"
+}

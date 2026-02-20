@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Uttakleiv+Beach+Norway&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_DragonsEyeRock%22&FORM=HPQUIZ",
+  "hash": "48b3777061de46c2aa93f5c84358aaaf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_ROW1212085075_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_ROW1212085075_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_ROW1212085075_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_ROW1212085075_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260219",
+    "fullStartDateTime": "202602190800",
+    "endDate": "20260220"
+  },
+  "createdAt": "202602200327",
+  "originalUrlBase": "/th?id=OHR.DragonsEyeRock_ROW1212085075"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Feb 19, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Where the land stares back",
+  "bsTitle": "Where the land stares back",
+  "caption": "Dragon's Eye, Uttakleiv Beach, Norway",
+  "copyright": "The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)",
+  "copyrightOnly": "© reisegraf/Getty Images",
+  "copyrightLink": "/search?q=Uttakleiv+Beach+Norway&form=hpcapt&filters=HpDate%3a%2220260219_0800%22",
+  "description": "Dragon's Eye sounds like something pulled from legend, and standing on Norway's Uttakleiv Beach in the Lofoten Islands, it's easy to see why. The formation, carved into ancient rock and framed by sand and sea, looks uncannily alive, as though the land itself is watching you. Shaped over thousands of years by ice and water, it has become one of the region's most captivating sights.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_DragonsEyeRock%22&FORM=HPQUIZ",
+  "hash": "f7fe7058a6211ed59766cca876670d54",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260219",
+    "fullStartDateTime": "202602190800",
+    "endDate": "20260220"
+  },
+  "createdAt": "202602200327",
+  "originalUrlBase": "/th?id=OHR.DragonsEyeRock_EN-US6826796617"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "光照之处",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国 (© Jorge Villalba/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%ba%a6%e5%a1%9e%e7%b1%b3%e8%92%82%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad%e9%87%8c%e7%9a%84%e7%81%ab%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260219_AdamsFirefall%22&FORM=HPQUIZ",
+  "hash": "d7e6513e69e4fde1fe73f72be0618640",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260219",
+    "fullStartDateTime": "202602191600",
+    "endDate": "20260220"
+  },
+  "createdAt": "202602200327",
+  "originalUrlBase": "/th?id=OHR.AdamsFirefall_ZH-CN9409143565"
+}
