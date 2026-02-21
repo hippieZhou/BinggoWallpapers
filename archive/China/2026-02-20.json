@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "冬日的低语",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国 (© Radomir Jakubowski/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%b5%a4%e7%8b%90&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_TetonFox%22&FORM=HPQUIZ",
+  "hash": "3b348e69454e249847fa9b02d8e4eba8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260220",
+    "fullStartDateTime": "202602201600",
+    "endDate": "20260221"
+  },
+  "createdAt": "202602210317",
+  "originalUrlBase": "/th?id=OHR.TetonFox_ZH-CN9461948674"
+}

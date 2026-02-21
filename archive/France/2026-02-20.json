@@ -1,0 +1,43 @@
+{
+  "date": "21 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Majesté alpine",
+  "bsTitle": "Majesté alpine",
+  "caption": "Le bouquetin des Alpes",
+  "copyright": "Le bouquetin des Alpes (© AUSLOOS Henry/hemis.fr/Alamy)",
+  "copyrightOnly": "© AUSLOOS Henry/hemis.fr/Alamy",
+  "copyrightLink": "/search?q=bouquetin+des+Alpes&form=hpcapt&filters=HpDate%3a%2220260220_2300%22",
+  "description": "Au lever du jour, dans l’immensité minérale des Alpes, une silhouette se détache sur une arête : c’est le bouquetin des Alpes (Capra Ibex), seigneur des parois, dont les sabots semblent connaître chaque fissure, chaque prise offerte par la roche. Ses cornes arquées sont les témoins d’une histoire ancienne\u2009: celle d’une espèce au bord de l’extinction au début du XIXe siècle, sauvée in extremis dans le massif italien du Grand Paradis, avant de reconquérir peu à peu les Alpes françaises.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260220_CapraIbex%22&FORM=HPQUIZ",
+  "hash": "c87315f16afee98a933f0919addfd54d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CapraIbex_FR-FR0715684177_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260220",
+    "fullStartDateTime": "202602202300",
+    "endDate": "20260221"
+  },
+  "createdAt": "202602210317",
+  "originalUrlBase": "/th?id=OHR.CapraIbex_FR-FR0715684177"
+}

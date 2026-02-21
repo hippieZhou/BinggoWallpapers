@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A lógica do instinto",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Raposa-vermelha no Parque Nacional de Grand Teton, Wyoming, EUA (© Radomir Jakubowski/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=raposa+vermelha&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_TetonFox%22&FORM=HPQUIZ",
+  "hash": "28142a537844d6e648d8953335bfd7ee",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_PT-BR4620358232_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260221",
+    "fullStartDateTime": "202602210300",
+    "endDate": "20260222"
+  },
+  "createdAt": "202602210317",
+  "originalUrlBase": "/th?id=OHR.TetonFox_PT-BR4620358232"
+}
