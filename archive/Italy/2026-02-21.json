@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "La madre delle colline",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Collina di Mam Tor, Derbyshire, Inghilterra (© john finney photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Mam+Tor&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+  "hash": "a3827a82a5fe6ab127d290fc54cfe24a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_IT-IT4131533173_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260221",
+    "fullStartDateTime": "202602212300",
+    "endDate": "20260222"
+  },
+  "createdAt": "202602220332",
+  "originalUrlBase": "/th?id=OHR.MamTorSunrise_IT-IT4131533173"
+}

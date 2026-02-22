@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 22 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "雪原に広がるなだらかな丘陵",
+  "bsTitle": "雪原に広がるなだらかな丘陵",
+  "caption": "雪原に広がるなだらかな丘陵",
+  "copyright": "マム・トーの丘, イングランド (© john finney photography/Getty Images)",
+  "copyrightOnly": "© john finney photography/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%9e%e3%83%a0%e3%83%bb%e3%83%88%e3%83%bc%e3%81%ae%e4%b8%98&form=hpcapt&filters=HpDate%3a%2220260221_1500%22",
+  "description": "マム・トーは、イングランド・ダービーシャー州のピーク・ディストリクト国立公園内にある標高 517m の丘です。「母なる丘」を意味し、東斜面で繰り返される地滑りによって麓に無数の「小さな丘」が生まれたことが名前の由来となっています。また、丘の周囲には四つの洞窟もあり、雄大な景観と歩きやすい尾根道が楽しめることから、この地を代表する散策スポットとして親しまれています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+  "hash": "90bcba24b7d270b37b543cddc253a40e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_JA-JP8500587140_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_JA-JP8500587140_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_JA-JP8500587140_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_JA-JP8500587140_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260221",
+    "fullStartDateTime": "202602211500",
+    "endDate": "20260222"
+  },
+  "createdAt": "202602220332",
+  "originalUrlBase": "/th?id=OHR.MamTorSunrise_JA-JP8500587140"
+}

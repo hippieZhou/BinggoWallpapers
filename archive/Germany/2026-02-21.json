@@ -1,0 +1,43 @@
+{
+  "date": "22. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Mutter der Hügel",
+  "bsTitle": "Die Mutter der Hügel",
+  "caption": "Mam Tor, Derbyshire, England",
+  "copyright": "Mam Tor, Derbyshire, England (© john finney photography/Getty Images)",
+  "copyrightOnly": "© john finney photography/Getty Images",
+  "copyrightLink": "/search?q=Mam+Tor+Berg&form=hpcapt&filters=HpDate%3a%2220260221_2300%22",
+  "description": "Warum wird ein Berg der „Zitternde Berg“ genannt? Mam Tor, oberhalb von Castleton in der englischen Grafschaft Derbyshire gelegen, liefert die Antwort eindrucksvoll. Der 517 Meter hohe Berg befindet sich im Peak District, dem ältesten Nationalpark des Vereinigten Königreichs, der sich über rund 1.400 Quadratkilometer erstreckt. Sein Name stammt aus dem Altenglischen. „Mam“ bedeutet „Mutter“ und verweist auf die kleineren Hügel, die sich um den Hauptgipfel scharen. Unter der Oberfläche ist Mam Tor jedoch ständig in Bewegung. Seit Jahrhunderten rutschen hier Schiefer- und Sandsteinschichten talwärts. Diese Instabilität führte Ende der 1970er‑Jahre zur endgültigen Aufgabe der wichtigen Verbindungsstraße A625. Ihre Reste gelten heute als ungewöhnliches Fotomotiv.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+  "hash": "757c6b395aaa1914360b2592be032435",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260221",
+    "fullStartDateTime": "202602212300",
+    "endDate": "20260222"
+  },
+  "createdAt": "202602220332",
+  "originalUrlBase": "/th?id=OHR.MamTorSunrise_DE-DE1078293930"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Na sinfonia das quedas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista aérea das Cataratas do Iguaçu, Foz do Iguaçu, Paraná (© NidoHuebl/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=cataratas+do+igua%c3%a7u&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_IgFalls%22&FORM=HPQUIZ",
+  "hash": "21b2e58bee2538e6088e0f2d21313cba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IgFalls_PT-BR4551523679_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260222",
+    "fullStartDateTime": "202602220300",
+    "endDate": "20260223"
+  },
+  "createdAt": "202602220332",
+  "originalUrlBase": "/th?id=OHR.IgFalls_PT-BR4551523679"
+}

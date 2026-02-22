@@ -1,0 +1,43 @@
+{
+  "date": "Feb 21, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Whispers of winter",
+  "bsTitle": "Whispers of winter",
+  "caption": "Red fox, Grand Teton National Park, Wyoming",
+  "copyright": "Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)",
+  "copyrightOnly": "© Radomir Jakubowski/naturepl.com",
+  "copyrightLink": "/search?q=Red+fox&form=hpcapt&filters=HpDate%3a%2220260221_0800%22",
+  "description": "A red fox standing in the snowfall of Grand Teton National Park is more than a picturesque moment—it offers a glimpse into the resilience of one of North America's most adaptable predators. This small carnivore is instantly recognizable by its sharp gaze and thick, fiery coat that helps it thrive even in Wyoming's harsh winter conditions. Snow muffles sound, yet the animal's extraordinary hearing allows it to detect prey moving beneath the surface. You can almost imagine it pausing amid the drifting flakes, ears rotating, body perfectly still, waiting for the faintest rustle.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_TetonFox%22&FORM=HPQUIZ",
+  "hash": "e039c6bea97591e3dc68c85b354e2bfb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260221",
+    "fullStartDateTime": "202602210800",
+    "endDate": "20260222"
+  },
+  "createdAt": "202602220332",
+  "originalUrlBase": "/th?id=OHR.TetonFox_EN-US2616700325"
+}

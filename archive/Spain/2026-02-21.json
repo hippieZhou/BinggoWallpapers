@@ -1,0 +1,43 @@
+{
+  "date": "22 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La madre de las colinas",
+  "bsTitle": "La madre de las colinas",
+  "caption": "Colina de Mam Tor, Derbyshire, Inglaterra",
+  "copyright": "Colina de Mam Tor, Derbyshire, Inglaterra (© john finney photography/Getty Images)",
+  "copyrightOnly": "© john finney photography/Getty Images",
+  "copyrightLink": "/search?q=Colina+de+Mam+Tor&form=hpcapt&filters=HpDate%3a%2220260221_2300%22",
+  "description": "Apodada \"la montaña temblorosa\" por los continuos deslizamientos de sus laderas, la colina de Mam Tor domina el paisaje con su silueta de 517 metros de altura. La combinación de rocas calizas y margas explica su inestabilidad y la textura escalonada de las pendientes. La cumbre es un balcón abierto al cielo y al viento con senderos definidos y un itinerario de arista muy apreciado por caminantes y amantes de la fotografía. En días claros se distingue un mosaico de praderas, muros de piedra y aldeas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260221_MamTorSunrise%22&FORM=HPQUIZ",
+  "hash": "f2bc63c30aff7bef0de636fff7a02168",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_ES-ES3653407360_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260221",
+    "fullStartDateTime": "202602212300",
+    "endDate": "20260222"
+  },
+  "createdAt": "202602220332",
+  "originalUrlBase": "/th?id=OHR.MamTorSunrise_ES-ES3653407360"
+}
