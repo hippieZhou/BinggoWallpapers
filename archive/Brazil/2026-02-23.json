@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Elegância predadora",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Garça-branca-grande, Alta Baviera, Alemanha (© Konrad Wothe/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=garca+branca+grande&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_BavariaEgret%22&FORM=HPQUIZ",
+  "hash": "75bc1528386da5840e5ab883c57e62c6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_PT-BR4509525188_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_PT-BR4509525188_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_PT-BR4509525188_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_PT-BR4509525188_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260223",
+    "fullStartDateTime": "202602230300",
+    "endDate": "20260224"
+  },
+  "createdAt": "202602230335",
+  "originalUrlBase": "/th?id=OHR.BavariaEgret_PT-BR4509525188"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 23 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は「富士山の日」",
+  "bsTitle": "今日は「富士山の日」",
+  "caption": "今日は「富士山の日」",
+  "copyright": "富士山, 静岡県 (© Cravetiger/Getty Images)",
+  "copyrightOnly": "© Cravetiger/Getty Images",
+  "copyrightLink": "/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220260222_1500%22",
+  "description": "今日 2 月 23 日は天皇誕生日であり、「富士山 (223) 」の語呂合わせで、静岡県と山梨県が制定した「富士山の日」でもあります。この日を祝して、静岡県の景勝地、日本平から望む富士山と清水港の夕景をお届けします。清水港は、長崎港と神戸港と並び「日本三大美港」に数えられており、クルーズ客船の寄港も多く、近年は貿易港としてだけではなく、観光港としても整備されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_MountFuji2026%22&FORM=HPQUIZ",
+  "hash": "d05b6dd38b782eba920c7522b003af25",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260222",
+    "fullStartDateTime": "202602221500",
+    "endDate": "20260223"
+  },
+  "createdAt": "202602230335",
+  "originalUrlBase": "/th?id=OHR.MountFuji2026_JA-JP8594170652"
+}

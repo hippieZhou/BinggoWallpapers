@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Battito floreale",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ninfee, Grand Cenote, Tulum, Messico (© Christian Vizl/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cenote&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_TulumLilies%22&FORM=HPQUIZ",
+  "hash": "0c449ce5837c9397ac74ac6f320f7801",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_IT-IT7765619476_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260222",
+    "fullStartDateTime": "202602222300",
+    "endDate": "20260223"
+  },
+  "createdAt": "202602230335",
+  "originalUrlBase": "/th?id=OHR.TulumLilies_IT-IT7765619476"
+}

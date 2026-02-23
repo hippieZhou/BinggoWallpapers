@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "雪原之王",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a4%a7%e7%99%bd%e9%b9%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_BavariaEgret%22&FORM=HPQUIZ",
+  "hash": "3352b36eb4d52279c23a648fef52a9c3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260222",
+    "fullStartDateTime": "202602221600",
+    "endDate": "20260223"
+  },
+  "createdAt": "202602230335",
+  "originalUrlBase": "/th?id=OHR.BavariaEgret_ZH-CN0521643213"
+}

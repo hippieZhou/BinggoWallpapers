@@ -1,0 +1,43 @@
+{
+  "date": "23 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Monarca de los campos nevados",
+  "bsTitle": "Monarca de los campos nevados",
+  "caption": "Garza blanca, Alta Baviera, Alemania",
+  "copyright": "Garza blanca, Alta Baviera, Alemania (© Konrad Wothe/naturepl.com)",
+  "copyrightOnly": "© Konrad Wothe/naturepl.com",
+  "copyrightLink": "/search?q=Garza+blanca&form=hpcapt&filters=HpDate%3a%2220260222_2300%22",
+  "description": "La garza blanca grande es una de las aves más elegantes de los humedales. Destaca por su plumaje completamente blanco, su largo cuello y su vuelo pausado. Puede permanecer inmóvil durante minutos mientras espera a su presa, una curiosidad que la convierte en una experta cazadora. A finales del siglo XIX estuvo al borde de la desaparición, pero su protección la transformó en un símbolo internacional de conservación de la naturaleza.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260222_BavariaEgret%22&FORM=HPQUIZ",
+  "hash": "039beaff303a4e32d33debce94f90cb4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ES-ES3880948724_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ES-ES3880948724_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ES-ES3880948724_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BavariaEgret_ES-ES3880948724_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260222",
+    "fullStartDateTime": "202602222300",
+    "endDate": "20260223"
+  },
+  "createdAt": "202602230335",
+  "originalUrlBase": "/th?id=OHR.BavariaEgret_ES-ES3880948724"
+}
