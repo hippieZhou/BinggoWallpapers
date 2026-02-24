@@ -23,6 +23,8 @@ public class DownloadService(
 {
     private readonly ConcurrentDictionary<Guid, DownloadInfoDto> _downloadQueue = new();
     private readonly ConcurrentDictionary<Guid, CancellationTokenSource> _downloadCancellations = new();
+    // 使用复合键索引，优化重复检查性能：O(1) 查找
+    private readonly ConcurrentDictionary<(Guid WallpaperId, ResolutionCode ResolutionCode), Guid> _downloadIndex = new();
 
     /// <summary>
     /// 下载进度更新事件
@@ -83,26 +85,30 @@ public class DownloadService(
         ArgumentNullException.ThrowIfNull(resolution);
 
         var downloadInfo = CreateDownloadInfo(wallpaper, resolution);
+        var indexKey = (wallpaper.Id, resolution.Code);
 
-        // 检查是否已在队列中
-        var existingDownload = _downloadQueue.Values.FirstOrDefault(d =>
-            d.Wallpaper.Id == wallpaper.Id && d.Resolution.Code == resolution.Code &&
-            d.Status is DownloadStatus.Pending or DownloadStatus.InProgress);
-
-        if (existingDownload != null)
+        // 使用字典索引快速检查是否已在队列中（O(1) 时间复杂度）
+        if (_downloadIndex.TryGetValue(indexKey, out var existingDownloadId))
         {
-            logger.LogInformation("壁纸已在下载队列中，返回现有任务: {Title}", wallpaper.Title);
-            return existingDownload.DownloadId;
+            if (_downloadQueue.TryGetValue(existingDownloadId, out var existingDownload) &&
+                existingDownload.Status is DownloadStatus.Waiting or DownloadStatus.InProgress)
+            {
+                logger.LogInformation("壁纸已在下载队列中，返回现有任务: {Title}", wallpaper.Title);
+                return existingDownloadId;
+            }
+            // 如果现有任务已完成/失败/取消，移除索引以便重新下载
+            _downloadIndex.TryRemove(indexKey, out _);
         }
 
-        // 添加到下载队列
+        // 添加到下载队列和索引
         _downloadQueue[downloadInfo.DownloadId] = downloadInfo;
+        _downloadIndex[indexKey] = downloadInfo.DownloadId;
         logger.LogInformation("添加下载任务: {Title} - {Resolution}", wallpaper.Title, resolution.Name);
 
         // 启动下载任务（不等待完成）
         _ = Task.Run(async () => await PerformDownloadAsync(downloadInfo, OnDownloadProgressUpdated, cancellationToken), cancellationToken);
 
-        return await Task.FromResult(downloadInfo.DownloadId);
+        return downloadInfo.DownloadId;
     }
 
     public Task CancelDownloadAsync(Guid downloadId, CancellationToken cancellationToken = default)
@@ -116,7 +122,7 @@ public class DownloadService(
         if (_downloadQueue.TryGetValue(downloadId, out var download))
         {
             var cancelOldStatus = download.Status;
-            download.Status = DownloadStatus.Cancelled;
+            download.Status = DownloadStatus.Canceled;
             download.CompletedTime = DateTimeProvider.GetUtcNow().DateTime;
             OnDownloadStatusChanged(downloadId, cancelOldStatus, download.Status, download);
         }
@@ -136,6 +142,7 @@ public class DownloadService(
 
         _downloadQueue.Clear();
         _downloadCancellations.Clear();
+        _downloadIndex.Clear();
 
         logger.LogInformation("清理下载队列: 移除 {Count} 项", count);
         return Task.CompletedTask;
@@ -150,9 +157,12 @@ public class DownloadService(
             _downloadCancellations.TryRemove(downloadId, out _);
         }
 
-        // 从队列中移除
+        // 从队列和索引中移除
         if (_downloadQueue.TryRemove(downloadId, out var download))
         {
+            // 从索引中移除
+            var indexKey = (download.Wallpaper.Id, download.Resolution.Code);
+            _downloadIndex.TryRemove(indexKey, out _);
             logger.LogInformation("删除下载任务: {DownloadId} - {Title}", downloadId, download.Wallpaper.Title);
         }
         else
@@ -170,7 +180,7 @@ public class DownloadService(
             DownloadId = Guid.NewGuid(),
             Wallpaper = wallpaper,
             Resolution = resolution,
-            Status = DownloadStatus.Pending,
+            Status = DownloadStatus.Waiting,
             StartTime = DateTime.Now
         };
     }
@@ -245,7 +255,7 @@ public class DownloadService(
         catch (OperationCanceledException)
         {
             var cancelledOldStatus = downloadInfo.Status;
-            downloadInfo.Status = DownloadStatus.Cancelled;
+            downloadInfo.Status = DownloadStatus.Canceled;
             downloadInfo.CompletedTime = DateTimeProvider.GetUtcNow().DateTime;
             OnDownloadStatusChanged(downloadInfo.DownloadId, cancelledOldStatus, downloadInfo.Status, downloadInfo);
             logger.LogInformation("下载被取消: {Title}", downloadInfo.Wallpaper.Title);
@@ -264,6 +274,14 @@ public class DownloadService(
         {
             progressCallback?.Invoke(downloadInfo);
             _downloadCancellations.TryRemove(downloadInfo.DownloadId, out _);
+            
+            // 如果下载完成、失败或取消，从索引中移除，允许重新下载
+            if (downloadInfo.Status is DownloadStatus.Completed or DownloadStatus.Failed or DownloadStatus.Canceled)
+            {
+                var indexKey = (downloadInfo.Wallpaper.Id, downloadInfo.Resolution.Code);
+                _downloadIndex.TryRemove(indexKey, out _);
+            }
+            
             cts.Dispose();
         }
     }

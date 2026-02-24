@@ -140,8 +140,8 @@
   <data name="Shell_Gallery.Content" xml:space="preserve">
     <value>首页</value>
   </data>
-  <data name="Shell_Download.Content" xml:space="preserve">
-    <value>下载</value>
+  <data name="Shell_Refresh.Content" xml:space="preserve">
+    <value>刷新</value>
   </data>
   <data name="SettingsPage_PageTitle.Text" xml:space="preserve">
     <value>个性化设置</value>
@@ -220,6 +220,12 @@
   </data>
   <data name="SettingsPage_TrayIconExpander.Description" xml:space="preserve">
     <value>在系统托盘中显示应用图标，方便快速访问</value>
+  </data>
+  <data name="SettingsPage_DefaultMarketCard.Header" xml:space="preserve">
+    <value>默认区域</value>
+  </data>
+  <data name="SettingsPage_DefaultMarketCard.Description" xml:space="preserve">
+    <value>选择默认的壁纸区域，影响首页显示的壁纸内容</value>
   </data>
   <data name="SettingsPage_AboutSection.Text" xml:space="preserve">
     <value>关于</value>
@@ -334,5 +340,11 @@
   </data>
   <data name="DetailPage_ExportButton.Content" xml:space="preserve">
     <value>导出</value>
+  </data>
+  <data name="DownloadProgressList_Title.Text" xml:space="preserve">
+    <value>下载</value>
+  </data>
+  <data name="DownloadProgressList_Clear.Text" xml:space="preserve">
+    <value>清空历史</value>
   </data>
 </root>

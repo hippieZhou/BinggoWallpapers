@@ -146,8 +146,6 @@ public static class ServiceCollectionExtensions
     {
         services.AddTransient<SettingsViewModel>();
         services.AddTransient<SettingsPage>();
-        services.AddTransient<DownloadViewModel>();
-        services.AddTransient<DownloadPage>();
         services.AddTransient<HomeViewModel>();
         services.AddTransient<HomePage>();
         services.AddTransient<DetailViewModel>();

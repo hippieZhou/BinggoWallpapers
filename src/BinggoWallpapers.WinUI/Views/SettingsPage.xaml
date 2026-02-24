@@ -25,6 +25,14 @@
                 <Setter Property="Margin" Value="1,30,0,6" />
             </Style.Setters>
         </Style>
+        <DataTemplate x:Key="MarketInfoTemplate" x:DataType="model:MarketInfoModel">
+            <StackPanel Orientation="Horizontal" Spacing="8">
+                <TextBlock
+                    VerticalAlignment="Center"
+                    FontSize="14"
+                    Text="{x:Bind ToString()}" />
+            </StackPanel>
+        </DataTemplate>
     </Page.Resources>
 
     <ScrollViewer>
@@ -140,6 +148,29 @@
                     d:Header="系统托盘图标"
                     HeaderIcon="{ui:FontIcon Glyph=&#xE7C4;}">
                     <ToggleSwitch IsOn="{x:Bind ViewModel.IsTrayIconEnabled, Mode=TwoWay}" />
+                </controls:SettingsCard>
+                <controls:SettingsCard
+                    x:Uid="SettingsPage_DefaultMarketCard"
+                    d:Description="选择默认的壁纸区域，影响首页显示的壁纸内容"
+                    d:Header="默认区域"
+                    HeaderIcon="{ui:FontIcon Glyph=&#xE707;}">
+                    <ComboBox
+                        x:Uid="SettingsPage_DefaultMarketComboBox"
+                        HorizontalAlignment="Left"
+                        ItemTemplate="{StaticResource MarketInfoTemplate}"
+                        ItemsSource="{x:Bind ViewModel.Markets, Mode=OneWay}"
+                        SelectedItem="{x:Bind ViewModel.CurrentMarket, Mode=OneWay}">
+                        <ComboBox.ItemContainerStyle>
+                            <Style TargetType="ComboBoxItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                            </Style>
+                        </ComboBox.ItemContainerStyle>
+                        <i:Interaction.Behaviors>
+                            <i:EventTriggerBehavior EventName="SelectionChanged">
+                                <i:InvokeCommandAction Command="{x:Bind ViewModel.SwitchMarketCommand}" />
+                            </i:EventTriggerBehavior>
+                        </i:Interaction.Behaviors>
+                    </ComboBox>
                 </controls:SettingsCard>
                 <controls:SettingsCard
                     x:Uid="SettingsPage_SyncCard"

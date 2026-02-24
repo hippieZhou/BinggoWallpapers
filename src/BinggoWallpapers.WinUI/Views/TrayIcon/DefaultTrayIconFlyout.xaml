@@ -22,15 +22,22 @@
                 IsCacheEnabled="True"
                 Source="{x:Bind local:DefaultTrayIconFlyout.ConvertToMobileResolution(ViewModel.Wallpaper.Url), Mode=OneWay}"
                 Stretch="UniformToFill" />
-            <TextBlock
+            <Grid
                 Margin="24"
                 HorizontalAlignment="Left"
                 VerticalAlignment="Top"
-                Style="{StaticResource SubtitleTextBlockStyle}"
-                Text="{x:Bind ViewModel.Wallpaper.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}"
-                TextLineBounds="TrimToCapHeight"
-                TextWrapping="NoWrap" />
-            <StackPanel Margin="24,24,12,24" VerticalAlignment="Bottom">
+                Style="{StaticResource CardGridStyle}">
+                <TextBlock
+                    VerticalAlignment="Center"
+                    Style="{StaticResource SubtitleTextBlockStyle}"
+                    Text="{x:Bind ViewModel.Wallpaper.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}"
+                    TextLineBounds="TrimToCapHeight"
+                    TextWrapping="NoWrap" />
+            </Grid>
+            <StackPanel
+                Margin="24,24,12,24"
+                VerticalAlignment="Bottom"
+                Style="{StaticResource CardPanelStyle}">
                 <TextBlock
                     x:Name="subtitleText"
                     Foreground="{ThemeResource TextFillColorSecondaryBrush}"

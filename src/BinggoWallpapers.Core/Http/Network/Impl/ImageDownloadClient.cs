@@ -56,7 +56,7 @@ public sealed class ImageDownloadClient(HttpClient httpClient, ILogger<ImageDown
         {
             FileName = fileName,
             Resolution = resolution,
-            Status = DownloadStatus.Pending
+            Status = DownloadStatus.Waiting
         };
 
         // 汇报初始状态

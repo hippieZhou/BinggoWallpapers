@@ -1,6 +1,5 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
-using System.Collections.ObjectModel;
 using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.Core.Services;
 using BinggoWallpapers.WinUI.Messages;
@@ -31,11 +30,6 @@ public partial class HomeViewModel : ObservableRecipient, INavigationAware, IRec
     [ObservableProperty]
     public partial WallpaperInfoDto Today { get; set; }
 
-    public ObservableCollection<MarketInfoDto> Markets { get; private set; }
-
-    [ObservableProperty]
-    public partial MarketInfoDto SelectedMarket { get; set; }
-
     [ObservableProperty]
     public partial bool IsLoading { get; set; }
 
@@ -56,9 +50,6 @@ public partial class HomeViewModel : ObservableRecipient, INavigationAware, IRec
         _logger = logger;
 
         IsActive = true;
-
-        Markets = new ObservableCollection<MarketInfoDto>(_marketSelectorService.SupportedMarkets);
-        SelectedMarket = _marketSelectorService.Market;
     }
 
     public void OnNavigatedFrom()
@@ -69,34 +60,18 @@ public partial class HomeViewModel : ObservableRecipient, INavigationAware, IRec
     {
     }
 
-    partial void OnSelectedMarketChanged(MarketInfoDto oldValue, MarketInfoDto newValue)
-    {
-        if (oldValue is null || newValue is null || oldValue.Code == newValue.Code)
-        {
-            return;
-        }
-
-        this.LoadedCommand.Execute(CancellationToken.None);
-    }
-
     [RelayCommand(IncludeCancelCommand = true, AllowConcurrentExecutions = false)]
     private async Task OnLoaded(CancellationToken cancellationToken = default)
     {
-        if (SelectedMarket is null)
-        {
-            return;
-        }
-
-        await _marketSelectorService.SetMarketAsync(SelectedMarket);
-
-        Today = await _managementService.GetLatestAsync(SelectedMarket, cancellationToken);
-        Wallpapers = _memoryCache.GetOrCreate(SelectedMarket, entry =>
+        var market = _marketSelectorService.Market;
+        Today = await _managementService.GetLatestAsync(market, cancellationToken);
+        Wallpapers = _memoryCache.GetOrCreate(market, entry =>
         {
             return new IncrementalLoadingCollection<WallpaperInfoSource, WallpaperInfoDto>(
                 source: new WallpaperInfoSource(_marketSelectorService, _managementService),
                 itemsPerPage: 10,
-                onStartLoading: () => { IsLoading = true; },
-                onEndLoading: () => { IsLoading = false; },
+                onStartLoading: () => IsLoading = true,
+                onEndLoading: () => IsLoading = false,
                 onError: ex =>
                 {
                     _logger.LogError(ex, $"加载壁纸失败: {ex.Message}");
