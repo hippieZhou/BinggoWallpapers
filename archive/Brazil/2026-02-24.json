@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Poesia submersa",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lírios-d’água no Gran Cenote, Tulum, México (© Christian Vizl/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=gran+cenote+tulum&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260224_TulumLilies%22&FORM=HPQUIZ",
+  "hash": "980d134617e4487ff5d748caf510469d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_PT-BR4448345675_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_PT-BR4448345675_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_PT-BR4448345675_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_PT-BR4448345675_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260224",
+    "fullStartDateTime": "202602240300",
+    "endDate": "20260225"
+  },
+  "createdAt": "202602240331",
+  "originalUrlBase": "/th?id=OHR.TulumLilies_PT-BR4448345675"
+}

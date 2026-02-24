@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 24 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "自然の鏡に映る色とりどりの葉",
+  "bsTitle": "自然の鏡に映る色とりどりの葉",
+  "caption": "自然の鏡に映る色とりどりの葉",
+  "copyright": "スイレン, メキシコ (© Christian Vizl/Tandem Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=%e3%82%b9%e3%82%a4%e3%83%ac%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260223_1500%22",
+  "description": "ここはメキシコ・トゥルムにあるグラン・セノーテ。セノーテとは、陥没穴に地下水が溜まってできたもので、澄んだ水が広がる神秘的な泉です。水面にはスイレンが浮かび、その下で魚や亀がゆったりと動き回ります。また、鍾乳石が連なる洞窟内にはトンボなどの昆虫が飛んでおり、何万年もの時をかけて形づくられた穏やかで豊かな自然の風景が広がっています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_TulumLilies%22&FORM=HPQUIZ",
+  "hash": "42f0fcc367f59bee657713f5032ee054",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260223",
+    "fullStartDateTime": "202602231500",
+    "endDate": "20260224"
+  },
+  "createdAt": "202602240331",
+  "originalUrlBase": "/th?id=OHR.TulumLilies_JA-JP8645849779"
+}

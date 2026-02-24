@@ -1,0 +1,43 @@
+{
+  "date": "24. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der Puls unter der Wasseroberfläche",
+  "bsTitle": "Der Puls unter der Wasseroberfläche",
+  "caption": "Seerosen im Gran Cenote, Tulum, Mexiko",
+  "copyright": "Seerosen im Gran Cenote, Tulum, Mexiko (© Christian Vizl/Tandem Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Gran+Cenote+Tulum+Mexiko&form=hpcapt&filters=HpDate%3a%2220260223_2300%22",
+  "description": "Seerosen auf spiegelglattem Wasser und eine verborgene Welt darunter prägen den Gran Cenote bei Tulum in Mexiko. Die natürliche Karsthöhle entstand vor Tausenden von Jahren, als Kalkgestein einstürzte. Dadurch wurde der Weg für das Grundwasser frei, sodass sich ein Süßwasserbecken bildete, das heute mit einem weit verzweigten Höhlensystem verbunden ist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260223_TulumLilies%22&FORM=HPQUIZ",
+  "hash": "7b39aedc616460451e3dafe5c1d95336",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_DE-DE2753544781_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260223",
+    "fullStartDateTime": "202602232300",
+    "endDate": "20260224"
+  },
+  "createdAt": "202602240331",
+  "originalUrlBase": "/th?id=OHR.TulumLilies_DE-DE2753544781"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Feb 24, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "The pulse beneath the pond",
+  "bsTitle": "The pulse beneath the pond",
+  "caption": "Water lilies at Grand Cenote, Tulum, Mexico",
+  "copyright": "Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)",
+  "copyrightOnly": "© Christian Vizl/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Grand+Cenote+Tulum&form=hpcapt&filters=HpDate%3a%2220260224_0000%22",
+  "description": "Floating lilies, crystal-clear pools and a hidden world below: welcome to the Grand Cenote in Tulum, Mexico. This natural sinkhole formed thousands of years ago when collapsing rock let aquifer waters in. Over time, the chamber filled with clear fresh water that now connects a vast underground system of caves. At first, our eyes rest on the still surface. The water lilies we see in the image float without hurry, their broad leaves catching sunlight while supporting rich ecosystems underneath. These botanical wonders belong to one of the oldest flowering lineages on Earth, dating back more than 125 million years—older than most dinosaurs. Each bloom has evolved clever tricks to attract pollinators—beetles, bees, flies and even the wind—using scent, shape and timing to ensure survival in still water.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260224_TulumLilies%22&FORM=HPQUIZ",
+  "hash": "24f385851c1eec8afbce25b68fb116f9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260224",
+    "fullStartDateTime": "202602240000",
+    "endDate": "20260225"
+  },
+  "createdAt": "202602240331",
+  "originalUrlBase": "/th?id=OHR.TulumLilies_EN-GB2782201800"
+}
