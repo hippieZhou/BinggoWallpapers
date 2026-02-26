@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 2月 月 26 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は米国グランドキャニオン国立公園の記念日",
+  "bsTitle": "今日は米国グランドキャニオン国立公園の記念日",
+  "caption": "今日は米国グランドキャニオン国立公園の記念日",
+  "copyright": "グランドキャニオン国立公園, 米国 アリゾナ州 (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "© Matt Anderson Photography/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%89%e3%82%ad%e3%83%a3%e3%83%8b%e3%82%aa%e3%83%b3%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260225_1500%22",
+  "description": "米国アリゾナ州に位置するグランドキャニオン国立公園は、1919 年の今日、2 月 26 日に国立公園に指定されました。この公園は、コロラド川が数百万年にわたって削り出した壮大な峡谷で形成されており、299 種以上の野鳥や 74 種の哺乳動物など、多種多様な動物が多く生息しています。また、世界で最も多くの化石が発見された場所でもあり、1979 年には世界遺産に登録されました。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "85effffa7d1a6400c2d84ced7443e7cb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_JA-JP8711394757_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260225",
+    "fullStartDateTime": "202602251500",
+    "endDate": "20260226"
+  },
+  "createdAt": "202602260328",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_JA-JP8711394757"
+}

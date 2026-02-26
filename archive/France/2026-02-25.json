@@ -1,0 +1,43 @@
+{
+  "date": "26 févr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une vue dont on ne se lasse pas",
+  "bsTitle": "Une vue dont on ne se lasse pas",
+  "caption": "Anniversaire du Parc National du Grand Canyon",
+  "copyright": "Le Grand Canyon et le fleuve Colorado, Arizona, États-Unis (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "© Matt Anderson Photography/Getty Images",
+  "copyrightLink": "/search?q=Parc+National+Grand+Canyon&form=hpcapt&filters=HpDate%3a%2220260225_2300%22",
+  "description": "Chaque 26 février, le Grand Canyon, en Arizona (États-Unis), célèbre un chapitre particulier de son histoire : celui où, à cette même date, en 1919, il est devenu parc national. Depuis, les falaises striées et les vastes plateaux baignés de lumière sont protégés, laissant le fleuve Colorado façonner l’emblématique vallée par l’érosion, saison après saison.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "4632dc2cc429d7b101b545fb12c1322c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_FR-FR2170146238_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260225",
+    "fullStartDateTime": "202602252300",
+    "endDate": "20260226"
+  },
+  "createdAt": "202602260328",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_FR-FR2170146238"
+}

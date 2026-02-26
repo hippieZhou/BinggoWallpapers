@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一幅壮丽的景象",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "大峡谷和科罗拉多河，亚利桑那州，美国 (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%be%8e%e5%9b%bd%e5%a4%a7%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "8b5e695b3eb4caf2a66b15b3c1d0040a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260225",
+    "fullStartDateTime": "202602251600",
+    "endDate": "20260226"
+  },
+  "createdAt": "202602260328",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_ZH-CN1905986519"
+}

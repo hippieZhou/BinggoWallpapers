@@ -1,0 +1,43 @@
+{
+  "date": "26 de feb. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una vista majestuosa",
+  "bsTitle": "Una vista majestuosa",
+  "caption": "Gran Cañón y río Colorado, Arizona, EE. UU.",
+  "copyright": "Gran Cañón y río Colorado, Arizona, EE. UU. (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "© Matt Anderson Photography/Getty Images",
+  "copyrightLink": "/search?q=Gran+Ca%c3%b1%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260225_2300%22",
+  "description": "El Gran Cañón se extiende como una escultura majestuosa en el norte de Arizona, Estados Unidos, resultado de millones de años de erosión paciente. Sus paredes revelan capas de roca que narran la historia geológica del continente, con colores cambiantes según la luz y la hora del día. La magnitud del paisaje desafía la escala humana y transmite una sensación de profundidad y silencio difíciles de olvidar, donde el viento y la piedra parecen dialogar sin prisa.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "4589383e3943c9fb6469581a2c50f8aa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ES-ES4658848615_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260225",
+    "fullStartDateTime": "202602252300",
+    "endDate": "20260226"
+  },
+  "createdAt": "202602260328",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_ES-ES4658848615"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Feb 26, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "One grand view",
+  "bsTitle": "One grand view",
+  "caption": "Grand Canyon National Park, Arizona, United States",
+  "copyright": "Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "© Matt Anderson Photography/Getty Images",
+  "copyrightLink": "/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate%3a%2220260225_1830%22",
+  "description": "Big, bold and impossible to ignore, Grand Canyon National Park in Arizona, United States, is one of those places that rewrites your sense of scale. Carved by the Colorado River over millions of years, this vast chasm exposes nearly two billion years of Earth's history in layers of red, gold and brown rock. Long before it gained national park status in 1919, Indigenous communities such as the Havasupai, Hopi, Navajo and Hualapai lived on and cared for this landscape. How many places can claim stories that old?",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "55d2616861db9ead94cfe3469c14ce4b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-IN1771406239_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260225",
+    "fullStartDateTime": "202602251830",
+    "endDate": "20260226"
+  },
+  "createdAt": "202602260328",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_EN-IN1771406239"
+}

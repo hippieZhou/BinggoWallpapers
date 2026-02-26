@@ -1,0 +1,43 @@
+{
+  "date": "26. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo der Tag erwacht",
+  "bsTitle": "Wo der Tag erwacht",
+  "caption": "Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt",
+  "copyright": "Sonnenaufgang auf dem Brocken, Nationalpark Harz, Sachsen‑Anhalt (© imageBROKER/AVTG/Getty Images)",
+  "copyrightOnly": "© imageBROKER/AVTG/Getty Images",
+  "copyrightLink": "/search?q=Brocken+Berg+Harz&form=hpcapt&filters=HpDate%3a%2220260225_2300%22",
+  "description": "In weiches Morgenlicht getaucht zeigt sich der Brocken von seiner ruhigen Seite. Von den Granitklippen der Teufelskanzel reicht der Blick weit über bewaldete Höhen, während in den Tälern noch letzte Nebelfelder liegen. Mit 1.141 Metern ist er der höchste Berg des Harzes und eine der markantesten Landmarken Norddeutschlands. Der Nationalpark rund um den Brocken ist geprägt von dichten Wäldern, offenen Hochlagen und häufig wechselhaftem Wetter. Durch die exponierte Lage entstehen hier besonders am frühen Morgen eindrucksvolle Lichtstimmungen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_BrockenSunrise%22&FORM=HPQUIZ",
+  "hash": "3777ca071d8c8ad1a2fd52c8cce13a27",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_DE-DE4032299807_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260225",
+    "fullStartDateTime": "202602252300",
+    "endDate": "20260226"
+  },
+  "createdAt": "202602260328",
+  "originalUrlBase": "/th?id=OHR.BrockenSunrise_DE-DE4032299807"
+}

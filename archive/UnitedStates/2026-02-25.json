@@ -1,0 +1,43 @@
+{
+  "date": "Feb 25, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Ice, lit from within",
+  "bsTitle": "Ice, lit from within",
+  "caption": "Mendenhall Glacier, Alaska",
+  "copyright": "Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)",
+  "copyrightOnly": "© Designpics/Adobe Stock",
+  "copyrightLink": "/search?q=Mendenhall+Glacier&form=hpcapt&filters=HpDate%3a%2220260225_0800%22",
+  "description": "Hidden just outside Juneau, Alaska, the Mendenhall Glacier feels almost unreal, inside and out. Step into one of its rare blue ice caves, and the world turns quiet and luminous, with light filtering through centuries-old compacted ice. The glacier stretches about 13 miles from the Juneau Icefield, slowly flowing toward the valley below and reshaping itself year by year.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260225_MendenhallCave%22&FORM=HPQUIZ",
+  "hash": "67d9d6b769501105582e171f06b6d359",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260225",
+    "fullStartDateTime": "202602250800",
+    "endDate": "20260226"
+  },
+  "createdAt": "202602260328",
+  "originalUrlBase": "/th?id=OHR.MendenhallCave_EN-US2807496139"
+}
