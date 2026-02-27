@@ -1,0 +1,43 @@
+{
+  "date": "Feb 26, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "One grand view",
+  "bsTitle": "One grand view",
+  "caption": "Grand Canyon National Park anniversary",
+  "copyright": "Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "© Matt Anderson Photography/Getty Images",
+  "copyrightLink": "/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate%3a%2220260226_0800%22",
+  "description": "Every day at Grand Canyon National Park tells a story, but February 26 is a special one. It marks the Grand Canyon's designation as a national park in 1919, a milestone that helped protect one of the most iconic natural wonders in the United States. At the heart of it all flows the Colorado River, winding for hundreds of miles through layered stone, quietly shaping the canyon one season at a time.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "96fffadfa32782ec21a11d11e8d1d279",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260226",
+    "fullStartDateTime": "202602260800",
+    "endDate": "20260227"
+  },
+  "createdAt": "202602270325",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_EN-US2473517741"
+}

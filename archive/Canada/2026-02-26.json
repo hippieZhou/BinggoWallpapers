@@ -1,0 +1,43 @@
+{
+  "date": "Feb. 26, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "One grand view",
+  "bsTitle": "One grand view",
+  "caption": "Grand Canyon National Park, Arizona, United States",
+  "copyright": "Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "© Matt Anderson Photography/Getty Images",
+  "copyrightLink": "/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate%3a%2220260226_0500%22",
+  "description": "The Grand Canyon National Park in Arizona is a place defined by time. Carved by the Colorado River over millions of years, its layered rock walls stretch for hundreds of kilometres across northern Arizona, forming one of the most recognisable landscapes south of the Canadian border. The river continues its quiet work today, shaping the canyon season by season.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "5bc4d1f756448601a0d187404c3f88ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260226",
+    "fullStartDateTime": "202602260500",
+    "endDate": "20260227"
+  },
+  "createdAt": "202602270325",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_EN-CA7701935901"
+}

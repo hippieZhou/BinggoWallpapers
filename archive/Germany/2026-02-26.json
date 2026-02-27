@@ -1,0 +1,43 @@
+{
+  "date": "27. Feb.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Leben auf schwindendem Eis",
+  "bsTitle": "Leben auf schwindendem Eis",
+  "caption": "Internationaler Tag des Eisbären",
+  "copyright": "Eisbärenjunges läuft über Packeis im Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)",
+  "copyrightOnly": "© Steven Kazlowski/naturepl.com",
+  "copyrightLink": "/search?q=Internationaler+Tag+Eisb%c3%a4ren&form=hpcapt&filters=HpDate%3a%2220260226_2300%22",
+  "description": "Der heutige Internationale Tag des Eisbären bietet die Gelegenheit, die ökologische Situation dieser Tierart besser zu verstehen. Eisbären leben in einem empfindlichen System, das vom Meereis abhängt. Es dient ihnen als Jagdplattform, ermöglicht lange Wanderungen und bildet einen wesentlichen Teil ihres Jahresrhythmus. Der Rückgang der Eisflächen zählt zu den größten Risiken für ihr Überleben. Ein wichtiger Punkt betrifft die Aufzucht der Jungen. Eisbärenjunge kommen extrem klein zur Welt und verbringen ihre ersten Lebenswochen in Schneehöhlen, die die Mutter im tiefen Winter anlegt. Erst später verlassen sie den Bau und beginnen, ihren Lebensraum zu erkunden.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_ArcitcCub%22&FORM=HPQUIZ",
+  "hash": "20158a3ce06b1a209c1cb4d4becb9b77",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260226",
+    "fullStartDateTime": "202602262300",
+    "endDate": "20260227"
+  },
+  "createdAt": "202602270325",
+  "originalUrlBase": "/th?id=OHR.ArcitcCub_DE-DE4317147803"
+}

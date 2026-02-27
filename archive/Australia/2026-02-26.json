@@ -1,0 +1,43 @@
+{
+  "date": "Feb 26, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Grand Canyon and the Colorado River, Arizona, United States",
+  "copyright": "Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)",
+  "copyrightOnly": "© Matt Anderson Photography/Getty Images",
+  "copyrightLink": "/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate%3a%2220260226_0800%22",
+  "description": "Every day at the Grand Canyon National Park in Arizona, United States, tells a story. At the heart of it all flows the Colorado River, winding for hundreds of kilometres through layered stone, quietly shaping the canyon one season at a time. Visitors can slow down and explore through ranger-led programs and talks that highlight the canyon's geology, wildlife and cultural history. A walk along the South Rim offers sweeping views where California condors circle overhead, while elk, mule deer and bighorn sheep roam the park's diverse habitats. Stargazing and scenic overlooks add to the experience, especially during winter's clearer nights.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260226_GrandSunset%22&FORM=HPQUIZ",
+  "hash": "211399bb2515c0159acd142e6ef9f0ff",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ROW3515132743_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ROW3515132743_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ROW3515132743_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandSunset_ROW3515132743_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260226",
+    "fullStartDateTime": "202602260800",
+    "endDate": "20260227"
+  },
+  "createdAt": "202602270325",
+  "originalUrlBase": "/th?id=OHR.GrandSunset_ROW3515132743"
+}

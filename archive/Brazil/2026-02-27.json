@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Os filhos do inverno",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Filhote de urso-polar sobre o gelo, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, Estados Unidos (© Steven Kazlowski/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=dia+do+urso+polar&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_ArcitcCub%22&FORM=HPQUIZ",
+  "hash": "565ef5c25cf32eb6072586a646335973",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260227",
+    "fullStartDateTime": "202602270300",
+    "endDate": "20260228"
+  },
+  "createdAt": "202602270325",
+  "originalUrlBase": "/th?id=OHR.ArcitcCub_PT-BR4178932499"
+}
