@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Respiro tropicale",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cascate Olo'upena, isola di Moloka'i, Hawaii, USA (© Andrew Aylett/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Molokai&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_OloupenaFalls%22&FORM=HPQUIZ",
+  "hash": "69d3085419dff471542d2fc81a2096de",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260227",
+    "fullStartDateTime": "202602272300",
+    "endDate": "20260228"
+  },
+  "createdAt": "202602280306",
+  "originalUrlBase": "/th?id=OHR.OloupenaFalls_IT-IT4647121958"
+}

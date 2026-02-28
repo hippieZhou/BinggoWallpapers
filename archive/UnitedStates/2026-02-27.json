@@ -1,0 +1,43 @@
+{
+  "date": "Feb 27, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Life on thinning ice",
+  "bsTitle": "Life on thinning ice",
+  "caption": "International Polar Bear Day",
+  "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)",
+  "copyrightOnly": "© Steven Kazlowski/naturepl.com",
+  "copyrightLink": "/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220260227_0800%22",
+  "description": "International Polar Bear Day underscores how closely these Arctic giants are tied to their frozen realms. Celebrated on February 27, the day shines a light on polar bears and the rapidly changing world beneath their paws. The world's largest land carnivores roam across vast icy landscapes, sometimes covering hundreds of miles in search of food. They're perfectly adapted to life on sea ice, with large paws that can span nearly a foot and help them swim for miles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260227_ArcitcCub%22&FORM=HPQUIZ",
+  "hash": "c2246847ac9fb140d3cba91c63ea7957",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260227",
+    "fullStartDateTime": "202602270800",
+    "endDate": "20260228"
+  },
+  "createdAt": "202602280306",
+  "originalUrlBase": "/th?id=OHR.ArcitcCub_EN-US2529097123"
+}
