@@ -1,0 +1,43 @@
+{
+  "date": "1 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les traditions insulaires à l’honneur",
+  "bsTitle": "Les traditions insulaires à l’honneur",
+  "caption": "Ibiza, Îles Baléares, Espagne",
+  "copyright": "Ibiza, Îles Baléares, Espagne (© tokar/Shutterstock)",
+  "copyrightOnly": "© tokar/Shutterstock",
+  "copyrightLink": "/search?q=ville+Ibiza&form=hpcapt&filters=HpDate%3a%2220260228_2300%22",
+  "description": "Aujourd’hui, les îles Baléares sont à l’honneur. Cette journée célèbre l’identité commune de cet archipel profondément méditerranéen — Majorque, Minorque, Ibiza et Formentera — tout en rappelant l’entrée en vigueur, le 1ᵉʳ mars 1983, de leur statut d’autonomie. Comme un écho à certains littoraux français où les traditions maritimes persistent encore, la mer guide ici le rythme de la vie quotidienne et alimente un patrimoine de musique, d’artisanat et d’hospitalité.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_BalearesDay%22&FORM=HPQUIZ",
+  "hash": "6c3ea27679641ab7797ed128f877da17",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260228",
+    "fullStartDateTime": "202602282300",
+    "endDate": "20260301"
+  },
+  "createdAt": "202603010337",
+  "originalUrlBase": "/th?id=OHR.BalearesDay_FR-FR4421004317"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 1 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "ダンスミュージックの聖地",
+  "bsTitle": "ダンスミュージックの聖地",
+  "caption": "ダンスミュージックの聖地",
+  "copyright": "イビサ島, スペイン (© tokar/Shutterstock)",
+  "copyrightOnly": "© tokar/Shutterstock",
+  "copyrightLink": "/search?q=%e3%82%a4%e3%83%93%e3%82%b5%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260228_1500%22",
+  "description": "地中海に浮かぶイビサ島。スペイン・バレアレス諸島に属するこの島は、世界的に有名なリゾート地です。透き通るような青い海と白い砂浜が広がり、白壁の家々が島の各地に点在しています。特に夏には、世界中から観光客や音楽ファンが集まり、クラブやビーチで世界的に有名な DJ によるパーティーが開かれることで知られています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_BalearesDay%22&FORM=HPQUIZ",
+  "hash": "bd1be5b9da19059923d83ee627238f6c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260228",
+    "fullStartDateTime": "202602281500",
+    "endDate": "20260301"
+  },
+  "createdAt": "202603010337",
+  "originalUrlBase": "/th?id=OHR.BalearesDay_JA-JP8835307227"
+}

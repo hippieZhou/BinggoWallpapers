@@ -1,0 +1,43 @@
+{
+  "date": "Feb. 28, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Overflowing with community",
+  "bsTitle": "Overflowing with community",
+  "caption": "Olo'upena Falls, island of Moloka'i, Hawaii, United States",
+  "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)",
+  "copyrightOnly": "© Andrew Aylett/Getty Images",
+  "copyrightLink": "/search?q=Molokai&form=hpcapt&filters=HpDate%3a%2220260228_0500%22",
+  "description": "Moloka'i, often called the most Hawaiian of the islands, offers a slower rhythm shaped by nature and strong community ties. Formed by volcanic activity more than a million years ago, the island covers about 673 square kilometres and rises from the Pacific Ocean in long ridges and broad valleys. Unlike its busier neighbours, Moloka'i has resisted large-scale development, preserving a strong sense of local cohesion where families, traditions and stewardship of the land encapsulate central values. Life here focuses on the ocean, the land and stories passed down through generations.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260228_OloupenaFalls%22&FORM=HPQUIZ",
+  "hash": "c736fca963e589b7ec595b7df7a5e54c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260228",
+    "fullStartDateTime": "202602280500",
+    "endDate": "20260301"
+  },
+  "createdAt": "202603010337",
+  "originalUrlBase": "/th?id=OHR.OloupenaFalls_EN-CA7570794029"
+}
