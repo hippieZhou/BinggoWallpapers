@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "漂浮的传承",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%b3%b0%e5%9b%bd%e8%8b%8f%e6%a2%85%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SamuiThailand%22&FORM=HPQUIZ",
+  "hash": "8d030509b56f36f3e2849c2f3170cc8b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260301",
+    "fullStartDateTime": "202603011600",
+    "endDate": "20260302"
+  },
+  "createdAt": "202603020326",
+  "originalUrlBase": "/th?id=OHR.SamuiThailand_ZH-CN3323790951"
+}

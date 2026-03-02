@@ -1,0 +1,43 @@
+{
+  "date": "2 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Belleza imponente",
+  "bsTitle": "Belleza imponente",
+  "caption": "Cascadas de Olo'upena, isla de Molokai, Hawái, EE. UU.",
+  "copyright": "Cascadas de Olo'upena, isla de Molokai, Hawái, EE. UU. (© Andrew Aylett/Getty Images)",
+  "copyrightOnly": "© Andrew Aylett/Getty Images",
+  "copyrightLink": "/search?q=Molokai&form=hpcapt&filters=HpDate%3a%2220260301_2300%22",
+  "description": "Las cascadas de Olo'upena, situadas en la isla de Molokai, en Hawái (Estados Unidos), se precipitan por abruptos acantilados volcánicos que caen directamente hacia el océano. Su enorme desnivel, cercano a los novecientos metros sumando todos sus tramos, las sitúa entre las más altas del planeta. Son estrechas, estacionales y difíciles de observar, ya que solo se distinguen desde el mar o el aire. Esta combinación de altura extrema y paisaje marino crea una imagen casi irreal, donde el agua dibuja hilos blancos sobre una pared verde y vertical.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_OloupenaFalls%22&FORM=HPQUIZ",
+  "hash": "967a09c29d46805b3ede23e4acaa37ba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_ES-ES6219064265_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_ES-ES6219064265_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_ES-ES6219064265_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_ES-ES6219064265_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260301",
+    "fullStartDateTime": "202603012300",
+    "endDate": "20260302"
+  },
+  "createdAt": "202603020326",
+  "originalUrlBase": "/th?id=OHR.OloupenaFalls_ES-ES6219064265"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Mar 1, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A victory that endures",
+  "bsTitle": "A victory that endures",
+  "caption": "Women's History Month",
+  "copyright": "Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)",
+  "copyrightOnly": "© Keystone/Hulton Archive/Getty Images",
+  "copyrightLink": "/search?q=Womens+History+Month&form=hpcapt&filters=HpDate%3a%2220260301_0800%22",
+  "description": "March welcomes the promise of spring and the celebration of Women's History Month, honoring trailblazers who changed history and continue to inspire future generations. It also amplifies emerging voices that lead us toward equality, showing that progress remains possible. Let's celebrate women—bold thinkers, innovators, and leaders—who prove that meaningful change begins with determination.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SuffragettesNY%22&FORM=HPQUIZ",
+  "hash": "208e8c34a86ba7e5da018d3abf2be32a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260301",
+    "fullStartDateTime": "202603010800",
+    "endDate": "20260302"
+  },
+  "createdAt": "202603020326",
+  "originalUrlBase": "/th?id=OHR.SuffragettesNY_EN-US2900175138"
+}

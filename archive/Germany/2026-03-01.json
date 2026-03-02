@@ -1,0 +1,43 @@
+{
+  "date": "2. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Geschichten auf dem Wasser",
+  "bsTitle": "Geschichten auf dem Wasser",
+  "caption": "Hafen und Longtail‑Boote auf Ko Samui, Thailand",
+  "copyright": "Hafen und Longtail‑Boote auf Ko Samui, Thailand (© Foto2rich/Shutterstock)",
+  "copyrightOnly": "© Foto2rich/Shutterstock",
+  "copyrightLink": "/search?q=Ko+Samui+Thailand&form=hpcapt&filters=HpDate%3a%2220260301_2300%22",
+  "description": "Wer auf Ko Samui ankommt, merkt schnell, wie stark das Leben auf dieser thailändischen Insel vom Wasser geprägt ist. Die schlanken Longtail‑Boote, die im heutigen Bild zu sehen sind, gehören seit dem frühen 20.\u202FJahrhundert zum Alltag der Menschen auf Samui. Fischer kombinierten damals einfache Motoren mit schmalen Holzrümpfen, um auch flache Küstenbereiche sicher zu erreichen. Bis heute entstehen viele Boote in Handarbeit. Sie werden bunt bemalt und mit Stoffbändern verziert, die Glück bringen und die Crew schützen sollen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_SamuiThailand%22&FORM=HPQUIZ",
+  "hash": "aa2aa6e18a88aaeea5703bc315765cc0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SamuiThailand_DE-DE5695333511_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260301",
+    "fullStartDateTime": "202603012300",
+    "endDate": "20260302"
+  },
+  "createdAt": "202603020326",
+  "originalUrlBase": "/th?id=OHR.SamuiThailand_DE-DE5695333511"
+}

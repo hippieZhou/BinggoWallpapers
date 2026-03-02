@@ -1,0 +1,43 @@
+{
+  "date": "Mar. 1, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Feather you like it or not",
+  "bsTitle": "Feather you like it or not",
+  "caption": "Snowy owl near the Canadian Rockies",
+  "copyright": "Snowy owl near the Canadian Rockies (© www.harshadventure.com/Moment/Getty Images)",
+  "copyrightOnly": "© www.harshadventure.com/Moment/Getty Images",
+  "copyrightLink": "/search?q=Snowy+owl&form=hpcapt&filters=HpDate%3a%2220260301_0500%22",
+  "description": "Owls are full of contradictions. Silent wings, loud opinions. They are night hunters that somehow feel ancient. From myths to cartoons, they have always had a presence. Athena's owl symbolised wisdom, while pop culture gave us lines we still quote—remember Owl from 'Winnie-the-Pooh' always sounding sure of himself?",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260301_OwlonGuard%22&FORM=HPQUIZ",
+  "hash": "3e273f3b891d7507d66f7e156e78cd77",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260301",
+    "fullStartDateTime": "202603010500",
+    "endDate": "20260302"
+  },
+  "createdAt": "202603020326",
+  "originalUrlBase": "/th?id=OHR.OwlonGuard_EN-CA7496212614"
+}
