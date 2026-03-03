@@ -1,0 +1,43 @@
+{
+  "date": "Mar 3, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Powered by Gulal",
+  "bsTitle": "Powered by Gulal",
+  "caption": "Celebrating Holi",
+  "copyright": "Group of people playing Holi in Rajasthan (© Bartosz Hadyniak/Getty Images)",
+  "copyrightOnly": "© Bartosz Hadyniak/Getty Images",
+  "copyrightLink": "/search?q=Holi&form=hpcapt&filters=HpDate%3a%2220260302_1830%22",
+  "description": "Guess what's in the air today? Smoke from the Holika Dahan, and tomorrow? Colour chaos everywhere! Streets, homes and parks burst into a riot of colours and water, alive with music, laughter and playful screams. Holi isn't just about colours; it's a chance to reconnect, laugh and forgive. Rooted in legends like that of Prahlad and Holika, the festival marks the arrival of spring and is a way to welcome new beginnings with joy.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_RJINHoli%22&FORM=HPQUIZ",
+  "hash": "a42467ceddf5a32f53d6394b82d6cbe3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RJINHoli_EN-IN3889528618_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RJINHoli_EN-IN3889528618_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RJINHoli_EN-IN3889528618_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RJINHoli_EN-IN3889528618_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260302",
+    "fullStartDateTime": "202603021830",
+    "endDate": "20260303"
+  },
+  "createdAt": "202603030329",
+  "originalUrlBase": "/th?id=OHR.RJINHoli_EN-IN3889528618"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "花灯映月，团圆吉祥",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%85%83%e5%ae%b5%e8%8a%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_LanternFestivalY26%22&FORM=HPQUIZ",
+  "hash": "0fefbde539d29d484bcc791468b2b859",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260302",
+    "fullStartDateTime": "202603021600",
+    "endDate": "20260303"
+  },
+  "createdAt": "202603030329",
+  "originalUrlBase": "/th?id=OHR.LanternFestivalY26_ZH-CN9186685796"
+}

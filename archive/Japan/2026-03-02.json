@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 3 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はひな祭り",
+  "bsTitle": "今日はひな祭り",
+  "caption": "今日はひな祭り",
+  "copyright": "竹筒から顔をのぞかせる可愛いひな人形 (© Bong Grit/Getty Images)",
+  "copyrightOnly": "© Bong Grit/Getty Images",
+  "copyrightLink": "/search?q=%e3%81%b2%e3%81%aa%e7%a5%ad%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220260302_1500%22",
+  "description": "今日 3 月 3 日はひな祭り。竹筒の中に入った可愛らしいひな人形をお届けします。ひな祭りの歴史は古く、諸説ありますが、平安時代に上巳の節句として行われていた、紙で作ったひな人形を川に流す「流しびな」の行事が起源ともいわれています。室町時代になると、現在のひな人形の原型ともいえる「立雛」が登場し、江戸時代になるとひな人形は次第に豪華さを増していきました。現代のような様式となったのは明治以降になります。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260302_HinaMatsuri2026%22&FORM=HPQUIZ",
+  "hash": "cff773ef0f0ced2c26d45b3f094ef726",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260302",
+    "fullStartDateTime": "202603021500",
+    "endDate": "20260303"
+  },
+  "createdAt": "202603030329",
+  "originalUrlBase": "/th?id=OHR.HinaMatsuri2026_JA-JP1524445029"
+}
