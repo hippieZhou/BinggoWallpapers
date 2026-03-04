@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A corrida pela primavera",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Flores roxas de açafrão, Sete Lagos de Rila, Bulgária (© Maya Karkalicheva/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=lagos+rila+na+bulgaria&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_RilaCrocuses%22&FORM=HPQUIZ",
+  "hash": "a7e1226979cbe964c7411e46e900506e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_PT-BR8047390781_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_PT-BR8047390781_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_PT-BR8047390781_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_PT-BR8047390781_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260304",
+    "fullStartDateTime": "202603040300",
+    "endDate": "20260305"
+  },
+  "createdAt": "202603040322",
+  "originalUrlBase": "/th?id=OHR.RilaCrocuses_PT-BR8047390781"
+}

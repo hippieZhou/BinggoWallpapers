@@ -1,0 +1,43 @@
+{
+  "date": "4 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Los crocus en el punto de mira",
+  "bsTitle": "Los crocus en el punto de mira",
+  "caption": "Flores de crocus púrpuras, Siete Lagos de Rila, Bulgaria",
+  "copyright": "Flores de crocus púrpuras, Siete Lagos de Rila, Bulgaria (© Maya Karkalicheva/Getty Images)",
+  "copyrightOnly": "© Maya Karkalicheva/Getty Images",
+  "copyrightLink": "/search?q=Siete+Lagos+de+Rila+Bulgaria&form=hpcapt&filters=HpDate%3a%2220260303_2300%22",
+  "description": "En la imagen de hoy se aprecia la impresionante belleza de las flores de crocus púrpuras en los Siete Lagos de Rila, en Bulgaria. Estas pequeñas plantas de montaña brotan tras el deshielo, anunciando la llegada de la primavera. Crecen a partir de cormos y resisten el frío extremo, abriéndose al sol durante pocas horas, lo que las convierte en un espectáculo efímero y muy fotografiado. Su presencia es común en praderas alpinas por encima de los dos mil metros y atrae a los primeros insectos polinizadores. Algunas especies son endémicas de la región balcánica.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260303_RilaCrocuses%22&FORM=HPQUIZ",
+  "hash": "f07542f723da2982fefeefd663c5e4ba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ES-ES6661275101_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ES-ES6661275101_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ES-ES6661275101_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ES-ES6661275101_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260303",
+    "fullStartDateTime": "202603032300",
+    "endDate": "20260304"
+  },
+  "createdAt": "202603040322",
+  "originalUrlBase": "/th?id=OHR.RilaCrocuses_ES-ES6661275101"
+}

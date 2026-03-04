@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Masai+Mara+National+Reserve&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260303_BabyElephant%22&FORM=HPQUIZ",
+  "hash": "1f1d9d1770584bb48c8062e69346d802",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_ROW4423597871_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_ROW4423597871_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_ROW4423597871_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_ROW4423597871_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260303",
+    "fullStartDateTime": "202603030800",
+    "endDate": "20260304"
+  },
+  "createdAt": "202603040322",
+  "originalUrlBase": "/th?id=OHR.BabyElephant_ROW4423597871"
+}

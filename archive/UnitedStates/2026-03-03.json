@@ -1,0 +1,43 @@
+{
+  "date": "Mar 3, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Guardians of the wild",
+  "bsTitle": "Guardians of the wild",
+  "caption": "World Wildlife Day",
+  "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)",
+  "copyrightOnly": "© Denis-Huot/naturepl.com",
+  "copyrightLink": "/search?q=World+Wildlife+Day+2026&form=hpcapt&filters=HpDate%3a%2220260303_0800%22",
+  "description": "Today is World Wildlife Day, a United Nations observance that invites us to reflect on our well-being's deep connection to the natural world. This year's theme focuses on medicinal and aromatic plants (MAPs)—species used in traditional healing, modern medicine, cosmetics, and food. The UN estimates that between 50,000 and 70,000 MAP species are harvested globally, with 70-95% of people in many developing countries relying on them for primary health care. However, many of these plants face mounting threats from habitat loss, overharvesting, and illegal trade, making sustainable use essential for their future.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260303_BabyElephant%22&FORM=HPQUIZ",
+  "hash": "55e652e73a432a15ca7355b594334a28",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260303",
+    "fullStartDateTime": "202603030800",
+    "endDate": "20260304"
+  },
+  "createdAt": "202603040322",
+  "originalUrlBase": "/th?id=OHR.BabyElephant_EN-US3103670102"
+}
