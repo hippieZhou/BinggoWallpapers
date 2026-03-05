@@ -1,0 +1,43 @@
+{
+  "date": "5 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Rocas antiguas, luces modernas",
+  "bsTitle": "Rocas antiguas, luces modernas",
+  "caption": "Atardecer sobre Göreme, Capadocia, Turquía",
+  "copyright": "Atardecer sobre Göreme, Capadocia, Turquía (© ONNAJA/Getty Images)",
+  "copyrightOnly": "© ONNAJA/Getty Images",
+  "copyrightLink": "/search?q=G%c3%b6reme+Turqu%c3%ada&form=hpcapt&filters=HpDate%3a%2220260304_2300%22",
+  "description": "Göreme se sitúa en el corazón de Capadocia, en Turquía, y parece surgida de un sueño geológico. Su paisaje nació tras antiguas erupciones volcánicas que cubrieron la región de toba blanda, modelada después durante miles de años por la erosión. Así aparecieron las chimeneas de hadas y los valles ondulados que hoy definen el lugar. Desde épocas remotas, sus habitantes excavaron casas, iglesias y refugios en la roca, creando un singular paisaje cultural integrado en la naturaleza.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_GoremeTwilight%22&FORM=HPQUIZ",
+  "hash": "af2c1f4931042f325004e978c5afd42f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ES-ES6859912248_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ES-ES6859912248_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ES-ES6859912248_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ES-ES6859912248_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260304",
+    "fullStartDateTime": "202603042300",
+    "endDate": "20260305"
+  },
+  "createdAt": "202603050325",
+  "originalUrlBase": "/th?id=OHR.GoremeTwilight_ES-ES6859912248"
+}

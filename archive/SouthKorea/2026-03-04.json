@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Seven+Rila+Lakes+Bulgaria&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_RilaCrocuses%22&FORM=HPQUIZ",
+  "hash": "23e63cac9ed3cb24796b265f1429cac5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ROW4635215657_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ROW4635215657_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ROW4635215657_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ROW4635215657_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260304",
+    "fullStartDateTime": "202603040800",
+    "endDate": "20260305"
+  },
+  "createdAt": "202603050325",
+  "originalUrlBase": "/th?id=OHR.RilaCrocuses_ROW4635215657"
+}

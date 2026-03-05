@@ -1,0 +1,43 @@
+{
+  "date": "5. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo Felsen Geschichten erzählen",
+  "bsTitle": "Wo Felsen Geschichten erzählen",
+  "caption": "Abendstimmung über Göreme, Kappadokien, Türkei",
+  "copyright": "Abendstimmung über Göreme, Kappadokien, Türkei (© ONNAJA/Getty Images)",
+  "copyrightOnly": "© ONNAJA/Getty Images",
+  "copyrightLink": "/search?q=G%c3%b6reme+T%c3%bcrkei&form=hpcapt&filters=HpDate%3a%2220260304_2300%22",
+  "description": "Wenn der Abend über Göreme in der türkischen Region Kappadokien hereinbricht, verwandelt sich die Landschaft in ein faszinierendes Lichterspiel. Über Jahrtausende haben Wind und Temperaturschwankungen aus weichem Tuffstein die berühmten Feenkamine geformt. Dieses UNESCO‑Welterbe beeindruckt nicht nur durch seine außergewöhnliche Geologie, sondern auch durch eine tief reichende Geschichte. Unter der Oberfläche erstreckt sich ein weit verzweigtes Netz unterirdischer Städte und mehr als 600 Höhlenkirchen, von denen einige noch gut erhaltene Fresken zeigen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_GoremeTwilight%22&FORM=HPQUIZ",
+  "hash": "a5dba02e8ad0eff67b6177dd1caeb548",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_DE-DE6248447800_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260304",
+    "fullStartDateTime": "202603042300",
+    "endDate": "20260305"
+  },
+  "createdAt": "202603050325",
+  "originalUrlBase": "/th?id=OHR.GoremeTwilight_DE-DE6248447800"
+}

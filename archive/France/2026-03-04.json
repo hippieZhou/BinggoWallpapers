@@ -1,0 +1,43 @@
+{
+  "date": "5 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Roche antique et lumières modernes",
+  "bsTitle": "Roche antique et lumières modernes",
+  "caption": "Göreme le soir, Cappadoce, Turquie",
+  "copyright": "Göreme le soir, Cappadoce, Turquie (© ONNAJA/Getty Images)",
+  "copyrightOnly": "© ONNAJA/Getty Images",
+  "copyrightLink": "/search?q=G%c3%b6reme+Turquie&form=hpcapt&filters=HpDate%3a%2220260304_2300%22",
+  "description": "Quand le soir tombe sur Göreme, au cœur de la Cappadoce, en Turquie, les reliefs s’embrasent d’une lumière douce. Classé à l’UNESCO depuis 1985, ce paysage de « cheminées de fées » est né du dépôt de cendres volcaniques qui, durcies avec le temps, ont été façonnées au cours des siècles par l’eau et par le vent. Un peu comme ces villages troglodytiques de Provence ou d’Anjou, chaque recoin de cette vallée à l’allure presque fantastique reflète la rencontre entre la nature et ceux qui l’ont habitée.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_GoremeTwilight%22&FORM=HPQUIZ",
+  "hash": "892c6daf0d3f66be02fbc9c2fe6789a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_FR-FR6446660486_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_FR-FR6446660486_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_FR-FR6446660486_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_FR-FR6446660486_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260304",
+    "fullStartDateTime": "202603042300",
+    "endDate": "20260305"
+  },
+  "createdAt": "202603050325",
+  "originalUrlBase": "/th?id=OHR.GoremeTwilight_FR-FR6446660486"
+}

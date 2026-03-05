@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 5 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "奇岩の谷に広がる幻想的な夜景",
+  "bsTitle": "奇岩の谷に広がる幻想的な夜景",
+  "caption": "奇岩の谷に広がる幻想的な夜景",
+  "copyright": "ギョレメ国立公園, トルコ (© ONNAJA/Getty Images)",
+  "copyrightOnly": "© ONNAJA/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%ae%e3%83%a7%e3%83%ac%e3%83%a1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260304_1500%22",
+  "description": "ここは、トルコ・カッパドキア地方の中心に位置するギョレメ国立公園。火山活動によって生まれた地形を風や水が何千年もかけて削った「妖精の煙突」と呼ばれる奇岩群で知られています。また、岩を掘って造られた住居や教会が点在します。そして教会内部には 11 世紀頃に完成したフレスコ画が多数残されており、「ギョレメ国立公園とカッパドキアの岩窟群」として世界遺産に登録されています。地質と文化、現代の暮らしが交差するカッパドキア観光の玄関口です。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260304_GoremeTwilight%22&FORM=HPQUIZ",
+  "hash": "811b41b1777d7a50aaaab10d76d53819",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260304",
+    "fullStartDateTime": "202603041500",
+    "endDate": "20260305"
+  },
+  "createdAt": "202603050325",
+  "originalUrlBase": "/th?id=OHR.GoremeTwilight_JA-JP8961447363"
+}
