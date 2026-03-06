@@ -1,0 +1,43 @@
+{
+  "date": "Mar 5, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Ancient rocks, modern lights",
+  "bsTitle": "Ancient rocks, modern lights",
+  "caption": "Evening over Göreme, Cappadocia, Türkiye",
+  "copyright": "Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)",
+  "copyrightOnly": "© ONNAJA/Getty Images",
+  "copyrightLink": "/search?q=G%c3%b6reme+T%c3%bcrkiye&form=hpcapt&filters=HpDate%3a%2220260305_0800%22",
+  "description": "As evening settles over the town of Göreme in the heart of the Cappadocia region of Türkiye, dusk reveals a landscape forged by nature and centuries of human presence. This scene is part of Göreme National Park and the Rock Sites of Cappadocia, a UNESCO World Heritage Site inscribed in 1985 for its exceptional combination of early cultural history and geological formations. These formations, often called 'fairy chimneys' or hoodoos, began as layers of volcanic ash that hardened into soft stone following eruptions of ancient Anatolian volcanoes. Over time, wind and water carved the pillars, ridges, and valleys that define the region today.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_GoremeTwilight%22&FORM=HPQUIZ",
+  "hash": "f97da67dae7b8a954cfdf5e72b0318b4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260305",
+    "fullStartDateTime": "202603050800",
+    "endDate": "20260306"
+  },
+  "createdAt": "202603060323",
+  "originalUrlBase": "/th?id=OHR.GoremeTwilight_EN-US3224835148"
+}

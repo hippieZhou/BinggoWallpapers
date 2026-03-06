@@ -1,0 +1,43 @@
+{
+  "date": "6 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des vagues en béton",
+  "bsTitle": "Des vagues en béton",
+  "caption": "The Wave, Vejle, Danemark",
+  "copyright": "Projet résidentiel The Wave, Vejle, Danemark (© Frank Bach/Alamy)",
+  "copyrightOnly": "© Frank Bach/Alamy",
+  "copyrightLink": "/search?q=The+Wave+Vejle+Danemark+complexe&form=hpcapt&filters=HpDate%3a%2220260305_2300%22",
+  "description": "L’architecture prend tout son sens lorsqu’elle est pensée en harmonie avec le territoire. Sur la photo du jour, ces constructions, situées à Vejle (Danemark), au bord d’un fjord paisible, ne se limitent pas à leur rôle de bâtiments d’habitation. Le complexe, nommé « The Wave » (« La Vague »), étroitement lié à son environnement, en est la preuve.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+  "hash": "142aa4fec7e924f60cc3d77e94fe8e4b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_FR-FR0622592721_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_FR-FR0622592721_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_FR-FR0622592721_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_FR-FR0622592721_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260305",
+    "fullStartDateTime": "202603052300",
+    "endDate": "20260306"
+  },
+  "createdAt": "202603060323",
+  "originalUrlBase": "/th?id=OHR.WaveDenmark_FR-FR0622592721"
+}

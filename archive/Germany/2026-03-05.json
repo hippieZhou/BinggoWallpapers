@@ -1,0 +1,43 @@
+{
+  "date": "6. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wellen aus Beton",
+  "bsTitle": "Wellen aus Beton",
+  "caption": "Wohngebäude Bølgen „The Wave“, Vejle, Dänemark",
+  "copyright": "Das Wohngebäude Bølgen „The Wave“ in Vejle, Dänemark (© Frank Bach/Alamy)",
+  "copyrightOnly": "© Frank Bach/Alamy",
+  "copyrightLink": "/search?q=Bolgen+Vejle+Daenemark&form=hpcapt&filters=HpDate%3a%2220260305_2300%22",
+  "description": "Schon auf den ersten Blick stellt sich die Frage: Kann ein Gebäude tatsächlich wie eine Welle aussehen? Der Wohnkomplex Bølgen („The Wave“) in Vejle, Dänemark, zeigt eindrucksvoll, wie Landschaft und Architektur einander verstärken können. Fünf geschwungene Türme greifen die Linien des Fjords auf, sodass das Ensemble wirkt, als sei es in Bewegung. Die direkte Lage am Wasser eröffnet abwechslungsreiche Perspektiven. Wege und ein Steg verändern den Blick auf die Silhouette immer wieder. So hat sich The Wave zu einem modernen Wahrzeichen der Stadt entwickelt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+  "hash": "1aa5e27daa9da068da328789bd6a53bb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260305",
+    "fullStartDateTime": "202603052300",
+    "endDate": "20260306"
+  },
+  "createdAt": "202603060323",
+  "originalUrlBase": "/th?id=OHR.WaveDenmark_DE-DE5579252511"
+}

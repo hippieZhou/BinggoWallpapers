@@ -1,0 +1,43 @@
+{
+  "date": "Mar 6, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Waves cast in concrete",
+  "bsTitle": "Waves cast in concrete",
+  "caption": "The Wave, Vejle, Denmark",
+  "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)",
+  "copyrightOnly": "© Frank Bach/Alamy",
+  "copyrightLink": "/search?q=The+Wave+building+Vejle+Denmark&form=hpcapt&filters=HpDate%3a%2220260305_1830%22",
+  "description": "Architecture blends art and technology, expressed through the built form. While many designs focus primarily on function, some buildings give equal weight to visual impact. A strong example is The Wave building complex in Vejle, Denmark, where sculptural design and practical housing come together seamlessly.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+  "hash": "a8bbaefdb3cf27ef71bf1db933910d47",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-IN9929501446_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260305",
+    "fullStartDateTime": "202603051830",
+    "endDate": "20260306"
+  },
+  "createdAt": "202603060323",
+  "originalUrlBase": "/th?id=OHR.WaveDenmark_EN-IN9929501446"
+}

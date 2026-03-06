@@ -1,0 +1,43 @@
+{
+  "date": "6 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Olas moldeadas en hormigón",
+  "bsTitle": "Olas moldeadas en hormigón",
+  "caption": "The Wave, Vejle, Dinamarca",
+  "copyright": "Complejo residencial The Wave, Vejle, Dinamarca (© Frank Bach/Alamy)",
+  "copyrightOnly": "© Frank Bach/Alamy",
+  "copyrightLink": "/search?q=The+Wave+Vejle+Dinamarca&form=hpcapt&filters=HpDate%3a%2220260305_2300%22",
+  "description": "El complejo residencial The Wave, en Vejle (Dinamarca), destaca por su silueta ondulante formada por cinco crestas que evocan el movimiento del fiordo y las colinas que rodean la ciudad. Su diseño es obra de Henning Larsen Architects y se ha convertido en un icono de la arquitectura danesa contemporánea. El conjunto alberga cien apartamentos distribuidos en nueve plantas y su perfil se reconoce desde distintos puntos de la bahía gracias a la contundencia de su forma escultórica.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260305_WaveDenmark%22&FORM=HPQUIZ",
+  "hash": "6565faf40b41e2d7779712217decd766",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ES-ES1179544868_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260305",
+    "fullStartDateTime": "202603052300",
+    "endDate": "20260306"
+  },
+  "createdAt": "202603060323",
+  "originalUrlBase": "/th?id=OHR.WaveDenmark_ES-ES1179544868"
+}
