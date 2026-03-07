@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Eredità Romana",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Basilica reale pontificia di San Francesco di Paola, Napoli, Campania (© javarman3/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=San+Francesco+di+Paola+Napoli&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_NaplesBasilica%22&FORM=HPQUIZ",
+  "hash": "dd6d4ae1b0719dee852ce3df600425db",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaplesBasilica_IT-IT2953708039_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260306",
+    "fullStartDateTime": "202603062300",
+    "endDate": "20260307"
+  },
+  "createdAt": "202603070310",
+  "originalUrlBase": "/th?id=OHR.NaplesBasilica_IT-IT2953708039"
+}

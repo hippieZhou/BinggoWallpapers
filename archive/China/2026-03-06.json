@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "治愈、宁静且充满希望",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%93%88%e5%b0%94%e8%8c%a8%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_BrockenSunrise%22&FORM=HPQUIZ",
+  "hash": "fcff782cc7738724f7a5a4038360f609",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260306",
+    "fullStartDateTime": "202603061600",
+    "endDate": "20260307"
+  },
+  "createdAt": "202603070310",
+  "originalUrlBase": "/th?id=OHR.BrockenSunrise_ZH-CN4930790850"
+}

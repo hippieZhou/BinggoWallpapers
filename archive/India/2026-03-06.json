@@ -1,0 +1,43 @@
+{
+  "date": "Mar 7, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Songs beneath the waves",
+  "bsTitle": "Songs beneath the waves",
+  "caption": "Humpback whales, Monterey Bay, California, United States",
+  "copyright": "Humpback whales, Monterey Bay, California, United States (© Kiliii Fish/Cavan Images)",
+  "copyrightOnly": "© Kiliii Fish/Cavan Images",
+  "copyrightLink": "/search?q=Humpback+whales&form=hpcapt&filters=HpDate%3a%2220260306_1830%22",
+  "description": "Humpback whales are easily recognisable by their long pectoral fins and are known for their complex songs associated with breeding behaviour. Their predictable migrations bring them close to shore, turning them into both a cultural marker of the season and a focal point for early conservation efforts.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_MontereyHumpbacks%22&FORM=HPQUIZ",
+  "hash": "a4a4ca08e2b14059b011cfabf5c99242",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MontereyHumpbacks_EN-IN8212450706_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260306",
+    "fullStartDateTime": "202603061830",
+    "endDate": "20260307"
+  },
+  "createdAt": "202603070310",
+  "originalUrlBase": "/th?id=OHR.MontereyHumpbacks_EN-IN8212450706"
+}

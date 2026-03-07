@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 7 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "日の出の霧に包まれる岩場",
+  "bsTitle": "日の出の霧に包まれる岩場",
+  "caption": "日の出の霧に包まれる岩場",
+  "copyright": "ブロッケン山, ドイツ (© imageBROKER/AVTG/Getty Images)",
+  "copyrightOnly": "© imageBROKER/AVTG/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%96%e3%83%ad%e3%83%83%e3%82%b1%e3%83%b3%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220260306_1500%22",
+  "description": "ここはドイツのハルツ国立公園にあるブロッケン山。標高 1,141m を誇り、太陽光を背にした登山者の影が霧や雲に映る「ブロッケン現象」で知られています。冷戦期には東ドイツとソ連の監視拠点として利用されていましたが、再統一後に一般開放されました。現在は、約 247km² に広がる森や湿原、清流などの貴重な自然環境が保護されています。また、歴史ある蒸気機関車が今も山腹を走り、国内外から多くの人々を魅了し続けています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_BrockenSunrise%22&FORM=HPQUIZ",
+  "hash": "21d12438010e78f5908797a60dc9e120",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260306",
+    "fullStartDateTime": "202603061500",
+    "endDate": "20260307"
+  },
+  "createdAt": "202603070310",
+  "originalUrlBase": "/th?id=OHR.BrockenSunrise_JA-JP0540053898"
+}

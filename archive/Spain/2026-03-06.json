@@ -1,0 +1,43 @@
+{
+  "date": "7 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde amanece el día",
+  "bsTitle": "Donde amanece el día",
+  "caption": "Amanecer en el Brocken, Parque Nacional de Harz, Alemania",
+  "copyright": "Amanecer en el Brocken, Parque Nacional de Harz, Sajonia-Anhalt, Alemania (© imageBROKER/AVTG/Getty Images)",
+  "copyrightOnly": "© imageBROKER/AVTG/Getty Images",
+  "copyrightLink": "/search?q=Brocken+Alemania&form=hpcapt&filters=HpDate%3a%2220260306_2300%22",
+  "description": "En el corazón del Parque Nacional de Harz se alza el Brocken, la montaña más emblemática de Sajonia-Anhalt y uno de los paisajes más singulares del norte de Alemania. Sus 1141 metros emergen sobre el macizo y su cima suele quedar envuelta en niebla y viento, lo que le ha otorgado una atmósfera singular y muy evocadora. Desde lo alto se despliega una vista amplia sobre bosques densos y llanuras abiertas que cambian de color con cada estación. El ascenso hasta la cumbre permite disfrutar de un recorrido sereno que revela poco a poco la amplitud del paisaje.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_BrockenSunrise%22&FORM=HPQUIZ",
+  "hash": "ed72db5e2099c4b15dd53fe05ee6c64d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ES-ES7835866143_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260306",
+    "fullStartDateTime": "202603062300",
+    "endDate": "20260307"
+  },
+  "createdAt": "202603070310",
+  "originalUrlBase": "/th?id=OHR.BrockenSunrise_ES-ES7835866143"
+}

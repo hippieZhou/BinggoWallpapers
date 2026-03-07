@@ -1,0 +1,43 @@
+{
+  "date": "7. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Zwischen Wald und Wellen",
+  "bsTitle": "Zwischen Wald und Wellen",
+  "caption": "Pacific Rim National Park Reserve, Vancouver Island, Kanada",
+  "copyright": "Pacific Rim National Park Reserve, Vancouver Island, Kanada (© EmilyNorton/Getty Images)",
+  "copyrightOnly": "© EmilyNorton/Getty Images",
+  "copyrightLink": "/search?q=Pacific+Rim+National+Park+Reserve+Kanada&form=hpcapt&filters=HpDate%3a%2220260306_2300%22",
+  "description": "Das Pacific Rim National Park Reserve an der Westküste von Vancouver Island schützt eine der markantesten Küstenlandschaften Kanadas. Weite Sandstrände, felsige Buchten und vorgelagerte Inseln münden hier in den offenen Pazifik, während im Hinterland dichte, gemäßigte Regenwälder dominieren. Wind, Wellen und Gezeiten formen die Landschaft fortlaufend und machen die Dynamik der Küste deutlich.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260306_PacificRimNP%22&FORM=HPQUIZ",
+  "hash": "d72dfeb18e664075d570ddbd9a5f5541",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260306",
+    "fullStartDateTime": "202603062300",
+    "endDate": "20260307"
+  },
+  "createdAt": "202603070310",
+  "originalUrlBase": "/th?id=OHR.PacificRimNP_DE-DE6585110286"
+}
