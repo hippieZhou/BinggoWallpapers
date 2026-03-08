@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Snowy owl near the Canadian Rockies, Canada (© www.harshadventure.com/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Snowy+owl&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_OwlonGuard%22&FORM=HPQUIZ",
+  "hash": "e58852a576ba4d44b35a26ed69834133",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_ROW4856156035_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_ROW4856156035_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_ROW4856156035_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OwlonGuard_ROW4856156035_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260307",
+    "fullStartDateTime": "202603070800",
+    "endDate": "20260308"
+  },
+  "createdAt": "202603080326",
+  "originalUrlBase": "/th?id=OHR.OwlonGuard_ROW4856156035"
+}

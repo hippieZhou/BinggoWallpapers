@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "节约日光的艺术",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a4%a9%e6%96%87%e9%92%9f&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_UlmClock%22&FORM=HPQUIZ",
+  "hash": "ef9625d0f8ac8b638ffce30159d6a4ce",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260307",
+    "fullStartDateTime": "202603071600",
+    "endDate": "20260308"
+  },
+  "createdAt": "202603080326",
+  "originalUrlBase": "/th?id=OHR.UlmClock_ZH-CN9282560066"
+}

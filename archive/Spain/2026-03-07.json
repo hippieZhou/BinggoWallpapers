@@ -1,0 +1,43 @@
+{
+  "date": "8 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El arte del tiempo",
+  "bsTitle": "El arte del tiempo",
+  "caption": "Reloj astronómico del Ayuntamiento de Ulm, Alemania",
+  "copyright": "Reloj astronómico del Ayuntamiento de Ulm, Alemania (© Tomekbudujedomek/Getty Images)",
+  "copyrightOnly": "© Tomekbudujedomek/Getty Images",
+  "copyrightLink": "/search?q=Reloj+astron%c3%b3mico&form=hpcapt&filters=HpDate%3a%2220260307_2300%22",
+  "description": "El reloj astronómico del Ayuntamiento de Ulm en Alemania destaca por su colorida fachada renacentista y por la precisión simbólica con la que representa el paso del tiempo. Esta pieza histórica forma parte de un conjunto decorado con frescos que enriquecen aún más el carácter del edificio.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_UlmClock%22&FORM=HPQUIZ",
+  "hash": "6b5fe2ea9e2cc4a1f464ec93712a1845",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ES-ES1689465791_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ES-ES1689465791_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ES-ES1689465791_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.UlmClock_ES-ES1689465791_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260307",
+    "fullStartDateTime": "202603072300",
+    "endDate": "20260308"
+  },
+  "createdAt": "202603080326",
+  "originalUrlBase": "/th?id=OHR.UlmClock_ES-ES1689465791"
+}

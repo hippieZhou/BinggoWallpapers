@@ -1,0 +1,43 @@
+{
+  "date": "Mar 7, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A legendary sunrise",
+  "bsTitle": "A legendary sunrise",
+  "caption": "The Brocken, Harz National Park, Germany",
+  "copyright": "Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)",
+  "copyrightOnly": "© imageBROKER/AVTG/Getty Images",
+  "copyrightLink": "/search?q=Harz+National+Park&form=hpcapt&filters=HpDate%3a%2220260307_0800%22",
+  "description": "Imagine reaching the Brocken in Harz National Park, Germany, as clouds slide across the ridge. With the sun behind you, mist ahead—then a giant, haloed shadow forms. Ever wondered why climbers once feared this sight? The phenomenon, called the Brocken spectre, is an eerie natural optical effect that occurs when sunlight projects a person's shadow onto cloud or fog. Rising about 1,141 metres, the Brocken is the highest peak in northern Germany and has long inspired folklore, including tales of witches gathering here during Walpurgis Night.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_BrockenSunrise%22&FORM=HPQUIZ",
+  "hash": "38c388eef16835f26c30bd693bf5c6bc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260307",
+    "fullStartDateTime": "202603070800",
+    "endDate": "20260308"
+  },
+  "createdAt": "202603080326",
+  "originalUrlBase": "/th?id=OHR.BrockenSunrise_EN-US8849518575"
+}

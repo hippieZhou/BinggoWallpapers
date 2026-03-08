@@ -1,0 +1,43 @@
+{
+  "date": "8. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Platz mit Geschichte",
+  "bsTitle": "Ein Platz mit Geschichte",
+  "caption": "Landtagswahl in Baden-Württemberg 2026",
+  "copyright": "Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg (© Jorg Greuel/Getty Images)",
+  "copyrightOnly": "© Jorg Greuel/Getty Images",
+  "copyrightLink": "/search?q=Baden-W%c3%bcrttemberg+Landtagswahl+2026&form=hpcapt&filters=HpDate%3a%2220260307_2300%22",
+  "description": "Heute richtet sich der Blick auf Baden‑Württemberg, wo die Bürgerinnen und Bürger einen neuen Landtag wählen. Im drittgrößten Bundesland Deutschlands gilt erstmals ein reformiertes Wahlrecht mit zwei Stimmen. Zudem dürfen Jugendliche ab 16 Jahren an der Wahl teilnehmen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_StuttgartSchlossplatz%22&FORM=HPQUIZ",
+  "hash": "5db286f5df96c5cd524ad8f834b3a819",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260307",
+    "fullStartDateTime": "202603072300",
+    "endDate": "20260308"
+  },
+  "createdAt": "202603080326",
+  "originalUrlBase": "/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "8 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un plongeur habile",
+  "bsTitle": "Un plongeur habile",
+  "caption": "Jeune cormoran",
+  "copyright": "Jeune cormoran (© GiovanniCaruso/GettyImages)",
+  "copyrightOnly": "© GiovanniCaruso/GettyImages",
+  "copyrightLink": "/search?q=grand+cormoran&form=hpcapt&filters=HpDate%3a%2220260307_2300%22",
+  "description": "Cet oisillon glissant gracieusement sur l’eau n’est autre qu’un jeune cormoran. S’il existe près de 40 espèces de cormorans, le grand cormoran (Phalacrocorax carbo) est celui que l’on observe le plus souvent sur les côtes, estuaires, lacs et rivières d’Europe. Plongeur hors pair, il disparaît brusquement sous la surface, propulsé par ses pattes palmées, pour capturer poissons et anguilles dans le silence des profondeurs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260307_BirdCormorant%22&FORM=HPQUIZ",
+  "hash": "7b06118d424b6adf79febda0bc5e0c92",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BirdCormorant_FR-FR1361604516_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BirdCormorant_FR-FR1361604516_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BirdCormorant_FR-FR1361604516_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BirdCormorant_FR-FR1361604516_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260307",
+    "fullStartDateTime": "202603072300",
+    "endDate": "20260308"
+  },
+  "createdAt": "202603080326",
+  "originalUrlBase": "/th?id=OHR.BirdCormorant_FR-FR1361604516"
+}
