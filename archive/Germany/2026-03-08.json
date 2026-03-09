@@ -1,0 +1,43 @@
+{
+  "date": "9. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Moment der Ruhe",
+  "bsTitle": "Ein Moment der Ruhe",
+  "caption": "Schlafende Kegelrobbe am Strand, Orkneyinseln, Schottland",
+  "copyright": "Schlafende Kegelrobbe am Strand, Orkneyinseln, Schottland (© Andrew Mason/Minden Pictures)",
+  "copyrightOnly": "© Andrew Mason/Minden Pictures",
+  "copyrightLink": "/search?q=Kegelrobbe&form=hpcapt&filters=HpDate%3a%2220260308_2300%22",
+  "description": "Warum braucht diese Robbe so viel Ruhe? Auf den schottischen Orkneyinseln finden Kegelrobben in stillen Buchten, an rauen Klippen und auf weiten Stränden ideale Plätze, um neue Kraft zu tanken. Was wie entspanntes Dösen aussieht, folgt einem klaren Rhythmus: Nach langen Tauchgängen zur Nahrungssuche, die bis in Tiefen von rund 200\u202FMetern führen können, müssen die bis zu 300\u202FKilogramm schweren Tiere ihre Energiereserven sorgfältig erneuern.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_NappingSeal%22&FORM=HPQUIZ",
+  "hash": "236ce8b2ce5aea3542f98f5e9c1316fb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260308",
+    "fullStartDateTime": "202603082300",
+    "endDate": "20260309"
+  },
+  "createdAt": "202603090330",
+  "originalUrlBase": "/th?id=OHR.NappingSeal_DE-DE4413060426"
+}

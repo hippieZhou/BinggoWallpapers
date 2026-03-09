@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 9 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は米国の全国昼寝の日",
+  "bsTitle": "今日は米国の全国昼寝の日",
+  "caption": "今日は米国の全国昼寝の日",
+  "copyright": "アザラシ, スコットランド (© Andrew Mason/Minden Pictures)",
+  "copyrightOnly": "© Andrew Mason/Minden Pictures",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%82%b6%e3%83%a9%e3%82%b7&form=hpcapt&filters=HpDate%3a%2220260308_1500%22",
+  "description": "米国では夏時間が始まった直後に「全国昼寝の日」が訪れます。時計が 1 時間進むことで睡眠不足になりやすく、乱れた体内リズムを整えるため短い休息をとることを促しています。画像はスコットランド沿岸で休むアザラシ。水中では浮上して呼吸するために浅く短く眠り、海岸では深く休息します。人も動物も、適切な休息が環境の変化に順応する助けとなります。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_NappingSeal%22&FORM=HPQUIZ",
+  "hash": "dbd9365a8346e6355c36776adab13b0c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260308",
+    "fullStartDateTime": "202603081500",
+    "endDate": "20260309"
+  },
+  "createdAt": "202603090330",
+  "originalUrlBase": "/th?id=OHR.NappingSeal_JA-JP4638317955"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一次恰到好处的午睡",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%81%b0%e6%b5%b7%e8%b1%b9&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_NappingSeal%22&FORM=HPQUIZ",
+  "hash": "749aa6209059cf4a20ceae14756e82eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260308",
+    "fullStartDateTime": "202603081600",
+    "endDate": "20260309"
+  },
+  "createdAt": "202603090330",
+  "originalUrlBase": "/th?id=OHR.NappingSeal_ZH-CN9424683964"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "9 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una siesta perfecta",
+  "bsTitle": "Una siesta perfecta",
+  "caption": "Foca gris durmiendo en la playa, islas Orcadas, Escocia",
+  "copyright": "Foca gris durmiendo en la playa, islas Orcadas, Escocia (© Andrew Mason/Minden Pictures)",
+  "copyrightOnly": "© Andrew Mason/Minden Pictures",
+  "copyrightLink": "/search?q=Foca+gris&form=hpcapt&filters=HpDate%3a%2220260308_2300%22",
+  "description": "En la imagen de hoy se observa una foca gris profundamente dormida en las islas Orcadas, Escocia. Su cuerpo descansa con una tranquilidad absoluta mientras la brisa fría del Atlántico envuelve la escena. Este momento transmite una serenidad que parece detener el tiempo y refleja el carácter relajado de esta especie que aprovecha cada pausa para recuperar energías. La playa se convierte así en su refugio perfecto y basta observarla para entender cuánto aprecia estos instantes de descanso.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260308_NappingSeal%22&FORM=HPQUIZ",
+  "hash": "0525c6065b21eff36a61014ccfe4fd2c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ES-ES1870560603_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ES-ES1870560603_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ES-ES1870560603_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_ES-ES1870560603_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260308",
+    "fullStartDateTime": "202603082300",
+    "endDate": "20260309"
+  },
+  "createdAt": "202603090330",
+  "originalUrlBase": "/th?id=OHR.NappingSeal_ES-ES1870560603"
+}
