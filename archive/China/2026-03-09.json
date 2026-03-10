@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "霜下之火",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%86%b0%e5%b2%9b%e5%b8%83%e6%8b%89%e8%b5%ab%e7%bb%b4%e5%b0%94%e5%9c%b0%e7%83%ad%e6%b1%a0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_SpringIceland%22&FORM=HPQUIZ",
+  "hash": "2908ad1a294abab7b16f88ee5620d64c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260309",
+    "fullStartDateTime": "202603091600",
+    "endDate": "20260310"
+  },
+  "createdAt": "202603100322",
+  "originalUrlBase": "/th?id=OHR.SpringIceland_ZH-CN9545282898"
+}

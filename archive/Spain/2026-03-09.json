@@ -1,0 +1,43 @@
+{
+  "date": "10 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Magia entre acantilados",
+  "bsTitle": "Magia entre acantilados",
+  "caption": "Zumaia, Guipúzcoa, País Vasco",
+  "copyright": "Zumaia, Guipúzcoa, País Vasco (© David González Rebollo/Getty Images)",
+  "copyrightOnly": "© David González Rebollo/Getty Images",
+  "copyrightLink": "/search?q=Zumaia+Guip%c3%bazcoa&form=hpcapt&filters=HpDate%3a%2220260309_2300%22",
+  "description": "Zumaia se encuentra en la costa de Guipúzcoa, en el País Vasco, y es conocida por su entorno natural marcado por la desembocadura del río Urola y por sus playas, entre ellas la de Itzurun, célebre por las espectaculares formaciones de flysch que atraen a visitantes y especialistas en geología. La localidad se sitúa a orillas del mar Cantábrico y forma parte de la comarca de Urola Costa, donde su paisaje combina acantilados, colinas y un patrimonio histórico que incluye la iglesia de San Pedro, de origen medieval.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_Zumaia%22&FORM=HPQUIZ",
+  "hash": "e5d16098d14a02716df4eb31fec4c0d2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260309",
+    "fullStartDateTime": "202603092300",
+    "endDate": "20260310"
+  },
+  "createdAt": "202603100322",
+  "originalUrlBase": "/th?id=OHR.Zumaia_ES-ES4174062610"
+}

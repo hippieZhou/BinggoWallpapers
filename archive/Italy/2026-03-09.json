@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Ghiaccio infiammato",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pozza termale Bláhver a Hveravellir, Islanda (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Pozza+termale+Hveravellir&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_SpringIceland%22&FORM=HPQUIZ",
+  "hash": "5346b74a058c2f600c45612e7a36a741",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_IT-IT6322735073_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260309",
+    "fullStartDateTime": "202603092300",
+    "endDate": "20260310"
+  },
+  "createdAt": "202603100322",
+  "originalUrlBase": "/th?id=OHR.SpringIceland_IT-IT6322735073"
+}

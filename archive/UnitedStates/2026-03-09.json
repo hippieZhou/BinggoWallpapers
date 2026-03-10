@@ -1,0 +1,43 @@
+{
+  "date": "Mar 9, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A perfectly timed nap",
+  "bsTitle": "A perfectly timed nap",
+  "caption": "Gray seal sleeping on the beach, Orkney Islands, Scotland",
+  "copyright": "Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)",
+  "copyrightOnly": "© Andrew Mason/Minden Pictures",
+  "copyrightLink": "/search?q=napping+day&form=hpcapt&filters=HpDate%3a%2220260309_0700%22",
+  "description": "National Napping Day couldn't be better timed. It falls on the Monday after Daylight Saving Time begins, when clocks move forward and we all lose an hour of sleep. Consider today an official excuse to slow down and make up for it. The sleeping gray seal in this image, spotted along Scotland's coast, is a fitting reminder for the day: rest matters.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260309_NappingSeal%22&FORM=HPQUIZ",
+  "hash": "cdfa2ac9d2d44e9745e8acdfec41ff73",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260309",
+    "fullStartDateTime": "202603090700",
+    "endDate": "20260310"
+  },
+  "createdAt": "202603100322",
+  "originalUrlBase": "/th?id=OHR.NappingSeal_EN-US6764325041"
+}
