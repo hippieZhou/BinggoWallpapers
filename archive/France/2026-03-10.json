@@ -1,0 +1,43 @@
+{
+  "date": "11 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un printemps de rose vêtu",
+  "bsTitle": "Un printemps de rose vêtu",
+  "caption": "Pêchers en fleur, Cieza, Murcie, Espagne",
+  "copyright": "Pêchers en fleur, Cieza, Murcie, Espagne (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "© Juan Maria Coy Vergara/Getty Images",
+  "copyrightLink": "/search?q=Cieza+Espagne&form=hpcapt&filters=HpDate%3a%2220260310_2300%22",
+  "description": "À Cieza, en Espagne, le printemps ne s’installe pas doucement\u202F: il éclate. Entre février et mars, les vergers de pêchers transforment cette ville de la région de Murcie en une mer teintée de rose. En quelques jours, environ 12\u202F000 hectares — l'une des plus vastes productions municipales de pêches d’Espagne — se couvrent de fleurs, offrant un spectacle aussi bref qu’intense.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260310_PeachBloom%22&FORM=HPQUIZ",
+  "hash": "f73610ada5cd526b48d3f7ee8fa8685b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_FR-FR2231285417_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_FR-FR2231285417_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_FR-FR2231285417_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_FR-FR2231285417_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260310",
+    "fullStartDateTime": "202603102300",
+    "endDate": "20260311"
+  },
+  "createdAt": "202603110322",
+  "originalUrlBase": "/th?id=OHR.PeachBloom_FR-FR2231285417"
+}

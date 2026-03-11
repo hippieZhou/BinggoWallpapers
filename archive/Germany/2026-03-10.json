@@ -1,0 +1,43 @@
+{
+  "date": "11. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Frühlingsgruß in Rosa",
+  "bsTitle": "Frühlingsgruß in Rosa",
+  "caption": "Pfirsichbäume in Cieza, Murcia, Spanien",
+  "copyright": "Pfirsichblüte in Cieza, Murcia, Spanien (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "© Juan Maria Coy Vergara/Getty Images",
+  "copyrightLink": "/search?q=Cieza+Spanien&form=hpcapt&filters=HpDate%3a%2220260310_2300%22",
+  "description": "Sobald der Frühling in der spanischen Region Murcia Einzug hält, wandelt sich die Landschaft um Cieza innerhalb weniger Tage vollständig. Zwischen Februar und März beginnt die Pfirsichblüte, „La Floración“, bei der Millionen von Bäumen ihre Knospen öffnen und das Tal des Segura-Flusses in Rosa- und Weißtöne tauchen. Das milde Klima und das geschützte Bergland begünstigen diesen frühen Start in die Vegetationsperiode.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260310_PeachBloom%22&FORM=HPQUIZ",
+  "hash": "aa5024eb100fe252ee8907eafd7daa47",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_DE-DE6974968795_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260310",
+    "fullStartDateTime": "202603102300",
+    "endDate": "20260311"
+  },
+  "createdAt": "202603110322",
+  "originalUrlBase": "/th?id=OHR.PeachBloom_DE-DE6974968795"
+}

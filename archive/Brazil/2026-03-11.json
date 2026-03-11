@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O blush da primavera",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pessegueiros em flor, Cieza, Múrcia, Espanha (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cieza+Murcia+Espanha&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_PeachBloom%22&FORM=HPQUIZ",
+  "hash": "969b1a90fe4d6937b02f693d87ab4370",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_PT-BR7415455807_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_PT-BR7415455807_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_PT-BR7415455807_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_PT-BR7415455807_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260311",
+    "fullStartDateTime": "202603110300",
+    "endDate": "20260312"
+  },
+  "createdAt": "202603110322",
+  "originalUrlBase": "/th?id=OHR.PeachBloom_PT-BR7415455807"
+}

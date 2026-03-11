@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一个美好的春天",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e8%b0%a2%e8%90%a8&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260310_PeachBloom%22&FORM=HPQUIZ",
+  "hash": "fe67d7060091493ff9158fc488560519",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260310",
+    "fullStartDateTime": "202603101600",
+    "endDate": "20260311"
+  },
+  "createdAt": "202603110322",
+  "originalUrlBase": "/th?id=OHR.PeachBloom_ZH-CN9660251274"
+}

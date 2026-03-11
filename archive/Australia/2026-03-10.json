@@ -1,0 +1,43 @@
+{
+  "date": "Mar 10, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Bláhver, Hveravellir, Iceland",
+  "copyright": "Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "© Juan Maria Coy Vergara/Getty Images",
+  "copyrightLink": "/search?q=Blahver+pool+Iceland&form=hpcapt&filters=HpDate%3a%2220260310_0700%22",
+  "description": "Have you ever wondered what happens when fire, ice and time negotiate the same territory? Iceland's Hveravellir geothermal field has the answer. In this highland hotspot, energy from the Earth's interior meets the icy surface, triggering a volatile dialogue between pressure, temperature and stone. Fumaroles hiss, steam curls into the air and the ground paints itself with sulphur whites, rust reds and ochre yellows—not only artistry, but chemical reactions driven by extreme heat. In today's image, Bláhver, a natural hot spring, dazzles in electric blue. Its colour comes from mineral- and silica-rich waters that reflect light on the surface.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260310_SpringIceland%22&FORM=HPQUIZ",
+  "hash": "10610451f9851dbd21f57c2856200b8f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ROW2538267892_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ROW2538267892_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ROW2538267892_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringIceland_ROW2538267892_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260310",
+    "fullStartDateTime": "202603100700",
+    "endDate": "20260311"
+  },
+  "createdAt": "202603110322",
+  "originalUrlBase": "/th?id=OHR.SpringIceland_ROW2538267892"
+}
