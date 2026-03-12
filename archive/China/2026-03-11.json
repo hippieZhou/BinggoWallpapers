@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "排练中的翅膀",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%97%a5%e9%b3%bd&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+  "hash": "5fdc3e8711be01afcbc15fb4eae42d02",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260311",
+    "fullStartDateTime": "202603111600",
+    "endDate": "20260312"
+  },
+  "createdAt": "202603120328",
+  "originalUrlBase": "/th?id=OHR.SunbitternEcuador_ZH-CN9772788253"
+}

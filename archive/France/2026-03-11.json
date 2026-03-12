@@ -1,0 +1,43 @@
+{
+  "date": "12 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une parade haute en couleurs",
+  "bsTitle": "Une parade haute en couleurs",
+  "caption": "Caurale soleil faisant sa parade nuptiale, Équateur",
+  "copyright": "Caurale soleil faisant sa parade nuptiale, Équateur (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "© Andy Rouse/naturepl.com",
+  "copyrightLink": "/search?q=caurale+soleil&form=hpcapt&filters=HpDate%3a%2220260311_2300%22",
+  "description": "Dans les forêts de nuages équatoriennes, un jeune caurale soleil déploie brusquement ses ailes. Sous la lumière verte filtrée par la canopée, des éclats d’orange, de noir et de blanc surgissent soudain, tranchant avec les mousses et les feuillages sombres. Ce contraste saisissant révèle l’un des secrets les mieux gardés de l’oiseau\u202F: des motifs spectaculaires, habituellement dissimulés, que les adultes déploient lors de parades nuptiales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+  "hash": "4083523dffb400c18f835cfc1ef2da91",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260311",
+    "fullStartDateTime": "202603112300",
+    "endDate": "20260312"
+  },
+  "createdAt": "202603120328",
+  "originalUrlBase": "/th?id=OHR.SunbitternEcuador_FR-FR2457278888"
+}

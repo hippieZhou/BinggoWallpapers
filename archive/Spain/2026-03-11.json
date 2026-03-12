@@ -1,0 +1,43 @@
+{
+  "date": "12 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Alas en movimiento",
+  "bsTitle": "Alas en movimiento",
+  "caption": "Garza de sol exhibiéndose en el nido, Ecuador",
+  "copyright": "Garza de sol exhibiéndose en el nido, Ecuador (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "© Andy Rouse/naturepl.com",
+  "copyrightLink": "/search?q=Garza+de+sol&form=hpcapt&filters=HpDate%3a%2220260311_2300%22",
+  "description": "La garza de sol es conocida por la delicadeza con la que despliega sus alas mientras se encuentra en el nido en los bosques de Ecuador. Durante estas exhibiciones muestra los patrones que recuerdan a grandes ojos en pleno resplandor tenue del sotobosque, lo que crea un efecto visual sorprendente y llamativo. Este comportamiento suele emplearse para distraer a posibles depredadores y también para reforzar la comunicación con su pareja. La escena resulta especialmente notable por la serenidad con la que el ave mantiene el equilibrio en el nido mientras presenta su elegante abanico alar con precisión casi coreográfica.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+  "hash": "d3c98cd99fd4347e8b2a031842114a29",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_ES-ES1944682433_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260311",
+    "fullStartDateTime": "202603112300",
+    "endDate": "20260312"
+  },
+  "createdAt": "202603120328",
+  "originalUrlBase": "/th?id=OHR.SunbitternEcuador_ES-ES1944682433"
+}

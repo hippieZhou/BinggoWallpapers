@@ -1,0 +1,43 @@
+{
+  "date": "Mar. 11, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A peachy keen spring",
+  "bsTitle": "A peachy keen spring",
+  "caption": "Peach trees in Cieza, Murcia, Spain",
+  "copyright": "Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "© Juan Maria Coy Vergara/Getty Images",
+  "copyrightLink": "/search?q=Cieza+Spain&form=hpcapt&filters=HpDate%3a%2220260311_0400%22",
+  "description": "Spring hits differently in Cieza. It doesn't gently unfold—it erupts with colour. Between February and March, this small city in Spain's Murcia region is the epicentre of 'La Floración,' the flowering of peach trees. In a matter of days, more than 4,856 hectares—Spain's largest municipal peach production—transform into the sea of colour we see in today's image.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_PeachBloom%22&FORM=HPQUIZ",
+  "hash": "4b2d42757052581d8a2c6a364b564d52",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_EN-CA5288839040_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_EN-CA5288839040_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_EN-CA5288839040_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeachBloom_EN-CA5288839040_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260311",
+    "fullStartDateTime": "202603110400",
+    "endDate": "20260312"
+  },
+  "createdAt": "202603120328",
+  "originalUrlBase": "/th?id=OHR.PeachBloom_EN-CA5288839040"
+}

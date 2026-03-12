@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Balli esotici",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tarabuso del sole, in parata nuziale presso il nido, Ecuador (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Tarabuso+del+sole&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260311_SunbitternEcuador%22&FORM=HPQUIZ",
+  "hash": "6316444dd841494feedb1ae4dc788e5d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_IT-IT0154345813_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260311",
+    "fullStartDateTime": "202603112300",
+    "endDate": "20260312"
+  },
+  "createdAt": "202603120328",
+  "originalUrlBase": "/th?id=OHR.SunbitternEcuador_IT-IT0154345813"
+}
