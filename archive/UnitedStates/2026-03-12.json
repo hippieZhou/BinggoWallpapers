@@ -1,0 +1,43 @@
+{
+  "date": "Mar 12, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Wings in rehearsal",
+  "bsTitle": "Wings in rehearsal",
+  "caption": "Juvenile sunbittern displaying at nest, Ecuador",
+  "copyright": "Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)",
+  "copyrightOnly": "© Andy Rouse/naturepl.com",
+  "copyrightLink": "/search?q=sunbittern+bird&form=hpcapt&filters=HpDate%3a%2220260312_0700%22",
+  "description": "High in Ecuador's cloud forests, a young sunbittern spreads its wings in an early display, casting flashes of orange, black, and white through the filtered green light. The sudden contrast cuts through the moss‑covered branches and leaf‑shadowed understory, offering a snapshot of the species' dramatic wing patterns. Adult sunbitterns most often show these bold markings during defensive displays, briefly transforming an elusive bird into a striking spectacle.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_SunbitternEcuador%22&FORM=HPQUIZ",
+  "hash": "9fdeda928e6a42b067277fcb73c54b9a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260312",
+    "fullStartDateTime": "202603120700",
+    "endDate": "20260313"
+  },
+  "createdAt": "202603130325",
+  "originalUrlBase": "/th?id=OHR.SunbitternEcuador_EN-US7059069378"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "13. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein stilles Meisterwerk aus Stein",
+  "bsTitle": "Ein stilles Meisterwerk aus Stein",
+  "caption": "Kirche Notre‑Dame‑de‑Bon‑Port, Les Sables‑d’Olonne, Frankreich",
+  "copyright": "Gewölbe der Kirche Notre‑Dame‑de‑Bon‑Port, Les Sables‑d’Olonne, Frankreich (© Helmut Meyer zur Capellen/Alamy)",
+  "copyrightOnly": "© Helmut Meyer zur Capellen/Alamy",
+  "copyrightLink": "/search?q=Les-Sables+Frankreich&form=hpcapt&filters=HpDate%3a%2220260312_2300%22",
+  "description": "In der Kirche Notre-Dame-de-Bon-Port richtet sich der Blick unweigerlich nach oben. Das Gewölbe dieses Bauwerks in Les Sables-d’Olonne an der französischen Atlantikküste spannt ein Netz aus steinernen Rippen, das den Innenraum bis heute prägt. Der Bau der Kirche begann 1646 an der Stelle einer Kapelle aus dem 13. Jahrhundert und steht in einer langen spirituellen Tradition des Ortes. Seit 1993 ist sie als historisches Monument Frankreichs geschützt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_VendeeVaults%22&FORM=HPQUIZ",
+  "hash": "c7fe323594ed41b03dec96a72943010a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260312",
+    "fullStartDateTime": "202603122300",
+    "endDate": "20260313"
+  },
+  "createdAt": "202603130325",
+  "originalUrlBase": "/th?id=OHR.VendeeVaults_DE-DE9788483793"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "13 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una obra maestra en piedra",
+  "bsTitle": "Una obra maestra en piedra",
+  "caption": "Iglesia de Notre-Dame de Bon-Port, Les Sables-d'Olonne, Francia",
+  "copyright": "Bóvedas de la iglesia de Notre-Dame de Bon-Port, Les Sables-d'Olonne, Francia (© Helmut Meyer zur Capellen/Alamy)",
+  "copyrightOnly": "© Helmut Meyer zur Capellen/Alamy",
+  "copyrightLink": "/search?q=Notre-Dame+de+Bon-Port+Francia&form=hpcapt&filters=HpDate%3a%2220260312_2300%22",
+  "description": "Las bóvedas de la iglesia de Notre-Dame de Bon-Port en Les Sables-d'Olonne, Francia, muestran un diseño gótico asociado a la tradición francesa con arcos apuntados que realzan la verticalidad del templo y una estructura iniciada en 1646 según documentación histórica. La piedra clara y la organización del espacio generan una sensación de amplitud que refleja el espíritu religioso de una comunidad marinera que en el siglo XVII buscaba protección espiritual antes de embarcarse en largas travesías.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260312_VendeeVaults%22&FORM=HPQUIZ",
+  "hash": "ee13276582f8b6ace095a74cdf986f70",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_ES-ES2432885875_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_ES-ES2432885875_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_ES-ES2432885875_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_ES-ES2432885875_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260312",
+    "fullStartDateTime": "202603122300",
+    "endDate": "20260313"
+  },
+  "createdAt": "202603130325",
+  "originalUrlBase": "/th?id=OHR.VendeeVaults_ES-ES2432885875"
+}
