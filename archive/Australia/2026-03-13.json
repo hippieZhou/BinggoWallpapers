@@ -1,0 +1,43 @@
+{
+  "date": "Mar 13, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Mute swan with chicks in Hesse, Germany",
+  "copyright": "Mute swan with chicks, Hesse, Germany (© Wilfried Martin/Getty Images)",
+  "copyrightOnly": "© Wilfried Martin/Getty Images",
+  "copyrightLink": "/search?q=Mute+swan&form=hpcapt&filters=HpDate%3a%2220260313_0700%22",
+  "description": "Silence on the water often means something special is happening—have you noticed how swans seem to turn lakes into slow-moving classrooms? A mute swan glides across calm water with its cygnets in Hesse, Germany. This scene is common across European lakes and river landscapes, from Lake Constance and the Mecklenburg Lake District to restored river channels in many towns and cities. These waterways provide sheltered shorelines and abundant aquatic plants, the swan's primary food source.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_SwanHesse%22&FORM=HPQUIZ",
+  "hash": "059e7cb242175e70d10ae0218ab462d2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260313",
+    "fullStartDateTime": "202603130700",
+    "endDate": "20260314"
+  },
+  "createdAt": "202603140322",
+  "originalUrlBase": "/th?id=OHR.SwanHesse_ROW3213322861"
+}

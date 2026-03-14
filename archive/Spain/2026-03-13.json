@@ -1,0 +1,43 @@
+{
+  "date": "14 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una antigua perspectiva sobre Pi",
+  "bsTitle": "Una antigua perspectiva sobre Pi",
+  "caption": "Día de Pi",
+  "copyright": "Lanyon Quoit, un dolmen neolítico en Cornualles, Inglaterra (© Helen Hotson/Alamy)",
+  "copyrightOnly": "© Helen Hotson/Alamy",
+  "copyrightLink": "/search?q=D%c3%ada+de+Pi&form=hpcapt&filters=HpDate%3a%2220260313_2300%22",
+  "description": "Cada 14 de marzo se celebra el Día de Pi, una fecha que invita a recordar la importancia de esta constante presente en múltiples aspectos de la ciencia y la vida cotidiana. Aunque nació como una conmemoración académica, con el tiempo se ha convertido en una ocasión para apreciar la belleza de las matemáticas y su capacidad para explicar formas, ritmos y ciclos. En este día se destacan la curiosidad y el deseo humano de comprender el mundo a través de números que parecen sencillos, pero encierran infinitas posibilidades.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_CornwallDolmen%22&FORM=HPQUIZ",
+  "hash": "7a87738cdd09211da82f168c63a7bb7a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_ES-ES3155419743_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260313",
+    "fullStartDateTime": "202603132300",
+    "endDate": "20260314"
+  },
+  "createdAt": "202603140322",
+  "originalUrlBase": "/th?id=OHR.CornwallDolmen_ES-ES3155419743"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "14. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein uralter Blick auf π",
+  "bsTitle": "Ein uralter Blick auf π",
+  "caption": "Heute ist Pi‑Tag",
+  "copyright": "Lanyon Quoit, neolithischer Dolmen in Cornwall, England (© Helen Hotson/Alamy)",
+  "copyrightOnly": "© Helen Hotson/Alamy",
+  "copyrightLink": "/search?q=Pi-Tag&form=hpcapt&filters=HpDate%3a%2220260313_2300%22",
+  "description": "Wussten Sie, dass wir heute den Pi‑Tag feiern? Jedes Jahr am 14. März rückt diese besondere Kreiszahl in den Mittelpunkt. Das Datum steht für die ersten Stellen von π, nämlich 3,14. Seit Jahrhunderten fasziniert die unendliche, nicht periodische Zahl Mathematikbegeisterte auf der ganzen Welt. Schon lange bevor schriftliche Formeln entstanden, nutzten frühere Kulturen geometrische Prinzipien ganz praktisch in ihrem Alltag.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_CornwallDolmen%22&FORM=HPQUIZ",
+  "hash": "c663db693202ee6eb0da11d0f14c6b41",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260313",
+    "fullStartDateTime": "202603132300",
+    "endDate": "20260314"
+  },
+  "createdAt": "202603140322",
+  "originalUrlBase": "/th?id=OHR.CornwallDolmen_DE-DE0215801252"
+}

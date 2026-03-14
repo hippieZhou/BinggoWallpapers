@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Mute swan with chicks, Hesse, Germany (© Wilfried Martin/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Mute+swan&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_SwanHesse%22&FORM=HPQUIZ",
+  "hash": "059e7cb242175e70d10ae0218ab462d2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260313",
+    "fullStartDateTime": "202603130700",
+    "endDate": "20260314"
+  },
+  "createdAt": "202603140322",
+  "originalUrlBase": "/th?id=OHR.SwanHesse_ROW3213322861"
+}

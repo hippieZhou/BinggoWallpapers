@@ -1,0 +1,43 @@
+{
+  "date": "Mar 13, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A quiet masterpiece in stone",
+  "bsTitle": "A quiet masterpiece in stone",
+  "caption": "Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France",
+  "copyright": "Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)",
+  "copyrightOnly": "© Helmut Meyer zur Capellen/Alamy",
+  "copyrightLink": "/search?q=Notre+Dame+de+Bon+Port+Les-Sables+France&form=hpcapt&filters=HpDate%3a%2220260313_0700%22",
+  "description": "Under the vaulted ceiling of Notre-Dame de Bon-Port in Les Sables-d'Olonne, a seaside town in western France, the stone ribs still guide the gaze upward. Construction of the soaring vaults began in 1646. The church—officially recognized as a French historic monument since 1993—stands on the site of a 13th-century chapel, a reminder of deep-rooted spiritual life on the Atlantic coast.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260313_VendeeVaults%22&FORM=HPQUIZ",
+  "hash": "2f223c3e7a539448aad05e1c397fd1fd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260313",
+    "fullStartDateTime": "202603130700",
+    "endDate": "20260314"
+  },
+  "createdAt": "202603140322",
+  "originalUrlBase": "/th?id=OHR.VendeeVaults_EN-US7120114878"
+}
