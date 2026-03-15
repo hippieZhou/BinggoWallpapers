@@ -1,0 +1,43 @@
+{
+  "date": "Mar 14, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "An ancient angle on Pi",
+  "bsTitle": "An ancient angle on Pi",
+  "caption": "Celebrating Pi Day",
+  "copyright": "Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)",
+  "copyrightOnly": "© Helen Hotson/Alamy",
+  "copyrightLink": "/search?q=Pi+Day&form=hpcapt&filters=HpDate%3a%2220260314_0700%22",
+  "description": "Long before pi had a name, people were drawn to its mystery. Every year on March 14, Pi Day highlights one of math's most recognizable constants. The date reflects the first three digits of pi (π), the ratio of a circle's circumference to its diameter: 3.14. Pi's infinite, nonrepeating decimal has fascinated thinkers for a long time. The modern celebration began in 1988, when physicist Larry Shaw marked the day with a fitting tribute: serving pie.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260314_CornwallDolmen%22&FORM=HPQUIZ",
+  "hash": "02f9c561df6e7f68a750ef37ee75619f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260314",
+    "fullStartDateTime": "202603140700",
+    "endDate": "20260315"
+  },
+  "createdAt": "202603150347",
+  "originalUrlBase": "/th?id=OHR.CornwallDolmen_EN-US7192709883"
+}

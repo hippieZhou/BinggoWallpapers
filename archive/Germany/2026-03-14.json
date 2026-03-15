@@ -1,0 +1,43 @@
+{
+  "date": "15. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Idyllische Stille am Wasser",
+  "bsTitle": "Idyllische Stille am Wasser",
+  "caption": "Königssee bei Schönau am Königssee, Bayern",
+  "copyright": "Königssee bei Schönau am Königssee, Bayern (© EyeEm Mobile GmbH/Getty Images)",
+  "copyrightOnly": "© EyeEm Mobile GmbH/Getty Images",
+  "copyrightLink": "/search?q=K%c3%b6nigssee+Bayern&form=hpcapt&filters=HpDate%3a%2220260314_2300%22",
+  "description": "Wenn sich am frühen Morgen Nebel über den Königssee legt, wirkt die Landschaft beinahe zeitlos. Der langgestreckte Gebirgssee im Südosten Bayerns liegt eingebettet zwischen den steilen Felswänden der Berchtesgadener Alpen. Große Teile des Sees gehören zum Nationalpark Berchtesgaden, dem einzigen Alpennationalpark Deutschlands, in dem die Natur sich weitgehend frei entwickeln kann.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260314_KoenigsseeFog%22&FORM=HPQUIZ",
+  "hash": "823da978ff676fec8240f795d79be2e3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260314",
+    "fullStartDateTime": "202603142300",
+    "endDate": "20260315"
+  },
+  "createdAt": "202603150347",
+  "originalUrlBase": "/th?id=OHR.KoenigsseeFog_DE-DE0451394349"
+}

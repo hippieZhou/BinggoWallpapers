@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Ondas que anunciam visitas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parque Nacional Pacific Rim, Ilha de Vancouver, Canadá (© EmilyNorton/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+Pacific+Rim&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PacificRimNP%22&FORM=HPQUIZ",
+  "hash": "7399bd47fc35f5a7898121c0b59848e1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_PT-BR1302801111_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_PT-BR1302801111_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_PT-BR1302801111_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_PT-BR1302801111_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260315",
+    "fullStartDateTime": "202603150300",
+    "endDate": "20260316"
+  },
+  "createdAt": "202603150347",
+  "originalUrlBase": "/th?id=OHR.PacificRimNP_PT-BR1302801111"
+}
