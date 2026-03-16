@@ -1,0 +1,43 @@
+{
+  "date": "16 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Au royaume des pandas",
+  "bsTitle": "Au royaume des pandas",
+  "caption": "Panda géant, Chine",
+  "copyright": "Panda géant mangeant du bambou, Chine (© Entwicklungsknecht/Getty Images)",
+  "copyrightOnly": "© Entwicklungsknecht/Getty Images",
+  "copyrightLink": "/search?q=panda+g%c3%a9ant&form=hpcapt&filters=HpDate%3a%2220260315_2300%22",
+  "description": "Avec leur pelage noir et blanc et leur allure paisible, les pandas sont devenus des icônes mondiales de la protection de la nature. Endémiques des massifs montagneux du centre de la Chine, ils dépendent presque exclusivement du bambou, qu’ils consomment en très grandes quantités chaque jour. Longtemps menacés par la fragmentation de leur habitat et un faible taux de reproduction, les pandas géants restent une espèce vulnérable malgré les progrès récents.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PandaForest%22&FORM=HPQUIZ",
+  "hash": "ce8f14cf4d05473f2c376685b3457a51",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_FR-FR3318025531_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_FR-FR3318025531_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_FR-FR3318025531_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_FR-FR3318025531_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260315",
+    "fullStartDateTime": "202603152300",
+    "endDate": "20260316"
+  },
+  "createdAt": "202603160351",
+  "originalUrlBase": "/th?id=OHR.PandaForest_FR-FR3318025531"
+}

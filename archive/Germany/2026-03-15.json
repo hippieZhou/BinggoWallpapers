@@ -1,0 +1,43 @@
+{
+  "date": "16. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Symbol des Naturschutzes",
+  "bsTitle": "Ein Symbol des Naturschutzes",
+  "caption": "Großer Panda beim Bambusfressen, China",
+  "copyright": "Großer Panda beim Bambusfressen, China (© Entwicklungsknecht/Getty Images)",
+  "copyrightOnly": "© Entwicklungsknecht/Getty Images",
+  "copyrightLink": "/search?q=Gro%c3%9fer+Panda&form=hpcapt&filters=HpDate%3a%2220260315_2300%22",
+  "description": "Mit ihrem markanten schwarz-weißen Fell sind Große Pandas, auch Riesenpandas genannt, weltweit zu einem Symbol für erfolgreichen Naturschutz geworden. In ihrer Heimat China leben sie vor allem in nebelreichen Bergwäldern mit dichten Bambusbeständen, von denen sie sich nahezu ausschließlich ernähren. Da Bambus nur wenig Energie liefert, verbringen Pandas einen Großteil ihres Tages mit Fressen und anschließender Ruhe. Lange Zeit galt die Art als stark gefährdet. Der Verlust geeigneter Lebensräume und ihre geringe Fortpflanzungsrate ließen die Bestände deutlich schrumpfen. Durch umfassende Schutzmaßnahmen, darunter die Ausweisung neuer Schutzgebiete und die bessere Vernetzung von Bambuswäldern, konnte sich die Population in den vergangenen Jahren jedoch langsam erholen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PandaForest%22&FORM=HPQUIZ",
+  "hash": "2db9b1b4b3972a8d4eed9dd6f5be9008",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_DE-DE0631054848_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_DE-DE0631054848_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_DE-DE0631054848_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_DE-DE0631054848_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260315",
+    "fullStartDateTime": "202603152300",
+    "endDate": "20260316"
+  },
+  "createdAt": "202603160351",
+  "originalUrlBase": "/th?id=OHR.PandaForest_DE-DE0631054848"
+}

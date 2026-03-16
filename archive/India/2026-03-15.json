@@ -1,0 +1,43 @@
+{
+  "date": "Mar 16, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Into the Pandaverse",
+  "bsTitle": "Into the Pandaverse",
+  "caption": "National Panda Day",
+  "copyright": "Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)",
+  "copyrightOnly": "© Entwicklungsknecht/Getty Images",
+  "copyrightLink": "/search?q=giant+panda&form=hpcapt&filters=HpDate%3a%2220260315_1830%22",
+  "description": "With their black-and-white coats and gentle demeanour, pandas have become global symbols of conservation. Observed on 16 March, National Panda Day highlights this iconic species and the conservation challenges it still faces. Giant pandas are native to China and have faced a high risk of extinction due to habitat loss and low birth rates. Thanks to global conservation efforts, their population is slowly recovering, but more work is needed.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260315_PandaForest%22&FORM=HPQUIZ",
+  "hash": "e7b69390ec6328f190f3ff765c73adba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_EN-IN1900855233_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_EN-IN1900855233_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_EN-IN1900855233_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PandaForest_EN-IN1900855233_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260315",
+    "fullStartDateTime": "202603151830",
+    "endDate": "20260316"
+  },
+  "createdAt": "202603160351",
+  "originalUrlBase": "/th?id=OHR.PandaForest_EN-IN1900855233"
+}
