@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "爱尔兰的精神十字路口",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9c%a3%e5%b8%95%e7%89%b9%e9%87%8c%e5%85%8b%e8%8a%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260316_DonegalFort%22&FORM=HPQUIZ",
+  "hash": "d57e4f597f7ebdb75b72fe8a5f533131",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260316",
+    "fullStartDateTime": "202603161600",
+    "endDate": "20260317"
+  },
+  "createdAt": "202603170329",
+  "originalUrlBase": "/th?id=OHR.DonegalFort_ZH-CN0718842170"
+}

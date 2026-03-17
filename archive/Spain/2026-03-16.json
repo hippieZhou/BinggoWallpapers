@@ -1,0 +1,43 @@
+{
+  "date": "17 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La encrucijada espiritual de Irlanda",
+  "bsTitle": "La encrucijada espiritual de Irlanda",
+  "caption": "Día de San Patricio",
+  "copyright": "Fuerte circular de Grianán de Ailech, Donegal, Irlanda (© aluxum/Getty Images)",
+  "copyrightOnly": "© aluxum/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+de+San+Patricio&form=hpcapt&filters=HpDate%3a%2220260316_2300%22",
+  "description": "Cada 17 de marzo se celebra el Día de San Patricio, patrón de Irlanda y símbolo de una identidad que une fe, historia y alegría popular. Esta fecha invita a recordar la huella del santo en la cristianización de la isla y la riqueza de sus tradiciones. Verde en las calles, música tradicional, cuentos de héroes y santos, todo confluye en una jornada que trasciende fronteras y se vive con gratitud y entusiasmo. Es un momento para honrar la memoria y, al mismo tiempo, mirar al futuro con esperanza.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260316_DonegalFort%22&FORM=HPQUIZ",
+  "hash": "a9a7a992e0c70b3fe374f6842d5af6e8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ES-ES3467375923_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ES-ES3467375923_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ES-ES3467375923_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_ES-ES3467375923_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260316",
+    "fullStartDateTime": "202603162300",
+    "endDate": "20260317"
+  },
+  "createdAt": "202603170329",
+  "originalUrlBase": "/th?id=OHR.DonegalFort_ES-ES3467375923"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "17. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Grün mit Geschichte",
+  "bsTitle": "Grün mit Geschichte",
+  "caption": "St. Patrick's Day",
+  "copyright": "Ringfort Grianán von Aileach, County Donegal, Irland (© aluxum/Getty Images)",
+  "copyrightOnly": "© aluxum/Getty Images",
+  "copyrightLink": "/search?q=St.+Patrick%e2%80%99s+Day&form=hpcapt&filters=HpDate%3a%2220260316_2300%22",
+  "description": "Der St. Patrick’s Day ist ein Fest, das auf eine über 1.500 Jahre alte Geschichte zurückgeht. Der Lebensweg des irischen Nationalheiligen war jedoch alles andere als geradlinig. Er wurde im römischen Britannien geboren, mit 16 Jahren von irischen Plünderern entführt und kehrte erst Jahre nach seiner Flucht als Missionar nach Irland zurück, einer inneren Berufung folgend. Die bekannte Erzählung, in der er die Dreifaltigkeit anhand eines Kleeblatts erklärte, ist bis heute ein zentrales Symbol der irischen Kultur.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260316_DonegalFort%22&FORM=HPQUIZ",
+  "hash": "617ed3942445532368da9cbbf33d35fa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_DE-DE1298272044_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_DE-DE1298272044_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_DE-DE1298272044_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_DE-DE1298272044_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260316",
+    "fullStartDateTime": "202603162300",
+    "endDate": "20260317"
+  },
+  "createdAt": "202603170329",
+  "originalUrlBase": "/th?id=OHR.DonegalFort_DE-DE1298272044"
+}

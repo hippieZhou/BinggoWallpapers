@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cable car and Sugarloaf Mountain, Rio de Janeiro, Brazil (© f11photo/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Sugarloaf+Mountain&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260316_AnivRio%22&FORM=HPQUIZ",
+  "hash": "9cd2f395175c893e00e97e5e82ab0674",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AnivRio_ROW3862828341_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AnivRio_ROW3862828341_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AnivRio_ROW3862828341_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AnivRio_ROW3862828341_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260316",
+    "fullStartDateTime": "202603160700",
+    "endDate": "20260317"
+  },
+  "createdAt": "202603170329",
+  "originalUrlBase": "/th?id=OHR.AnivRio_ROW3862828341"
+}
