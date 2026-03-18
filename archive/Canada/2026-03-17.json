@@ -1,0 +1,43 @@
+{
+  "date": "Mar. 17, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Ireland's spiritual crossroads",
+  "bsTitle": "Ireland's spiritual crossroads",
+  "caption": "Happy St. Patrick's Day!",
+  "copyright": "Grianan of Aileach ring fort, Donegal, Ireland (© Lukassek/Getty Images)",
+  "copyrightOnly": "© Lukassek/Getty Images",
+  "copyrightLink": "/search?q=Saint+Patricks+Day&form=hpcapt&filters=HpDate%3a%2220260317_0400%22",
+  "description": "St. Patrick, the patron saint of Ireland, was born in Roman Britain around the late 4th or early 5th century. According to legend, at 16, he was kidnapped by Irish raiders and brought to Ireland as a slave. After escaping, he returned home and later became a missionary, spreading Christianity across the island. He is famously associated, according to later tradition, with using the shamrock to explain the Holy Trinity. His legacy of faith has made St. Patrick's Day a global celebration.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260317_DonegalFort%22&FORM=HPQUIZ",
+  "hash": "372c2c7d7789f2b35860f6dc5829b794",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260317",
+    "fullStartDateTime": "202603170400",
+    "endDate": "20260318"
+  },
+  "createdAt": "202603180336",
+  "originalUrlBase": "/th?id=OHR.DonegalFort_EN-CA9009549230"
+}

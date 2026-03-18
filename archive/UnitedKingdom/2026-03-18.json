@@ -1,0 +1,43 @@
+{
+  "date": "Mar 18, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Passing through, making waves",
+  "bsTitle": "Passing through, making waves",
+  "caption": "Pacific Rim Whale Festival",
+  "copyright": "Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)",
+  "copyrightOnly": "© EmilyNorton/Getty Images",
+  "copyrightLink": "/search?q=Pacific+Rim+Whale+Festival&form=hpcapt&filters=HpDate%3a%2220260318_0000%22",
+  "description": "Spring break on Vancouver Island looks a little different. In Canada, the Pacific Rim Whale Festival celebrates the annual spring migration of thousands of grey whales as they pass close to the island's west coast. Created by local communities in the 1980s, the festival marks the whales' return north from breeding lagoons in Baja California, Mexico.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_PacificRimNP%22&FORM=HPQUIZ",
+  "hash": "59e6415154bdacc0382c03364585ec76",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260318",
+    "fullStartDateTime": "202603180000",
+    "endDate": "20260319"
+  },
+  "createdAt": "202603180336",
+  "originalUrlBase": "/th?id=OHR.PacificRimNP_EN-GB7806112812"
+}
