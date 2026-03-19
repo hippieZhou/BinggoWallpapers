@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Ruggito di Papà",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Leone con prole (© JasonPrince/iStock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Festa+del+Pap%c3%a0&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_FathersDayItaly%22&FORM=HPQUIZ",
+  "hash": "195580aab3c61edb7be67192aaf5cc8f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260318",
+    "fullStartDateTime": "202603182300",
+    "endDate": "20260319"
+  },
+  "createdAt": "202603190335",
+  "originalUrlBase": "/th?id=OHR.FathersDayItaly_IT-IT6801495105"
+}

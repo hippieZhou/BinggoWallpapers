@@ -1,0 +1,43 @@
+{
+  "date": "19 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El guardián espinoso de Australia",
+  "bsTitle": "El guardián espinoso de Australia",
+  "caption": "Equidna de hocico corto, colinas de Adelaida, Australia",
+  "copyright": "Equidna de hocico corto, colinas de Adelaida, Australia (© Etienne Littlefair/naturepl.com)",
+  "copyrightOnly": "© Etienne Littlefair/naturepl.com",
+  "copyrightLink": "/search?q=Equidna+de+hocico+corto&form=hpcapt&filters=HpDate%3a%2220260318_2300%22",
+  "description": "La equidna de hocico corto habita en las colinas de Adelaida, en Australia, una región que combina bosques densos y claros rocosos donde este animal puede moverse con tranquilidad. Su cuerpo cubierto de espinas y su curioso hocico alargado la convierten en una criatura inconfundible dentro de la fauna australiana. La equidna se desplaza con calma entre raíces, piedras y arbustos, y suele mostrarse reservada ante cualquier perturbación. Cuando percibe peligro, excava con rapidez y presiona el cuerpo contra el suelo, dejando solo las espinas expuestas para protegerse. Esta estrategia le permite mantenerse a salvo sin necesidad de huir.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+  "hash": "b393589922c644a52418a487975759aa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ES-ES3815108716_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260318",
+    "fullStartDateTime": "202603182300",
+    "endDate": "20260319"
+  },
+  "createdAt": "202603190335",
+  "originalUrlBase": "/th?id=OHR.EchidnaAustralia_ES-ES3815108716"
+}

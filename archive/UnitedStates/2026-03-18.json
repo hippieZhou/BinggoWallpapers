@@ -1,0 +1,43 @@
+{
+  "date": "Mar 18, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Urban blooms",
+  "bsTitle": "Urban blooms",
+  "caption": "Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon",
+  "copyright": "Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)",
+  "copyrightOnly": "© Eric Vogt/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Tom+McCall+Waterfront+Park&form=hpcapt&filters=HpDate%3a%2220260318_0700%22",
+  "description": "Tom McCall Waterfront Park, a 36-acre urban oasis along the Willamette River in Portland, Oregon, is one of the city's most beloved green spaces. Each spring—typically from mid-March to early April—it transforms into a sea of soft pink and white as cherry blossoms bloom. These vibrant trees along scenic walking paths offer a peaceful escape in the heart of the city. The park also features notable landmarks like Salmon Street Springs, an interactive fountain with numerous water jets, and the Portland Saturday Market, a favorite local destination.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_PortlandBlossoms%22&FORM=HPQUIZ",
+  "hash": "f504b4f17443ce0777eb1706a7d2093c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260318",
+    "fullStartDateTime": "202603180700",
+    "endDate": "20260319"
+  },
+  "createdAt": "202603190335",
+  "originalUrlBase": "/th?id=OHR.PortlandBlossoms_EN-US7604107803"
+}

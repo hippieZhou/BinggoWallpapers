@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 19 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "卵を産む哺乳類",
+  "bsTitle": "卵を産む哺乳類",
+  "caption": "卵を産む哺乳類",
+  "copyright": "ハリモグラ, オーストラリア (© Etienne Littlefair/naturepl.com)",
+  "copyrightOnly": "© Etienne Littlefair/naturepl.com",
+  "copyrightLink": "/search?q=%e3%83%8f%e3%83%aa%e3%83%a2%e3%82%b0%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220260318_1500%22",
+  "description": "ハリモグラは、主にオーストラリア大陸に生息する単孔類の哺乳類です。背中を覆う硬いトゲと細長い吻が特徴で、粘着性の唾液で覆われた長い舌で主にアリを捕食し、危険を感じると丸くなって、全身のトゲを用いて身を守ります。また、哺乳類ながら卵を産み、孵化後は母乳で育てるという独特の生態をしています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+  "hash": "56217b5533a56a8c2f31d07755602abe",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260318",
+    "fullStartDateTime": "202603181500",
+    "endDate": "20260319"
+  },
+  "createdAt": "202603190335",
+  "originalUrlBase": "/th?id=OHR.EchidnaAustralia_JA-JP8184314558"
+}

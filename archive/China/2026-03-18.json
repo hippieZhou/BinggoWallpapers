@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "激发你的好奇心",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%be%b3%e6%b4%b2%e9%92%88%e9%bc%b9&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+  "hash": "b7c74c637ed98ed5badb475339a04481",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260318",
+    "fullStartDateTime": "202603181600",
+    "endDate": "20260319"
+  },
+  "createdAt": "202603190335",
+  "originalUrlBase": "/th?id=OHR.EchidnaAustralia_ZH-CN0913792118"
+}

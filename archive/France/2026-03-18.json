@@ -1,0 +1,43 @@
+{
+  "date": "19 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Piquez votre curiosité",
+  "bsTitle": "Piquez votre curiosité",
+  "caption": "L’échidné à nez court, Adelaide Hills, Australie",
+  "copyright": "L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com)",
+  "copyrightOnly": "© Etienne Littlefair/naturepl.com",
+  "copyrightLink": "/search?q=%c3%a9chidn%c3%a9+%c3%a0+nez+court&form=hpcapt&filters=HpDate%3a%2220260318_2300%22",
+  "description": "Un mammifère qui pond des œufs, dépourvu de dents, à la démarche presque reptilienne et couvert de piquants\u202F: l’échidné à nez court semble défier les lois de la logique. Présent en Australie, en Tasmanie et en Nouvelle-Guinée, il fait partie des rares monotrèmes encore vivants. Malgré son apparence préhistorique, il reste bien un mammifère\u202F: il a des poils, le sang chaud et produit du lait… sécrété par des glandes mammaires sans mamelons, que le petit lape directement sur la peau.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260318_EchidnaAustralia%22&FORM=HPQUIZ",
+  "hash": "2045525b64849590ea516c7e6f28648d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260318",
+    "fullStartDateTime": "202603182300",
+    "endDate": "20260319"
+  },
+  "createdAt": "202603190335",
+  "originalUrlBase": "/th?id=OHR.EchidnaAustralia_FR-FR9218839171"
+}
