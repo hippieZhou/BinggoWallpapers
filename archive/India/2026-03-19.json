@@ -1,0 +1,43 @@
+{
+  "date": "Mar 20, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The quiet bloom of change",
+  "bsTitle": "The quiet bloom of change",
+  "caption": "Spring equinox",
+  "copyright": "Snowdrops in spring (© klagyivik/Getty Images)",
+  "copyrightOnly": "© klagyivik/Getty Images",
+  "copyrightLink": "/search?q=March+equinox&form=hpcapt&filters=HpDate%3a%2220260319_1830%22",
+  "description": "A white snowdrop is spring's quiet debut. No confetti, no countdown—just a delicate flower appearing as the spring equinox balances day and night. Snowdrops are among the first to bloom, often pushing through cold soil before winter fully packs up. Their drooping, bell-shaped flowers may look delicate, but they're built for early arrival. Special antifreeze proteins in their cells help them tolerate frost, making them well suited to unpredictable late-winter weather.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_SpringSnowdrops%22&FORM=HPQUIZ",
+  "hash": "3f3c0f590a7b472245eeabc501ea444a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-IN2545319285_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260319",
+    "fullStartDateTime": "202603191830",
+    "endDate": "20260320"
+  },
+  "createdAt": "202603200326",
+  "originalUrlBase": "/th?id=OHR.SpringSnowdrops_EN-IN2545319285"
+}

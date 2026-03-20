@@ -1,0 +1,43 @@
+{
+  "date": "20. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der erste Hauch von Frühling",
+  "bsTitle": "Der erste Hauch von Frühling",
+  "caption": "Frühlingsanfang",
+  "copyright": "Schneeglöckchen im Frühling (© klagyivik/Getty Images)",
+  "copyrightOnly": "© klagyivik/Getty Images",
+  "copyrightLink": "/search?q=Fr%c3%bch%c2%adjahrs-Tag%c2%adund%c2%adnacht%c2%adglei%c2%adche&form=hpcapt&filters=HpDate%3a%2220260319_2300%22",
+  "description": "Ein Meer aus Schneeglöckchen im ersten Licht des Tages ist ein stilles, aber deutliches Signal dafür, dass die Natur nach den langen Wintermonaten langsam wieder erwacht. Als frühe Frühlingsboten durchbrechen sie die kalte Erde, lange bevor andere Pflanzen wieder austreiben. Trotz ihrer zarten Form sind sie erstaunlich widerstandsfähig. Spezielle frostschützende Proteine helfen ihnen, selbst eisige Nächte gut zu überstehen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_SpringSnowdrops%22&FORM=HPQUIZ",
+  "hash": "c5a3e3478a92f49e64eacbb6e238233b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_DE-DE7059027908_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260319",
+    "fullStartDateTime": "202603192300",
+    "endDate": "20260320"
+  },
+  "createdAt": "202603200326",
+  "originalUrlBase": "/th?id=OHR.SpringSnowdrops_DE-DE7059027908"
+}

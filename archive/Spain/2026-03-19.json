@@ -1,0 +1,43 @@
+{
+  "date": "20 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Susurros de primavera",
+  "bsTitle": "Susurros de primavera",
+  "caption": "Equinoccio de primavera",
+  "copyright": "Abubilla descansando sobre una piedra (© Brais Seara/Getty Images)",
+  "copyrightOnly": "© Brais Seara/Getty Images",
+  "copyrightLink": "/search?q=Equinoccio+de+primavera+2026&form=hpcapt&filters=HpDate%3a%2220260319_2300%22",
+  "description": "La llegada del equinoccio de primavera marca un momento de equilibrio en el calendario y también una señal para muchas aves que retoman antiguos recorridos. Entre ellas destaca la abubilla, reconocible por su plumaje cálido y la cresta que despliega como un abanico. Su presencia en marzo no es casual porque forma parte de las poblaciones migratorias que regresan entre finales de febrero y abril para ocupar de nuevo sus zonas de cría en regiones templadas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260319_Equinox%22&FORM=HPQUIZ",
+  "hash": "39fadb384c7cfbe9a4a85759b577ae24",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Equinox_ES-ES5576771883_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260319",
+    "fullStartDateTime": "202603192300",
+    "endDate": "20260320"
+  },
+  "createdAt": "202603200326",
+  "originalUrlBase": "/th?id=OHR.Equinox_ES-ES5576771883"
+}
