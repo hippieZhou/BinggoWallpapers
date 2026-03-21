@@ -1,0 +1,43 @@
+{
+  "date": "21 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les racines, nos piliers",
+  "bsTitle": "Les racines, nos piliers",
+  "caption": "Journée internationale des forêts",
+  "copyright": "Forêt de Letea, Delta du Danube, Roumanie (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+  "copyrightOnly": "© Wild Wonders of Europe/Widstrand/Nature Picture Library",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+des+for%c3%aats&form=hpcapt&filters=HpDate%3a%2220260320_2300%22",
+  "description": "Si la Terre avait une équipe de maintenance, les forêts en seraient le pilier silencieux. Elles capturent le carbone, retiennent les sols, filtrent l’eau et abritent une vie foisonnante, des mousses aux grands mammifères. Elles couvrent encore près d’un tiers des terres émergées, mais chaque clairière gagnée par l’agriculture, les routes ou l’extraction de ressources fragilise un équilibre ancien.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260320_LeteaForest%22&FORM=HPQUIZ",
+  "hash": "3aa603f91d11a3c53433a8c342939b0e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260320",
+    "fullStartDateTime": "202603202300",
+    "endDate": "20260321"
+  },
+  "createdAt": "202603210314",
+  "originalUrlBase": "/th?id=OHR.LeteaForest_FR-FR7321636250"
+}

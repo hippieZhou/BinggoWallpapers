@@ -1,0 +1,43 @@
+{
+  "date": "21 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde las raíces crecen libres",
+  "bsTitle": "Donde las raíces crecen libres",
+  "caption": "Día Internacional de los Bosques",
+  "copyright": "Bosque de Letea, delta del Danubio, Rumanía (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+  "copyrightOnly": "© Wild Wonders of Europe/Widstrand/Nature Picture Library",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+de+los+Bosques&form=hpcapt&filters=HpDate%3a%2220260320_2300%22",
+  "description": "Cada 21 de marzo celebramos el Día Internacional de los Bosques, una fecha pensada para recordarnos que los árboles no solo decoran el paisaje. También son un refugio de vida y un alivio para nuestras ciudades y nuestras rutinas. Es una jornada que invita a mirar el mundo con calma y a redescubrir esos lugares que siguen latiendo pese a todo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260320_LeteaForest%22&FORM=HPQUIZ",
+  "hash": "b9ffa4bc95a7efe809835da56076d95f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ES-ES5974566570_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ES-ES5974566570_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ES-ES5974566570_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ES-ES5974566570_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260320",
+    "fullStartDateTime": "202603202300",
+    "endDate": "20260321"
+  },
+  "createdAt": "202603210314",
+  "originalUrlBase": "/th?id=OHR.LeteaForest_ES-ES5974566570"
+}

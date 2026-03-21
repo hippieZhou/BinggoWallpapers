@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "As raízes do futuro",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Floresta de Letea, Delta do Danúbio, Romênia (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=dia+internacional+das+florestas&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260321_LeteaForest%22&FORM=HPQUIZ",
+  "hash": "6bfd85fdabb1104aefd52875d465291b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_PT-BR9172551270_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_PT-BR9172551270_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_PT-BR9172551270_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_PT-BR9172551270_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260321",
+    "fullStartDateTime": "202603210300",
+    "endDate": "20260322"
+  },
+  "createdAt": "202603210314",
+  "originalUrlBase": "/th?id=OHR.LeteaForest_PT-BR9172551270"
+}
