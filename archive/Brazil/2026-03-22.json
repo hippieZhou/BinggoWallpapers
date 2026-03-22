@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Abundância enganosa",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lago Tanganica, África (© BEST-BACKGROUNDS/NASA/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+dia+mundial+da+agua&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_TanganyikaWater%22&FORM=HPQUIZ",
+  "hash": "ecf4252853bf36221a48c11802750eb4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_PT-BR0806966127_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_PT-BR0806966127_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_PT-BR0806966127_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_PT-BR0806966127_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260322",
+    "fullStartDateTime": "202603220300",
+    "endDate": "20260323"
+  },
+  "createdAt": "202603220335",
+  "originalUrlBase": "/th?id=OHR.TanganyikaWater_PT-BR0806966127"
+}

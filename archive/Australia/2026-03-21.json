@@ -1,0 +1,43 @@
+{
+  "date": "Mar 21, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Letea Forest, Danube Delta, Romania",
+  "copyright": "Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)",
+  "copyrightOnly": "© Wild Wonders of Europe/Widstrand/Nature Picture Library",
+  "copyrightLink": "/search?q=Danube+Delta&form=hpcapt&filters=HpDate%3a%2220260321_0700%22",
+  "description": "If Earth ran on routine check-ups, wetlands like the Danube Delta, shared between Romania and Ukraine, would top the list. This vast landscape quietly filters water, absorbs floodwaters and shelters wildlife on a remarkable scale. Covering more than 5,800 square kilometres, the Danube Delta Biosphere Reserve is one of Europe's largest and best-preserved wetlands. It's where the Danube River finally slows down, splitting into channels, lakes, reed beds and marshes before meeting the Black Sea. Letea Forest, featured in today's image, is a part of this vast biosphere.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260321_LeteaForest%22&FORM=HPQUIZ",
+  "hash": "35f35c2f8e8ea37f2d05317eeace8c20",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260321",
+    "fullStartDateTime": "202603210700",
+    "endDate": "20260322"
+  },
+  "createdAt": "202603220335",
+  "originalUrlBase": "/th?id=OHR.LeteaForest_ROW4397618654"
+}
