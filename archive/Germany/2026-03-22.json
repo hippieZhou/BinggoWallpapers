@@ -1,0 +1,43 @@
+{
+  "date": "23. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wenn das Wetter den Weg weist",
+  "bsTitle": "Wenn das Wetter den Weg weist",
+  "caption": "Welttag der Meteorologie",
+  "copyright": "Gewitter über Saguaro-Kakteen, Sonora-Wüste, Arizona, USA (© Jack Dykinga/Nature Picture Library)",
+  "copyrightOnly": "© Jack Dykinga/Nature Picture Library",
+  "copyrightLink": "/search?q=Welttag+der+Meteorologie&form=hpcapt&filters=HpDate%3a%2220260322_2300%22",
+  "description": "Gewitter zählen zu den spektakulärsten Wetterphänomenen unserer Erde. Sie bilden sich plötzlich, setzen enorme Energie frei und ziehen mit ihren hellen Blitzen die Aufmerksamkeit auf sich. Wer ihre Entstehung versteht, kann Risiken besser einschätzen und sicherer leben. Der Welttag der Meteorologie erinnert an die Gründung der Weltorganisation für Meteorologie im Jahr 1950 und betont die Bedeutung verlässlicher Wetter‑, Klima‑ und Wasserdienste – von Unwetterwarnungen bis zur langfristigen Klimabeobachtung. Das diesjährige Motto lautet: „Heute beobachten, morgen schützen.“",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+  "hash": "2bb59cd93bae4b504cf400bb46761e2a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260322",
+    "fullStartDateTime": "202603222300",
+    "endDate": "20260323"
+  },
+  "createdAt": "202603230339",
+  "originalUrlBase": "/th?id=OHR.SonoranStorm_DE-DE8439783088"
+}

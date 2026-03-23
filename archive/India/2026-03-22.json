@@ -1,0 +1,43 @@
+{
+  "date": "Mar 23, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Guided by the weather",
+  "bsTitle": "Guided by the weather",
+  "caption": "World Meteorological Day",
+  "copyright": "Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)",
+  "copyrightOnly": "© Jack Dykinga/Nature Picture Library",
+  "copyrightLink": "/search?q=World+Meteorological+Day&form=hpcapt&filters=HpDate%3a%2220260322_1830%22",
+  "description": "The strength of nature is nowhere more evident than in powerful storms. Scary? Yes. Fascinating? Even more so. Learning to understand and respect these forces helps humanity live more safely.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+  "hash": "767f9a39c23c83a3ae6df2ea3a6beaa5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_EN-IN3104134842_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_EN-IN3104134842_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_EN-IN3104134842_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_EN-IN3104134842_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260322",
+    "fullStartDateTime": "202603221830",
+    "endDate": "20260323"
+  },
+  "createdAt": "202603230339",
+  "originalUrlBase": "/th?id=OHR.SonoranStorm_EN-IN3104134842"
+}

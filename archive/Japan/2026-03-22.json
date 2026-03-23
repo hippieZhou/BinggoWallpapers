@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 23 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は世界気象デー",
+  "bsTitle": "今日は世界気象デー",
+  "caption": "今日は世界気象デー",
+  "copyright": "ベンケイチュウ, 米国 アリゾナ州 (© Jack Dykinga/Nature Picture Library)",
+  "copyrightOnly": "© Jack Dykinga/Nature Picture Library",
+  "copyrightLink": "/search?q=%e3%83%99%e3%83%b3%e3%82%b1%e3%82%a4%e3%83%81%e3%83%a5%e3%82%a6&form=hpcapt&filters=HpDate%3a%2220260322_1500%22",
+  "description": "今日 3 月 23 日は世界気象デー。1950 年に世界気象機関（WMO）が発足したことを記念する日です。そして、画像は北米ソノラ砂漠に生育するサボテン、「ベンケイチュウ」とその上空を走る稲妻を捉えたものです。ここは、ただ乾燥しているだけではなく、冬は穏やかな雨季、夏は画像のように急激な天候変化を起こすモンスーンを伴った激しい雨季があるという、非常に変化に富んだ気候が特徴です。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+  "hash": "0e591c3f2b70748833f7e94a8df7f4fa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260322",
+    "fullStartDateTime": "202603221500",
+    "endDate": "20260323"
+  },
+  "createdAt": "202603230339",
+  "originalUrlBase": "/th?id=OHR.SonoranStorm_JA-JP6793978883"
+}

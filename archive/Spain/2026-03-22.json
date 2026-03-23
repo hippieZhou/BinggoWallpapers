@@ -1,0 +1,43 @@
+{
+  "date": "23 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El clima como guía",
+  "bsTitle": "El clima como guía",
+  "caption": "Día Meteorológico Mundial",
+  "copyright": "Tormenta eléctrica sobre cactus saguaro, desierto de Sonora, Arizona, EE. UU. (© Jack Dykinga/Nature Picture Library)",
+  "copyrightOnly": "© Jack Dykinga/Nature Picture Library",
+  "copyrightLink": "/search?q=D%c3%ada+Meteorol%c3%b3gico+Mundial&form=hpcapt&filters=HpDate%3a%2220260322_2300%22",
+  "description": "Hoy se celebra el Día Meteorológico Mundial, una fecha que destaca la importancia de comprender los fenómenos atmosféricos y sus efectos en nuestras vidas. Esta jornada recuerda el valor de la observación científica y la necesidad de promover una mayor conciencia sobre el clima a escala global.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+  "hash": "181ec38d1e2ed8ca2c4ef1050d7f01eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ES-ES8362757569_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ES-ES8362757569_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ES-ES8362757569_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ES-ES8362757569_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260322",
+    "fullStartDateTime": "202603222300",
+    "endDate": "20260323"
+  },
+  "createdAt": "202603230339",
+  "originalUrlBase": "/th?id=OHR.SonoranStorm_ES-ES8362757569"
+}

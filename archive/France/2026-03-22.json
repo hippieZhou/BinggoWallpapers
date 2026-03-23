@@ -1,0 +1,43 @@
+{
+  "date": "23 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Guidés par la météo",
+  "bsTitle": "Guidés par la météo",
+  "caption": "Journée météorologique mondiale",
+  "copyright": "Orage sur des cactus saguaro, désert de Sonora, Arizona, États-Unis (© Jack Dykinga/Nature Picture Library)",
+  "copyrightOnly": "© Jack Dykinga/Nature Picture Library",
+  "copyrightLink": "/search?q=Journ%c3%a9e+m%c3%a9t%c3%a9orologique+mondiale+2026&form=hpcapt&filters=HpDate%3a%2220260322_2300%22",
+  "description": "La puissance de la nature résonne avec éclat lors des grandes tempêtes. Elles inquiètent, bien sûr, mais fascinent tout autant. Apprendre à lire ces forces, souvent invisibles, à les anticiper et à les respecter, permet à nos sociétés de mieux cohabiter avec un monde en perpétuel mouvement.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260322_SonoranStorm%22&FORM=HPQUIZ",
+  "hash": "41a188bc0c139feee203d817a663fe0f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_FR-FR7587104975_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260322",
+    "fullStartDateTime": "202603222300",
+    "endDate": "20260323"
+  },
+  "createdAt": "202603230339",
+  "originalUrlBase": "/th?id=OHR.SonoranStorm_FR-FR7587104975"
+}
