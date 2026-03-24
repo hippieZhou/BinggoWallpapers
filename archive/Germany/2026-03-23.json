@@ -1,0 +1,43 @@
+{
+  "date": "24. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Stille an der Küste",
+  "bsTitle": "Stille an der Küste",
+  "caption": "Peilturm am Kap Arkona, Rügen, Mecklenburg‑Vorpommern",
+  "copyright": "Drohnenaufnahme des Peilturms am Kap Arkona, Rügen, Mecklenburg‑Vorpommern (© Stefan Dinse/Getty Images)",
+  "copyrightOnly": "© Stefan Dinse/Getty Images",
+  "copyrightLink": "/search?q=Kap+Arkona+R%c3%bcgen&form=hpcapt&filters=HpDate%3a%2220260323_2300%22",
+  "description": "Über der Nordspitze Rügens liegt am Kap Arkona warmes Abendlicht über Backstein und Glas. Der Peilturm mit seiner markanten Kuppel erhebt sich über die sanft geschwungenen Klippen und fängt die letzten Farben des Himmels ein. Unter ihm fällt die Steilküste bis zu rund 43\u202FMeter zur Ostsee ab, die sich ruhig bis zum Horizont erstreckt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_KapArkonaRuegen%22&FORM=HPQUIZ",
+  "hash": "ee5e71d7238b3d26ce706c7aebf28288",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260323",
+    "fullStartDateTime": "202603232300",
+    "endDate": "20260324"
+  },
+  "createdAt": "202603240330",
+  "originalUrlBase": "/th?id=OHR.KapArkonaRuegen_DE-DE8954793398"
+}

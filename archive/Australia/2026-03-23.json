@@ -1,0 +1,43 @@
+{
+  "date": "Mar 23, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Saguaro cacti in the Sonoran Desert, Arizona, USA",
+  "copyright": "Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)",
+  "copyrightOnly": "© Jack Dykinga/Nature Picture Library",
+  "copyrightLink": "/search?q=Sonoran+Desert+Arizona&form=hpcapt&filters=HpDate%3a%2220260323_0700%22",
+  "description": "The strength of nature is nowhere more evident than in powerful storms. Scary? Yes. Fascinating? Even more so. Learning to understand and respect these forces is how people learn to live alongside them. The image of lightning over saguaro cacti captures that balance perfectly. The Sonoran Desert, spanning 260,000 square kilometres across the United States and Mexico, may appear dry and still, but it hosts one of North America's most dynamic desert climates.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_SonoranStorm%22&FORM=HPQUIZ",
+  "hash": "3e126cfc0e96d300da82755292d554d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260323",
+    "fullStartDateTime": "202603230700",
+    "endDate": "20260324"
+  },
+  "createdAt": "202603240330",
+  "originalUrlBase": "/th?id=OHR.SonoranStorm_ROW5466478182"
+}

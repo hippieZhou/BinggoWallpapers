@@ -1,0 +1,43 @@
+{
+  "date": "24 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La silueta de la primavera",
+  "bsTitle": "La silueta de la primavera",
+  "caption": "Cerezos en flor en el parque East Lake Cherry Blossom, Wuhan, China",
+  "copyright": "Cerezos en flor en el parque East Lake Cherry Blossom, Wuhan, China (© Zhang Qiao/VCG/Getty Images)",
+  "copyrightOnly": "© Zhang Qiao/VCG/Getty Images",
+  "copyrightLink": "/search?q=Wuhan&form=hpcapt&filters=HpDate%3a%2220260323_2300%22",
+  "description": "Cada primavera, el parque East Lake Cherry Blossom de Wuhan, en China, se transforma en un paisaje rosado que atrae a miles de visitantes. Más de diez mil cerezos cubren las laderas alrededor del lago y crean un ambiente casi irreal cuando el viento mueve los pétalos. A pesar de que la floración suele durar apenas dos semanas, el contraste entre los tonos suaves de las flores y el agua tranquila convierte este lugar en uno de los escenarios más fotografiados de China.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_WuhanCherryBlossom%22&FORM=HPQUIZ",
+  "hash": "25c37e10b2ba41307fca68382baef9dc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260323",
+    "fullStartDateTime": "202603232300",
+    "endDate": "20260324"
+  },
+  "createdAt": "202603240330",
+  "originalUrlBase": "/th?id=OHR.WuhanCherryBlossom_ES-ES4267381622"
+}

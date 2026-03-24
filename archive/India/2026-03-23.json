@@ -1,0 +1,43 @@
+{
+  "date": "Mar 24, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The shape of spring",
+  "bsTitle": "The shape of spring",
+  "caption": "Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China",
+  "copyright": "Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)",
+  "copyrightOnly": "© Zhang Qiao/VCG/Getty Images",
+  "copyrightLink": "/search?q=Wuhan+China&form=hpcapt&filters=HpDate%3a%2220260323_1830%22",
+  "description": "From above, East Lake Cherry Blossom Park in Wuhan, China, looks like a soft lilac cloud settled gently over the land. Thousands of cherry trees bloom at once, their pale petals forming a living canopy around a golden five-storey pagoda at the park's heart. The pagoda rises in calm symmetry, its tiered rooflines glowing against the delicate pastels of spring.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260323_WuhanCherryBlossom%22&FORM=HPQUIZ",
+  "hash": "ef5b4c16cd2f9432596366204b704f47",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260323",
+    "fullStartDateTime": "202603231830",
+    "endDate": "20260324"
+  },
+  "createdAt": "202603240330",
+  "originalUrlBase": "/th?id=OHR.WuhanCherryBlossom_EN-IN3328860574"
+}
