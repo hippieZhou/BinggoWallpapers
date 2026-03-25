@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "E quindi uscimmo a riveder le stelle",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cattedrale Santa Maria del Fiore, Firenze, Toscana (© Lindrik/iStock/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Danted%c3%ac&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_DanteDay%22&FORM=HPQUIZ",
+  "hash": "db3eb95b724f2fa4d1aa64c7046f9eb6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260324",
+    "fullStartDateTime": "202603242300",
+    "endDate": "20260325"
+  },
+  "createdAt": "202603250333",
+  "originalUrlBase": "/th?id=OHR.DanteDay_IT-IT4553177654"
+}

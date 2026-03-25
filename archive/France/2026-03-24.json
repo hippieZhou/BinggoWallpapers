@@ -1,0 +1,43 @@
+{
+  "date": "25 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La vie secrète des lamantins",
+  "bsTitle": "La vie secrète des lamantins",
+  "caption": "Jeunes lamantins, Crystal River, Floride, États-Unis",
+  "copyright": "Jeunes lamantins dans une source d’eau douce, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)",
+  "copyrightOnly": "© Gregory Sweeney/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9e+d%e2%80%99appr%c3%a9ciation+des+lamantins&form=hpcapt&filters=HpDate%3a%2220260324_2300%22",
+  "description": "Les lamantins donnent l’impression de flotter au ralenti, presque assoupis. Pourtant, sous la surface, ils révèlent d’étonnantes particularités. Ce sont parmi les rares mammifères à renouveler leurs dents en continu\u202F: leurs molaires usées par les herbiers sableux avancent peu à peu, remplacées comme sur un tapis roulant - un atout pour un animal qui passe jusqu’à huit heures par jour à brouter.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+  "hash": "88a8486b3c6e7998a6c78664feab13c4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_FR-FR8210018340_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_FR-FR8210018340_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_FR-FR8210018340_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_FR-FR8210018340_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260324",
+    "fullStartDateTime": "202603242300",
+    "endDate": "20260325"
+  },
+  "createdAt": "202603250333",
+  "originalUrlBase": "/th?id=OHR.ManateeSpring_FR-FR8210018340"
+}

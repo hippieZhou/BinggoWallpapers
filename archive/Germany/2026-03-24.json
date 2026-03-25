@@ -1,0 +1,43 @@
+{
+  "date": "25. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Sanfte Meister des Wassers",
+  "bsTitle": "Sanfte Meister des Wassers",
+  "caption": "Junge Seekühe am Crystal River, Florida, USA",
+  "copyright": "Junge Seekühe in einer Süßwasserquelle am Crystal River, Florida, USA (© Gregory Sweeney/Getty Images)",
+  "copyrightOnly": "© Gregory Sweeney/Getty Images",
+  "copyrightLink": "/search?q=Seek%c3%bche&form=hpcapt&filters=HpDate%3a%2220260324_2300%22",
+  "description": "Seekühe treiben auf den ersten Blick ruhig durchs Wasser, doch ihr Körper ist weitaus raffinierter, als man erwartet. Als reine Pflanzenfresser verbringen sie viele Stunden damit, Seegras zu kauen. Dabei kommt ihnen eine biologische Besonderheit zugute: Ihre Backenzähne nutzen sich schnell ab und werden kontinuierlich von hinten durch neue ersetzt. So bleiben sie ihr Leben lang funktionsfähig. Auch ihre Abstammung ist überraschend. Trotz ihres Lebens im Wasser sind Seekühe eng mit Elefanten verwandt, was sich in ihrer faltigen Haut und den kräftigen, beweglichen Oberlippen zeigt. Gleichzeitig sind sie kälteempfindlich. Da ihnen eine dicke Fettschicht fehlt, ziehen sie sich in den Wintermonaten in warme Quellen zurück, um ihre Körpertemperatur zu halten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+  "hash": "9303fe747f74b799b543a842f35d3b1f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_DE-DE1785577917_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_DE-DE1785577917_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_DE-DE1785577917_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_DE-DE1785577917_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260324",
+    "fullStartDateTime": "202603242300",
+    "endDate": "20260325"
+  },
+  "createdAt": "202603250333",
+  "originalUrlBase": "/th?id=OHR.ManateeSpring_DE-DE1785577917"
+}

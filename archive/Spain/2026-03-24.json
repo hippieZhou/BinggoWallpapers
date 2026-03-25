@@ -1,0 +1,43 @@
+{
+  "date": "25 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La vida secreta de los manatíes",
+  "bsTitle": "La vida secreta de los manatíes",
+  "caption": "Manatíes en Crystal River, Florida, EE. UU.",
+  "copyright": "Manatíes en un manantial de agua dulce, Crystal River, Florida, EE. UU. (© Gregory Sweeney/Getty Images)",
+  "copyrightOnly": "© Gregory Sweeney/Getty Images",
+  "copyrightLink": "/search?q=Manat%c3%ad&form=hpcapt&filters=HpDate%3a%2220260324_2300%22",
+  "description": "Los manantiales de agua dulce de Crystal River en Florida, Estados Unidos, crean un entorno cálido y transparente que atrae a numerosos manatíes jóvenes en su búsqueda de calma y seguridad. En estas aguas claras encuentran un espacio estable que mantiene una temperatura adecuada durante los meses fríos y les permite descansar sin esfuerzo. La quietud del lugar hace que cualquier movimiento resulte agradable de observar.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+  "hash": "4e254d259e06e6a259281c9019bcaab4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ManateeSpring_ES-ES0435279848_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260324",
+    "fullStartDateTime": "202603242300",
+    "endDate": "20260325"
+  },
+  "createdAt": "202603250333",
+  "originalUrlBase": "/th?id=OHR.ManateeSpring_ES-ES0435279848"
+}
