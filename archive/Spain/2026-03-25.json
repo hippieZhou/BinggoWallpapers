@@ -1,0 +1,43 @@
+{
+  "date": "26 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Por encima de lo salvaje",
+  "bsTitle": "Por encima de lo salvaje",
+  "caption": "Puente colgante de Logan Creek, West Coast Trail, Canadá",
+  "copyright": "Puente colgante de Logan Creek, West Coast Trail, Canadá (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "© Tandem Stock/Adobe Stock",
+  "copyrightLink": "/search?q=West+Coast+Trail+Canad%c3%a1&form=hpcapt&filters=HpDate%3a%2220260325_2300%22",
+  "description": "El puente colgante de Logan Creek en el West Coast Trail, Canadá, es uno de esos pasos que convierten una travesía costera en una aventura memorable. Sustituyó a un cruce más rudimentario y hoy se integra en el bosque lluvioso como una pasarela aérea que regala vistas al cauce y al océano cercano. Su instalación en un entorno remoto exigió transportar piezas por aire y trabajar en ventanas de buen tiempo, lo que añade una historia de ingeniería a la experiencia del senderista. Solo se accede caminando por el West Coast Trail, lo que preserva su carácter de joya escondida entre brumas, acantilados y mareas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_LoganCreek%22&FORM=HPQUIZ",
+  "hash": "c703dfba064d0f86691065a88c8556ec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_ES-ES0815625351_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260325",
+    "fullStartDateTime": "202603252300",
+    "endDate": "20260326"
+  },
+  "createdAt": "202603260343",
+  "originalUrlBase": "/th?id=OHR.LoganCreek_ES-ES0815625351"
+}
