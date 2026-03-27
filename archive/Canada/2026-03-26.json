@@ -1,0 +1,43 @@
+{
+  "date": "Mar. 26, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A step above the wild",
+  "bsTitle": "A step above the wild",
+  "caption": "Logan Creek Suspension Bridge, West Coast Trail, British Columbia",
+  "copyright": "Logan Creek Suspension Bridge, West Coast Trail, British Columbia (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "© Tandem Stock/Adobe Stock",
+  "copyrightLink": "/search?q=West+Coast+Trail+hike&form=hpcapt&filters=HpDate%3a%2220260326_0400%22",
+  "description": "Running along the remote southwest coast of Vancouver Island, the West Coast Trail is one of the country's most legendary hikes. Located in British Columbia's Pacific Rim National Park Reserve, the trail stretches about 76 kilometres through rainforest, beaches and rocky shoreline. It was established in 1907 as a lifesaving route for shipwreck survivors along what sailors once called the 'Graveyard of the Pacific.'",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_LoganCreek%22&FORM=HPQUIZ",
+  "hash": "caff2877d27659e31a7fd820e152af46",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_EN-CA2859190085_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_EN-CA2859190085_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_EN-CA2859190085_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LoganCreek_EN-CA2859190085_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260326",
+    "fullStartDateTime": "202603260400",
+    "endDate": "20260327"
+  },
+  "createdAt": "202603270345",
+  "originalUrlBase": "/th?id=OHR.LoganCreek_EN-CA2859190085"
+}

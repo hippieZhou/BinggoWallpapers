@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Arquitetura performática",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Radio City Music Hall, Nova York, EUA (© Clarence Holmes Photography/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=dia+mundial+do+teatro&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_RadioCityHall%22&FORM=HPQUIZ",
+  "hash": "83c0a4093dc10dabdd1aa2effd2bc3ca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_PT-BR3869502799_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_PT-BR3869502799_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_PT-BR3869502799_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_PT-BR3869502799_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260327",
+    "fullStartDateTime": "202603270300",
+    "endDate": "20260328"
+  },
+  "createdAt": "202603270345",
+  "originalUrlBase": "/th?id=OHR.RadioCityHall_PT-BR3869502799"
+}

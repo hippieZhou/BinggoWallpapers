@@ -1,0 +1,43 @@
+{
+  "date": "27 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Sigue brillando con fuerza",
+  "bsTitle": "Sigue brillando con fuerza",
+  "caption": "Día Mundial del Teatro",
+  "copyright": "Radio City Music Hall en Nueva York, EE.\u202FUU. (© Clarence Holmes Photography/Alamy)",
+  "copyrightOnly": "© Clarence Holmes Photography/Alamy",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+del+Teatro&form=hpcapt&filters=HpDate%3a%2220260326_2300%22",
+  "description": "Cada 27 de marzo se celebra el Día Mundial del Teatro, una fecha que resalta la importancia de los escenarios y el modo en que el arte escénico acompaña la vida cultural de tantas ciudades. Es un día para reconocer la creatividad de quienes trabajan delante y detrás del telón y para recordar cómo las funciones en vivo continúan despertando emociones únicas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_RadioCityHall%22&FORM=HPQUIZ",
+  "hash": "1534e6d3e4c141039ef8758f642e9f0c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_ES-ES3762716953_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_ES-ES3762716953_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_ES-ES3762716953_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_ES-ES3762716953_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260326",
+    "fullStartDateTime": "202603262300",
+    "endDate": "20260327"
+  },
+  "createdAt": "202603270345",
+  "originalUrlBase": "/th?id=OHR.RadioCityHall_ES-ES3762716953"
+}

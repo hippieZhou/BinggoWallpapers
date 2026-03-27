@@ -1,0 +1,43 @@
+{
+  "date": "Mar 27, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Still burning bright",
+  "bsTitle": "Still burning bright",
+  "caption": "World Theatre Day",
+  "copyright": "Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy)",
+  "copyrightOnly": "© Clarence Holmes Photography/Alamy",
+  "copyrightLink": "/search?q=World+Theatre+Day&form=hpcapt&filters=HpDate%3a%2220260327_0000%22",
+  "description": "At first glance, there's no doubt that the interior of Radio City Music Hall pulls you in and cranks up the excitement. It feels like stepping straight into the sun in the middle of New York City, United States—an Art Deco fever dream of how the 1930s imagined the future. This rush of awe is celebrated every 27 March as World Theatre Day.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_RadioCityHall%22&FORM=HPQUIZ",
+  "hash": "5299dc6b3201a1191e158413053a4c46",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260327",
+    "fullStartDateTime": "202603270000",
+    "endDate": "20260328"
+  },
+  "createdAt": "202603270345",
+  "originalUrlBase": "/th?id=OHR.RadioCityHall_EN-GB4964203098"
+}

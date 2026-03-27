@@ -1,0 +1,43 @@
+{
+  "date": "27 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Toujours éclatant",
+  "bsTitle": "Toujours éclatant",
+  "caption": "Journée mondiale du théâtre",
+  "copyright": "Radio City Music Hall, New York, États-Unis (© Clarence Holmes Photography/Alamy)",
+  "copyrightOnly": "© Clarence Holmes Photography/Alamy",
+  "copyrightLink": "/search?q=Journ%c3%a9e+mondiale+du+th%c3%a9%c3%a2tre&form=hpcapt&filters=HpDate%3a%2220260326_2300%22",
+  "description": "Dès le premier regard, l’intérieur du Radio City Music Hall de New York, aux États-Unis, captive et électrise. On a l’impression d’entrer dans un soleil posé au cœur de Manhattan, une vision Art déco dans laquelle les années 1930 projetaient leur futur rêvé. Cette fascination pour la scène vivante se célèbre chaque 27 mars, à l’occasion de la Journée mondiale du théâtre.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_RadioCityHall%22&FORM=HPQUIZ",
+  "hash": "3601e8a83221353f6b20e4a7e5c73931",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_FR-FR8679509496_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_FR-FR8679509496_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_FR-FR8679509496_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RadioCityHall_FR-FR8679509496_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260326",
+    "fullStartDateTime": "202603262300",
+    "endDate": "20260327"
+  },
+  "createdAt": "202603270345",
+  "originalUrlBase": "/th?id=OHR.RadioCityHall_FR-FR8679509496"
+}
