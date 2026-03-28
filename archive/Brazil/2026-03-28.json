@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Cratera sob comando",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Búfalo-africano, Cratera de Ngorongoro, Tanzânia (© jesuss8/500px/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=bufalo&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_CapeBuffalo%22&FORM=HPQUIZ",
+  "hash": "035884fc10323daf2eb43b205193ec0d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_PT-BR4918930179_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_PT-BR4918930179_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_PT-BR4918930179_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_PT-BR4918930179_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260328",
+    "fullStartDateTime": "202603280300",
+    "endDate": "20260329"
+  },
+  "createdAt": "202603280331",
+  "originalUrlBase": "/th?id=OHR.CapeBuffalo_PT-BR4918930179"
+}

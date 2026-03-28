@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Spirito indomito",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Bufalo africano, Cratere di Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Syncerus+caffer&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+  "hash": "1efd63055f335921e33136ded55e0393",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_IT-IT4967996112_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260327",
+    "fullStartDateTime": "202603272300",
+    "endDate": "20260328"
+  },
+  "createdAt": "202603280331",
+  "originalUrlBase": "/th?id=OHR.CapeBuffalo_IT-IT4967996112"
+}

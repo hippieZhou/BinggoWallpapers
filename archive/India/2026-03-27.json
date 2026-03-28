@@ -1,0 +1,43 @@
+{
+  "date": "Mar 28, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The untamed spirit",
+  "bsTitle": "The untamed spirit",
+  "caption": "African buffalo, Ngorongoro Crater, Tanzania",
+  "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)",
+  "copyrightOnly": "© jesuss8/500px/Getty Images",
+  "copyrightLink": "/search?q=African+buffalo&form=hpcapt&filters=HpDate%3a%2220260327_1830%22",
+  "description": "The African buffalo, a powerful and imposing creature, roams the savannas and wetlands of Tanzania, particularly within the Ngorongoro Conservation Area (NCA). Known for their large, curved horns and massive size, they are one of Africa's 'Big Five' (buffalo, elephant, leopard, rhino, lion) and are widely respected for their strength and resilience. The NCA, a UNESCO World Heritage Site, offers a dramatic and ecologically rich setting for observing these formidable herbivores.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+  "hash": "64cbc2c39b435dffb27b6d2cc6d0576e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260327",
+    "fullStartDateTime": "202603271830",
+    "endDate": "20260328"
+  },
+  "createdAt": "202603280331",
+  "originalUrlBase": "/th?id=OHR.CapeBuffalo_EN-IN4090817745"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "28 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un esprit indomptable",
+  "bsTitle": "Un esprit indomptable",
+  "caption": "Bufle d’Afrique, Cratère du Ngorongoro, Tanzanie",
+  "copyright": "Bufle d’Afrique, Cratère du Ngorongoro, Tanzanie (© jesuss8/500px/Getty Images)",
+  "copyrightOnly": "© jesuss8/500px/Getty Images",
+  "copyrightLink": "/search?q=bufle+d%e2%80%99Afrique&form=hpcapt&filters=HpDate%3a%2220260327_2300%22",
+  "description": "Dans les savanes et zones humides de Tanzanie, le buffle d’Afrique impose sa présence. Silhouette massive, cornes larges et recourbées, regard sombre\u202F: ce géant paisible incarne la force brute du continent. Classé parmi les «\u202FBig Five\u202F» africains, il trouve dans la zone de conservation du Ngorongoro, classée au patrimoine mondial de l’UNESCO, un décor à la hauteur de sa puissance.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+  "hash": "01801f8ba5572e9978880c08c9ee293c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_FR-FR8303931249_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_FR-FR8303931249_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_FR-FR8303931249_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_FR-FR8303931249_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260327",
+    "fullStartDateTime": "202603272300",
+    "endDate": "20260328"
+  },
+  "createdAt": "202603280331",
+  "originalUrlBase": "/th?id=OHR.CapeBuffalo_FR-FR8303931249"
+}

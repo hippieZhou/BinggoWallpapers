@@ -1,0 +1,43 @@
+{
+  "date": "28 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Espíritu indómito",
+  "bsTitle": "Espíritu indómito",
+  "caption": "Búfalo africano, cráter del Ngorongoro, Tanzania",
+  "copyright": "Búfalo africano, cráter del Ngorongoro, Tanzania (© jesuss8/500px/Getty Images)",
+  "copyrightOnly": "© jesuss8/500px/Getty Images",
+  "copyrightLink": "/search?q=B%c3%bafalo+africano&form=hpcapt&filters=HpDate%3a%2220260327_2300%22",
+  "description": "El búfalo africano es uno de los grandes protagonistas del cráter del Ngorongoro (Tanzania), un antiguo volcán colapsado que conserva un ecosistema único. En este paisaje las manadas se mueven con calma aparente, aunque cada individuo mantiene un carácter fuerte. Los búfalos destacan por su resistencia y por la impresionante forma de sus cuernos, que pueden llegar a fusionarse en un escudo óseo en la frente. Esta adaptación les ayuda en enfrentamientos y en la defensa frente a depredadores como los leones.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
+  "hash": "3f76ff28e68d05e2e0439966c181c76f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_ES-ES1313712620_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260327",
+    "fullStartDateTime": "202603272300",
+    "endDate": "20260328"
+  },
+  "createdAt": "202603280331",
+  "originalUrlBase": "/th?id=OHR.CapeBuffalo_ES-ES1313712620"
+}
