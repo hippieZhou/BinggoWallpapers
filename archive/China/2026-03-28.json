@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "海边的宁静",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%bd%a9%e5%90%89%e8%a7%92%e7%81%af%e5%a1%94&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+  "hash": "89174caee265ef8e63463a5630f6b58e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260328",
+    "fullStartDateTime": "202603281600",
+    "endDate": "20260329"
+  },
+  "createdAt": "202603290351",
+  "originalUrlBase": "/th?id=OHR.PeggysLighthouse_ZH-CN5730463973"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "29 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le calme en bord de mer",
+  "bsTitle": "Le calme en bord de mer",
+  "caption": "Phare de Peggy’s Cove, Nouvelle-Écosse, Canada",
+  "copyright": "Phare de Peggy’s Cove, Nouvelle-Écosse, Canada (© Prashanth Bala/Shutterstock)",
+  "copyrightOnly": "© Prashanth Bala/Shutterstock",
+  "copyrightLink": "/search?q=Phare+de+Peggy%e2%80%99s+Cove&form=hpcapt&filters=HpDate%3a%2220260328_2300%22",
+  "description": "Niché sur la côte escarpée de la Nouvelle-Écosse, au Canada, Peggy’s Cove est un minuscule village qui raconte la vie au rythme de l’Atlantique. Son phare emblématique, érigé une première fois en 1868 puis reconstruit en 1915, veille depuis plus d’un siècle sur les navires affrontant des eaux changeantes. Battue par les vents, la roche nue plonge dans la mer, offrant un paysage brut qui semble hors du temps.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_PeggysLighthouse%22&FORM=HPQUIZ",
+  "hash": "088d317c26875aaafe74b465c30aacdc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_FR-FR2942871002_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260328",
+    "fullStartDateTime": "202603282300",
+    "endDate": "20260329"
+  },
+  "createdAt": "202603290351",
+  "originalUrlBase": "/th?id=OHR.PeggysLighthouse_FR-FR2942871002"
+}

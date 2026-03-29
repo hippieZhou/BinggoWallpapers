@@ -1,0 +1,43 @@
+{
+  "date": "29 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Arquitectura con historia",
+  "bsTitle": "Arquitectura con historia",
+  "caption": "Catedral de Sevilla, Andalucía",
+  "copyright": "Catedral de Sevilla, Andalucía (© sedmak/Getty Images)",
+  "copyrightOnly": "© sedmak/Getty Images",
+  "copyrightLink": "/search?q=Semana+Santa+2026&form=hpcapt&filters=HpDate%3a%2220260328_2300%22",
+  "description": "El inicio de la Semana Santa marca un cambio sutil en la atmósfera. Las ciudades españolas empiezan a mostrar un ritmo diferente y el visitante percibe esa mezcla de expectación y tradición que caracteriza estos días. La imagen de la Catedral de Sevilla sirve como puerta de entrada a un patrimonio que combina historia, arte y una forma única de vivir la cultura.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260328_Sevillaweek%22&FORM=HPQUIZ",
+  "hash": "18e1b3fc37d4108d95a421ce5058ac4e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260328",
+    "fullStartDateTime": "202603282300",
+    "endDate": "20260329"
+  },
+  "createdAt": "202603290351",
+  "originalUrlBase": "/th?id=OHR.Sevillaweek_ES-ES1707696944"
+}

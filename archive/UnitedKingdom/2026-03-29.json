@@ -1,0 +1,43 @@
+{
+  "date": "Mar 29, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Tick tock, light o'clock",
+  "bsTitle": "Tick tock, light o'clock",
+  "caption": "British Summer Time starts",
+  "copyright": "Liberty Clock, London, England (© Dukas/Universal Images Group/Getty Images)",
+  "copyrightOnly": "© Dukas/Universal Images Group/Getty Images",
+  "copyrightLink": "/search?q=British+Summer+Time+starts&form=hpcapt&filters=HpDate%3a%2220260329_0000%22",
+  "description": "At 1 a.m. today, time performs a magic trick. Blink, and it's 2 a.m. That missing hour marks the start of British Summer Time (BST), when the clocks in the United Kingdom move forward to make the most of longer spring and summer days.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_BSTStarts2026%22&FORM=HPQUIZ",
+  "hash": "a160d5d2e37a62b86f51cf589faf587a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260329",
+    "fullStartDateTime": "202603290000",
+    "endDate": "20260329"
+  },
+  "createdAt": "202603290351",
+  "originalUrlBase": "/th?id=OHR.BSTStarts2026_EN-GB5752947353"
+}
