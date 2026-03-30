@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um maratonista plumado",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Grou-pequeno, Índia (© Axel Gomille/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=grou+pequeno&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260330_IndiaCranes%22&FORM=HPQUIZ",
+  "hash": "96987cc0d2ded42c968cdfb1608b887c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260330",
+    "fullStartDateTime": "202603300300",
+    "endDate": "20260331"
+  },
+  "createdAt": "202603300355",
+  "originalUrlBase": "/th?id=OHR.IndiaCranes_PT-BR8548033158"
+}

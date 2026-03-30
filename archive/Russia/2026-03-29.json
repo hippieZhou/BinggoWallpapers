@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Peggys+Point+Lighthouse&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_PeggysLighthouse%22&FORM=HPQUIZ",
+  "hash": "53f02504ac8268b48cd16bed88b0bda2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260329",
+    "fullStartDateTime": "202603290700",
+    "endDate": "20260330"
+  },
+  "createdAt": "202603300355",
+  "originalUrlBase": "/th?id=OHR.PeggysLighthouse_ROW0925207018"
+}

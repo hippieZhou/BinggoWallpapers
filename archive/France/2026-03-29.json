@@ -1,0 +1,43 @@
+{
+  "date": "30 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quel est ce drôle d’oiseau ?",
+  "bsTitle": "Quel est ce drôle d’oiseau ?",
+  "caption": "Grues demoiselles, Inde",
+  "copyright": "Grues demoiselles, Inde (© Axel Gomille/Nature Picture Library)",
+  "copyrightOnly": "© Axel Gomille/Nature Picture Library",
+  "copyrightLink": "/search?q=grue+demoiselle&form=hpcapt&filters=HpDate%3a%2220260329_2200%22",
+  "description": "De la steppe d’Asie centrale aux plaines de l’Inde et de l’Afrique du Nord-Est, la grue demoiselle tisse chaque année un lien invisible entre les continents. Fine silhouette, long cou et plumage délicat lui donnent une allure élégante. Au printemps, dans les vastes étendues du Kazakhstan ou de la Mongolie, ses parades nuptiales rappellent les ballets aériens observés dans les zones humides de la Camargue, où les autres grues rythment les saisons françaises.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_IndiaCranes%22&FORM=HPQUIZ",
+  "hash": "80c45a151977561cd351bbb742eb20b4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260329",
+    "fullStartDateTime": "202603292200",
+    "endDate": "20260330"
+  },
+  "createdAt": "202603300355",
+  "originalUrlBase": "/th?id=OHR.IndiaCranes_FR-FR3094038321"
+}

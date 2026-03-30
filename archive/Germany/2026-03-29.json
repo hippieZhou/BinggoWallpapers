@@ -1,0 +1,43 @@
+{
+  "date": "30. März. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Eleganz in Bewegung",
+  "bsTitle": "Eleganz in Bewegung",
+  "caption": "Jungfernkraniche, Indien",
+  "copyright": "Jungfernkraniche, Indien (© Axel Gomille/Nature Picture Library)",
+  "copyrightOnly": "© Axel Gomille/Nature Picture Library",
+  "copyrightLink": "/search?q=Jungfernkranich&form=hpcapt&filters=HpDate%3a%2220260329_2200%22",
+  "description": "Schon seine Silhouette verrät, warum der Jungfernkranich als einer der elegantesten Kraniche gilt. Mit seinem schlanken Hals, den langen Beinen und dem fein gezeichneten Gefieder wirkt er beinahe schwerelos, besonders im warmen Licht der Abendsonne. Eindrucksvoll sind auch seine geschmeidigen Balztänze, bei denen sich die Paare in synchronen Sprüngen und Rufen präsentieren. Obwohl er zu den kleinsten Kranichen der Welt zählt, legt er erstaunliche Distanzen zurück: Von den weiten Steppen Kasachstans zieht er zu seinen Winterquartieren in Indien, Nepal und Teilen Afrikas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_IndiaCranes%22&FORM=HPQUIZ",
+  "hash": "b35556f3c5104b1ceef87275577d05b8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_DE-DE4037064772_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260329",
+    "fullStartDateTime": "202603292200",
+    "endDate": "20260330"
+  },
+  "createdAt": "202603300355",
+  "originalUrlBase": "/th?id=OHR.IndiaCranes_DE-DE4037064772"
+}

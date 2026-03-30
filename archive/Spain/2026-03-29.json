@@ -1,0 +1,43 @@
+{
+  "date": "30 de mar. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Elegancia en movimiento",
+  "bsTitle": "Elegancia en movimiento",
+  "caption": "Grullas damiselas, India",
+  "copyright": "Grullas damiselas, India (© Axel Gomille/Nature Picture Library)",
+  "copyrightOnly": "© Axel Gomille/Nature Picture Library",
+  "copyrightLink": "/search?q=Grulla+damisela&form=hpcapt&filters=HpDate%3a%2220260329_2200%22",
+  "description": "En la imagen de hoy observamos varias grullas damiselas en la India, destacadas por su silueta refinada y su comportamiento gregario. Su presencia en relatos antiguos destaca la elegancia de su vuelo y la admiración que ha despertado durante siglos. Esta especie realiza migraciones largas atravesando paisajes variados con movimientos precisos. Sus ojos rojos y su plumaje gris azulado crean una imagen que destaca en los humedales donde se alimenta y descansa. También forma grupos numerosos que avanzan con un sonido característico que acompaña cada desplazamiento.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260329_IndiaCranes%22&FORM=HPQUIZ",
+  "hash": "fbdd5ebee3d9c1d287e750758ad23323",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260329",
+    "fullStartDateTime": "202603292200",
+    "endDate": "20260330"
+  },
+  "createdAt": "202603300355",
+  "originalUrlBase": "/th?id=OHR.IndiaCranes_ES-ES2181628479"
+}
