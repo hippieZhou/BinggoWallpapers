@@ -1,0 +1,43 @@
+{
+  "date": "31 mars 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un paradis souterrain",
+  "bsTitle": "Un paradis souterrain",
+  "caption": "Parc national de Phong Nha–Ke Bang, Vietnam",
+  "copyright": "Grotte du Paradis, Parc national de Phong Nha–Ke Bang, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+  "copyrightOnly": "© Pakawat Thongcharoen/Getty Images",
+  "copyrightLink": "/search?q=Grotte+du+Paradis+Phong+Nha%e2%80%93Ke+Bang&form=hpcapt&filters=HpDate%3a%2220260330_2200%22",
+  "description": "Lorsqu’on pénètre dans la grotte du Paradis, celle-ci saisit d’emblée par son ampleur. Nichée au cœur du parc national de Phong Nha–Ke Bang, dans le centre du Vietnam, elle s’ouvre dans un paysage de montagnes calcaires couvertes de forêt dense. D’une longueur estimée à plus de trente kilomètres, cette caverne sèche compte parmi les plus vastes d’Asie. Les plafonds vertigineux, les parois striées de couches minérales et les volumes silencieux témoignent des millions d’années de patience géologique.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260330_ParadiseCave%22&FORM=HPQUIZ",
+  "hash": "c0f62d7c3e3538b519a9b590dc0734d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_FR-FR2965632202_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_FR-FR2965632202_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_FR-FR2965632202_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_FR-FR2965632202_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260330",
+    "fullStartDateTime": "202603302200",
+    "endDate": "20260331"
+  },
+  "createdAt": "202603310346",
+  "originalUrlBase": "/th?id=OHR.ParadiseCave_FR-FR2965632202"
+}

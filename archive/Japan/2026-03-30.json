@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 3月 月 31 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "光に照らされた幻想的な洞",
+  "bsTitle": "光に照らされた幻想的な洞",
+  "caption": "光に照らされた幻想的な洞",
+  "copyright": "天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images)",
+  "copyrightOnly": "© Pakawat Thongcharoen/Getty Images",
+  "copyrightLink": "/search?q=%e5%a4%a9%e5%9b%bd%e3%81%ae%e6%b4%9e&form=hpcapt&filters=HpDate%3a%2220260330_1500%22",
+  "description": "ここはベトナム中部のフォンニャ・ケバン国立公園の奥深くに広がる洞窟、「天国の洞」です。全長は 30km を超え、アジア最長級の乾燥洞窟のひとつとして知られています。長い年月をかけて形成された高い天井や広大な洞室、複雑で美しい石灰岩の造形が続き、照明に照らされた石柱や鍾乳石が幻想的な景観を演出しています。公開されているのは全体のごく一部に過ぎませんが、洞窟の大半は手つかずのまま保護されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260330_ParadiseCave%22&FORM=HPQUIZ",
+  "hash": "db05e66d6671b6597b3f905f9e0271cd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260330",
+    "fullStartDateTime": "202603301500",
+    "endDate": "20260331"
+  },
+  "createdAt": "202603310346",
+  "originalUrlBase": "/th?id=OHR.ParadiseCave_JA-JP9838102190"
+}

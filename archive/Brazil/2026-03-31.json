@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O avesso da floresta",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Paradise Cave, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã (© Pakawat Thongcharoen/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+Phong+Nha-K%e1%ba%bb+B%c3%a0ng+no+Vietn%c3%a3&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_ParadiseCave%22&FORM=HPQUIZ",
+  "hash": "47ecdd55cf7af6396f1d6c2f943fe4f2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_PT-BR7537263269_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_PT-BR7537263269_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_PT-BR7537263269_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_PT-BR7537263269_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603310300",
+    "endDate": "20260401"
+  },
+  "createdAt": "202603310346",
+  "originalUrlBase": "/th?id=OHR.ParadiseCave_PT-BR7537263269"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "地下天堂",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%b6%8a%e5%8d%97%e5%a4%a9%e5%a0%82%e6%b4%9e&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260330_ParadiseCave%22&FORM=HPQUIZ",
+  "hash": "7f821d105f6b4b82fd4ea60c04c55792",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260330",
+    "fullStartDateTime": "202603301600",
+    "endDate": "20260331"
+  },
+  "createdAt": "202603310346",
+  "originalUrlBase": "/th?id=OHR.ParadiseCave_ZH-CN6371627729"
+}
