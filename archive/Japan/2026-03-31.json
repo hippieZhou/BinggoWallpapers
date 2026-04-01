@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 1 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "丘陵を染める一面の野生花",
+  "bsTitle": "丘陵を染める一面の野生花",
+  "caption": "丘陵を染める一面の野生花",
+  "copyright": "セントラル・バレー, 米国 カリフォルニア州 (© Jeff Lewis/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jeff Lewis/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=%e3%82%bb%e3%83%b3%e3%83%88%e3%83%a9%e3%83%ab%e3%83%bb%e3%83%90%e3%83%ac%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260331_1500%22",
+  "description": "ここは米国カリフォルニア州のセントラル・バレー。現在は約 5 万 km² の面積を誇る世界有数の農業地帯ですが、かつては原生の野花に覆われた草原でした。今でも春になると、カリフォルニアポピーをはじめ、さまざまな野花が芽吹き、色とりどりの花が咲き乱れます。数週間だけ、現代の農地と、かつて野花に覆われていた草原の風景が重なって現れます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_WildflowerValley%22&FORM=HPQUIZ",
+  "hash": "3aeb403ea43882944c89655a5f948227",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603311500",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.WildflowerValley_JA-JP7238318324"
+}

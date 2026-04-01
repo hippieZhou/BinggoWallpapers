@@ -1,0 +1,43 @@
+{
+  "date": "Apr 1, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Stone, story and stillness",
+  "bsTitle": "Stone, story and stillness",
+  "caption": "The Great Stupa at Sanchi, Madhya Pradesh",
+  "copyright": "The Great Stupa at Sanchi, Madhya Pradesh (© Dmitry Rukhlenko - Photos of India/Alamy)",
+  "copyrightOnly": "© Dmitry Rukhlenko - Photos of India/Alamy",
+  "copyrightLink": "/search?q=The+Great+Stupa+at+Sanchi+Madhya+Pradesh&form=hpcapt&filters=HpDate%3a%2220260331_1830%22",
+  "description": "On a quiet hill in Madhya Pradesh, the Great Stupa at Sanchi proves that circles never go out of style. Built in the 3rd century BCE by Emperor Ashoka, this massive dome was designed to house relics of the Buddha. Instead of towering high, it spreads wide—solid, grounded and focused on meaning over height.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_SanchiMP%22&FORM=HPQUIZ",
+  "hash": "e343b942f822be47d37a0ebe79dd1cab",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603311830",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.SanchiMP_EN-IN5100905412"
+}

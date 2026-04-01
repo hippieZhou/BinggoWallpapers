@@ -1,0 +1,43 @@
+{
+  "date": "Mar 31, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam",
+  "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+  "copyrightOnly": "© Pakawat Thongcharoen/Getty Images",
+  "copyrightLink": "/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate%3a%2220260331_0700%22",
+  "description": "Paradise Cave makes a powerful first impression the moment visitors step inside. This vast limestone cavern lies deep within Phong Nha-Ke Bang National Park in central Vietnam, a region marked by rugged mountains and countless hidden caves. Stretching 31 kilometres, Paradise Cave is one of Asia's longest dry caves, and its scale is immediately apparent. High ceilings rise above the walkways and layered patterns formed by mineral-rich water over millions of years line the walls.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_ParadiseCave%22&FORM=HPQUIZ",
+  "hash": "c9f046a29ea0156c277934c1d328eb87",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ROW1547496612_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ROW1547496612_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ROW1547496612_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ROW1547496612_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603310700",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.ParadiseCave_ROW1547496612"
+}

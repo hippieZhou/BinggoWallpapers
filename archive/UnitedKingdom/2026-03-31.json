@@ -1,0 +1,43 @@
+{
+  "date": "Apr 1, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Serenity by the sea",
+  "bsTitle": "Serenity by the sea",
+  "caption": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada",
+  "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
+  "copyrightOnly": "© Prashanth Bala/Shutterstock",
+  "copyrightLink": "/search?q=Peggys+Point+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260331_2300%22",
+  "description": "Peggy's Cove is a small yet captivating village on the rugged coast of Nova Scotia that offers a glimpse of life by the sea. The village's most famous landmark is Peggy's Point Lighthouse—also known as Peggy's Cove Lighthouse—first established in 1868 and replaced by the current structure in 1915. For over a century, it has guided ships through the ever-changing Atlantic waters, serving as a timeless symbol of coastal life. The surrounding landscape, with its windswept beauty and crashing waves, feels almost untouched by time.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_PeggysLighthouse%22&FORM=HPQUIZ",
+  "hash": "617eb5eca58e0dd4ff376030e13bb243",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603312300",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.PeggysLighthouse_EN-GB6505153693"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Rana d'aprile?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Raganella giapponese, Ipomea rosa (© Tetsuya Tanooka/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Raganella+giapponese&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+  "hash": "b79f453d217856dd21d3109853722038",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603312200",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.JapaneseTreeFrog_IT-IT5938893273"
+}

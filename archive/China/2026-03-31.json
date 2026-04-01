@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "跃入四月",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%97%a5%e6%9c%ac%e6%a0%91%e8%9b%99&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+  "hash": "68b066b81c6d22a5a701ab93cb780b1c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603311600",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766"
+}

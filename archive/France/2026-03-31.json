@@ -1,0 +1,43 @@
+{
+  "date": "1 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un bond en avril",
+  "bsTitle": "Un bond en avril",
+  "caption": "Rainette japonaise",
+  "copyright": "Rainette japonaise au cœur d’une fleur de liseron rose (© Tetsuya Tanooka/Getty Images)",
+  "copyrightOnly": "© Tetsuya Tanooka/Getty Images",
+  "copyrightLink": "/search?q=rainette+japonaise&form=hpcapt&filters=HpDate%3a%2220260331_2200%22",
+  "description": "À la tombée du jour, lorsque les rizières du Japon se parent de reflets d’argent, la rainette japonaise s’éveille. Originaire d’Asie de l’Est, elle est discrète et légère, et grimpe aux roseaux grâce à ses doigts ventousés, comme s’ils étaient posés sur l’eau. Sa peau lisse, verte ou brune selon les variations du paysage, épouse les saisons et les moussons.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+  "hash": "7d85e9b08b54d8ab1af8a255b48ce43f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603312200",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891"
+}

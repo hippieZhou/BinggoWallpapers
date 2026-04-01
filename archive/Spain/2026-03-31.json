@@ -1,0 +1,43 @@
+{
+  "date": "1 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Saltando hacia abril",
+  "bsTitle": "Saltando hacia abril",
+  "caption": "Rana arbórea japonesa en una campanilla rosa",
+  "copyright": "Rana arbórea japonesa en una campanilla rosa (© Tetsuya Tanooka/Getty Images)",
+  "copyrightOnly": "© Tetsuya Tanooka/Getty Images",
+  "copyrightLink": "/search?q=Rana+arb%c3%b3rea+japonesa&form=hpcapt&filters=HpDate%3a%2220260331_2200%22",
+  "description": "La rana arbórea japonesa es un pequeño anfibio de tonos verdes brillantes que destaca por su agilidad y por la viveza de su coloración. Su capacidad para adherirse a superficies lisas le permite desplazarse con soltura por distintos tipos de vegetación, aprovechando cada soporte con precisión y ligereza.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+  "hash": "bda45d29d43d3dad6c73db92d2bae58b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260331",
+    "fullStartDateTime": "202603312200",
+    "endDate": "20260401"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Alarme anfíbio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Rã-de-árvore-japonesa em uma ipomeia rosa (© Tetsuya Tanooka/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=anfibios&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_JapaneseTreeFrog%22&FORM=HPQUIZ",
+  "hash": "6008ad7e267185afd4b9fc5fcbb71dc3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260401",
+    "fullStartDateTime": "202604010300",
+    "endDate": "20260402"
+  },
+  "createdAt": "202604010357",
+  "originalUrlBase": "/th?id=OHR.JapaneseTreeFrog_PT-BR7853171536"
+}
