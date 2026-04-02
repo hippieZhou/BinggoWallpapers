@@ -1,0 +1,43 @@
+{
+  "date": "Apr 2, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Patterns of spring",
+  "bsTitle": "Patterns of spring",
+  "caption": "Wildflower bloom, Central Valley, California, United States",
+  "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jeff Lewis/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Central+Valley+California&form=hpcapt&filters=HpDate%3a%2220260401_2300%22",
+  "description": "Spring announces itself across California's Central Valley in the United States with the first bursts of wildflowers following the winter rains. Stretching roughly 450 miles from north to south and covering about 20,000 square miles, the valley is one of the world's most productive agricultural regions. In early spring, however, an older identity briefly resurfaces. From March through April, native annuals such as goldfields, tidy tips and owl's clover quickly germinate once temperature and soil moisture are optimal. They race to complete their life cycles before the long dry season begins.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+  "hash": "ea1ae9de2893cd8271110a882122fb5b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260401",
+    "fullStartDateTime": "202604012300",
+    "endDate": "20260402"
+  },
+  "createdAt": "202604020339",
+  "originalUrlBase": "/th?id=OHR.WildflowerValley_EN-GB6670488836"
+}

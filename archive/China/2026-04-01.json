@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "春天的图案",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%8a%a0%e5%88%a9%e7%a6%8f%e5%b0%bc%e4%ba%9a%e5%b7%9e%e4%b8%ad%e5%a4%ae%e8%b0%b7%e5%9c%b0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+  "hash": "cf85bd8a9f6c4ba0d1f88b0f11ae13a8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260401",
+    "fullStartDateTime": "202604011600",
+    "endDate": "20260402"
+  },
+  "createdAt": "202604020339",
+  "originalUrlBase": "/th?id=OHR.WildflowerValley_ZH-CN7048300331"
+}

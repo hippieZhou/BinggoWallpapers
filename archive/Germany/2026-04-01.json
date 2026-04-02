@@ -1,0 +1,43 @@
+{
+  "date": "2. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Muster des Frühlings",
+  "bsTitle": "Muster des Frühlings",
+  "caption": "Wildblumenblüte, Central Valley, Kalifornien, USA",
+  "copyright": "Wildblumenblüte, Central Valley, Kalifornien, USA (© Jeff Lewis/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jeff Lewis/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Kalifornisches+L%c3%a4ngstal&form=hpcapt&filters=HpDate%3a%2220260401_2200%22",
+  "description": "Mit dem Frühling erwacht im Kalifornischen Längstal (Central Valley) ein besonderes Naturschauspiel. Das über 700 Kilometer lange Tal, eines der wichtigsten landwirtschaftlichen Zentren der USA, zeigt im März und April eine ganz andere Seite. Dann beginnen unzählige heimische Wildblumen zu keimen, sobald Regen, Bodenfeuchte und Temperaturen günstig zusammenwirken. Viele dieser Arten gehören zum ursprünglichen Grasland, das einst große Teile des Tals prägte und heute nur noch in Schutzgebieten, auf ungenutzten Flächen oder als schmale Streifen zwischen Feldern erhalten ist. Ihre Samen können jahrzehntelang im Boden ruhen und geduldig auf den Moment warten, an dem die Bedingungen stimmen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+  "hash": "c487de045de3eb36118294954d0b4c09",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_DE-DE5324757091_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260401",
+    "fullStartDateTime": "202604012200",
+    "endDate": "20260402"
+  },
+  "createdAt": "202604020339",
+  "originalUrlBase": "/th?id=OHR.WildflowerValley_DE-DE5324757091"
+}

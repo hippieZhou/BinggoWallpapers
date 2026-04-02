@@ -1,0 +1,43 @@
+{
+  "date": "2 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "De croquants petits rongeurs",
+  "bsTitle": "De croquants petits rongeurs",
+  "caption": "Muscardin",
+  "copyright": "Muscardin à l’entrée de leur nid, Normandie (© slowmotiongli/Getty Images)",
+  "copyrightOnly": "© slowmotiongli/Getty Images",
+  "copyrightLink": "/search?q=muscardin&form=hpcapt&filters=HpDate%3a%2220260401_2200%22",
+  "description": "Au cœur des haies et des lisières boisées, le muscardin (muscardinus avellanarius) se fait discret tout l’hiver, lové dans la douceur des feuilles mortes. Mais au printemps, lorsque les jours s’allongent et que les noisetiers bourgeonnent, il s’éveille enfin. Ce petit rongeur reprend vie avec la forêt\u202F: ses yeux brillent dans la pénombre du crépuscule et sa queue en panache équilibre ses acrobaties nocturnes. Il cueille et se nourrit de fleurs de chèvrefeuille, de baies et de noisettes encore tendres. Dans les ronces et les arbustes, il façonne de petits nids sphériques, suspendus comme des promesses de renouveau.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_MuscardinNest%22&FORM=HPQUIZ",
+  "hash": "d54dceb3ee6bc7f94a8801d3da64ed3f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260401",
+    "fullStartDateTime": "202604012200",
+    "endDate": "20260402"
+  },
+  "createdAt": "202604020339",
+  "originalUrlBase": "/th?id=OHR.MuscardinNest_FR-FR5342153518"
+}

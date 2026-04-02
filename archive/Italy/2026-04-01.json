@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il tempo dei fiori",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Fiori selvatici, Central Valley, California, USA (© Jeff Lewis/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Central+Valley+California&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+  "hash": "b9df6e71566b2435b690c90f262572ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_IT-IT6134763724_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_IT-IT6134763724_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_IT-IT6134763724_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_IT-IT6134763724_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260401",
+    "fullStartDateTime": "202604012200",
+    "endDate": "20260402"
+  },
+  "createdAt": "202604020339",
+  "originalUrlBase": "/th?id=OHR.WildflowerValley_IT-IT6134763724"
+}
