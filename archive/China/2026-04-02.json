@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一次挥动桥臂，连接两岸",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%98%bf%e5%a7%86%e5%b8%83%e9%b2%81%e5%a4%a7%e6%a1%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+  "hash": "0cace775bc35c7cf2b3bae30a9078726",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260402",
+    "fullStartDateTime": "202604021600",
+    "endDate": "20260403"
+  },
+  "createdAt": "202604030341",
+  "originalUrlBase": "/th?id=OHR.ArmbrugBridge_ZH-CN4600005169"
+}

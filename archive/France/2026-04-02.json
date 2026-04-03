@@ -1,0 +1,43 @@
+{
+  "date": "3 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Bien plus qu’un pont sur le canal",
+  "bsTitle": "Bien plus qu’un pont sur le canal",
+  "caption": "Armbrug, Amsterdam, Pays-Bas",
+  "copyright": "Armbrug, Amsterdam, Pays-Bas (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=Amsterdam+Pays-Bas&form=hpcapt&filters=HpDate%3a%2220260402_2200%22",
+  "description": "Parmi les innombrables ponts d’Amsterdam, aux Pays-Bas, l’Armbrug est bien plus qu’une simple traversée. Située au-dessus du canal Oudezijds Voorburgwal, la courbe du pont suit le rythme tranquille de l’eau. Son nom, «\u202Fpont du bras\u202F», évoque l’étroite allée Oudezijds Armsteeg, qui semble tendre la main aux cyclistes et aux flâneurs qui l’empruntent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+  "hash": "fa1f3a0e1532757c99edcd2fff10809b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_FR-FR4024073809_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_FR-FR4024073809_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_FR-FR4024073809_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_FR-FR4024073809_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260402",
+    "fullStartDateTime": "202604022200",
+    "endDate": "20260403"
+  },
+  "createdAt": "202604030341",
+  "originalUrlBase": "/th?id=OHR.ArmbrugBridge_FR-FR4024073809"
+}

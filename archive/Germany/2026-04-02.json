@@ -1,0 +1,43 @@
+{
+  "date": "3. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Eine Brücke mit Charakter",
+  "bsTitle": "Eine Brücke mit Charakter",
+  "caption": "Armbrug‑Brücke, Amsterdam, Niederlande",
+  "copyright": "Armbrug‑Brücke, Amsterdam, Niederlande (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=Armbrug%e2%80%91Br%c3%bccke+Amsterdam&form=hpcapt&filters=HpDate%3a%2220260402_2200%22",
+  "description": "Nicht alle Brücken sind spektakulär, manche überzeugen jedoch durch ihre Atmosphäre. Ein Beispiel ist die Armbrug in Amsterdam, die Besucher begrüßt, wenn sie den Oudezijds Voorburgwal überqueren. Sie verdankt ihren Namen der Oudezijds Armsteeg, einer schmalen, historischen Gasse in der Altstadt, die seit Jahrhunderten die Häuserblöcke rund um die Warmoesstraat mit den Grachten verbindet. Die Brücke selbst ist schlicht und solide gebaut und auf den Alltag ausgelegt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+  "hash": "c7e3434fac8fd173aa882aa2cdfb66a5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_DE-DE4018943683_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_DE-DE4018943683_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_DE-DE4018943683_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_DE-DE4018943683_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260402",
+    "fullStartDateTime": "202604022200",
+    "endDate": "20260403"
+  },
+  "createdAt": "202604030341",
+  "originalUrlBase": "/th?id=OHR.ArmbrugBridge_DE-DE4018943683"
+}

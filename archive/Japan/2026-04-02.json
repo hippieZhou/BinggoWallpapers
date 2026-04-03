@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 3 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "静かな運河に映る街並み",
+  "bsTitle": "静かな運河に映る街並み",
+  "caption": "静かな運河に映る街並み",
+  "copyright": "アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%ab%e3%83%a0%e3%83%96%e3%83%ab%e3%82%b0%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220260402_1500%22",
+  "description": "オランダ・アムステルダムのアルムブルグ橋は、オウデザイズ・フォールブルガルという運河に架かるコンクリート橋です。1538 年に建造され、1988 年に現在の姿へと改修されました。運河沿いに並ぶ歴史的な建物を一望できるため、多くの芸術家や写真家に人気のスポットとなっています。橋自体はシンプルですが、場所と場所をつなぐ役割にとどまらず、人々を街の歴史や文化と結びつける存在となっています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+  "hash": "714f873564404ec0e466a8fcfc63d9ca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260402",
+    "fullStartDateTime": "202604021500",
+    "endDate": "20260403"
+  },
+  "createdAt": "202604030341",
+  "originalUrlBase": "/th?id=OHR.ArmbrugBridge_JA-JP3428221440"
+}

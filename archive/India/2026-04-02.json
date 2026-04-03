@@ -1,0 +1,43 @@
+{
+  "date": "Apr 3, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Bridging the gap, one arm at a time",
+  "bsTitle": "Bridging the gap, one arm at a time",
+  "caption": "Armbrug bridge, Amsterdam, Netherlands",
+  "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=Armbrug+bridge+Amsterdam&form=hpcapt&filters=HpDate%3a%2220260402_1830%22",
+  "description": "Some bridges in Amsterdam just get you across a canal. The Armbrug does more—it seems to wave hello as you pass. Nestled over the Oudezijds Voorburgwal canal, its name, meaning 'arm bridge,' refers to the nearby Oudezijds Armsteeg (Old Side Arm Alley), not a literal limb, but it's easy to imagine it greeting cyclists and pedestrians along the way.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+  "hash": "e9456da988281fbf229fa2f01ef90e30",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-IN5224260925_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-IN5224260925_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-IN5224260925_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-IN5224260925_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260402",
+    "fullStartDateTime": "202604021830",
+    "endDate": "20260403"
+  },
+  "createdAt": "202604030341",
+  "originalUrlBase": "/th?id=OHR.ArmbrugBridge_EN-IN5224260925"
+}
