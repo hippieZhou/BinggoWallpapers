@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Rivais à vista",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tetrazes‑lira machos em competição de lek, Estônia (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Tetraz-lira&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_GrouseGuff%22&FORM=HPQUIZ",
+  "hash": "87d117fdd49c0d0b40c09f9d3414c4ef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_PT-BR5557091800_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_PT-BR5557091800_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_PT-BR5557091800_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_PT-BR5557091800_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260404",
+    "fullStartDateTime": "202604040300",
+    "endDate": "20260405"
+  },
+  "createdAt": "202604040328",
+  "originalUrlBase": "/th?id=OHR.GrouseGuff_PT-BR5557091800"
+}

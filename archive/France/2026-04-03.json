@@ -1,0 +1,43 @@
+{
+  "date": "4 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les leks, arènes de séduction",
+  "bsTitle": "Les leks, arènes de séduction",
+  "caption": "Tétras lyre mâles, Estonie",
+  "copyright": "Tétras lyres mâles lors d’une parade nuptiale, Estonie (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=T%c3%a9tras+lyre&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+  "description": "Avant l’aube, la lande s’éveille comme une scène qui s’éclaire. Les tétras lyres ne préviennent pas : ils font simplement trembler le sol. C’est la saison des « leks », ce bal printanier où la séduction est bruyante, codifiée et entièrement à ciel ouvert.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+  "hash": "690661c8271ad3a406d8b3c35a990974",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_FR-FR1806901977_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_FR-FR1806901977_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_FR-FR1806901977_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_FR-FR1806901977_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260403",
+    "fullStartDateTime": "202604032200",
+    "endDate": "20260404"
+  },
+  "createdAt": "202604040328",
+  "originalUrlBase": "/th?id=OHR.GrouseGuff_FR-FR1806901977"
+}

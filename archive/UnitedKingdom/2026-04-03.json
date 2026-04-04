@@ -1,0 +1,43 @@
+{
+  "date": "Apr 4, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Towering tales",
+  "bsTitle": "Towering tales",
+  "caption": "Discover National Parks Fortnight",
+  "copyright": "Dolbadarn Castle, Llanberis, Snowdonia National Park, Wales (© Allan Hartley/Alamy)",
+  "copyrightOnly": "© Allan Hartley/Alamy",
+  "copyrightLink": "/search?q=Dolbadarn+Castle+Wales&form=hpcapt&filters=HpDate%3a%2220260403_2300%22",
+  "description": "Boots on, screens off. That's the simple idea behind Discover National Parks Fortnight—two weeks (4-18 April) that nudge people to swap scrolling for strolling. Across the United Kingdom, national parks roll out guided walks, wildlife talks and outdoor activities that remind visitors why these landscapes are worth protecting.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_NPFortnight2026%22&FORM=HPQUIZ",
+  "hash": "a3fa4ae612307422b0eb5df58e145356",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260403",
+    "fullStartDateTime": "202604032300",
+    "endDate": "20260404"
+  },
+  "createdAt": "202604040328",
+  "originalUrlBase": "/th?id=OHR.NPFortnight2026_EN-GB6135344631"
+}

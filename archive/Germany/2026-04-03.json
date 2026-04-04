@@ -1,0 +1,43 @@
+{
+  "date": "4. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wenn die Balz zur Bühne wird",
+  "bsTitle": "Wenn die Balz zur Bühne wird",
+  "caption": "Birkhähne auf einem Balzplatz, Estland",
+  "copyright": "Birkhähne auf einem Balzplatz, Estland (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=Birkhuhn&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+  "description": "Noch bevor das erste Licht den Moorboden berührt, beginnt ein seit Jahrhunderten faszinierendes Naturschauspiel. Das Bild aus Estland zeigt die eindrucksvolle Balz der Birkhähne. Dieses Spektakel lässt sich im Frühjahr auch in Deutschland beobachten, beispielsweise in der Rhön oder im Alpenraum.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+  "hash": "3155b4d4ecab8e4f779c1b83ad342e5d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_DE-DE7947498839_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260403",
+    "fullStartDateTime": "202604032200",
+    "endDate": "20260404"
+  },
+  "createdAt": "202604040328",
+  "originalUrlBase": "/th?id=OHR.GrouseGuff_DE-DE7947498839"
+}

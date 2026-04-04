@@ -1,0 +1,43 @@
+{
+  "date": "4 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Fuerza y exhibición",
+  "bsTitle": "Fuerza y exhibición",
+  "caption": "Machos de urogallo negro, Estonia",
+  "copyright": "Machos de urogallo negro enfrentados, Estonia (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=Urogallo+negro&form=hpcapt&filters=HpDate%3a%2220260403_2200%22",
+  "description": "En la imagen de hoy observamos dos machos de urogallo negro enfrentados en un claro del bosque en Estonia. La escena corresponde a un \"lek\", el espacio donde estos galliformes se reúnen cada primavera para exhibirse durante el cortejo. Los machos despliegan el plumaje, inflan las carúnculas rojas sobre los ojos y emiten sonidos característicos mientras se miden entre ellos. Estos enfrentamientos son rituales y rara vez acaban en daño, ya que su función principal es establecer jerarquías y demostrar vigor ante las hembras. Solo los individuos más dominantes suelen lograr reproducirse, lo que convierte estos duelos en un ejemplo claro de selección en la naturaleza.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260403_GrouseGuff%22&FORM=HPQUIZ",
+  "hash": "71d24bc5edeb394bb89ab6b97a774a71",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ES-ES5279399090_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260403",
+    "fullStartDateTime": "202604032200",
+    "endDate": "20260404"
+  },
+  "createdAt": "202604040328",
+  "originalUrlBase": "/th?id=OHR.GrouseGuff_ES-ES5279399090"
+}
