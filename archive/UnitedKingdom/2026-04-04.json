@@ -1,0 +1,43 @@
+{
+  "date": "Apr 5, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Hello, Easter Sunday",
+  "bsTitle": "Hello, Easter Sunday",
+  "caption": "Easter Sunday",
+  "copyright": "Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)",
+  "copyrightOnly": "© maximkabb/Getty Images",
+  "copyrightLink": "/search?q=Easter+Sunday&form=hpcapt&filters=HpDate%3a%2220260404_2300%22",
+  "description": "What follows 40 days of waiting is not a spectacle, but a chapter rooted in belief. Easter Sunday arrives at the end of Lent, carrying forward ideas of life over death and the promise of renewal. For Christians, today marks the resurrection of Jesus Christ and brings Holy Week to a close. It's a turning point, both spiritual and symbolic.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_LithuaniaEggs%22&FORM=HPQUIZ",
+  "hash": "ecb64b609d73eede77ea4f3bc39763dc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260404",
+    "fullStartDateTime": "202604042300",
+    "endDate": "20260405"
+  },
+  "createdAt": "202604050350",
+  "originalUrlBase": "/th?id=OHR.LithuaniaEggs_EN-GB6303335759"
+}

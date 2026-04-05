@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Black+grouse&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_GrouseGuff%22&FORM=HPQUIZ",
+  "hash": "091a0e5869f03e0e4850518241c83567",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260404",
+    "fullStartDateTime": "202604040700",
+    "endDate": "20260405"
+  },
+  "createdAt": "202604050350",
+  "originalUrlBase": "/th?id=OHR.GrouseGuff_ROW0536575976"
+}

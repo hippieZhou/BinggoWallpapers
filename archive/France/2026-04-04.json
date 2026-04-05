@@ -1,0 +1,43 @@
+{
+  "date": "5 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le murmure de la rivière",
+  "bsTitle": "Le murmure de la rivière",
+  "caption": "Pont d’Arc, Ardèche",
+  "copyright": "Pont d’Arc, Ardèche (© Gael Fontaine/Getty Images)",
+  "copyrightOnly": "© Gael Fontaine/Getty Images",
+  "copyrightLink": "/search?q=arche+naturelle+Pont+d%e2%80%99Arc+Ard%c3%a8che&form=hpcapt&filters=HpDate%3a%2220260404_2200%22",
+  "description": "Sculpté naturellement durant 500 000 ans, le Pont d’Arc s’ouvre comme une porte sur les gorges de l’Ardèche. À l’aube, sa silhouette monumentale se teinte d’or et le murmure de la rivière résonne entre les falaises calcaires, où nichent faucons pèlerins et hirondelles de rochers. On avance sur la rive sablonneuse, parfumée de menthe sauvage et de buis chauffés par le soleil, avec la sensation d’entrer dans un paysage resté intact depuis la Préhistoire.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_PontArdeche%22&FORM=HPQUIZ",
+  "hash": "a7c1bda1e6aaf3ff06e176a42d0ab2d3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260404",
+    "fullStartDateTime": "202604042200",
+    "endDate": "20260405"
+  },
+  "createdAt": "202604050350",
+  "originalUrlBase": "/th?id=OHR.PontArdeche_FR-FR1915151137"
+}

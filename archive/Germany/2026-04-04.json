@@ -1,0 +1,43 @@
+{
+  "date": "5. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Frohe Ostern!",
+  "bsTitle": "Frohe Ostern!",
+  "caption": "Ostersonntag",
+  "copyright": "Bunt bemalte sorbische Ostereier aus Deutschland (© Mark Poltermann/Getty Images)",
+  "copyrightOnly": "© Mark Poltermann/Getty Images",
+  "copyrightLink": "/search?q=Ostersonntag&form=hpcapt&filters=HpDate%3a%2220260404_2200%22",
+  "description": "Der Ostersonntag markiert für viele Menschen einen Moment des Innehaltens. Nach den dunklen Winterwochen steht das Fest für Aufbruch, Zuversicht und neues Leben. In Deutschland sind damit verschiedene Traditionen verbunden: Eier werden gefärbt und versteckt, und vielerorts versammeln sich Menschen rund um Osterfeuer, die symbolisch für Reinigung, Licht und den Übergang in den Frühling stehen. Ostern wird so zu einer stillen Zeit des Wandels – geprägt von Besinnung, Gemeinschaft und dem Bewahren alter Bräuche.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_SorbianEasterEggs%22&FORM=HPQUIZ",
+  "hash": "5d39f840a9aec6ae25493c5e6b400d18",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260404",
+    "fullStartDateTime": "202604042200",
+    "endDate": "20260405"
+  },
+  "createdAt": "202604050350",
+  "originalUrlBase": "/th?id=OHR.SorbianEasterEggs_DE-DE8747014000"
+}
