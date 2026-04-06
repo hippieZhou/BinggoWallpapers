@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "芬芳四月",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%97%a5%e6%9c%ac%e7%9a%84%e6%a8%b1%e8%8a%b1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
+  "hash": "714897061eb82f361fbb5733d89e140a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260405",
+    "fullStartDateTime": "202604051600",
+    "endDate": "20260406"
+  },
+  "createdAt": "202604060354",
+  "originalUrlBase": "/th?id=OHR.CastleBlossoms_ZH-CN3064288127"
+}

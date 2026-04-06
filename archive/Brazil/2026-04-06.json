@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Palácios estratégicos",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Castelo de Hirosaki com cerejeiras, Hirosaki, Japão (© Glenn Waters/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=castelos+japoneses&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_CastleBlossoms%22&FORM=HPQUIZ",
+  "hash": "165543037294b3de5c7aa36ed26834ea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_PT-BR0895460627_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_PT-BR0895460627_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_PT-BR0895460627_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_PT-BR0895460627_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260406",
+    "fullStartDateTime": "202604060300",
+    "endDate": "20260407"
+  },
+  "createdAt": "202604060354",
+  "originalUrlBase": "/th?id=OHR.CastleBlossoms_PT-BR0895460627"
+}

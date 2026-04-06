@@ -1,0 +1,43 @@
+{
+  "date": "6 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El origen del poder",
+  "bsTitle": "El origen del poder",
+  "caption": "Castillo de Hirosaki, Hirosaki, Japón",
+  "copyright": "Castillo de Hirosaki con cerezos en flor, Hirosaki, Japón (© Glenn Waters/Getty Images)",
+  "copyrightOnly": "© Glenn Waters/Getty Images",
+  "copyrightLink": "/search?q=Castillo+japon%c3%a9s&form=hpcapt&filters=HpDate%3a%2220260405_2200%22",
+  "description": "El castillo de Hirosaki, en la ciudad japonesa del mismo nombre, es uno de los referentes de la arquitectura feudal del país. Construido a comienzos del siglo XVII por el clan Tsugaru, se alza rodeado por miles de cerezos que cada primavera transforman el foso y los jardines en un paisaje efímero.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
+  "hash": "3215b843e2e878ecda9887e1317b995c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ES-ES5659720575_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ES-ES5659720575_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ES-ES5659720575_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ES-ES5659720575_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260405",
+    "fullStartDateTime": "202604052200",
+    "endDate": "20260406"
+  },
+  "createdAt": "202604060354",
+  "originalUrlBase": "/th?id=OHR.CastleBlossoms_ES-ES5659720575"
+}

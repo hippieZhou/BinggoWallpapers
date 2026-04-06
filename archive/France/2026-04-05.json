@@ -1,0 +1,43 @@
+{
+  "date": "6 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "C’est parti pour la chasse aux œufs !",
+  "bsTitle": "C’est parti pour la chasse aux œufs !",
+  "caption": "Lundi de Pâques",
+  "copyright": "Œufs de Pâques décorés à la main, Vilnius, Lituanie (© maximkabb/Getty Images)",
+  "copyrightOnly": "© maximkabb/Getty Images",
+  "copyrightLink": "/search?q=Lundi+de+P%c3%a2ques&form=hpcapt&filters=HpDate%3a%2220260405_2200%22",
+  "description": "Après quarante jours de retenue et un week-end de célébrations, le Lundi de Pâques arrive comme un souffle d’air frais. Moins solennel que la veille, il prolonge pourtant l’idée de renouveau\u202F: un jour où l’on s’éloigne doucement de la symbolique religieuse pour renouer avec la nature et le temps partagé. Dans certaines régions, ce lundi évoque encore les anciennes processions rurales ou les premiers pique-niques de printemps.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_LithuaniaEggs%22&FORM=HPQUIZ",
+  "hash": "eb1e75cc2050d72660125344eb601470",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260405",
+    "fullStartDateTime": "202604052200",
+    "endDate": "20260406"
+  },
+  "createdAt": "202604060354",
+  "originalUrlBase": "/th?id=OHR.LithuaniaEggs_FR-FR0098459124"
+}
