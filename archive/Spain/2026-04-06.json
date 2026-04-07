@@ -1,0 +1,43 @@
+{
+  "date": "7 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Manos a la obra",
+  "bsTitle": "Manos a la obra",
+  "caption": "Castor europeo, Alemania",
+  "copyright": "Castor europeo, Alemania (© Andyworks/Getty Images)",
+  "copyrightOnly": "© Andyworks/Getty Images",
+  "copyrightLink": "/search?q=Castor+europeo&form=hpcapt&filters=HpDate%3a%2220260406_2200%22",
+  "description": "El castor europeo es una de las especies más singulares de la fauna alemana. Deja una huella inconfundible en ríos y humedales mediante árboles roídos y diques construidos con ramas y barro. Es famoso por sus incisivos anaranjados, reforzados con hierro, que crecen sin parar y le permiten talar árboles con gran precisión. Sus presas crean lagunas que benefician a aves, anfibios y peces, por lo que se le considera un verdadero ingeniero del ecosistema.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+  "hash": "3bff685e5763d36e49a0b20a8747f759",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_ES-ES5819494132_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_ES-ES5819494132_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_ES-ES5819494132_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_ES-ES5819494132_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260406",
+    "fullStartDateTime": "202604062200",
+    "endDate": "20260407"
+  },
+  "createdAt": "202604070345",
+  "originalUrlBase": "/th?id=OHR.BeaverPortrait_ES-ES5819494132"
+}

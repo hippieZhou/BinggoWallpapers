@@ -1,0 +1,43 @@
+{
+  "date": "Apr 7, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "One stick at a time",
+  "bsTitle": "One stick at a time",
+  "caption": "International Beaver Day",
+  "copyright": "Beaver, Germany (© Andyworks/Getty Images)",
+  "copyrightOnly": "© Andyworks/Getty Images",
+  "copyrightLink": "/search?q=Beaver+rodent&form=hpcapt&filters=HpDate%3a%2220260406_2300%22",
+  "description": "International Beaver Day, celebrated on 7 April, recognises a hardworking little engineer quietly building a better world—one stick at a time. The beaver—buck-toothed, paddle-tailed and famously industrious—has been reshaping freshwater landscapes for millions of years. With their iron-reinforced orange incisors, these skilled rodents cut down trees and build dams that slow the flow of water, improve its quality and create wetlands that support a remarkable diversity of life. Their sturdy lodges, made of branches and mud, have underwater entrances that protect them from predators and keep their families safe.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+  "hash": "bb2233a34e7c09a34acae6f2e1747986",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260406",
+    "fullStartDateTime": "202604062300",
+    "endDate": "20260407"
+  },
+  "createdAt": "202604070345",
+  "originalUrlBase": "/th?id=OHR.BeaverPortrait_EN-GB6712196855"
+}

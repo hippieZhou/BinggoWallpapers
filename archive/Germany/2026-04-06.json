@@ -1,0 +1,43 @@
+{
+  "date": "7. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Biberkraft am Werk",
+  "bsTitle": "Biberkraft am Werk",
+  "caption": "Internationaler Tag des Bibers",
+  "copyright": "Biber, Deutschland (© Andyworks/Getty Images)",
+  "copyrightOnly": "© Andyworks/Getty Images",
+  "copyrightLink": "/search?q=Biber+Nagetiere&form=hpcapt&filters=HpDate%3a%2220260406_2200%22",
+  "description": "Am 7. April feiern wir den Internationalen Tag des Bibers – ein guter Anlass, diesen fleißigen Landschaftsarchitekten näher kennenzulernen. Mit seinen kräftigen, orangefarbenen Schneidezähnen und dem breiten Schwanz formt der Biber Wasserlandschaften wie kaum ein anderes Tier. Durch das Fällen von Bäumen und den Bau von Dämmen entstehen Teiche und Feuchtgebiete, die zahlreichen Arten Lebensraum bieten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+  "hash": "0c6046ccdc7040eb0873d9eda7d4a24f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_DE-DE0531168900_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260406",
+    "fullStartDateTime": "202604062200",
+    "endDate": "20260407"
+  },
+  "createdAt": "202604070345",
+  "originalUrlBase": "/th?id=OHR.BeaverPortrait_DE-DE0531168900"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "7 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une branche à la fois",
+  "bsTitle": "Une branche à la fois",
+  "caption": "Journée internationale du castor",
+  "copyright": "Castor, Allemagne (© Andyworks/Getty Images)",
+  "copyrightOnly": "© Andyworks/Getty Images",
+  "copyrightLink": "/search?q=castor+rongeur&form=hpcapt&filters=HpDate%3a%2220260406_2200%22",
+  "description": "Le 7 avril, la Journée internationale du castor rend hommage à ce petit ingénieur qui façonne discrètement les paysages d’eau douce, branche après branche. Grâce à leurs incisives orangées, ces rongeurs robustes, présents dans de nombreuses régions de France, abattent des arbres, ralentissent le courant et créent des zones humides où s’épanouit une multitude d’espèces. Leurs huttes de bois et de boue, dont l’entrée est accessible uniquement sous l’eau, offrent un refuge sûr aux familles et témoignent d’une ingéniosité architecturale qui force l’admiration.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+  "hash": "e49f333084c718d34300965ee8b8ab4f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_FR-FR0925060555_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_FR-FR0925060555_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_FR-FR0925060555_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_FR-FR0925060555_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260406",
+    "fullStartDateTime": "202604062200",
+    "endDate": "20260407"
+  },
+  "createdAt": "202604070345",
+  "originalUrlBase": "/th?id=OHR.BeaverPortrait_FR-FR0925060555"
+}
