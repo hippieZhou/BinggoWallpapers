@@ -1,0 +1,43 @@
+{
+  "date": "8 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La \"Ciudad Esmeralda\"",
+  "bsTitle": "La \"Ciudad Esmeralda\"",
+  "caption": "Seattle, Washington, EE. UU.",
+  "copyright": "Seattle, Washington, EE. UU. (© Jim Patterson/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Seattle&form=hpcapt&filters=HpDate%3a%2220260407_2200%22",
+  "description": "Seattle se extiende entre el océano Pacífico y las montañas del noroeste de Estados Unidos, en el estado de Washington, rodeada de agua y vegetación. Sus parques, colinas arboladas y un clima húmedo que mantiene el verde constante explican por qué recibe el apodo de la \"Ciudad Esmeralda\".",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+  "hash": "956683ab895bc6fb598541ca0dc5578b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ES-ES6025027047_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260407",
+    "fullStartDateTime": "202604072200",
+    "endDate": "20260408"
+  },
+  "createdAt": "202604080347",
+  "originalUrlBase": "/th?id=OHR.SeattleSunrise_ES-ES6025027047"
+}

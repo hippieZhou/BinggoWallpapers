@@ -1,0 +1,43 @@
+{
+  "date": "8. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Smaragdstadt",
+  "bsTitle": "Die Smaragdstadt",
+  "caption": "Seattle, Washington, USA",
+  "copyright": "Seattle, Washington, USA (© Jim Patterson/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Seattle+USA&form=hpcapt&filters=HpDate%3a%2220260407_2200%22",
+  "description": "Über Seattle im US-Bundesstaat Washington liegt ein warmes Licht, das die Uferlinie sanft modelliert. Die Piers reichen weit in die Elliott Bay hinein, während sich die Stadt dahinter über die ansteigenden Straßen den Hügel hinaufzieht. Über der Skyline setzt die Space Needle einen markanten Akzent und ist längst zu einem Sinnbild der Region geworden. Seattle verdankt seinen Namen Chief Si’ahl, einem Anführer der Duwamish und Suquamish, deren Geschichte eng mit diesem Küstenabschnitt verbunden ist. Oberhalb der Waterfront befindet sich der Pike Place Market, der seit 1907 ein Ort des Handels und der Begegnung ist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+  "hash": "1bdc8724674f960b7f34d649985eec68",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_DE-DE4194725859_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260407",
+    "fullStartDateTime": "202604072200",
+    "endDate": "20260408"
+  },
+  "createdAt": "202604080347",
+  "originalUrlBase": "/th?id=OHR.SeattleSunrise_DE-DE4194725859"
+}

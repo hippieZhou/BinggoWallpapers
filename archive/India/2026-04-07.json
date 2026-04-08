@@ -1,0 +1,43 @@
+{
+  "date": "Apr 8, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The Emerald City",
+  "bsTitle": "The Emerald City",
+  "caption": "Seattle, Washington, United States",
+  "copyright": "Seattle, Washington, United States (© Jim Patterson/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Seattle&form=hpcapt&filters=HpDate%3a%2220260407_1830%22",
+  "description": "Seattle's waterfront seems suspended between sea and sky as soft light settles on the horizon. The city in Washington, United States, is named after Chief Si'ahl, a leader of the Duwamish and Suquamish peoples, whose legacy remains important to the region's identity. Steep streets lead down to piers that sweep across Elliott Bay. Rising above the shoreline, the Space Needle stands out as the city's most recognisable landmark. Pike Place Market, founded in 1907, overlooks the waterfront and continues to anchor daily life and long-held traditions.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+  "hash": "3890e5369a647728d3662d0155968b83",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-IN1391422222_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-IN1391422222_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-IN1391422222_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-IN1391422222_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260407",
+    "fullStartDateTime": "202604071830",
+    "endDate": "20260408"
+  },
+  "createdAt": "202604080347",
+  "originalUrlBase": "/th?id=OHR.SeattleSunrise_EN-IN1391422222"
+}

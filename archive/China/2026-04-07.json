@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "翡翠之城",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%a5%bf%e9%9b%85%e5%9b%be&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
+  "hash": "b3d4790f6038e7425caebe55c94e9d45",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260407",
+    "fullStartDateTime": "202604071600",
+    "endDate": "20260408"
+  },
+  "createdAt": "202604080347",
+  "originalUrlBase": "/th?id=OHR.SeattleSunrise_ZH-CN2884575647"
+}
