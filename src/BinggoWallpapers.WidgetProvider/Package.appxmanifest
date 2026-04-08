@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3"
+  xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"
+  xmlns:com="http://schemas.microsoft.com/appx/manifest/com/windows10"
+  IgnorableNamespaces="uap uap3 rescap">
+
+  <!-- Set your own Identity values -->
+  <Identity Name="49037hippieZhou.BinggoWallpapers.WidgetProvider"
+            Version="1.0.0.0"
+            Publisher="CN=FB39366C-1F01-4867-BE1F-B5C0C7888AAA" />
+
+  <Properties>
+    <DisplayName>Binggo Wallpapers Widget</DisplayName>
+    <PublisherDisplayName>hippieZhou</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.22000.0" MaxVersionTested="10.0.26100.0" />
+  </Dependencies>
+
+  <Resources>
+    <Resource Language="x-generate"/>
+  </Resources>
+
+  <Applications>
+    <Application Id="App"
+      Executable="BinggoWallpapers.WidgetProvider.exe"
+      EntryPoint="BinggoWallpapers.WidgetProvider.Program">
+
+      <uap:VisualElements
+        AppListEntry="none"
+        DisplayName="Binggo Wallpapers Widget"
+        Square150x150Logo="Assets\Square150x150Logo.png"
+        Square44x44Logo="Assets\Square44x44Logo.png"
+        Description="必应每日壁纸 Widget"
+        BackgroundColor="transparent" />
+
+      <Extensions>
+
+        <!-- 1. COM registration -->
+        <com:Extension Category="windows.comServer">
+          <com:ComServer>
+            <com:ExeServer
+              Executable="BinggoWallpapers.WidgetProvider.exe"
+              Arguments="-RegisterProcessAsComServer"
+              DisplayName="Binggo Wallpapers Widget Provider">
+              <com:Class Id="A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D"
+                         DisplayName="WidgetProvider" />
+            </com:ExeServer>
+          </com:ComServer>
+        </com:Extension>
+
+        <!-- 2. Widget declaration -->
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension
+            Name="com.microsoft.windows.widgets"
+            DisplayName="Binggo Wallpapers Widget"
+            Id="binggo.wallpapers.widget">
+            <uap3:Properties>
+              <WidgetProvider>
+                <ProviderIcons>
+                  <Icon Path="Assets\icon.png" />
+                </ProviderIcons>
+                <Activation>
+                  <CreateInstance ClassId="A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D" />
+                </Activation>
+                <Definitions>
+                  <Definition
+                    Id="BingWallpaper_Widget"
+                    DisplayName="必应每日壁纸"
+                    Description="显示今日必应壁纸"
+                    IsCustomizable="false">
+                    <Capabilities>
+                      <Capability><Size Name="small" /></Capability>
+                      <Capability><Size Name="medium" /></Capability>
+                      <Capability><Size Name="large" /></Capability>
+                    </Capabilities>
+                    <ThemeResources>
+                      <Icons>
+                        <Icon Path="Assets\icon.png" />
+                      </Icons>
+                      <Screenshots>
+                        <Screenshot Path="Assets\screenshots\BingWallpaperScreenshot.png"
+                                    DisplayAltText="必应每日壁纸 Widget" />
+                      </Screenshots>
+                      <DarkMode>
+                        <Icons><Icon Path="Assets\icon.png" /></Icons>
+                        <Screenshots>
+                          <Screenshot Path="Assets\screenshots\BingWallpaperScreenshot.png"
+                                      DisplayAltText="必应每日壁纸 Widget" />
+                        </Screenshots>
+                      </DarkMode>
+                      <LightMode>
+                        <Icons><Icon Path="Assets\icon.png" /></Icons>
+                        <Screenshots>
+                          <Screenshot Path="Assets\screenshots\BingWallpaperScreenshot.png"
+                                      DisplayAltText="必应每日壁纸 Widget" />
+                        </Screenshots>
+                      </LightMode>
+                    </ThemeResources>
+                  </Definition>
+                </Definitions>
+              </WidgetProvider>
+            </uap3:Properties>
+          </uap3:AppExtension>
+        </uap3:Extension>
+
+      </Extensions>
+    </Application>
+  </Applications>
+
+  <Capabilities>
+    <rescap:Capability Name="runFullTrust" />
+  </Capabilities>
+</Package>
