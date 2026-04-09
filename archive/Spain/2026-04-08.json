@@ -1,0 +1,43 @@
+{
+  "date": "9 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un velo de luz",
+  "bsTitle": "Un velo de luz",
+  "caption": "Cascada de Eira, Parque Nacional de Bannau Brycheiniog, Gales",
+  "copyright": "Cascada de Eira, Parque Nacional de Bannau Brycheiniog, Gales (© Guy Edwardes/Nature Picture Library)",
+  "copyrightOnly": "© Guy Edwardes/Nature Picture Library",
+  "copyrightLink": "/search?q=Cascada+de+Eira+Gales&form=hpcapt&filters=HpDate%3a%2220260408_2200%22",
+  "description": "La cascada de Eira es uno de los lugares más singulares del Parque Nacional de Bannau Brycheiniog, en Gales. Formada por el río Hepste, este salto de agua destaca por permitir el paso de un sendero que discurre justo por detrás de la cortina de agua, una característica poco común en Europa. El camino, accesible en épocas de caudal moderado, ofrece una visión envolvente del paisaje, con roca, musgo y agua muy próximos. Integrada en un entorno de valles verdes y bosques húmedos, la cascada es uno de los puntos más conocidos del parque y una parada habitual para quienes recorren sus rutas naturales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+  "hash": "50d4f0247677bb5f669ed0598eac3865",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ES-ES3494958836_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ES-ES3494958836_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ES-ES3494958836_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ES-ES3494958836_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260408",
+    "fullStartDateTime": "202604082200",
+    "endDate": "20260409"
+  },
+  "createdAt": "202604090342",
+  "originalUrlBase": "/th?id=OHR.WalesWaterfall_ES-ES3494958836"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "光之水帘",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b8%83%e9%9b%b7%e8%82%af%e6%af%94%e8%82%af%e6%96%af%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+  "hash": "941e3325116376df48714ec556da1485",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260408",
+    "fullStartDateTime": "202604081600",
+    "endDate": "20260409"
+  },
+  "createdAt": "202604090342",
+  "originalUrlBase": "/th?id=OHR.WalesWaterfall_ZH-CN3175091833"
+}

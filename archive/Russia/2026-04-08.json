@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Seattle, Washington, United States (© Jim Patterson/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Seattle&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_SeattleSunrise%22&FORM=HPQUIZ",
+  "hash": "b4e29c1d3d83a472fc640ab3d8990bd2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260408",
+    "fullStartDateTime": "202604080700",
+    "endDate": "20260409"
+  },
+  "createdAt": "202604090342",
+  "originalUrlBase": "/th?id=OHR.SeattleSunrise_ROW1229095485"
+}

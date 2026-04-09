@@ -1,0 +1,43 @@
+{
+  "date": "9. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Schleier aus Licht",
+  "bsTitle": "Schleier aus Licht",
+  "caption": "Wasserfall Sgwd yr Eira, Bannau-Brycheiniog-Nationalpark, Wales",
+  "copyright": "Wasserfall Sgwd yr Eira, Bannau-Brycheiniog-Nationalpark, Wales (© Guy Edwardes/Nature Picture Library)",
+  "copyrightOnly": "© Guy Edwardes/Nature Picture Library",
+  "copyrightLink": "/search?q=Bannau-Brycheiniog-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260408_2200%22",
+  "description": "Der Wasserfall Sgwd yr Eira stürzt in klaren Linien über eine Felswand im Süden von Wales. Sein walisischer Name bedeutet „Wasserfall des Schnees“ und verweist auf den hellen Schleier, der über den dunklen Stein gleitet. Besonders an diesem Ort ist die unmittelbare Nähe: Ein schmaler Pfad führt direkt hinter den Wasserfall, sodass man ihn aus einer seltenen Perspektive erleben kann – mit dem Klang, dem Licht und der kühlen Gischt ganz nah.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+  "hash": "a1a3cfe6807dffdd1c3ae0ed7fe28017",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_DE-DE3914943057_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260408",
+    "fullStartDateTime": "202604082200",
+    "endDate": "20260409"
+  },
+  "createdAt": "202604090342",
+  "originalUrlBase": "/th?id=OHR.WalesWaterfall_DE-DE3914943057"
+}

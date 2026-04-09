@@ -1,0 +1,43 @@
+{
+  "date": "9 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Voile de lumière",
+  "bsTitle": "Voile de lumière",
+  "caption": "Cascade de Sgwd yr Eira, Pays de Galles",
+  "copyright": "Cascade de Sgwd yr Eira, Parc national des Bannau Brycheiniog, Pays de Galles (© Guy Edwardes/Nature Picture Library)",
+  "copyrightOnly": "© Guy Edwardes/Nature Picture Library",
+  "copyrightLink": "/search?q=Parc+national+des++Bannau+Brycheiniog&form=hpcapt&filters=HpDate%3a%2220260408_2200%22",
+  "description": "L’eau se jette en lignes nettes à Sgwd yr Eira, l’une des chutes les plus singulières du sud du Pays de Galles. Son nom signifie «\u202Fcascade de neige\u202F», un clin d’œil au voile pâle qui glisse le long de la paroi rocheuse. Ce qui la distingue, c’est l’accès : un sentier étroit mène les visiteurs derrière le rideau d’eau, où l’on se retrouve enveloppé de bruit, de lumière et de fraîcheur, comme au cœur du mouvement.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+  "hash": "8c20e8f282067a8a0ff43380161b457a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_FR-FR2361256494_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_FR-FR2361256494_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_FR-FR2361256494_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_FR-FR2361256494_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260408",
+    "fullStartDateTime": "202604082200",
+    "endDate": "20260409"
+  },
+  "createdAt": "202604090342",
+  "originalUrlBase": "/th?id=OHR.WalesWaterfall_FR-FR2361256494"
+}

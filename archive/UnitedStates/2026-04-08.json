@@ -1,0 +1,43 @@
+{
+  "date": "Apr 8, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The Emerald City",
+  "bsTitle": "The Emerald City",
+  "caption": "Seattle, Washington",
+  "copyright": "Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jim Patterson/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Seattle&form=hpcapt&filters=HpDate%3a%2220260408_0700%22",
+  "description": "Seattle's waterfront seems suspended between sea and sky as soft light settles on the horizon. The city is named after Chief Si'ahl, a leader of the Duwamish and Suquamish peoples, whose legacy remains important to the region's identity. Steep streets lead down to piers that sweep across Elliott Bay. Rising above the shoreline, the Space Needle stands out as the city's most recognizable landmark. Pike Place Market, founded in 1907, overlooks the waterfront and continues to anchor daily life and long-held traditions.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_SeattleSunrise%22&FORM=HPQUIZ",
+  "hash": "4ba2fe468c0a83879954d429775829fb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260408",
+    "fullStartDateTime": "202604080700",
+    "endDate": "20260409"
+  },
+  "createdAt": "202604090342",
+  "originalUrlBase": "/th?id=OHR.SeattleSunrise_EN-US6729754002"
+}

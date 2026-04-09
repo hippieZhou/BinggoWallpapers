@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Velo di luce",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cascata Sgwd yr Eira, parco nazionale Bannau Brycheiniog, Galles (© Guy Edwardes/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Il+parco+nazionale+di+Brecon+Beacons+Galles&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
+  "hash": "49bda9519cb59569cf0b80e79bb35bba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_IT-IT9480992833_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_IT-IT9480992833_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_IT-IT9480992833_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WalesWaterfall_IT-IT9480992833_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260408",
+    "fullStartDateTime": "202604082200",
+    "endDate": "20260409"
+  },
+  "createdAt": "202604090342",
+  "originalUrlBase": "/th?id=OHR.WalesWaterfall_IT-IT9480992833"
+}
