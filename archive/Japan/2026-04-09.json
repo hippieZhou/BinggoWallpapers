@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 10 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はきょうだいの日",
+  "bsTitle": "今日はきょうだいの日",
+  "caption": "今日はきょうだいの日",
+  "copyright": "アカギツネ, エストニア (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%82%ab%e3%82%ae%e3%83%84%e3%83%8d&form=hpcapt&filters=HpDate%3a%2220260409_1500%22",
+  "description": "今日 4 月 10 日は「兄弟姉妹の日」。ニューヨーク在住のクラウディア・エヴァート氏が、幼い頃に亡くなった兄弟姉妹の記憶をたたえるために考案した記念日です。日本では、NPO 法人「しぶたね」が「きょうだいの日」を制定し、この記念日の普及活動を行っています。そして、画像はエストニアのカルラ国立公園で撮影されたアカギツネの兄妹。子ギツネたちは追いかけっこやじゃれ合いを通して狩りの技術を学び、互いに支え合いながら成長していきます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+  "hash": "fe49247b6d7a7cbc95ddcfae20b0e36e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260409",
+    "fullStartDateTime": "202604091500",
+    "endDate": "20260410"
+  },
+  "createdAt": "202604100355",
+  "originalUrlBase": "/th?id=OHR.FoxSiblings_JA-JP3895166955"
+}

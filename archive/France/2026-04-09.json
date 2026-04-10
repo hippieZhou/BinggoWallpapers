@@ -1,0 +1,43 @@
+{
+  "date": "10 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le regard pétillant de ruse",
+  "bsTitle": "Le regard pétillant de ruse",
+  "caption": "Journée internationale des frères et sœurs",
+  "copyright": "Deux renardeaux dans le parc national de Karula, Estonie (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=journ%c3%a9e+internationale+des+fr%c3%a8res+et+s%c5%93urs&form=hpcapt&filters=HpDate%3a%2220260409_2200%22",
+  "description": "Sur les sentiers boisés du parc national de Karula, en Estonie, on croirait surprendre ces deux renardeaux. Leurs museaux levés mêlent prudence et curiosité, des instincts qui, dès les premières semaines, forgent la survie. Dans leurs terriers tapissés de racines, les portées de printemps — souvent quatre à six petits — transforment chaque jeu en entraînement. Les plus âgés nourrissent, surveillent et montrent l’exemple : une petite société où la fratrie devient une force commune.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+  "hash": "4ee072e42e836a0bd1634001d552faca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_FR-FR2060814821_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_FR-FR2060814821_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_FR-FR2060814821_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_FR-FR2060814821_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260409",
+    "fullStartDateTime": "202604092200",
+    "endDate": "20260410"
+  },
+  "createdAt": "202604100355",
+  "originalUrlBase": "/th?id=OHR.FoxSiblings_FR-FR2060814821"
+}

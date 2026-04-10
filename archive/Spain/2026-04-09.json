@@ -1,0 +1,43 @@
+{
+  "date": "10 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde empieza la aventura",
+  "bsTitle": "Donde empieza la aventura",
+  "caption": "La Alhambra vista desde el Albaicín, Granada, Andalucía",
+  "copyright": "La Alhambra vista desde el Albaicín, Granada, Andalucía (© Antonio Violi/Alamy)",
+  "copyrightOnly": "© Antonio Violi/Alamy",
+  "copyrightLink": "/search?q=Unicaja+Ultra+Sierra+Nevada+2026+fechas&form=hpcapt&filters=HpDate%3a%2220260409_2200%22",
+  "description": "Desde la colina del Albaicín, la Alhambra domina Granada como un símbolo de historia, resistencia y belleza. Esa misma ciudad es hoy el punto de partida del Unicaja Ultra Sierra Nevada, una de las grandes citas del trail en España. En este 10 de abril, el evento arranca en un escenario cargado de siglos, donde el patrimonio cultural convive con el pulso deportivo y la expectación previa a la salida.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_AlhambraGranada%22&FORM=HPQUIZ",
+  "hash": "8d10959393024785bd0553dcccb06de7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260409",
+    "fullStartDateTime": "202604092200",
+    "endDate": "20260410"
+  },
+  "createdAt": "202604100355",
+  "originalUrlBase": "/th?id=OHR.AlhambraGranada_ES-ES7908676665"
+}

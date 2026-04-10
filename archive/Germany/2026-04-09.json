@@ -1,0 +1,43 @@
+{
+  "date": "10. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Kleine Pfoten, große Ideen",
+  "bsTitle": "Kleine Pfoten, große Ideen",
+  "caption": "Tag der Geschwister",
+  "copyright": "Zwei junge Rotfüchse im Nationalpark Karula, Estland (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=Tag+der+Geschwister&form=hpcapt&filters=HpDate%3a%2220260409_2200%22",
+  "description": "Zum Tag der Geschwister rückt ein besonderes Band in den Mittelpunkt – und selten zeigt es sich so bezaubernd wie bei diesen beiden jungen Rotfüchsen im estnischen Nationalpark Karula. Eng beieinander sitzen sie im Gras, als würden sie ein stilles Geheimnis teilen. Dieses Zusammensein ist kein Zufall, denn Fuchswelpen wachsen in Würfen auf, in denen Nähe und Zusammenarbeit überlebenswichtig sind.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260409_FoxSiblings%22&FORM=HPQUIZ",
+  "hash": "de5a0f063af005c86bdf0b8285646656",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_DE-DE2992215006_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260409",
+    "fullStartDateTime": "202604092200",
+    "endDate": "20260410"
+  },
+  "createdAt": "202604100355",
+  "originalUrlBase": "/th?id=OHR.FoxSiblings_DE-DE2992215006"
+}
