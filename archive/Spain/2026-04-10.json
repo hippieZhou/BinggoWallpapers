@@ -1,0 +1,43 @@
+{
+  "date": "11 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Origen volcánico",
+  "bsTitle": "Origen volcánico",
+  "caption": "Playas de Papagayo, Lanzarote, Islas Canarias",
+  "copyright": "Playas de Papagayo, Lanzarote, Islas Canarias (© Gavin Hellier/Getty Images)",
+  "copyrightOnly": "© Gavin Hellier/Getty Images",
+  "copyrightLink": "/search?q=Playas+de+Papagayo+Lanzarote&form=hpcapt&filters=HpDate%3a%2220260410_2200%22",
+  "description": "Las Playas de Papagayo se esconden en el sur de Lanzarote como un pequeño tesoro natural protegido. Calas de arena clara y forma delicada se abren entre colinas volcánicas de tonos ocres, creando un contraste que sorprende al primer vistazo. El mar suele mostrarse tranquilo y transparente, ideal para nadar y observar el fondo marino con calma.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+  "hash": "b36994fae316c7d0cd5a5b0b649b4ce5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ES-ES6446610694_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ES-ES6446610694_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ES-ES6446610694_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ES-ES6446610694_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260410",
+    "fullStartDateTime": "202604102200",
+    "endDate": "20260411"
+  },
+  "createdAt": "202604110332",
+  "originalUrlBase": "/th?id=OHR.PlayaPapagayo_ES-ES6446610694"
+}

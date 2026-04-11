@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 11 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "乾いた大地に囲まれた青い海",
+  "bsTitle": "乾いた大地に囲まれた青い海",
+  "caption": "乾いた大地に囲まれた青い海",
+  "copyright": "パパガヨビーチ, スペイン (© Gavin Hellier/Getty Images)",
+  "copyrightOnly": "© Gavin Hellier/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%91%e3%83%91%e3%82%ac%e3%83%a8%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260410_1500%22",
+  "description": "ここは、パパガヨビーチ。スペインのカナリア諸島に属するランサローテ島南部に位置します。ランサローテ島は長い火山活動の歴史を持ち、特に 18 世紀の噴火が現在の地形形成に大きく影響しました。そしてパパガヨビーチは、火山岩の断崖に囲まれており、それが防波堤になることで、波が和らげられ、ビーチには穏やかで透明度の高い海が広がります。黄金色の砂浜は、砕けた貝殻と火山岩が混ざり合ってできたもので、この島の成り立ちを感じさせます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+  "hash": "80d6a24d45d72156cb4e945b69da6395",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260410",
+    "fullStartDateTime": "202604101500",
+    "endDate": "20260411"
+  },
+  "createdAt": "202604110332",
+  "originalUrlBase": "/th?id=OHR.PlayaPapagayo_JA-JP3931450183"
+}

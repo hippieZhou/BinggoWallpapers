@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "火山外衣",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%8a%a0%e9%82%a3%e5%88%a9%e7%be%a4%e5%b2%9b%e5%85%b0%e8%90%a8%e7%bd%97%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+  "hash": "83de4c1b872b717cbcfa04498d4718ce",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260410",
+    "fullStartDateTime": "202604101600",
+    "endDate": "20260411"
+  },
+  "createdAt": "202604110332",
+  "originalUrlBase": "/th?id=OHR.PlayaPapagayo_ZH-CN7708804019"
+}

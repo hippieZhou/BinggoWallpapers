@@ -1,0 +1,43 @@
+{
+  "date": "Apr 10, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Two young red foxes at Karula National Park, Estonia",
+  "copyright": "Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=Karula+National+Park&form=hpcapt&filters=HpDate%3a%2220260410_0700%22",
+  "description": "Ever caught siblings plotting? In Karula National Park, Estonia, it looks as though these two red fox kits froze mid-conspiracy, their expressions mirrored in curiosity and caution. They're not just springtime fluff; they're apprentices in survival. Born in litters averaging four to six kits, foxes grow quickly, their underground den becoming a wrestling ring, classroom and testing ground. Older kits often help feed, guard and teach the younger ones, turning play into practice and mischief into muscle memory.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_FoxSiblings%22&FORM=HPQUIZ",
+  "hash": "4d3b2219714a91900e4ed21ae309b004",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260410",
+    "fullStartDateTime": "202604100700",
+    "endDate": "20260411"
+  },
+  "createdAt": "202604110332",
+  "originalUrlBase": "/th?id=OHR.FoxSiblings_ROW1554598734"
+}

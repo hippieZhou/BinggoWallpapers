@@ -1,0 +1,43 @@
+{
+  "date": "11. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo Lava auf Meer trifft",
+  "bsTitle": "Wo Lava auf Meer trifft",
+  "caption": "Playa del Papagayo, Lanzarote, Kanarische Inseln, Spanien",
+  "copyright": "Playa del Papagayo, Lanzarote, Kanarische Inseln, Spanien (© Gavin Hellier/Getty Images)",
+  "copyrightOnly": "© Gavin Hellier/Getty Images",
+  "copyrightLink": "/search?q=Lanzarote+Kanarische+Inseln+Spanien&form=hpcapt&filters=HpDate%3a%2220260410_2200%22",
+  "description": "An der Südküste Lanzarotes, einer zu Spanien gehörenden Insel der Kanaren, liegt die Playa del Papagayo, eine geschützte Bucht vulkanischen Ursprungs. Vor Millionen von Jahren entstand hier Land aus Basalt, Asche und Lava, das später durch Wind und Wasser geglättet wurde. Die rund 120\u202FMeter lange Bucht gehört zum Naturdenkmal Los Ajaches und ist bis heute bewusst nur wenig erschlossen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
+  "hash": "b89acf507f40719000f071f68b86cfcf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_DE-DE0494036913_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_DE-DE0494036913_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260410",
+    "fullStartDateTime": "202604102200",
+    "endDate": "20260411"
+  },
+  "createdAt": "202604110332",
+  "originalUrlBase": "/th?id=OHR.PlayaPapagayo_DE-DE0494036913"
+}
