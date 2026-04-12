@@ -1,0 +1,43 @@
+{
+  "date": "Apr 11, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Volcanic veneer",
+  "bsTitle": "Volcanic veneer",
+  "caption": "Papagayo Beach, Lanzarote, Canary Islands, Spain",
+  "copyright": "Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)",
+  "copyrightOnly": "© Gavin Hellier/Getty Images",
+  "copyrightLink": "/search?q=Lanzarote+Canary+Islands+Spain&form=hpcapt&filters=HpDate%3a%2220260411_0700%22",
+  "description": "A beach born from fire rarely does so subtly, yet Papagayo Beach manages exactly that. The shoreline we see today rests on the southern edge of Lanzarote, one of Spain's Canary Islands. Tropical fantasy? More like volcanic precision. Millions of years ago, this land rose in successive layers of basalt and ash thrust upward by submarine eruptions.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_PlayaPapagayo%22&FORM=HPQUIZ",
+  "hash": "acd8c0802235a3f6606b9ac55327e275",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260411",
+    "fullStartDateTime": "202604110700",
+    "endDate": "20260412"
+  },
+  "createdAt": "202604120359",
+  "originalUrlBase": "/th?id=OHR.PlayaPapagayo_EN-US7775494888"
+}

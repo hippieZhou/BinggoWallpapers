@@ -1,0 +1,43 @@
+{
+  "date": "12 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le premier pas hors Terre",
+  "bsTitle": "Le premier pas hors Terre",
+  "caption": "Journée internationale du vol spatial habité",
+  "copyright": "Lumières de villes vues depuis la Station Spatiale Internationale (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+du+vol+spatiale+habit%c3%a9&form=hpcapt&filters=HpDate%3a%2220260411_2200%22",
+  "description": "Aujourd’hui, on célèbre la Journée internationale du vol spatial habité, une date qui rappelle le moment où l’humanité a quitté son berceau et s’est aventurée pour la première fois dans l’espace. Le 12 avril 1961, Yuri Gagarine a fait le tour de la Terre, ouvrant la voie à une ère où le ciel a cessé d’être une limite. Son exploit demeure le souffle fondateur de notre curiosité collective.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+  "hash": "e13584685640b8b3b2d16aedb4c5bf2d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_FR-FR5305463637_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260411",
+    "fullStartDateTime": "202604112200",
+    "endDate": "20260412"
+  },
+  "createdAt": "202604120359",
+  "originalUrlBase": "/th?id=OHR.SpaceTrails_FR-FR5305463637"
+}

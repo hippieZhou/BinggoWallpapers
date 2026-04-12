@@ -1,0 +1,43 @@
+{
+  "date": "12. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der erste Schritt ins All",
+  "bsTitle": "Der erste Schritt ins All",
+  "caption": "Internationaler Tag der bemannten Raumfahrt",
+  "copyright": "Lichterspuren der Erde, aufgenommen von der Internationalen Raumstation (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=Internationaler+Tag+der+bemannten+Raumfahrt&form=hpcapt&filters=HpDate%3a%2220260411_2200%22",
+  "description": "Der Internationale Tag der bemannten Raumfahrt erinnert an einen Wendepunkt der Menschheitsgeschichte. Am 12. April 1961 umkreiste Juri Gagarin erstmals die Erde und kehrte sicher zurück – ein Ereignis, das den Beginn der modernen Raumfahrt markierte. Ein deutscher Meilenstein folgte 1978, als Sigmund Jähn im Rahmen des sowjetischen Interkosmos‑Programms als erster Deutscher ins All flog. Während seines Aufenthalts führte er wissenschaftliche Experimente durch und sammelte Erfahrungen, die den internationalen Austausch in der Raumfahrt förderten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+  "hash": "17678ce55ed1293fad7a050e56d46ac6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_DE-DE4428560014_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260411",
+    "fullStartDateTime": "202604112200",
+    "endDate": "20260412"
+  },
+  "createdAt": "202604120359",
+  "originalUrlBase": "/th?id=OHR.SpaceTrails_DE-DE4428560014"
+}

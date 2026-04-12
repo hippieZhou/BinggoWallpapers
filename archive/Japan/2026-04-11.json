@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 12 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は世界宇宙飛行の日",
+  "bsTitle": "今日は世界宇宙飛行の日",
+  "caption": "今日は世界宇宙飛行の日",
+  "copyright": "光の筋となる都市の夜景, 国際宇宙ステーション (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e5%ae%87%e5%ae%99%e9%a3%9b%e8%a1%8c%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260411_1500%22",
+  "description": "今日 4 月 12 日は世界宇宙飛行の日。1961 年、ロシアの宇宙飛行士ユーリイ・ガガーリンが、史上初の有人宇宙飛行に成功した日です。彼の宇宙探求の精神は、現在、地上から約 400km 上空に建設された巨大な有人実験施設である国際宇宙ステーション (ISS) に受け継がれています。2000 年から継続的に有人運用されている ISS では、宇宙飛行士たちが日々、地球を観測しながら医学や気候化学などの研究を行い、人類が地球外で生活し働く可能性を探っています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+  "hash": "68d7c3e06092e15a2384b0149e14d4c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260411",
+    "fullStartDateTime": "202604111500",
+    "endDate": "20260412"
+  },
+  "createdAt": "202604120359",
+  "originalUrlBase": "/th?id=OHR.SpaceTrails_JA-JP7486143829"
+}

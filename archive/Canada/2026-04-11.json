@@ -1,0 +1,43 @@
+{
+  "date": "Apr. 11, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Follow the blossom map",
+  "bsTitle": "Follow the blossom map",
+  "caption": "Sakura Days Japan Fair",
+  "copyright": "A canopy of cherry blossoms in Stanley Park, Vancouver (© WendyNordvikCarr/Getty Images)",
+  "copyrightOnly": "© WendyNordvikCarr/Getty Images",
+  "copyrightLink": "/search?q=Sakura+Days+Japan+Fair&form=hpcapt&filters=HpDate%3a%2220260411_0400%22",
+  "description": "Every spring, a gentle colour shift sweeps through Vancouver and other provinces. Streets and parks begin to blush pink as hundreds of cherry trees bloom—many descended from ornamental varieties gifted by Japan during the 20th century. For a few weeks, petals drift through the air like confetti. Ever noticed how the city seems to pause for them? Cameras and phones out? Yep, that moment has arrived.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_StanleySakura%22&FORM=HPQUIZ",
+  "hash": "d6ec08cd737644b1269d08a27dcdf7d5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260411",
+    "fullStartDateTime": "202604110400",
+    "endDate": "20260412"
+  },
+  "createdAt": "202604120359",
+  "originalUrlBase": "/th?id=OHR.StanleySakura_EN-CA3455290957"
+}

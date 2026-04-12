@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "离开地球的第一步",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "城市灯光在下方划过, 拍摄于国际空间站 (© NASA)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9b%bd%e9%99%85%e4%ba%ba%e7%b1%bb%e8%88%aa%e5%a4%a9%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+  "hash": "c4b71ecc2cdff3cf5ed78dd6f376319a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260411",
+    "fullStartDateTime": "202604111600",
+    "endDate": "20260412"
+  },
+  "createdAt": "202604120359",
+  "originalUrlBase": "/th?id=OHR.SpaceTrails_ZH-CN8377463217"
+}
