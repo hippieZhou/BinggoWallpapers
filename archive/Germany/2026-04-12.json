@@ -1,0 +1,43 @@
+{
+  "date": "13. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Vogel mit gutem Ruf",
+  "bsTitle": "Ein Vogel mit gutem Ruf",
+  "caption": "Zilpzalp",
+  "copyright": "Zilpzalp, Deutschland (© Andyworks/Getty Images)",
+  "copyrightOnly": "© Andyworks/Getty Images",
+  "copyrightLink": "/search?q=Zilpzalp&form=hpcapt&filters=HpDate%3a%2220260412_2200%22",
+  "description": "Klein, lebhaft und sofort am Ruf zu erkennen: Der Zilpzalp gehört zu den häufigsten Singvögeln Deutschlands und ist ein echter Vorbote des Frühjahrs. Schon ab Ende Februar kehren die ersten Männchen aus ihren Winterquartieren im Mittelmeerraum oder Südwesteuropa zurück und beginnen mit dem charakteristischen Gesang, der der Art ihren Namen gegeben hat. Dieses prägnante „zilp‑zalp‑zilp‑zalp“ macht ihn selbst dann gut auffindbar, wenn er in dichter Vegetation verborgen bleibt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_ChiffchaffSpring%22&FORM=HPQUIZ",
+  "hash": "7f2c8433b102577c64b88dfad63e15af",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260412",
+    "fullStartDateTime": "202604122200",
+    "endDate": "20260413"
+  },
+  "createdAt": "202604130416",
+  "originalUrlBase": "/th?id=OHR.ChiffchaffSpring_DE-DE4997065919"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Apr 12, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "International Space Station",
+  "copyright": "City lights streak below, taken from the International Space Station (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=International+Space+Station&form=hpcapt&filters=HpDate%3a%2220260412_0700%22",
+  "description": "Look up on a clear night and a bright moving star might actually be the International Space Station. That spirit of exploration lives on aboard the ISS, a laboratory where Earth never quite leaves the view. From the space station, astronauts photograph glowing city grids, curling auroras and lightning storms streaking through the atmosphere. The station orbits about 400 kilometres above Earth and circles the planet every 90 minutes, delivering up to 16 sunrises and sunsets each day.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_SpaceTrails%22&FORM=HPQUIZ",
+  "hash": "17423bb2c5f4dd55db0503c4f2117170",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260412",
+    "fullStartDateTime": "202604120700",
+    "endDate": "20260413"
+  },
+  "createdAt": "202604130416",
+  "originalUrlBase": "/th?id=OHR.SpaceTrails_ROW1837084616"
+}

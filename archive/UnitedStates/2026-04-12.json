@@ -1,0 +1,43 @@
+{
+  "date": "Apr 12, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The first step off Earth",
+  "bsTitle": "The first step off Earth",
+  "caption": "International Day of Human Space Flight",
+  "copyright": "City lights streak below, taken from the International Space Station (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=International+Day+of+Human+Space+Flight&form=hpcapt&filters=HpDate%3a%2220260412_0700%22",
+  "description": "Today, the world marks the International Day of Human Space Flight, a United Nations observance honoring the first human journey into space and the start of the space age for humanity. The date recalls April 12, 1961, when Yuri Gagarin orbited Earth, proving that people could leave the planet and return safely.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_SpaceTrails%22&FORM=HPQUIZ",
+  "hash": "f5ad435cbf1b1b46ec8dcc0218dc45ff",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260412",
+    "fullStartDateTime": "202604120700",
+    "endDate": "20260413"
+  },
+  "createdAt": "202604130416",
+  "originalUrlBase": "/th?id=OHR.SpaceTrails_EN-US8009082939"
+}
