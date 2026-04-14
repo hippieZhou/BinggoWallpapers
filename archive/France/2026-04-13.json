@@ -1,0 +1,43 @@
+{
+  "date": "14 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Colocataires des récifs",
+  "bsTitle": "Colocataires des récifs",
+  "caption": "Poisson-clown dans une anémone de mer, Indonésie",
+  "copyright": "Poisson-clown dans une anémone de mer, Îles Raja Ampat, Indonésie (© Magnus Lundgren/Nature Picture Library)",
+  "copyrightOnly": "© Magnus Lundgren/Nature Picture Library",
+  "copyrightLink": "/search?q=an%c3%a9mone+de+mer&form=hpcapt&filters=HpDate%3a%2220260413_2200%22",
+  "description": "Les anémones de mer ressemblent à de délicates fleurs ondulant dans le courant, mais ce sont bien des animaux. Fixées aux rochers par un disque charnu, elles déploient une couronne de tentacules mouvants, chacun armé de minuscules harpons capables de foudroyer tout poisson imprudent. Pourtant, au milieu de ce piège soyeux, un petit voisin iconique évolue sans crainte.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_OcellarisClownfish%22&FORM=HPQUIZ",
+  "hash": "1b63d93c2f0559f602cf04bc726b3505",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_FR-FR5954512656_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_FR-FR5954512656_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_FR-FR5954512656_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_FR-FR5954512656_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260413",
+    "fullStartDateTime": "202604132200",
+    "endDate": "20260414"
+  },
+  "createdAt": "202604140357",
+  "originalUrlBase": "/th?id=OHR.OcellarisClownfish_FR-FR5954512656"
+}

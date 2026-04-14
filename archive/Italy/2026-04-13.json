@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Simbiotico armonico",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pesce pagliaccio comune in un anemone di mare, Isole Raja Ampat, Indonesia (© Magnus Lundgren/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Actiniaria&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_OcellarisClownfish%22&FORM=HPQUIZ",
+  "hash": "3f0bc5ad0ff323a99f419f57cf7241bd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_IT-IT2484458415_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_IT-IT2484458415_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_IT-IT2484458415_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_IT-IT2484458415_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260413",
+    "fullStartDateTime": "202604132200",
+    "endDate": "20260414"
+  },
+  "createdAt": "202604140357",
+  "originalUrlBase": "/th?id=OHR.OcellarisClownfish_IT-IT2484458415"
+}

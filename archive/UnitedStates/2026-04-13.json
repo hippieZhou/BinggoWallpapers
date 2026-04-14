@@ -1,0 +1,43 @@
+{
+  "date": "Apr 13, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "After the lights go down",
+  "bsTitle": "After the lights go down",
+  "caption": "International Dark Sky Week",
+  "copyright": "Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)",
+  "copyrightOnly": "© Kevin Key/Slworking)/Getty Images",
+  "copyrightLink": "/search?q=International+Dark+Sky+Week&form=hpcapt&filters=HpDate%3a%2220260413_0700%22",
+  "description": "When the lights go down, the universe puts on a show. International Dark Sky Week, celebrated each April, invites everyone to rediscover the night and learn why darkness is worth protecting. Launched in 2003, the week highlights how excessive artificial light affects wildlife, human health, energy use, and our ability to see the stars. Fewer lights don't mean less safety—smart, well-designed lighting can do both.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_BorregoStars%22&FORM=HPQUIZ",
+  "hash": "071a0eac65c6016fbf278548b9349781",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260413",
+    "fullStartDateTime": "202604130700",
+    "endDate": "20260414"
+  },
+  "createdAt": "202604140357",
+  "originalUrlBase": "/th?id=OHR.BorregoStars_EN-US8252825773"
+}

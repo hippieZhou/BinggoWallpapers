@@ -1,0 +1,43 @@
+{
+  "date": "14 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Compañeros del arrecife",
+  "bsTitle": "Compañeros del arrecife",
+  "caption": "Pez payaso en una anémona de mar, islas Raja Ampat, Indonesia",
+  "copyright": "Pez payaso en una anémona de mar, islas Raja Ampat, Indonesia (© Magnus Lundgren/Nature Picture Library)",
+  "copyrightOnly": "© Magnus Lundgren/Nature Picture Library",
+  "copyrightLink": "/search?q=Pez+payaso&form=hpcapt&filters=HpDate%3a%2220260413_2200%22",
+  "description": "La imagen de hoy nos lleva a las islas Raja Ampat, en Indonesia, uno de los mares con mayor diversidad del planeta. Entre corales y aguas claras aparece un pez payaso refugiado en una anémona de mar, una escena tan colorida como reveladora. Estos peces son pequeños, llamativos y muy territoriales, y pasan gran parte de su vida ligados a un mismo hogar. Su nado ágil y sus franjas contrastadas los convierten en uno de los habitantes más reconocibles del arrecife.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260413_OcellarisClownfish%22&FORM=HPQUIZ",
+  "hash": "9263e321b5dc033e1aa50bd37737ee97",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_ES-ES6754950938_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_ES-ES6754950938_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_ES-ES6754950938_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_ES-ES6754950938_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260413",
+    "fullStartDateTime": "202604132200",
+    "endDate": "20260414"
+  },
+  "createdAt": "202604140357",
+  "originalUrlBase": "/th?id=OHR.OcellarisClownfish_ES-ES6754950938"
+}
