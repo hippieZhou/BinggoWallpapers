@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 15 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "富士芝桜まつりが開催中",
+  "bsTitle": "富士芝桜まつりが開催中",
+  "caption": "富士芝桜まつりが開催中",
+  "copyright": "芝桜, 山梨県 (© DoctorEgg/Getty images)",
+  "copyrightOnly": "© DoctorEgg/Getty images",
+  "copyrightLink": "/search?q=%e8%8a%9d%e6%a1%9c&form=hpcapt&filters=HpDate%3a%2220260414_1500%22",
+  "description": "4 月 11 日から 5 月 24 日まで、山梨県の富士本栖湖リゾートで「富士芝桜まつり」が開催されます。富士山の麓に広がる広大な敷地には、ピンクや白など色とりどりの芝桜が約 50 万株も咲き誇り、春の富士山との美しいコラボレーションを披露してくれます。毎年全国から多くの観光客が訪れており、今年のテーマは「春の特等席。」です。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_Shibazakura2026%22&FORM=HPQUIZ",
+  "hash": "9dcf610ee82e51f4fd424fde66d4e926",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260414",
+    "fullStartDateTime": "202604141500",
+    "endDate": "20260415"
+  },
+  "createdAt": "202604150356",
+  "originalUrlBase": "/th?id=OHR.Shibazakura2026_JA-JP4532713069"
+}

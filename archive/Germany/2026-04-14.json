@@ -1,0 +1,43 @@
+{
+  "date": "15. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Eintauchen in eine lebendige Leinwand",
+  "bsTitle": "Eintauchen in eine lebendige Leinwand",
+  "caption": "Weltkunsttag",
+  "copyright": "Van-Gogh-Ausstellung in den Carrières des Lumières, Les Baux‑de‑Provence, Frankreich (© Patrick Aventurier/Getty Images)",
+  "copyrightOnly": "© Patrick Aventurier/Getty Images",
+  "copyrightLink": "/search?q=Weltkunsttag&form=hpcapt&filters=HpDate%3a%2220260414_2200%22",
+  "description": "Kunst begleitet uns überall – in Bildern, Räumen und Ideen, die unsere Wahrnehmung herausfordern. Der Weltkunsttag am 15. April erinnert daran, wie sehr Kreativität unsere Kultur prägt und ständig neue Ausdrucksformen findet. Ein eindrucksvolles Beispiel dafür ist die immersive Van‑Gogh‑Inszenierung in den Carrières des Lumières im südfranzösischen Les Baux‑de‑Provence, wo seine Werke 2019–2020 über monumentale Steinwände projiziert wurden und Besuchern das Gefühl gaben, mitten in den Bildern zu stehen und förmlich durch die Pinselstriche zu wandeln.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_VanGoghFields%22&FORM=HPQUIZ",
+  "hash": "1d2e3faa02a4c2b827f4c2cbb65db992",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_DE-DE5579767701_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260414",
+    "fullStartDateTime": "202604142200",
+    "endDate": "20260415"
+  },
+  "createdAt": "202604150356",
+  "originalUrlBase": "/th?id=OHR.VanGoghFields_DE-DE5579767701"
+}

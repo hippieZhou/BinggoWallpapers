@@ -1,0 +1,43 @@
+{
+  "date": "Apr 14, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Reefside roommates",
+  "bsTitle": "Reefside roommates",
+  "caption": "Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia",
+  "copyright": "Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)",
+  "copyrightOnly": "© Magnus Lundgren/Nature Picture Library",
+  "copyrightLink": "/search?q=sea+anemone&form=hpcapt&filters=HpDate%3a%2220260414_0700%22",
+  "description": "Sea anemones may look like underwater flowers, but they're actually animals—close relatives of jellyfish and corals. Anchored to rocks or reefs, they use a sticky base and a crown of waving tentacles armed with tiny stingers to capture passing prey. Those stings can paralyze small fish, yet one famous neighbor is immune.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_OcellarisClownfish%22&FORM=HPQUIZ",
+  "hash": "1fe6d252e53d1ad3beacf8fde9fe9733",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260414",
+    "fullStartDateTime": "202604140700",
+    "endDate": "20260415"
+  },
+  "createdAt": "202604150356",
+  "originalUrlBase": "/th?id=OHR.OcellarisClownfish_EN-US8509728179"
+}

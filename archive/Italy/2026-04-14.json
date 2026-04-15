@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Oltre la cornice",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Mostra dedicata a Vincent van Gogh alle Carrières des Lumières, Les Baux-de-Provence, Francia (© Patrick Aventurier/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+Mondiale+dell%27+Arte&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_VanGoghFields%22&FORM=HPQUIZ",
+  "hash": "ec2a366461edb1a830350b4ec016cf26",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_IT-IT4420676529_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_IT-IT4420676529_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_IT-IT4420676529_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_IT-IT4420676529_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260414",
+    "fullStartDateTime": "202604142200",
+    "endDate": "20260415"
+  },
+  "createdAt": "202604150356",
+  "originalUrlBase": "/th?id=OHR.VanGoghFields_IT-IT4420676529"
+}
