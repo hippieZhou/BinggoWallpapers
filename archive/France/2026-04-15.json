@@ -1,0 +1,43 @@
+{
+  "date": "16 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La parade des tulipes",
+  "bsTitle": "La parade des tulipes",
+  "caption": "Festival des tulipes de Skagit Valley",
+  "copyright": "Champ de tulipes de Skagit Valley, Washington, États-Unis (© Alan Majchrowicz/Getty Images)",
+  "copyrightOnly": "© Alan Majchrowicz/Getty Images",
+  "copyrightLink": "/search?q=Skagit+Valley+Washington&form=hpcapt&filters=HpDate%3a%2220260415_2200%22",
+  "description": "Chaque printemps, la vallée de Skagit, au nord-ouest des États-Unis, se transforme en une mosaïque éclatante lorsque les premières tulipes percent la lumière d’avril. Pendant tout le mois, les visiteurs flânent parmi des jardins soigneusement dessinés ou longent les immenses champs où les couleurs s’étirent jusqu’aux montagnes encore poudrées de neige.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+  "hash": "385ba9b6a81bf34613e23cf60c234936",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_FR-FR6378345422_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_FR-FR6378345422_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_FR-FR6378345422_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_FR-FR6378345422_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260415",
+    "fullStartDateTime": "202604152200",
+    "endDate": "20260416"
+  },
+  "createdAt": "202604160411",
+  "originalUrlBase": "/th?id=OHR.SkagitTulips_FR-FR6378345422"
+}

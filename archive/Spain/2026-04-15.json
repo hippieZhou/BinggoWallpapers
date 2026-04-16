@@ -1,0 +1,43 @@
+{
+  "date": "16 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Desfile de pétalos",
+  "bsTitle": "Desfile de pétalos",
+  "caption": "Campos de tulipanes del valle de Skagit, Washington, EE. UU.",
+  "copyright": "Campos de tulipanes del valle de Skagit, Washington, EE. UU. (© Alan Majchrowicz/Getty Images)",
+  "copyrightOnly": "© Alan Majchrowicz/Getty Images",
+  "copyrightLink": "/search?q=Valle+de+Skagit&form=hpcapt&filters=HpDate%3a%2220260415_2200%22",
+  "description": "Los campos de tulipanes del valle de Skagit, en Washington (Estados Unidos), transforman cada primavera una amplia llanura agrícola en un mosaico de color. Filas perfectas de flores se extienden entre montañas y canales de riego, creando un paisaje ordenado y luminoso vinculado al cultivo comercial y a una larga tradición floral.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+  "hash": "69c4bd16c67c84cb4c56df169eb9d428",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ES-ES7111199326_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260415",
+    "fullStartDateTime": "202604152200",
+    "endDate": "20260416"
+  },
+  "createdAt": "202604160411",
+  "originalUrlBase": "/th?id=OHR.SkagitTulips_ES-ES7111199326"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Apr 15, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Forgetmenot Pond, Kananaskis Country, Alberta, Canada",
+  "copyright": "Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta, Canada (© chinaface/Getty images)",
+  "copyrightOnly": "© chinaface/Getty images",
+  "copyrightLink": "/search?q=Kananaskis+Country+Alberta&form=hpcapt&filters=HpDate%3a%2220260415_0700%22",
+  "description": "Set in the foothills and front ranges of the Canadian Rockies, Kananaskis Country stretches across a vast network of protected valleys, dense forests and alpine peaks. Located in Alberta, the region was formally established in 1978, uniting several provincial parks and protected areas under a shared vision of conservation. Clear rivers cut through limestone cliffs, while spruce and pine forests rise toward high mountain passes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_AlbertaSnowMts%22&FORM=HPQUIZ",
+  "hash": "8a7bf21b50d3c51570ebf99674953973",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260415",
+    "fullStartDateTime": "202604150700",
+    "endDate": "20260416"
+  },
+  "createdAt": "202604160411",
+  "originalUrlBase": "/th?id=OHR.AlbertaSnowMts_ROW3394188074"
+}

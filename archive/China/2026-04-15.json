@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "花瓣巡游",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%8d%8e%e7%9b%9b%e9%a1%bf%e5%b7%9e%e6%96%af%e5%8d%a1%e5%90%89%e7%89%b9%e8%b0%b7&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+  "hash": "8c8d09f483afa126ec0b35f48f180049",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260415",
+    "fullStartDateTime": "202604151600",
+    "endDate": "20260416"
+  },
+  "createdAt": "202604160411",
+  "originalUrlBase": "/th?id=OHR.SkagitTulips_ZH-CN4234324174"
+}

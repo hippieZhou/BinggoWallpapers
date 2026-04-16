@@ -1,0 +1,43 @@
+{
+  "date": "Apr 15, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Stepping inside the living canvas",
+  "bsTitle": "Stepping inside the living canvas",
+  "caption": "World Art Day",
+  "copyright": "The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)",
+  "copyrightOnly": "© Patrick Aventurier/Getty Images",
+  "copyrightLink": "/search?q=World+Art+Day&form=hpcapt&filters=HpDate%3a%2220260415_0700%22",
+  "description": "Art surrounds us. Creativity and self-expression are part of human identity and mold our past and future. While some might dedicate their lives to the arts, others are the recipients of what artists channel. World Art Day on April 15 celebrates this ever-flowing link between artistic creations and society that shapes our cultures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_VanGoghFields%22&FORM=HPQUIZ",
+  "hash": "7686b646b69e95c95f4fe156ca781c02",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260415",
+    "fullStartDateTime": "202604150700",
+    "endDate": "20260416"
+  },
+  "createdAt": "202604160411",
+  "originalUrlBase": "/th?id=OHR.VanGoghFields_EN-US8748933044"
+}

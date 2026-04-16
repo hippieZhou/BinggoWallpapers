@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A festa das pétalas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Campos de tulipas do Vale Skagit, Washington, Estados Unidos (© Alan Majchrowicz/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+Vale+Skagit+Estados+Unidos&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_SkagitTulips%22&FORM=HPQUIZ",
+  "hash": "2eadf7a8f675c679b59ef552f220f1cb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_PT-BR0165091491_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_PT-BR0165091491_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_PT-BR0165091491_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_PT-BR0165091491_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260416",
+    "fullStartDateTime": "202604160300",
+    "endDate": "20260417"
+  },
+  "createdAt": "202604160411",
+  "originalUrlBase": "/th?id=OHR.SkagitTulips_PT-BR0165091491"
+}
