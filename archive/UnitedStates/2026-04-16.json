@@ -1,0 +1,43 @@
+{
+  "date": "Apr 16, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Petal parade",
+  "bsTitle": "Petal parade",
+  "caption": "Skagit Valley Tulip Festival",
+  "copyright": "Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)",
+  "copyrightOnly": "© Alan Majchrowicz/Getty Images",
+  "copyrightLink": "/search?q=Skagit+Valley+Washington&form=hpcapt&filters=HpDate%3a%2220260416_0700%22",
+  "description": "Each spring, Washington's Skagit Valley transforms into a patchwork of color as the Skagit Valley Tulip Festival celebrates the arrival of bloom season. Throughout April, visitors can explore tulip gardens and farmland lined with vibrant rows of flowers, all framed by mountain views.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_SkagitTulips%22&FORM=HPQUIZ",
+  "hash": "a54aa3d5aea8d5b934fd2927db74228e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260416",
+    "fullStartDateTime": "202604160700",
+    "endDate": "20260417"
+  },
+  "createdAt": "202604170359",
+  "originalUrlBase": "/th?id=OHR.SkagitTulips_EN-US8944602365"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Eroi della notte",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pipistrello con il suo cucciolo, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Chiroptera&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+  "hash": "3a5b23a6d08a4bd380b0f3d10bc7e0e5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_IT-IT3683219154_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260416",
+    "fullStartDateTime": "202604162200",
+    "endDate": "20260417"
+  },
+  "createdAt": "202604170359",
+  "originalUrlBase": "/th?id=OHR.FlyingFoxMom_IT-IT3683219154"
+}

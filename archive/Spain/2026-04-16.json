@@ -1,0 +1,43 @@
+{
+  "date": "17 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Vuelo silencioso",
+  "bsTitle": "Vuelo silencioso",
+  "caption": "Murciélagos de cabeza gris, Parque Yarra Bend, Australia",
+  "copyright": "Murciélago de cabeza gris llevando a su cría, Parque Yarra Bend, Australia (© Doug Gimesy/Nature Picture Library)",
+  "copyrightOnly": "© Doug Gimesy/Nature Picture Library",
+  "copyrightLink": "/search?q=Murci%c3%a9lago+de+cabeza+gris&form=hpcapt&filters=HpDate%3a%2220260416_2200%22",
+  "description": "Hoy contemplamos un murciélago de cabeza gris que cruza el cielo con su cría aferrada al cuerpo, en una escena tan insólita como tierna sobre el Parque Yarra Bend, en Australia. Esta especie, también llamada zorro volador, es de las más grandes y llama la atención por su cabeza plateada y sus grandes ojos. Se alimenta sobre todo de frutos y néctar, por lo que ayuda a dispersar semillas y a polinizar, mientras descansa en colonias ruidosas durante el día. Las crías nacen en primavera y, al principio, viajan pegadas a la madre en sus desplazamientos nocturnos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+  "hash": "5544e6bd7531a89d187a223a3cfce732",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ES-ES8542062394_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260416",
+    "fullStartDateTime": "202604162200",
+    "endDate": "20260417"
+  },
+  "createdAt": "202604170359",
+  "originalUrlBase": "/th?id=OHR.FlyingFoxMom_ES-ES8542062394"
+}

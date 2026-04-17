@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "蝙蝠信号：开启",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%9d%99%e8%9d%a0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+  "hash": "043f29f910dede498ae0d959767e3cba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260416",
+    "fullStartDateTime": "202604161600",
+    "endDate": "20260417"
+  },
+  "createdAt": "202604170359",
+  "originalUrlBase": "/th?id=OHR.FlyingFoxMom_ZH-CN2913012516"
+}

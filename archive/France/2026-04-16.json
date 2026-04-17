@@ -1,0 +1,43 @@
+{
+  "date": "17 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "« Chauve » qui peut !",
+  "bsTitle": "« Chauve » qui peut !",
+  "caption": "Journée d’appréciation des chauves-souris",
+  "copyright": "Femelle renard volant à tête grise portant son petit, Yarra Bend Park, Australie (© Doug Gimesy/Nature Picture Library)",
+  "copyrightOnly": "© Doug Gimesy/Nature Picture Library",
+  "copyrightLink": "/search?q=chauve-souris&form=hpcapt&filters=HpDate%3a%2220260416_2200%22",
+  "description": "Le 17 avril, la Journée mondiale des chauves-souris lève le voile sur les gardiennes de nos nuits. Plus de 1\u202F400 espèces veillent sur les écosystèmes depuis des millions d’années\u202F: seules trois, toutes américaines, se nourrissent de sang. Les autres capturent des nuées d’insectes, butinent des fleurs ou disséminent les graines qui feront renaître les forêts. Au Texas, aux États-Unis, la grotte de Bracken accueille chaque été une ville entière de chauves-souris à queue libre, dont les vols réduisent l’usage des pesticides et renforcent la santé des écosystèmes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+  "hash": "5131952d50e6602192149ad51b9d0f04",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_FR-FR4854001946_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260416",
+    "fullStartDateTime": "202604162200",
+    "endDate": "20260417"
+  },
+  "createdAt": "202604170359",
+  "originalUrlBase": "/th?id=OHR.FlyingFoxMom_FR-FR4854001946"
+}
