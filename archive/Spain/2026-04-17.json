@@ -1,0 +1,43 @@
+{
+  "date": "18 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El silencio de los gigantes",
+  "bsTitle": "El silencio de los gigantes",
+  "caption": "Día Internacional de los Monumentos y Sitios",
+  "copyright": "Cantera de estatuas moái, Rano Raraku, isla de Pascua, Chile (© Gavin Hellier/Alamy)",
+  "copyrightOnly": "© Gavin Hellier/Alamy",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+de+los+Monumentos+y+Sitios&form=hpcapt&filters=HpDate%3a%2220260417_2200%22",
+  "description": "El Día Internacional de los Monumentos y Sitios se celebra cada 18 de abril y busca concienciar sobre la importancia de proteger el patrimonio cultural del mundo. Esta jornada invita a reflexionar sobre el valor histórico, artístico y social de los lugares que dan forma a la memoria colectiva. También promueve su conservación y el acceso responsable, recordando que estos espacios no solo pertenecen al pasado, sino que siguen teniendo significado para las comunidades actuales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MaoiStatues%22&FORM=HPQUIZ",
+  "hash": "30f023d3d60ed5489ccbdc384a36d6e2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_ES-ES1501322349_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260417",
+    "fullStartDateTime": "202604172200",
+    "endDate": "20260418"
+  },
+  "createdAt": "202604180344",
+  "originalUrlBase": "/th?id=OHR.MaoiStatues_ES-ES1501322349"
+}

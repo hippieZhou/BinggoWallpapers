@@ -1,0 +1,43 @@
+{
+  "date": "18 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Si près du ciel",
+  "bsTitle": "Si près du ciel",
+  "caption": "Journée internationale des monuments et des sites",
+  "copyright": "Vue aérienne du Viaduc de Millau (© Sergi Reboredo/Alamy)",
+  "copyrightOnly": "© Sergi Reboredo/Alamy",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+des+monuments+et+des+sites&form=hpcapt&filters=HpDate%3a%2220260417_2200%22",
+  "description": "Qu’il s’agisse d’un fort dressé face au vent marin, d’un pont médiéval qui enjambe une rivière ou d’un temple enfoui dans une forêt, chaque lieu est un fragment d’histoire. Le 18 avril, la Journée internationale des monuments et des sites nous invite à préserver ces témoins du passé afin d’offrir aux générations futures un lieu où comprendre, rêver et s’émerveiller.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MillauViaductFrance%22&FORM=HPQUIZ",
+  "hash": "92703daa65624cadc9fabf31d15103a4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260417",
+    "fullStartDateTime": "202604172200",
+    "endDate": "20260418"
+  },
+  "createdAt": "202604180344",
+  "originalUrlBase": "/th?id=OHR.MillauViaductFrance_FR-FR3718442345"
+}

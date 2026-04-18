@@ -1,0 +1,43 @@
+{
+  "date": "18. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Tor zur Geschichte",
+  "bsTitle": "Ein Tor zur Geschichte",
+  "caption": "Internationaler\u202FDenkmaltag",
+  "copyright": "Eingangsbereich des Kölner Doms, Nordrhein‑Westfalen (© ALFSnaiper/Getty Images)",
+  "copyrightOnly": "© ALFSnaiper/Getty Images",
+  "copyrightLink": "/search?q=Internationaler+Denkmaltag&form=hpcapt&filters=HpDate%3a%2220260417_2200%22",
+  "description": "Der Internationale Denkmaltag am 18. April lenkt den Blick auf historische Bauwerke und Stätten von herausragender Bedeutung. Sie bewahren kulturelles Wissen, spiegeln handwerkliche Traditionen wider und zeigen, wie Architektur, Glauben und Technik das kulturelle Erbe über Jahrhunderte geprägt haben. Das heutige Bild zeigt ein Detail des Eingangsportals des Kölner Doms, einer der bedeutendsten gotischen Kathedralen Europas und seit 1996 UNESCO‑Welterbe. Der Bau begann 1248, ruhte über Jahrhunderte und wurde erst 1880 vollendet. Reich verzierte Türflächen, plastische Reliefs und fein ausgearbeitete Ornamente verdeutlichen den hohen Anspruch mittelalterlicher Baukunst.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_CathedralCologne%22&FORM=HPQUIZ",
+  "hash": "83d0df8d028d408ba30128ca2a18f46b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260417",
+    "fullStartDateTime": "202604172200",
+    "endDate": "20260418"
+  },
+  "createdAt": "202604180344",
+  "originalUrlBase": "/th?id=OHR.CathedralCologne_DE-DE0399722778"
+}

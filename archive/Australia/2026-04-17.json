@@ -1,0 +1,43 @@
+{
+  "date": "Apr 17, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Grey-headed flying fox carrying her pup, Australia",
+  "copyright": "Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)",
+  "copyrightOnly": "© Doug Gimesy/Nature Picture Library",
+  "copyrightLink": "/search?q=Grey-headed+flying+fox&form=hpcapt&filters=HpDate%3a%2220260417_0700%22",
+  "description": "When the sun sets, a mysterious animal takes over the skies: bats. With more than 1,400 species found on every continent except Antarctica, they play a vital role in keeping ecosystems in balance. They have existed for over 50 million years, and while only three species feed on blood, the vast majority rely on insects, fruit, nectar or pollen, helping to control pests and support plant life.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_FlyingFoxMom%22&FORM=HPQUIZ",
+  "hash": "c7b715d998796919ffef4959176ca389",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260417",
+    "fullStartDateTime": "202604170700",
+    "endDate": "20260418"
+  },
+  "createdAt": "202604180344",
+  "originalUrlBase": "/th?id=OHR.FlyingFoxMom_ROW6773514789"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Guardiani della storia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cava delle statue moai, Rano Raraku, Isola di Pasqua, Cile (© Gavin Hellier/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+internazionale+dei+monumenti+e+dei+siti&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MaoiStatues%22&FORM=HPQUIZ",
+  "hash": "e4c2bdcad1a1663a74e9b0ca8a58369a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_IT-IT3537431977_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260417",
+    "fullStartDateTime": "202604172200",
+    "endDate": "20260418"
+  },
+  "createdAt": "202604180344",
+  "originalUrlBase": "/th?id=OHR.MaoiStatues_IT-IT3537431977"
+}

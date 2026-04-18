@@ -1,0 +1,43 @@
+{
+  "date": "Apr 18, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The silence of unfinished giants",
+  "bsTitle": "The silence of unfinished giants",
+  "caption": "World Heritage Day",
+  "copyright": "Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)",
+  "copyrightOnly": "© Gavin Hellier/Alamy",
+  "copyrightLink": "/search?q=World+Heritage+Day&form=hpcapt&filters=HpDate%3a%2220260417_1830%22",
+  "description": "Today, on World Heritage Day, attention turns to places that tell humanity's shared story—protected for their exceptional cultural or natural value. One of them rises from volcanic stone on Easter Island, Chile. At Rano\u202FRaraku, the slopes of an extinct volcano became\u202Fthe\u202Fworkshop where\u202Fnearly\u202Fall\u202Fof\u202Fthe island's famous moai were carved. The image captures this remarkable quarry, where half-finished figures\u202Femerge\u202Ffrom the rock, frozen mid-creation.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MaoiStatues%22&FORM=HPQUIZ",
+  "hash": "6e56d9881877e386500b91fc5c3886e7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260417",
+    "fullStartDateTime": "202604171830",
+    "endDate": "20260418"
+  },
+  "createdAt": "202604180344",
+  "originalUrlBase": "/th?id=OHR.MaoiStatues_EN-IN8684829616"
+}
