@@ -1,0 +1,43 @@
+{
+  "date": "Apr 19, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A cottage full of stories",
+  "bsTitle": "A cottage full of stories",
+  "caption": "Anne Hathaway's cottage, Stratford-upon-Avon, England",
+  "copyright": "Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)",
+  "copyrightOnly": "© David Steele/Shutterstock",
+  "copyrightLink": "/search?q=Anne+Hathaway+cottage&form=hpcapt&filters=HpDate%3a%2220260418_2300%22",
+  "description": "Today's image shows Anne Hathaway's cottage in Stratford‑upon‑Avon, England, the childhood home of Shakespeare's future wife. This 15th-century thatched cottage, now preserved as a museum, offers a rare glimpse into the domestic world that surrounded the young playwright.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_HathawayCottage%22&FORM=HPQUIZ",
+  "hash": "6350c7e6a5ad80df8df2cc399a81843a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-GB5798947669_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260418",
+    "fullStartDateTime": "202604182300",
+    "endDate": "20260419"
+  },
+  "createdAt": "202604190411",
+  "originalUrlBase": "/th?id=OHR.HathawayCottage_EN-GB5798947669"
+}

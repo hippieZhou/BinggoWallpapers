@@ -1,0 +1,43 @@
+{
+  "date": "19 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une aquarelle iodée",
+  "bsTitle": "Une aquarelle iodée",
+  "caption": "Plage du Miroir, Trancoso, Bahia, Brésil",
+  "copyright": "Plage du Miroir, Trancoso, Bahia, Brésil (© Marcelo Nacinovic/Getty Images)",
+  "copyrightOnly": "© Marcelo Nacinovic/Getty Images",
+  "copyrightLink": "/search?q=Trancoso+Br%c3%a9sil&form=hpcapt&filters=HpDate%3a%2220260418_2200%22",
+  "description": "Vu du dessus, la plage du Miroir (« Praia do Espelho »), au cœur de la Bahia brésilienne, ressemble à une aquarelle. Les falaises pâles dominent une côte délicatement brodée de récifs, et, à marée basse, une mosaïque de bassins reflète parfaitement le ciel. Nichée entre de petits villages de pêcheurs près de Porto Seguro, la plage est accessible par des chemins de terre étroits, ce qui permet de réguler le flux de visiteurs et de préserver l'ambiance intimiste des lieux. Longtemps resté hors des sentiers battus, l’endroit a finalement gagné en popularité dans les années 1990.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_TranBA%22&FORM=HPQUIZ",
+  "hash": "94dced40f624afe97d6bdb63246e98f8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260418",
+    "fullStartDateTime": "202604182200",
+    "endDate": "20260419"
+  },
+  "createdAt": "202604190411",
+  "originalUrlBase": "/th?id=OHR.TranBA_FR-FR8282585117"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Apr 19, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "A little thin on air, big on impact",
+  "bsTitle": "A little thin on air, big on impact",
+  "caption": "Spiti Valley, Himachal Pradesh",
+  "copyright": "Spiti Valley, Himachal Pradesh (© Rahul Wedpathak/500px/Getty Images)",
+  "copyrightOnly": "© Rahul Wedpathak/500px/Getty Images",
+  "copyrightLink": "/search?q=Spiti+Valley&form=hpcapt&filters=HpDate%3a%2220260418_1830%22",
+  "description": "Some places greet you gently. Spiti Valley starts by taking your breath away—literally. Sitting above 3,000 metres in Himachal Pradesh near the Tibetan border, this cold desert largely skips rain and goes straight to extremes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_SpitiValley2026%22&FORM=HPQUIZ",
+  "hash": "a438ff65ec57c96447e6ed34490182d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260418",
+    "fullStartDateTime": "202604181830",
+    "endDate": "20260419"
+  },
+  "createdAt": "202604190411",
+  "originalUrlBase": "/th?id=OHR.SpitiValley2026_EN-IN0228621600"
+}
