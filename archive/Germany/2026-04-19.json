@@ -1,0 +1,43 @@
+{
+  "date": "20. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Rathaus mit Geschichte",
+  "bsTitle": "Ein Rathaus mit Geschichte",
+  "caption": "Rathaus St. Johann, Saarbrücken, Saarland",
+  "copyright": "Rathaus St. Johann, Saarbrücken, Saarland (© frantic00/Getty Images)",
+  "copyrightOnly": "© frantic00/Getty Images",
+  "copyrightLink": "/search?q=Saarbr%c3%bccken+Rathaus+St+Johann&form=hpcapt&filters=HpDate%3a%2220260419_2200%22",
+  "description": "Saarbrücken ist eine Stadt zwischen Kulturen. Ihre Lage nahe der französischen Grenze hat Architektur, Stadtbild und Alltag über Jahrhunderte hinweg geprägt. Entlang der Saar treffen historische Einflüsse und städtisches Leben aufeinander und schaffen so ein vielschichtiges urbanes Umfeld.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SaarbrueckenRathaus%22&FORM=HPQUIZ",
+  "hash": "f53f82c9c9e788aa09500944d51fb821",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260419",
+    "fullStartDateTime": "202604192200",
+    "endDate": "20260420"
+  },
+  "createdAt": "202604200416",
+  "originalUrlBase": "/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085"
+}

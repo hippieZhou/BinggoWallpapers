@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Oasi di stelle",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tramonto nel parco nazionale delle Canyonlands, Moab, Utah, USA (© Jason Hatfield/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+Nazionale+delle+Canyonlands&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SunsetKiva%22&FORM=HPQUIZ",
+  "hash": "240fb2227d52b0a72f336506736b30d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_IT-IT3389674511_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_IT-IT3389674511_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_IT-IT3389674511_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_IT-IT3389674511_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260419",
+    "fullStartDateTime": "202604192200",
+    "endDate": "20260420"
+  },
+  "createdAt": "202604200416",
+  "originalUrlBase": "/th?id=OHR.SunsetKiva_IT-IT3389674511"
+}

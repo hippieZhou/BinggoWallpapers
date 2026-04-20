@@ -1,0 +1,43 @@
+{
+  "date": "20 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Identidad sevillana",
+  "bsTitle": "Identidad sevillana",
+  "caption": "Feria de Sevilla",
+  "copyright": "Castañuelas flamencas (© LUNAMARINA/Getty Images)",
+  "copyrightOnly": "© LUNAMARINA/Getty Images",
+  "copyrightLink": "/search?q=Feria+Sevilla+2026&form=hpcapt&filters=HpDate%3a%2220260419_2200%22",
+  "description": "La Feria de Sevilla transforma cada año el barrio de Los Remedios en una ciudad efímera levantada sobre el mismo plano desde hace décadas. El recinto se organiza como un trazado urbano regular, con calles, farolillos y fachadas que solo existen durante una semana. Más de un millar de casetas, la mayoría privadas, mantienen una estética común inspirada en la arquitectura regionalista. Aunque hoy es una cita social y festiva, su origen fue comercial, ya que nació en 1847 como una feria ganadera impulsada por el Ayuntamiento y comerciantes locales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_FlamencoSevilla%22&FORM=HPQUIZ",
+  "hash": "a4fc968ebfbbc061de637e5292427de8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260419",
+    "fullStartDateTime": "202604192200",
+    "endDate": "20260420"
+  },
+  "createdAt": "202604200416",
+  "originalUrlBase": "/th?id=OHR.FlamencoSevilla_ES-ES8411080911"
+}

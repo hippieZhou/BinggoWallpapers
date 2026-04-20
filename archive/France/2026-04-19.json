@@ -1,0 +1,43 @@
+{
+  "date": "20 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le spectacle continue au crépuscule",
+  "bsTitle": "Le spectacle continue au crépuscule",
+  "caption": "Parc national des Canyonlands, États-Unis",
+  "copyright": "Coucher de soleil sur le parc national des Canyonlands, Moab, Utah, États-Unis (© Jason Hatfield/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jason Hatfield/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=parc+national+des+Canyonlands&form=hpcapt&filters=HpDate%3a%2220260419_2200%22",
+  "description": "Dans le sud-est de l’Utah, aux États-Unis, le parc national des Canyonlands déploie, près de Moab, un relief façonné par des millions d’années d’érosion. Lorsque le soleil disparaît derrière les buttes de grès, les méandres du Colorado et de la Green River se fondent dans l’ombre, laissant deviner l’immensité silencieuse du désert. Les falaises, les aiguilles rocheuses et les vastes plateaux se transforment alors en silhouettes immobiles sous la fraîcheur du soir.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SunsetKiva%22&FORM=HPQUIZ",
+  "hash": "0f9e01362614784a26a90571a5c31393",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_FR-FR2289691113_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_FR-FR2289691113_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_FR-FR2289691113_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_FR-FR2289691113_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260419",
+    "fullStartDateTime": "202604192200",
+    "endDate": "20260420"
+  },
+  "createdAt": "202604200416",
+  "originalUrlBase": "/th?id=OHR.SunsetKiva_FR-FR2289691113"
+}

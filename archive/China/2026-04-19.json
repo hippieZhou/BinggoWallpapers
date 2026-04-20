@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "日落之后，探索仍在继续",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b3%a1%e8%b0%b7%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SunsetKiva%22&FORM=HPQUIZ",
+  "hash": "c31b2f7290db6bb794f41483d67d466c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260419",
+    "fullStartDateTime": "202604191600",
+    "endDate": "20260420"
+  },
+  "createdAt": "202604200416",
+  "originalUrlBase": "/th?id=OHR.SunsetKiva_ZH-CN3978606378"
+}

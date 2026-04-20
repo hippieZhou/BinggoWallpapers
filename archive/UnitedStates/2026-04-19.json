@@ -1,0 +1,43 @@
+{
+  "date": "Apr 19, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Stories start here",
+  "bsTitle": "Stories start here",
+  "caption": "National Library Week",
+  "copyright": "Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)",
+  "copyrightOnly": "© Ken Welsh/Alamy",
+  "copyrightLink": "/search?q=National+Library+Week&form=hpcapt&filters=HpDate%3a%2220260419_0700%22",
+  "description": "National Library Week kicks off today as libraries across the United States celebrate the power of free access to knowledge—and for younger generations, that availability can be life-shaping. Created by the American Library Association, it highlights how libraries support literacy, curiosity, and learning at every age, especially in childhood, when reading habits first take root.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_LibraryWeek%22&FORM=HPQUIZ",
+  "hash": "bd7a3719db3b2c49b10a50b7ec87473b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260419",
+    "fullStartDateTime": "202604190700",
+    "endDate": "20260420"
+  },
+  "createdAt": "202604200416",
+  "originalUrlBase": "/th?id=OHR.LibraryWeek_EN-US0888768835"
+}

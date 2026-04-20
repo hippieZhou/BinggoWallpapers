@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 20 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今週は米国の国立公園週間",
+  "bsTitle": "今週は米国の国立公園週間",
+  "caption": "今週は米国の国立公園週間",
+  "copyright": "キャニオンランズ国立公園, 米国 ユタ州 (© Jason Hatfield/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jason Hatfield/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220260419_1500%22",
+  "description": "4 月 18 日から 26 日まで、米国では「国立公園週間」が開催されます。期間中、全米各地の国立公園では、国立公園の魅力を広く伝えるため、レンジャーによるガイドツアーや教育ワークショップなどが行われます。そして、画像は米国ユタ州に位置するキャニオンランズ国立公園。面積は 1,366km² を誇り、コロラド川とグリーン川が削り出した峡谷や岩の尖塔、自然によって造られたアーチといった壮大な景観が広がっています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260419_SunsetKiva%22&FORM=HPQUIZ",
+  "hash": "a9ea2c165b2e25eeef5b48eeeb548b9b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260419",
+    "fullStartDateTime": "202604191500",
+    "endDate": "20260420"
+  },
+  "createdAt": "202604200416",
+  "originalUrlBase": "/th?id=OHR.SunsetKiva_JA-JP0609102045"
+}
