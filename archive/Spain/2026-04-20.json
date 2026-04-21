@@ -1,0 +1,43 @@
+{
+  "date": "21 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un escudo natural",
+  "bsTitle": "Un escudo natural",
+  "caption": "Erizo europeo, Francia",
+  "copyright": "Erizo europeo, Francia (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=Erizo+europeo&form=hpcapt&filters=HpDate%3a%2220260420_2200%22",
+  "description": "El erizo europeo es un habitante discreto de los paisajes rurales y periurbanos de Francia. Presente en praderas, setos y jardines, este pequeño mamífero nocturno se mueve al anochecer en busca de insectos, lombrices y otros invertebrados, guiado por un olfato fino y un oído atento. Su andar tranquilo contrasta con la eficacia de sus púas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+  "hash": "4d564b48c1871dadaf8d6f934eabea02",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ES-ES2233278672_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260420",
+    "fullStartDateTime": "202604202200",
+    "endDate": "20260421"
+  },
+  "createdAt": "202604210400",
+  "originalUrlBase": "/th?id=OHR.SpringHedgehog_ES-ES2233278672"
+}

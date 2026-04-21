@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 21 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "緑の中にたたずむ小動物",
+  "bsTitle": "緑の中にたたずむ小動物",
+  "caption": "緑の中にたたずむ小動物",
+  "copyright": "ハリネズミ, フランス (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=%e3%83%8f%e3%83%aa%e3%83%8d%e3%82%ba%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260420_1500%22",
+  "description": "今日の写真は、フランスで撮影されたハリネズミです。文字通り体に針のようなトゲを持つこの動物は、視力が弱く、嗅覚と聴覚を頼りに、ミミズや昆虫、カエル、種子などを探して食べます。単独行動を好み、他のハリネズミと行動するのは繁殖・子育ての時のみです。「ネズミ」と名前についているものの、モグラに近い動物であり、土を掘り巣穴をつくる種も存在します。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+  "hash": "e490ebb4dae65e4721f7f87de8cdeb3b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260420",
+    "fullStartDateTime": "202604201500",
+    "endDate": "20260421"
+  },
+  "createdAt": "202604210400",
+  "originalUrlBase": "/th?id=OHR.SpringHedgehog_JA-JP0798616014"
+}

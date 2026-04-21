@@ -1,0 +1,43 @@
+{
+  "date": "21. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Stachelige Frühlingspatrouille",
+  "bsTitle": "Stachelige Frühlingspatrouille",
+  "caption": "Europäischer Igel, Frankreich",
+  "copyright": "Europäischer Igel, Frankreich (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=Europ%c3%a4ischer+Igel&form=hpcapt&filters=HpDate%3a%2220260420_2200%22",
+  "description": "Mit dem Frühling zeigt sich ein vertrauter Bewohner unserer Landschaften. Der Europäische Igel, der hier in Frankreich zu sehen ist, ist ein überwiegend nachtaktives Tier, das meist allein lebt. Mit seiner feinen Nase und seinem guten Gehör durchstreift er Wiesen, Gärten und Waldränder auf der Suche nach Insekten, Würmern oder Schnecken. Droht Gefahr, zieht er sich zusammen und formt eine schützende Stachelkugel – eine einfache, aber wirkungsvolle Strategie. Nach dem Winterschlaf kehren Igel in vielen Teilen Europas in ihre Reviere zurück. Ihr Stoffwechsel fährt nun wieder hoch und sie müssen rasch neue Energiereserven aufbauen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+  "hash": "d2f894287a7552a3e4abaaf4da22a5eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_DE-DE1345910488_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260420",
+    "fullStartDateTime": "202604202200",
+    "endDate": "20260421"
+  },
+  "createdAt": "202604210400",
+  "originalUrlBase": "/th?id=OHR.SpringHedgehog_DE-DE1345910488"
+}

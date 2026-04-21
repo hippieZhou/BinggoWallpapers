@@ -1,0 +1,43 @@
+{
+  "date": "Apr 21, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Spring's prickly patrol",
+  "bsTitle": "Spring's prickly patrol",
+  "caption": "European hedgehog, France",
+  "copyright": "European hedgehog, France (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=European+hedgehog&form=hpcapt&filters=HpDate%3a%2220260420_1830%22",
+  "description": "Spring arrives with a small, spiky ambassador: the European hedgehog, spotted here in France.\u202FPart\u202Fcuddle,\u202Fpart\u202Fsurvival gear, this tiny\u202Fforager\u202Fis mostly nocturnal and usually solitary, guided\u202Fmainly by\u202Fsmell and sound. Its job description is simple: roam, sniff through leaf litter and vacuum up invertebrates like worms, beetles,\u202Fslugs\u202Fand\u202Fcaterpillars—the kind of snacks that keep ecosystems\u202Frunning\u202Fand gardeners smiling. When danger shows up, it\u202Fdoesn't\u202Fnegotiate or\u202Fflee. It curls into a tight ball and lets its spines do the talking.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+  "hash": "bb5134925d16d52bf5841bf102b8ccec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-IN0774143305_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260420",
+    "fullStartDateTime": "202604201830",
+    "endDate": "20260421"
+  },
+  "createdAt": "202604210400",
+  "originalUrlBase": "/th?id=OHR.SpringHedgehog_EN-IN0774143305"
+}

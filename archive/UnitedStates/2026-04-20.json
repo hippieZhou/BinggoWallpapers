@@ -1,0 +1,43 @@
+{
+  "date": "Apr 20, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The adventure doesn't end at sundown",
+  "bsTitle": "The adventure doesn't end at sundown",
+  "caption": "National Park Week",
+  "copyright": "Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jason Hatfield/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=National+Park+Week&form=hpcapt&filters=HpDate%3a%2220260420_0700%22",
+  "description": "National Park Week is your cue to trade routine for trail dust. It's a nine-day celebration running April 18–26, highlighting more than 400 places across the National Park System that preserve natural and cultural heritage while creating unforgettable outdoor experiences. From coastlines and forests to vast desert landscapes, these protected sites invite exploration, reflection, and wonder.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SunsetKiva%22&FORM=HPQUIZ",
+  "hash": "2c3f533316e28881475dd0609a5ef076",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260420",
+    "fullStartDateTime": "202604200700",
+    "endDate": "20260421"
+  },
+  "createdAt": "202604210400",
+  "originalUrlBase": "/th?id=OHR.SunsetKiva_EN-US1031978429"
+}

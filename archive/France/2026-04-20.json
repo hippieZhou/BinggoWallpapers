@@ -1,0 +1,43 @@
+{
+  "date": "21 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La patrouille piquante du printemps",
+  "bsTitle": "La patrouille piquante du printemps",
+  "caption": "Hérisson d’Europe",
+  "copyright": "Hérisson d’Europe (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=h%c3%a9risson+d%e2%80%99Europe&form=hpcapt&filters=HpDate%3a%2220260420_2200%22",
+  "description": "Avec le retour du printemps, un petit ambassadeur piquant sort de l’ombre : le hérisson d’Europe. Ce minuscule explorateur, plein de douceur malgré son armure, vit surtout la nuit, avançant au rythme des odeurs et des bruissements. Sa mission est aussi simple qu’essentielle : fouiller les feuilles mortes, inspecter les talus et croquer des vers, des coléoptères, des limaces ou des chenilles — ces proies modestes qui nourrissent le sol et soutiennent les jardins. Face au danger, il se roule en boule, laissant ses piquants négocier à sa place.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22&FORM=HPQUIZ",
+  "hash": "45437f9b70f0348efc57174b045b3f3f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_FR-FR8882145439_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_FR-FR8882145439_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_FR-FR8882145439_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_FR-FR8882145439_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260420",
+    "fullStartDateTime": "202604202200",
+    "endDate": "20260421"
+  },
+  "createdAt": "202604210400",
+  "originalUrlBase": "/th?id=OHR.SpringHedgehog_FR-FR8882145439"
+}

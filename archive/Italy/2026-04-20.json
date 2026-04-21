@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Dies Romana",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Piazza del Campidoglio, Roma, Lazio (© Deejpilot/iStock/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Natale+di+Roma&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260420_BirthdayRome%22&FORM=HPQUIZ",
+  "hash": "7e9ac0e551c2145720ca76e5edae1d90",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260420",
+    "fullStartDateTime": "202604202200",
+    "endDate": "20260421"
+  },
+  "createdAt": "202604210400",
+  "originalUrlBase": "/th?id=OHR.BirthdayRome_IT-IT3327641807"
+}
