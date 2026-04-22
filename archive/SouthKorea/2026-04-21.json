@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "European hedgehog, France (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=European+hedgehog&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_SpringHedgehog%22&FORM=HPQUIZ",
+  "hash": "6a8280b70abf57a40af3bc130196dd65",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260421",
+    "fullStartDateTime": "202604210700",
+    "endDate": "20260422"
+  },
+  "createdAt": "202604220356",
+  "originalUrlBase": "/th?id=OHR.SpringHedgehog_ROW8347906365"
+}

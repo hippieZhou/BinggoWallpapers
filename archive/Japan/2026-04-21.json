@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 22 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は地球の日",
+  "bsTitle": "今日は地球の日",
+  "caption": "今日は地球の日",
+  "copyright": "アラムペジャ自然保護区, エストニア (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=%e5%9c%b0%e7%90%83%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260421_1500%22",
+  "description": "今日 4 月 22 日は地球の日（アースデイ）。地球環境について考える日であり、毎年世界各地でイベントが行われています。2026 年のテーマは、「Our Power, Our Planet™」で、再生可能エネルギーへの転換を加速するとともに、持続可能な未来を創り出す「力」について確認することを目的としています。そして、この「力」を象徴するのが今日の画像、エストニア最大の自然保護区・アラムペジャ自然保護区です。余計な手を加えず自然そのものが持つ「力」のみで循環させることで、ヨーロッパ最大級の湿地帯を守り続けています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+  "hash": "897544e3b7586dbc584fee2c0cea6a21",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260421",
+    "fullStartDateTime": "202604211500",
+    "endDate": "20260422"
+  },
+  "createdAt": "202604220356",
+  "originalUrlBase": "/th?id=OHR.TartuEstonia_JA-JP0849293902"
+}

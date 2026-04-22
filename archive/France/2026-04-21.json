@@ -1,0 +1,43 @@
+{
+  "date": "22 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le pouvoir de la revendication",
+  "bsTitle": "Le pouvoir de la revendication",
+  "caption": "Jour de la Terre",
+  "copyright": "Réserve naturelle d’Alam-Pedja, Tartu, Estonie (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=Jour+de+la+Terre&form=hpcapt&filters=HpDate%3a%2220260421_2200%22",
+  "description": "Le Jour de la Terre n’est pas né en douceur. En 1970, il a fait irruption dans un monde saturé d’alertes : plages souillées par le pétrole, rivières en flammes, air irrespirable... Des millions de personnes sont descendues dans la rue, forçant les décideurs à ouvrir les yeux. Cette secousse collective a donné naissance à des lois environnementales majeures et transformé la protection du vivant, autrefois marginale, en priorité mondiale. Chaque 22 avril, plus de 190 pays s’arrêtent un instant pour mesurer le chemin parcouru — et celui qu’il reste à faire.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+  "hash": "26943fda1828ec6b64446e2a0faef815",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_FR-FR1798225339_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260421",
+    "fullStartDateTime": "202604212200",
+    "endDate": "20260422"
+  },
+  "createdAt": "202604220356",
+  "originalUrlBase": "/th?id=OHR.TartuEstonia_FR-FR1798225339"
+}

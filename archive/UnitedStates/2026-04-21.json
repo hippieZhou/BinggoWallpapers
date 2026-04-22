@@ -1,0 +1,43 @@
+{
+  "date": "Apr 21, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Spring's prickly patrol",
+  "bsTitle": "Spring's prickly patrol",
+  "caption": "European hedgehog, France",
+  "copyright": "European hedgehog, France (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=european+hedgehog&form=hpcapt&filters=HpDate%3a%2220260421_0700%22",
+  "description": "Spring arrives with a small, spiky ambassador: the European hedgehog, spotted here in France. Part cuddle, part survival gear, this tiny forager is mostly nocturnal and usually solitary, guided mainly by smell and sound. Its job description is simple: roam, sniff through leaf litter, and vacuum up invertebrates like worms, beetles, slugs, and caterpillars—the kind of snacks that keep ecosystems running and gardeners smiling. When danger shows up, it doesn't negotiate or flee. It curls into a tight ball and lets its spines do the talking.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_SpringHedgehog%22&FORM=HPQUIZ",
+  "hash": "5e9e3724c006b5793a5f6867285b66df",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260421",
+    "fullStartDateTime": "202604210700",
+    "endDate": "20260422"
+  },
+  "createdAt": "202604220356",
+  "originalUrlBase": "/th?id=OHR.SpringHedgehog_EN-US1312133826"
+}

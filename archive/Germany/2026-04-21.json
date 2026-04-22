@@ -1,0 +1,43 @@
+{
+  "date": "22. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Stimme der Erde",
+  "bsTitle": "Die Stimme der Erde",
+  "caption": "Tag der Erde",
+  "copyright": "Naturschutzgebiet Alam‑Pedja, Landkreis Tartu, Estland (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=Tag+der+Erde&form=hpcapt&filters=HpDate%3a%2220260421_2200%22",
+  "description": "Der Tag der Erde erinnert daran, dass Umweltbewusstsein aus konkreten Sorgen entstanden ist. Im Jahr 1970 machten Proteste auf verschmutzte Flüsse, belastete Luft und zerstörte Landschaften aufmerksam und setzten damit politische Veränderungen in Gang. Heute wird der 22. April weltweit begangen, um Bilanz zu ziehen und neue Ziele zu formulieren. Das Motto „Our Power, Our Planet“ für das Jahr 2026 richtet dabei den Blick nach vorn: Bis 2030 soll die globale Kapazität erneuerbarer Energien deutlich ausgebaut werden.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+  "hash": "0de2502b075e6b18f4bc670a85e67abe",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_DE-DE1682620724_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260421",
+    "fullStartDateTime": "202604212200",
+    "endDate": "20260422"
+  },
+  "createdAt": "202604220356",
+  "originalUrlBase": "/th?id=OHR.TartuEstonia_DE-DE1682620724"
+}

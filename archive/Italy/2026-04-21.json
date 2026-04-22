@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il potere della protesta",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Riserva naturale di Alam-Pedja, contea di Tartu, Estonia (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=La+Giornata+della+Terra&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260421_TartuEstonia%22&FORM=HPQUIZ",
+  "hash": "4320cc865e0fde2a7532c73ff2aee76f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_IT-IT3277915557_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260421",
+    "fullStartDateTime": "202604212200",
+    "endDate": "20260422"
+  },
+  "createdAt": "202604220356",
+  "originalUrlBase": "/th?id=OHR.TartuEstonia_IT-IT3277915557"
+}
