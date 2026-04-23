@@ -1,0 +1,43 @@
+{
+  "date": "Apr 22, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The power of protest",
+  "bsTitle": "The power of protest",
+  "caption": "Earth Day",
+  "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)",
+  "copyrightOnly": "© Sven Zacek/Nature Picture Library",
+  "copyrightLink": "/search?q=Earth+Day&form=hpcapt&filters=HpDate%3a%2220260422_0700%22",
+  "description": "Earth Day didn't knock gently. It kicked the door wide open. In 1970, oil‑soaked beaches, burning rivers, and toxic air mobilized millions into street protests. When looking away was no longer an option, conservation was forced onto political agendas, sparking landmark environmental laws and flipping planet‑care from fringe concern to global priority. Every April 22, over 190 countries pause, reflect, and reassess.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_TartuEstonia%22&FORM=HPQUIZ",
+  "hash": "e80c009174ec8e0ea6613fe0419e459f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260422",
+    "fullStartDateTime": "202604220700",
+    "endDate": "20260423"
+  },
+  "createdAt": "202604230409",
+  "originalUrlBase": "/th?id=OHR.TartuEstonia_EN-US1627168155"
+}

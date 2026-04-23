@@ -1,0 +1,43 @@
+{
+  "date": "Apr 23, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "A cottage full of stories",
+  "bsTitle": "A cottage full of stories",
+  "caption": "Shakespeare Day",
+  "copyright": "Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)",
+  "copyrightOnly": "© David Steele/Shutterstock",
+  "copyrightLink": "/search?q=Shakespeare+Day&form=hpcapt&filters=HpDate%3a%2220260422_1830%22",
+  "description": "Each 23 April, the curtain rises on the life and legacy of William Shakespeare, a playwright whose words still command the world's literary stage. Shakespeare Day commemorates the anniversary of his death in 1616 and the traditionally accepted date of his birth in 1564—a symbolic pairing that honours a writer whose works reshaped English literature. From the psychological depths of 'Hamlet' to the enduring romance of 'Romeo and Juliet,' his language continues to echo through classrooms, theatres and everyday speech. His plays have been performed in numerous languages worldwide.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_HathawayCottage%22&FORM=HPQUIZ",
+  "hash": "48f4077dbc5cc5be8e1558b48690d679",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-IN1263350288_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260422",
+    "fullStartDateTime": "202604221830",
+    "endDate": "20260423"
+  },
+  "createdAt": "202604230409",
+  "originalUrlBase": "/th?id=OHR.HathawayCottage_EN-IN1263350288"
+}

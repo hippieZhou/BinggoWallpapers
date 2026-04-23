@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一座充满故事的小屋",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%8e%8e%e5%a3%ab%e6%af%94%e4%ba%9a%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_HathawayCottage%22&FORM=HPQUIZ",
+  "hash": "c542103ca1339625e1e689153ab24520",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260422",
+    "fullStartDateTime": "202604221600",
+    "endDate": "20260423"
+  },
+  "createdAt": "202604230409",
+  "originalUrlBase": "/th?id=OHR.HathawayCottage_ZH-CN5558945636"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "23 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un cottage plein d’histoires",
+  "bsTitle": "Un cottage plein d’histoires",
+  "caption": "Journée de la langue anglaise",
+  "copyright": "Cottage d’Anne Hathaway, Stratford-upon-Avon, Angleterre (© David Steele/Shutterstock)",
+  "copyrightOnly": "© David Steele/Shutterstock",
+  "copyrightLink": "/search?q=Shakespeare&form=hpcapt&filters=HpDate%3a%2220260422_2200%22",
+  "description": "Chaque 23 avril, le rideau se lève sur la vie et l’héritage de William Shakespeare, figure dont les mots continuent d’habiter la scène littéraire mondiale. Cette date fait écho à la fois à sa disparition en 1616 et à la célébration traditionnelle de sa naissance en 1564 : un miroir symbolique pour un auteur qui a redéfini les contours du théâtre anglais. Des tourments d’Hamlet aux élans tragiques de Roméo et Juliette, son langage traverse encore salles de classe, scènes illuminées et conversations ordinaires. Ses pièces résonnent dans des dizaines de langues à travers le monde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260422_HathawayCottage%22&FORM=HPQUIZ",
+  "hash": "0e384ed2d8242ee0a59e6a4a6f39c9ec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HathawayCottage_FR-FR2526098713_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260422",
+    "fullStartDateTime": "202604222200",
+    "endDate": "20260423"
+  },
+  "createdAt": "202604230409",
+  "originalUrlBase": "/th?id=OHR.HathawayCottage_FR-FR2526098713"
+}
