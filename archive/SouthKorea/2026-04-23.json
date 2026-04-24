@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Common chiffchaff, Germany (© Andyworks/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Common+chiffchaff&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_ChiffchaffSpring%22&FORM=HPQUIZ",
+  "hash": "be00e11b79886dcab32b15dbeb18ae48",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260423",
+    "fullStartDateTime": "202604230700",
+    "endDate": "20260424"
+  },
+  "createdAt": "202604240414",
+  "originalUrlBase": "/th?id=OHR.ChiffchaffSpring_ROW0928406195"
+}

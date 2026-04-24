@@ -1,0 +1,43 @@
+{
+  "date": "24 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un homenaje a la naturaleza",
+  "bsTitle": "Un homenaje a la naturaleza",
+  "caption": "Parque Nacional de los Everglades, Florida, EE. UU.",
+  "copyright": "Bosque de pinares, Parque Nacional de los Everglades, Florida, EE. UU. (© Mary Liz Austin/Alamy)",
+  "copyrightOnly": "© Mary Liz Austin/Alamy",
+  "copyrightLink": "/search?q=Parque+Nacional+de+los+Everglades&form=hpcapt&filters=HpDate%3a%2220260423_2200%22",
+  "description": "Los pinares rocosos del Parque Nacional de los Everglades, en Florida, son uno de los paisajes más singulares del sur de Estados Unidos. Se desarrollan sobre ligeras elevaciones que permanecen fuera de las inundaciones estacionales, lo que permite el crecimiento de pinares abiertos con un sotobosque denso de palmito. Este entorno combina humedad, calor y suelos pobres, creando un refugio clave para aves, reptiles y pequeños mamíferos. La alternancia entre zonas secas y áreas encharcadas define un ecosistema dinámico, donde el fuego natural y el agua desempeñan un papel esencial en el equilibrio del paisaje.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260423_SlashPine%22&FORM=HPQUIZ",
+  "hash": "159bb49f67d8bf323e3f67f7d87a58a8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ES-ES3586366517_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260423",
+    "fullStartDateTime": "202604232200",
+    "endDate": "20260424"
+  },
+  "createdAt": "202604240414",
+  "originalUrlBase": "/th?id=OHR.SlashPine_ES-ES3586366517"
+}
