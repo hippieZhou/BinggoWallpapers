@@ -1,0 +1,43 @@
+{
+  "date": "25 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Comme un manchot dans l’eau",
+  "bsTitle": "Comme un manchot dans l’eau",
+  "caption": "Manchot des Galápagos",
+  "copyright": "Manchots des Galápagos, Îles Galápagos, Équateur (© Henley Spiers/Nature Picture Library)",
+  "copyrightOnly": "© Henley Spiers/Nature Picture Library",
+  "copyrightLink": "/search?q=manchot+des+Gal%c3%a1pagos&form=hpcapt&filters=HpDate%3a%2220260424_2200%22",
+  "description": "Les manchots évoquent spontanément l’Antarctique, pourtant ces irrésistibles oiseaux marins ne se tiennent pas toujours près de la glace. Les manchots des Galápagos, visibles ici, en sont la preuve. Endémiques de cet archipel volcanique situé à près de 1\u202F000 kilomètres des côtes d’Équateur, ils sont les plus nordiques de leur famille. Leur présence en plein cœur des tropiques n’est possible que grâce à des courants océaniques froids et riches en nutriments, qui apportent nourriture et températures supportables. Petits, rapides et parfaitement adaptés, ils passent une grande partie de la journée dans l’eau pour éviter la chaleur.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_GalapagosPenguins%22&FORM=HPQUIZ",
+  "hash": "6ec86b3e067d4bb6e58d75fe5153ca2e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_FR-FR6829079400_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260424",
+    "fullStartDateTime": "202604242200",
+    "endDate": "20260425"
+  },
+  "createdAt": "202604250348",
+  "originalUrlBase": "/th?id=OHR.GalapagosPenguins_FR-FR6829079400"
+}

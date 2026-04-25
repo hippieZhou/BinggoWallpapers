@@ -1,0 +1,43 @@
+{
+  "date": "25 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Rompiendo las reglas",
+  "bsTitle": "Rompiendo las reglas",
+  "caption": "Día Mundial del Pingüino",
+  "copyright": "Pingüinos de las Galápagos nadando, islas Galápagos, Ecuador (© Henley Spiers/Nature Picture Library)",
+  "copyrightOnly": "© Henley Spiers/Nature Picture Library",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+del+Ping%c3%bcino&form=hpcapt&filters=HpDate%3a%2220260424_2200%22",
+  "description": "Cada 25 de abril se celebra el Día Mundial del Pingüino, una fecha para destacar la importancia de estas aves marinas y recordar los desafíos que enfrentan en un planeta cambiante. Habitan principalmente en el hemisferio sur y cumplen un papel clave en los ecosistemas oceánicos al reflejar la salud de los mares. El calentamiento del agua, la sobrepesca y la contaminación amenazan su alimentación y sus rutas de reproducción, por lo que la divulgación y la protección de sus hábitats resultan esenciales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_GalapagosPenguins%22&FORM=HPQUIZ",
+  "hash": "7fbf70872c13bc1db715b9faed212ba2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ES-ES3782706188_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ES-ES3782706188_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ES-ES3782706188_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ES-ES3782706188_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260424",
+    "fullStartDateTime": "202604242200",
+    "endDate": "20260425"
+  },
+  "createdAt": "202604250348",
+  "originalUrlBase": "/th?id=OHR.GalapagosPenguins_ES-ES3782706188"
+}

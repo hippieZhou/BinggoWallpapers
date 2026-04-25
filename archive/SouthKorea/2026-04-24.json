@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Everglades+National+Park+Florida&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260424_SlashPine%22&FORM=HPQUIZ",
+  "hash": "7e6882c77d8a8a69ada65e9190f43000",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ROW9169451135_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ROW9169451135_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ROW9169451135_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SlashPine_ROW9169451135_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260424",
+    "fullStartDateTime": "202604240700",
+    "endDate": "20260425"
+  },
+  "createdAt": "202604250348",
+  "originalUrlBase": "/th?id=OHR.SlashPine_ROW9169451135"
+}
