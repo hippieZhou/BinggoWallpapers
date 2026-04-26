@@ -1,0 +1,43 @@
+{
+  "date": "26 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Folie fleurie",
+  "bsTitle": "Folie fleurie",
+  "caption": "Pommier en fleur, Californie, États-Unis",
+  "copyright": "Pommier en fleur, Avila Beach, Californie, États-Unis (© Mimi Ditchie Photography/Getty Images)",
+  "copyrightOnly": "© Mimi Ditchie Photography/Getty Images",
+  "copyrightLink": "/search?q=pommier+arbre&form=hpcapt&filters=HpDate%3a%2220260425_2200%22",
+  "description": "Au printemps, les pommiers s’éveillent en nuages de fleurs rosées. Leurs pétales légers illuminent vergers et collines, contrastant avec le bleu vif du ciel alors que l’hiver s’efface. Autour d’eux, le ballet des abeilles et des papillons annonce la saison des fruits à venir.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+  "hash": "0ab6ccfe4d126b549687e2aa592d637d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_FR-FR7054712804_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_FR-FR7054712804_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_FR-FR7054712804_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_FR-FR7054712804_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260425",
+    "fullStartDateTime": "202604252200",
+    "endDate": "20260426"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.AppleBlossoms_FR-FR7054712804"
+}

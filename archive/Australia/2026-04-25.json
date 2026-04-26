@@ -1,0 +1,43 @@
+{
+  "date": "Apr 25, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Galápagos penguins swimming, Galápagos Islands, Ecuador",
+  "copyright": "Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)",
+  "copyrightOnly": "© Henley Spiers/Nature Picture Library",
+  "copyrightLink": "/search?q=Galapagos+penguins&form=hpcapt&filters=HpDate%3a%2220260425_0700%22",
+  "description": "Penguins usually bring Antarctica to mind, but these endearing flightless seabirds don't always follow the ice. Found only in the Galápagos Islands—a volcanic archipelago about 966 kilometres off Ecuador's coast—the Galápagos penguins pictured here live farther north than any other penguin. Cool, nutrient‑rich ocean currents make this equatorial habitat possible by supplying food and keeping surrounding waters within survivable temperatures. Compact and agile, these birds spend much of the day in the water to stay cool.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_GalapagosPenguins%22&FORM=HPQUIZ",
+  "hash": "15ed8ee27ab13ac41dc87b4a1a3de9ba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260425",
+    "fullStartDateTime": "202604250700",
+    "endDate": "20260426"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.GalapagosPenguins_ROW9365376155"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "繁花盛放",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国 (© Mimi Ditchie Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%8b%b9%e6%9e%9c%e6%a0%91&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+  "hash": "dc9f1a884768d8a34a8f40c728127f8c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260425",
+    "fullStartDateTime": "202604251600",
+    "endDate": "20260426"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.AppleBlossoms_ZH-CN5887711928"
+}

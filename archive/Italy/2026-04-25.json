@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Melo mangio?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Fiori di melo rosa, Avila Beach, California, USA (© Mimi Ditchie Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Melo+albero&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+  "hash": "748da35b1633683dc548a0af14af3053",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_IT-IT2955443064_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_IT-IT2955443064_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_IT-IT2955443064_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_IT-IT2955443064_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260425",
+    "fullStartDateTime": "202604252200",
+    "endDate": "20260426"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.AppleBlossoms_IT-IT2955443064"
+}

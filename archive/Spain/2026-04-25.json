@@ -1,0 +1,43 @@
+{
+  "date": "26 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Explosión floral",
+  "bsTitle": "Explosión floral",
+  "caption": "Flores rosadas de manzano, Avila Beach, California, EE. UU.",
+  "copyright": "Flores rosadas de manzano, Avila Beach, California, EE. UU. (© Mimi Ditchie Photography/Getty Images)",
+  "copyrightOnly": "© Mimi Ditchie Photography/Getty Images",
+  "copyrightLink": "/search?q=Manzano&form=hpcapt&filters=HpDate%3a%2220260425_2200%22",
+  "description": "Las flores rosadas de los manzanos transforman Avila Beach, en la costa central de California, EE. UU., en un paisaje delicado y luminoso durante la primavera. Los árboles florecen suavemente sobre colinas cercanas al Pacífico, creando un contraste entre los tonos pastel de los pétalos, el verde de los prados y el azul del océano. Este enclave costero combina clima templado, brisas marinas y una luz clara que realza cada detalle del paisaje. La floración es breve pero muy esperada, y convierte senderos rurales y huertos en escenarios tranquilos donde naturaleza y calma marcan el ritmo de la estación.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+  "hash": "38b6623b3e3473e6f9f7cba85ee9d357",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ES-ES9455974102_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ES-ES9455974102_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ES-ES9455974102_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ES-ES9455974102_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260425",
+    "fullStartDateTime": "202604252200",
+    "endDate": "20260426"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.AppleBlossoms_ES-ES9455974102"
+}

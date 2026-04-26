@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O despertar das macieiras",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Flores de macieira em Avila Beach, Califórnia, EUA (© Mimi Ditchie Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=macieira&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_AppleBlossoms%22&FORM=HPQUIZ",
+  "hash": "47f1089334b7961c923af20780ca7fe6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_PT-BR6471473214_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_PT-BR6471473214_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_PT-BR6471473214_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_PT-BR6471473214_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260426",
+    "fullStartDateTime": "202604260300",
+    "endDate": "20260427"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.AppleBlossoms_PT-BR6471473214"
+}

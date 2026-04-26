@@ -1,0 +1,43 @@
+{
+  "date": "Apr 25, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Breaking the penguin rules",
+  "bsTitle": "Breaking the penguin rules",
+  "caption": "World Penguin Day",
+  "copyright": "Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)",
+  "copyrightOnly": "© Henley Spiers/Nature Picture Library",
+  "copyrightLink": "/search?q=World+Penguin+Day&form=hpcapt&filters=HpDate%3a%2220260425_0700%22",
+  "description": "Penguins usually bring Antarctica to mind, but these endearing flightless seabirds don't always follow the ice. On World Penguin Day, the Galápagos penguins pictured here offer a vivid counterpoint. Found only in the Galápagos Islands—a volcanic archipelago about 600 miles off Ecuador's coast—this species lives farther north than any other penguin. Cool, nutrient‑rich ocean currents make this equatorial habitat possible by supplying food and keeping surrounding waters within survivable temperatures. Compact and agile, these birds spend much of the day in the water to stay cool.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_GalapagosPenguins%22&FORM=HPQUIZ",
+  "hash": "e7ab6ddc432e207d20dfe88664dc3769",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260425",
+    "fullStartDateTime": "202604250700",
+    "endDate": "20260426"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.GalapagosPenguins_EN-US2287809863"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Apr 26, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Bloom boom",
+  "bsTitle": "Bloom boom",
+  "caption": "Pink apple blossoms, Avila Beach, California, United States",
+  "copyright": "Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)",
+  "copyrightOnly": "© Mimi Ditchie Photography/Getty Images",
+  "copyrightLink": "/search?q=Apple+tree&form=hpcapt&filters=HpDate%3a%2220260425_2300%22",
+  "description": "Spring brings apple trees to life with clouds of soft pink blossoms. Their delicate petals brighten orchards and hillsides, standing out against clear blue skies as the season shifts from winter towards warmer days. These blooms attract pollinators such as bees and butterflies, helping fruit trees produce the apples that will grow later in the year.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260425_AppleBlossoms%22&FORM=HPQUIZ",
+  "hash": "8481183644cae9231fd9c720fc83d9a7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_EN-GB5436574714_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260425",
+    "fullStartDateTime": "202604252300",
+    "endDate": "20260426"
+  },
+  "createdAt": "202604260419",
+  "originalUrlBase": "/th?id=OHR.AppleBlossoms_EN-GB5436574714"
+}
