@@ -1,0 +1,43 @@
+{
+  "date": "27 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un dôme qui épate la galerie",
+  "bsTitle": "Un dôme qui épate la galerie",
+  "caption": "La Galleria Vittorio Emanuele II, Milan, Italie",
+  "copyright": "Dôme en verre de la Galleria Vittorio Emanuele II, Milan, Italie (© PhillipMinnis/Getty Images)",
+  "copyrightOnly": "© PhillipMinnis/Getty Images",
+  "copyrightLink": "/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italie&form=hpcapt&filters=HpDate%3a%2220260426_2200%22",
+  "description": "Imaginée par Giuseppe Mengoni et inaugurée en 1877, la Galleria Vittorio Emanuele II est l’un de ces lieux en Italie où l’histoire se mêle à la lumière. Entre la Piazza del Duomo et la Scala, son immense verrière forme un passage octogonal à la fois majestueux et accueillant, que les Milanais surnomment avec tendresse «\u202Fle salon de la ville\u202F».",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+  "hash": "226374cf28f155c2f0600ed7d760dd15",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_FR-FR0320459768_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_FR-FR0320459768_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_FR-FR0320459768_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_FR-FR0320459768_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260426",
+    "fullStartDateTime": "202604262200",
+    "endDate": "20260427"
+  },
+  "createdAt": "202604270426",
+  "originalUrlBase": "/th?id=OHR.MilanGalleria_FR-FR0320459768"
+}

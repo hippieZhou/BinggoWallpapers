@@ -1,0 +1,43 @@
+{
+  "date": "27 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El corazón acristalado de Milán",
+  "bsTitle": "El corazón acristalado de Milán",
+  "caption": "Cúpula de cristal de la Galería Víctor Manuel II, Milán, Italia",
+  "copyright": "Cúpula de cristal de la Galería Víctor Manuel II, Milán, Italia (© PhillipMinnis/Getty Images)",
+  "copyrightOnly": "© PhillipMinnis/Getty Images",
+  "copyrightLink": "/search?q=Galer%c3%ada+V%c3%adctor+Manuel+II&form=hpcapt&filters=HpDate%3a%2220260426_2200%22",
+  "description": "La cúpula de cristal de la Galería Víctor Manuel II es uno de los grandes iconos de Milán, en Italia. En el cruce de sus pasajes, el espacio se abre en un octógono luminoso que atrae la mirada hacia arriba, donde el vidrio y el hierro dibujan una bóveda ligera y elegante. La estructura filtra la luz natural y la reparte por el interior como si fuera un cielo urbano. Bajo esa cúpula, el paseo se vuelve experiencia, entre reflejos, perspectivas y el pulso constante de la ciudad que entra y sale por sus arcadas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+  "hash": "617aa6a816a38ec66414812190f5edca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ES-ES0426841525_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ES-ES0426841525_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ES-ES0426841525_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ES-ES0426841525_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260426",
+    "fullStartDateTime": "202604262200",
+    "endDate": "20260427"
+  },
+  "createdAt": "202604270426",
+  "originalUrlBase": "/th?id=OHR.MilanGalleria_ES-ES0426841525"
+}

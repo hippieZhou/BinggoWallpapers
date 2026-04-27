@@ -1,0 +1,43 @@
+{
+  "date": "Apr 27, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Glass with class",
+  "bsTitle": "Glass with class",
+  "caption": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy",
+  "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)",
+  "copyrightOnly": "© PhillipMinnis/Getty Images",
+  "copyrightLink": "/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italy&form=hpcapt&filters=HpDate%3a%2220260426_2300%22",
+  "description": "Designed by architect Giuseppe Mengoni and completed in 1877, the Galleria Vittorio Emanuele II in Milan, Italy, is one of the world's oldest and most famous shopping arcades. Located between Piazza del Duomo and Piazza della Scala, it features a stunning glass-and-iron roof and an elegant, octagonal layout. Affectionately known as 'Milan's living room,' the Galleria is home to high-end boutiques, historic cafés such as Caffè Biffi and Camparino in Galleria and renowned restaurants.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260426_MilanGalleria%22&FORM=HPQUIZ",
+  "hash": "6c37be95cb596832cd5331a28a810adf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260426",
+    "fullStartDateTime": "202604262300",
+    "endDate": "20260427"
+  },
+  "createdAt": "202604270426",
+  "originalUrlBase": "/th?id=OHR.MilanGalleria_EN-GB6160485704"
+}
