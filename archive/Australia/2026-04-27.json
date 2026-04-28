@@ -1,0 +1,43 @@
+{
+  "date": "Apr 27, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy",
+  "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)",
+  "copyrightOnly": "© PhillipMinnis/Getty Images",
+  "copyrightLink": "/search?q=Galleria+Vittorio+Emanuele+II+Milan+Italy&form=hpcapt&filters=HpDate%3a%2220260427_0700%22",
+  "description": "Designed by architect Giuseppe Mengoni and completed in 1877, the Galleria Vittorio Emanuele II in Milan, Italy, is one of the world's oldest and most famous shopping arcades. Located between Piazza del Duomo and Piazza della Scala, it features a stunning glass-and-iron roof and an elegant, octagonal layout. Affectionately known as 'Milan's living room,' the Galleria is home to high-end boutiques, historic cafés such as Caffè Biffi and Camparino in Galleria, and renowned restaurants.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260427_MilanGalleria%22&FORM=HPQUIZ",
+  "hash": "69ac0230156510c06042b2fd73b37e45",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260427",
+    "fullStartDateTime": "202604270700",
+    "endDate": "20260428"
+  },
+  "createdAt": "202604280430",
+  "originalUrlBase": "/th?id=OHR.MilanGalleria_ROW9826130780"
+}

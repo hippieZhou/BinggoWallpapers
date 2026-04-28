@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "野外奇观",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "眼镜熊在树上休息, 厄瓜多尔 (© Andy Rouse/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%9c%bc%e9%95%9c%e7%86%8a&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260427_AndeanBear%22&FORM=HPQUIZ",
+  "hash": "ccece70c4b5b5c837ade6eb9af6c09f4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260427",
+    "fullStartDateTime": "202604271600",
+    "endDate": "20260428"
+  },
+  "createdAt": "202604280430",
+  "originalUrlBase": "/th?id=OHR.AndeanBear_ZH-CN6152330738"
+}

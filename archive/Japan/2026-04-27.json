@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 4月 月 28 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "木の上でくつろぐ野生動物",
+  "bsTitle": "木の上でくつろぐ野生動物",
+  "caption": "木の上でくつろぐ野生動物",
+  "copyright": "メガネグマ, エクアドル (© Andy Rouse/Nature Picture Library)",
+  "copyrightOnly": "© Andy Rouse/Nature Picture Library",
+  "copyrightLink": "/search?q=%e3%83%a1%e3%82%ac%e3%83%8d%e3%82%b0%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220260427_1500%22",
+  "description": "メガネグマは、南米のアンデス山脈に分布するクマ科の動物で、クマ科では南米に生息する唯一の種です。目の周囲にある淡い模様が眼鏡のように見えることから、この名前が付けられました。非常に木登りが得意で、樹上に巣を作ることもあります。主に果実を食べますが、時には昆虫や小型の哺乳類なども捕食します。生息地の減少や狩猟、人間活動の影響により、国際自然保護連合（IUCN）では、「危急種（Vulnerable）」に分類されているため、その保護が重要視されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260427_AndeanBear%22&FORM=HPQUIZ",
+  "hash": "5bedd622b7a001910a808631bef9c9b5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_JA-JP1349028050_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260427",
+    "fullStartDateTime": "202604271500",
+    "endDate": "20260428"
+  },
+  "createdAt": "202604280430",
+  "originalUrlBase": "/th?id=OHR.AndeanBear_JA-JP1349028050"
+}

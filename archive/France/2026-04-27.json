@@ -1,0 +1,43 @@
+{
+  "date": "28 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les lunettes des Andes",
+  "bsTitle": "Les lunettes des Andes",
+  "caption": "Ours à lunettes dans un arbre, Équateur",
+  "copyright": "Ours à lunettes se reposant dans un arbre, Équateur (© Andy Rouse/Nature Picture Library)",
+  "copyrightOnly": "© Andy Rouse/Nature Picture Library",
+  "copyrightLink": "/search?q=ours+%c3%a0+lunettes&form=hpcapt&filters=HpDate%3a%2220260427_2200%22",
+  "description": "Dans les montagnes du nord et du centre des Andes vit un ours discret et singulier : l’ours à lunettes. Seul représentant sud‑américain de sa famille, il est facilement reconnaissable grâce à ses marques pâles autour des yeux qui ressemblent à des lunettes. Il évolue surtout dans les forêts brumeuses où il se nourrit de jeunes pousses, de fruits et de tiges tendres.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260427_AndeanBear%22&FORM=HPQUIZ",
+  "hash": "d255829676362a78f20123ee08a86140",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260427",
+    "fullStartDateTime": "202604272200",
+    "endDate": "20260428"
+  },
+  "createdAt": "202604280430",
+  "originalUrlBase": "/th?id=OHR.AndeanBear_FR-FR7657835639"
+}
