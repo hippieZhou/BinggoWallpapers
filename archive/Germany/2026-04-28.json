@@ -1,0 +1,43 @@
+{
+  "date": "29. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Geschichte aus Stein",
+  "bsTitle": "Geschichte aus Stein",
+  "caption": "Turm von Belém, Lissabon, Portugal",
+  "copyright": "Turm von Belém am Ufer des Tejo, Lissabon, Portugal (© f9photos/Getty Images)",
+  "copyrightOnly": "© f9photos/Getty Images",
+  "copyrightLink": "/search?q=Turm+von+Bel%c3%a9m&form=hpcapt&filters=HpDate%3a%2220260428_2200%22",
+  "description": "Am Ufer des Tejo erhebt sich ein markanter Steinturm, der einst den Weg von Lissabon hinaus auf den Atlantik begleitete. Der Turm von Belém diente früher als Verteidigungsanlage und symbolischer Wächter der Stadt und erinnert heute an Portugals Aufbruch in das Zeitalter der Entdeckungen. Errichtet zu Beginn des 16. Jahrhunderts unter König Manuel I., spielte er eine zentrale Rolle beim Schutz des Hafens und der Einfahrt in den Fluss. Seine Architektur verbindet gotische Formen mit typischen Elementen des manuelinischen Stils. Maritime Motive wie Seile, Schilde, Kreuze und kunstvolle Ornamente verweisen auf Portugals enge Beziehung zum Meer und zur Seefahrt jener Zeit.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+  "hash": "4732ee29776ffb525f624264535214e0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_DE-DE6367494619_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260428",
+    "fullStartDateTime": "202604282200",
+    "endDate": "20260429"
+  },
+  "createdAt": "202604290425",
+  "originalUrlBase": "/th?id=OHR.BelemTowerBank_DE-DE6367494619"
+}

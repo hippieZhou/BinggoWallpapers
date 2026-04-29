@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "历史镌刻于石上",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%b4%9d%e4%bc%a6%e5%a1%94&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+  "hash": "9064fde134056043c4a22d6daab05dd8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260428",
+    "fullStartDateTime": "202604281600",
+    "endDate": "20260429"
+  },
+  "createdAt": "202604290425",
+  "originalUrlBase": "/th?id=OHR.BelemTowerBank_ZH-CN6235906597"
+}

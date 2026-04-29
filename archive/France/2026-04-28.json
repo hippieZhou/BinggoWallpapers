@@ -1,0 +1,43 @@
+{
+  "date": "29 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’histoire gravée dans la pierre",
+  "bsTitle": "L’histoire gravée dans la pierre",
+  "caption": "Tour de Belém, Lisbonne, Portugal",
+  "copyright": "Tour de Belém au bord du Tage, Lisbonne, Portugal (© f9photos/Getty Images)",
+  "copyrightOnly": "© f9photos/Getty Images",
+  "copyrightLink": "/search?q=Tour+de+Bel%c3%a9m&form=hpcapt&filters=HpDate%3a%2220260428_2200%22",
+  "description": "Autrefois, les navires quittant Lisbonne, au Portugal, glissaient devant une petite tour de pierre avant d’affronter l’immensité de l’Atlantique. Dressée sur la rive du Tage, elle servait autant de sentinelle que d’adieu murmuré aux marins. Voici la tour de Belém, témoin silencieux des départs qui ont marqué l’ère des grandes explorations portugaises.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+  "hash": "bef1e6adc977b89c9d569afcb29f47eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260428",
+    "fullStartDateTime": "202604282200",
+    "endDate": "20260429"
+  },
+  "createdAt": "202604290425",
+  "originalUrlBase": "/th?id=OHR.BelemTowerBank_FR-FR7863616687"
+}

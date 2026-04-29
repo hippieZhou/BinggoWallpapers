@@ -1,0 +1,43 @@
+{
+  "date": "Apr 28, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Spectacles in the wild",
+  "bsTitle": "Spectacles in the wild",
+  "caption": "Spectacled bear resting in tree, Ecuador",
+  "copyright": "Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)",
+  "copyrightOnly": "© Andy Rouse/Nature Picture Library",
+  "copyrightLink": "/search?q=Spectacled+bear&form=hpcapt&filters=HpDate%3a%2220260428_0700%22",
+  "description": "The spectacled bear, also known as the Andean bear, is the only South American bear of the Ursidae family. Inhabiting the northern and central Andes Mountains, it dwells primarily in forested areas and feeds mainly on shoots and fruit. Pale markings around the eyes often resemble eyeglasses, or 'spectacles,' giving the species its distinctive name.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_AndeanBear%22&FORM=HPQUIZ",
+  "hash": "4af3bf4ac43a4bdd58257679fa8173f0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260428",
+    "fullStartDateTime": "202604280700",
+    "endDate": "20260429"
+  },
+  "createdAt": "202604290425",
+  "originalUrlBase": "/th?id=OHR.AndeanBear_EN-US2465945308"
+}

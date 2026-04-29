@@ -1,0 +1,43 @@
+{
+  "date": "29 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una historia grabada en piedra",
+  "bsTitle": "Una historia grabada en piedra",
+  "caption": "Torre de Belém, Lisboa, Portugal",
+  "copyright": "La Torre de Belém a orillas del río Tajo, Lisboa, Portugal (© f9photos/Getty Images)",
+  "copyrightOnly": "© f9photos/Getty Images",
+  "copyrightLink": "/search?q=Torre+de+Bel%c3%a9m&form=hpcapt&filters=HpDate%3a%2220260428_2200%22",
+  "description": "La Torre de Belém es uno de los grandes símbolos de Lisboa, en Portugal. Se alza junto a la desembocadura del río Tajo y fue construida a comienzos del siglo XVI como parte del sistema defensivo de la ciudad. Su arquitectura combina elementos góticos y renacentistas con el estilo manuelino, visible en sus balcones, decoraciones marítimas y torreones. Además de su función militar, la torre se convirtió en un emblema de la era de los descubrimientos portugueses, ligada a las expediciones oceánicas. Hoy es Patrimonio de la Humanidad y un punto clave para comprender la relación histórica entre Lisboa, el río y el mar.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260428_BelemTowerBank%22&FORM=HPQUIZ",
+  "hash": "ecd5d4452964a6ceb5334fe3c36ea140",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ES-ES0844655839_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ES-ES0844655839_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ES-ES0844655839_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_ES-ES0844655839_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260428",
+    "fullStartDateTime": "202604282200",
+    "endDate": "20260429"
+  },
+  "createdAt": "202604290425",
+  "originalUrlBase": "/th?id=OHR.BelemTowerBank_ES-ES0844655839"
+}
