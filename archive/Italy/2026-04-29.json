@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Fiori, follie e fragranze",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Giacinti e tulipani, Giardini di Keukenhof, Lisse, Paesi Bassi (© Martin Ruegner/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Tulipa&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+  "hash": "9e4015e5086d38fbde71a2c1a337673c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260429",
+    "fullStartDateTime": "202604292200",
+    "endDate": "20260430"
+  },
+  "createdAt": "202604300428",
+  "originalUrlBase": "/th?id=OHR.DutchTulips_IT-IT3654570550"
+}

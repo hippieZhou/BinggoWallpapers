@@ -1,0 +1,43 @@
+{
+  "date": "30. Apr.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Tulpen im Rampenlicht",
+  "bsTitle": "Tulpen im Rampenlicht",
+  "caption": "Keukenhof, Lisse, Niederlande",
+  "copyright": "Traubenhyazinthen und Tulpen im Keukenhof, Lisse, Niederlande (© Martin Ruegner/Getty Images)",
+  "copyrightOnly": "© Martin Ruegner/Getty Images",
+  "copyrightLink": "/search?q=Keukenhof+Lisse&form=hpcapt&filters=HpDate%3a%2220260429_2200%22",
+  "description": "Tulpen stehen heute für Frühling und Farbenpracht, doch ihre Geschichte begann mit einem außergewöhnlichen Finanzphänomen. Im 17.\u202FJahrhundert löste die Begeisterung für seltene Zwiebeln in den Niederlanden eine beispiellose Spekulationswelle aus. Besonders gefragt waren außergewöhnliche Farben und gestreifte Muster, deren Entstehung kaum vorhersehbar war. Zeitweise wurden für einzelne Tulpen Summen gezahlt, die dem Wert eines Hauses entsprachen. Auch nachdem die sogenannte Tulpenmanie endete, blieb die Faszination für die Blume ungebrochen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+  "hash": "5975eeb0daeb703515b3b49e931459cd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260429",
+    "fullStartDateTime": "202604292200",
+    "endDate": "20260430"
+  },
+  "createdAt": "202604300428",
+  "originalUrlBase": "/th?id=OHR.DutchTulips_DE-DE6573946518"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "30 avr. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des tulipes par milliers",
+  "bsTitle": "Des tulipes par milliers",
+  "caption": "Keukenhof, Lisse, Pays-Bas",
+  "copyright": "Muscaris et tulipes, Keukenhof, Lisse, Pyas-Bas (© Martin Ruegner/Getty Images)",
+  "copyrightOnly": "© Martin Ruegner/Getty Images",
+  "copyrightLink": "/search?q=Keukenhof&form=hpcapt&filters=HpDate%3a%2220260429_2200%22",
+  "description": "Imaginer qu’une fleur puisse déclencher une frénésie financière semble inconcevable. Pourtant, dans les années 1630, les tulipes ont plongé les Provinces-Unies dans une véritable fièvre. Les bulbes les plus rares, aux couleurs striées et imprévisibles, valaient parfois autant qu’une maison tant les collectionneurs recherchaient l’exception.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+  "hash": "978ab9f80beb8a6b56d0e1681244344d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_FR-FR1030292533_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_FR-FR1030292533_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_FR-FR1030292533_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_FR-FR1030292533_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260429",
+    "fullStartDateTime": "202604292200",
+    "endDate": "20260430"
+  },
+  "createdAt": "202604300428",
+  "originalUrlBase": "/th?id=OHR.DutchTulips_FR-FR1030292533"
+}

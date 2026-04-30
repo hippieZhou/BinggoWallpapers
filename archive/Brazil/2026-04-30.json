@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma paleta de pétalas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Jacintos e tulipas no Jardim Keukenhof, Lisse, Países Baixos (© Martin Ruegner/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=jardim+europa+nos+paises+baixos&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_DutchTulips%22&FORM=HPQUIZ",
+  "hash": "56ca3b26036d5f1fde72d7aba7e2e6ac",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260430",
+    "fullStartDateTime": "202604300300",
+    "endDate": "20260501"
+  },
+  "createdAt": "202604300428",
+  "originalUrlBase": "/th?id=OHR.DutchTulips_PT-BR9358504949"
+}

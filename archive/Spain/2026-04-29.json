@@ -1,0 +1,43 @@
+{
+  "date": "30 de abr. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Tulipanes como protagonistas",
+  "bsTitle": "Tulipanes como protagonistas",
+  "caption": "Jardines de Keukenhof, Lisse, Países Bajos",
+  "copyright": "Jacintos y tulipanes, Jardines de Keukenhof, Lisse, Países Bajos (© Martin Ruegner/Getty Images)",
+  "copyrightOnly": "© Martin Ruegner/Getty Images",
+  "copyrightLink": "/search?q=Jardines+de+Keukenhof&form=hpcapt&filters=HpDate%3a%2220260429_2200%22",
+  "description": "Jacintos de uva y tulipanes convierten los Jardines de Keukenhof, en Lisse, en uno de los grandes símbolos de la primavera en los Países Bajos. Cada temporada, millones de bulbos florecen de forma sincronizada y crean un mosaico de colores que cambia semana a semana. Los jacintos aportan intensidad cromática y aroma, mientras los tulipanes, protagonistas indiscutibles, dibujan formas y contrastes que parecen pensados para ser recorridos sin prisa. Los senderos, estanques y parterres están diseñados para conducir la mirada y resaltar el espectáculo floral dentro de un paisaje cuidadosamente ordenado.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260429_DutchTulips%22&FORM=HPQUIZ",
+  "hash": "6dcfe74aac487b05e2c237ec6388abe2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ES-ES1084356423_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ES-ES1084356423_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ES-ES1084356423_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ES-ES1084356423_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260429",
+    "fullStartDateTime": "202604292200",
+    "endDate": "20260430"
+  },
+  "createdAt": "202604300428",
+  "originalUrlBase": "/th?id=OHR.DutchTulips_ES-ES1084356423"
+}
