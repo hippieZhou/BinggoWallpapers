@@ -1,0 +1,43 @@
+{
+  "date": "1. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein stiller Wächter an der Küste",
+  "bsTitle": "Ein stiller Wächter an der Küste",
+  "caption": "Leuchtturm Tŵr Mawr, Anglesey, Wales",
+  "copyright": "Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
+  "copyrightOnly": "© Lukas Bischoff/Getty Images",
+  "copyrightLink": "/search?q=Leuchtturm+Twr+Mawr&form=hpcapt&filters=HpDate%3a%2220260430_2200%22",
+  "description": "Manchmal sind es die stillen Orte, die lange im Gedächtnis bleiben – so wie der Leuchtturm Tŵr Mawr. Er steht seit 1845 auf Ynys Llanddwyn, einer kleinen Gezeiteninsel vor Anglesey (Ynys Môn) an der walisischen Küste, die bei Flut zeitweise vom Festland abgeschnitten wird. Mit einer Höhe von etwas mehr als zehn Metern ist Tŵr Mawr kein imposanter Koloss, sondern ein Orientierungspunkt mit Charakter. Früher wies er Schiffen den Weg durch die anspruchsvolle Menai-Meerenge und trug so zur sicheren Navigation in einem der schwierigsten Seegebiete der Region bei. Seine konische Form erinnert an eine alte Windmühle und erzählt von frühen technischen Lösungen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_TwrMawrLighthouse2026%22&FORM=HPQUIZ",
+  "hash": "a4a15de5ab1b3c735006ff074cabaf40",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260430",
+    "fullStartDateTime": "202604302200",
+    "endDate": "20260501"
+  },
+  "createdAt": "202605010443",
+  "originalUrlBase": "/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766"
+}

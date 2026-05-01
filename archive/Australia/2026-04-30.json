@@ -1,0 +1,43 @@
+{
+  "date": "Apr 30, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Keukenhof Gardens, Lisse, Netherlands",
+  "copyright": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)",
+  "copyrightOnly": "© Martin Ruegner/Getty Images",
+  "copyrightLink": "/search?q=Keukenhof+Gardens&form=hpcapt&filters=HpDate%3a%2220260430_0700%22",
+  "description": "Imagine a flower sparking a financial frenzy. Sounds unlikely, right? Yet in the 1630s, tulips did exactly that in the Netherlands. During tulip mania, rare bulbs became luxury items traded for astonishing sums—some valued at prices comparable to a house. Why so valuable? Unusual colours and striped patterns were scarce and unpredictable, and collectors wanted the rarest varieties they could find.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_DutchTulips%22&FORM=HPQUIZ",
+  "hash": "51a8f32c459e8b5dd7f6c4d89c5175af",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ROW0532367282_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ROW0532367282_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ROW0532367282_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_ROW0532367282_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260430",
+    "fullStartDateTime": "202604300700",
+    "endDate": "20260501"
+  },
+  "createdAt": "202605010443",
+  "originalUrlBase": "/th?id=OHR.DutchTulips_ROW0532367282"
+}

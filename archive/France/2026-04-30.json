@@ -1,0 +1,43 @@
+{
+  "date": "1 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Bon 1er mai !",
+  "bsTitle": "Bon 1er mai !",
+  "caption": "Fête du travail",
+  "copyright": "Brin de muguet, Ukraine (© tomch/Getty Images Plus)",
+  "copyrightOnly": "© tomch/Getty Images Plus",
+  "copyrightLink": "/search?q=1er+mai&form=hpcapt&filters=HpDate%3a%2220260430_2200%22",
+  "description": "Le 1er mai s'impose comme une pause bienvenue au cœur du printemps. L’air est plus doux, les journées s’allongent, et le muguet fleurit dans les jardins comme sur les étals. Cette journée, devenue la Fête du Travail, trouve son origine historique dans les grandes luttes ouvrières de la fin du XIXᵉ siècle, lorsque des travailleurs, en Europe comme aux États-Unis, ont réclamé de meilleures conditions de vie et le droit au repos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260430_LilyMay%22&FORM=HPQUIZ",
+  "hash": "733871ae7c668983ba0c40ed429259d5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260430",
+    "fullStartDateTime": "202604302200",
+    "endDate": "20260501"
+  },
+  "createdAt": "202605010443",
+  "originalUrlBase": "/th?id=OHR.LilyMay_FR-FR4501325006"
+}

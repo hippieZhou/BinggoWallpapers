@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Jornada nas alturas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Limpadores de janelas pendurados por cordas, Rio de Janeiro (© Buena Vista Images/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=dia+do+trabalhador&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_WorkersDay%22&FORM=HPQUIZ",
+  "hash": "6c165adc27e03afc43b62695fb6dddc8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260501",
+    "fullStartDateTime": "202605010300",
+    "endDate": "20260502"
+  },
+  "createdAt": "202605010443",
+  "originalUrlBase": "/th?id=OHR.WorkersDay_PT-BR3502974851"
+}
