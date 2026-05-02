@@ -1,0 +1,43 @@
+{
+  "date": "2 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La magie de Jasper",
+  "bsTitle": "La magie de Jasper",
+  "caption": "Parc national Jasper, Alberta, Canada",
+  "copyright": "Petit lac et marais dans le parc national Jasper, Alberta, Canada (© Don White/Getty Images)",
+  "copyrightOnly": "© Don White/Getty Images",
+  "copyrightLink": "/search?q=Parc+national+Jasper+Alberta&form=hpcapt&filters=HpDate%3a%2220260501_2200%22",
+  "description": "Imaginez un territoire de plus de 10 800 km²\u202Fde nature protégée. Au cœur des Rocheuses canadiennes, le parc national de Jasper s’étend depuis le début du XXᵉ siècle. Créé dans un contexte de préservation, le parc témoigne aussi de liens bien plus anciens avec les peuples autochtones Nakoda et Secwépemc, ainsi que d’autres nations. Glaciers, prairies alpines et vastes forêts de pins et d’épinettes façonnent des paysages grandioses.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+  "hash": "fc7c5962d3409dae81218de6db14126a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_FR-FR4890526322_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_FR-FR4890526322_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_FR-FR4890526322_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_FR-FR4890526322_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260501",
+    "fullStartDateTime": "202605012200",
+    "endDate": "20260502"
+  },
+  "createdAt": "202605020414",
+  "originalUrlBase": "/th?id=OHR.GreenJasper_FR-FR4890526322"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2 de may. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El levantamiento del pueblo madrileño",
+  "bsTitle": "El levantamiento del pueblo madrileño",
+  "caption": "Día de la Comunidad de Madrid",
+  "copyright": "Monumento a Alfonso XII, Parque del Retiro, Madrid (© By Eve Livesey/Getty Images)",
+  "copyrightOnly": "© By Eve Livesey/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+de+la+Comunidad+de+Madrid&form=hpcapt&filters=HpDate%3a%2220260501_2200%22",
+  "description": "El 2 de mayo es una de las fechas más señaladas del calendario madrileño. La Comunidad de Madrid conmemora el levantamiento de 1808 contra las tropas napoleónicas, un episodio que se convirtió en símbolo de resistencia popular. Hoy la jornada se celebra con actos oficiales, cultura y calles llenas de vida.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_MadridRetiro%22&FORM=HPQUIZ",
+  "hash": "9815d17168b49b2f8fadbb907d02c152",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260501",
+    "fullStartDateTime": "202605012200",
+    "endDate": "20260502"
+  },
+  "createdAt": "202605020414",
+  "originalUrlBase": "/th?id=OHR.MadridRetiro_ES-ES5384378675"
+}

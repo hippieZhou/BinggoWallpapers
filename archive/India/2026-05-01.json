@@ -1,0 +1,43 @@
+{
+  "date": "May 2, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The magic of Jasper",
+  "bsTitle": "The magic of Jasper",
+  "caption": "Jasper National Park in Alberta, Canada",
+  "copyright": "Small lake and marsh in\u202FJasper National Park in Alberta, Canada (© Don White/Getty Images)",
+  "copyrightOnly": "© Don White/Getty Images",
+  "copyrightLink": "/search?q=Jasper+National+Park+Alberta&form=hpcapt&filters=HpDate%3a%2220260501_1830%22",
+  "description": "Can you picture more than 10,800 square kilometres of protected wilderness? That's Jasper National Park in Alberta, Canada. Established in 1907 as part of a growing network of protected landscapes in the Canadian Rockies, it was designated a national park in 1930. The park reflects both conservation efforts and much older Indigenous connections, including those of the Nakoda and Secwépemc peoples. Its terrain ranges from glacier-fed rivers and alpine meadows to dense conifer forests dominated by spruce and pine.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_GreenJasper%22&FORM=HPQUIZ",
+  "hash": "2bb8063181f13d85d716d115cc81bb73",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_EN-IN3195299837_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_EN-IN3195299837_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_EN-IN3195299837_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_EN-IN3195299837_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260501",
+    "fullStartDateTime": "202605011830",
+    "endDate": "20260502"
+  },
+  "createdAt": "202605020414",
+  "originalUrlBase": "/th?id=OHR.GreenJasper_EN-IN3195299837"
+}

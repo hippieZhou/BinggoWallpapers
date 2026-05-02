@@ -1,0 +1,43 @@
+{
+  "date": "May 1, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A pond of stories",
+  "bsTitle": "A pond of stories",
+  "caption": "Asian American and Pacific Islander Heritage Month",
+  "copyright": "Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)",
+  "copyrightOnly": "© Greg Vaughn/Getty Images",
+  "copyrightLink": "/search?q=Asian+American+Pacific+Islander+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220260501_0700%22",
+  "description": "They don't rush—they ripple. Meet the koi, photographed at a Lan Su Chinese Garden pond in Portland, Oregon. In many Asian cultures, these colorful swimmers symbolize patience, perseverance, and transformation. They can live for decades—some reach 25 to 50 years, and others live far longer: one koi named Hanako was reportedly 226 years old.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260501_KoiPond%22&FORM=HPQUIZ",
+  "hash": "21af60bd58be09b3f122655dcbe1764d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260501",
+    "fullStartDateTime": "202605010700",
+    "endDate": "20260502"
+  },
+  "createdAt": "202605020414",
+  "originalUrlBase": "/th?id=OHR.KoiPond_EN-US0207799352"
+}

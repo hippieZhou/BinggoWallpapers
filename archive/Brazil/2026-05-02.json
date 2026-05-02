@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma noite preservada",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pequeno lago no Parque Nacional Jasper, Alberta, Canadá (© Don White/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+Jasper+Canad%c3%a1&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_GreenJasper%22&FORM=HPQUIZ",
+  "hash": "4aec04d89134759f0c4478ec16f88a5c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_PT-BR3746055245_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260502",
+    "fullStartDateTime": "202605020300",
+    "endDate": "20260503"
+  },
+  "createdAt": "202605020414",
+  "originalUrlBase": "/th?id=OHR.GreenJasper_PT-BR3746055245"
+}
