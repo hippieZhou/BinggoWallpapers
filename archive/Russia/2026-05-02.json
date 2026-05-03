@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Jasper+National+Park+Alberta&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_GreenJasper%22&FORM=HPQUIZ",
+  "hash": "9380bd2d4aaea3c3374b7f05bcea5574",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_ROW9272973075_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_ROW9272973075_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_ROW9272973075_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GreenJasper_ROW9272973075_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260502",
+    "fullStartDateTime": "202605020700",
+    "endDate": "20260503"
+  },
+  "createdAt": "202605030436",
+  "originalUrlBase": "/th?id=OHR.GreenJasper_ROW9272973075"
+}

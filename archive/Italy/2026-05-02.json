@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Pisolino felino?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Leopardo, riserva nazionale del Masai Mara, Kenya (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Leopardo&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+  "hash": "83e5d0cb5cb2eff1454ba2fd31fcbe78",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_IT-IT7759211321_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_IT-IT7759211321_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_IT-IT7759211321_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_IT-IT7759211321_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260502",
+    "fullStartDateTime": "202605022200",
+    "endDate": "20260503"
+  },
+  "createdAt": "202605030436",
+  "originalUrlBase": "/th?id=OHR.MasaiLeopard_IT-IT7759211321"
+}

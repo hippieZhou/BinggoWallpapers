@@ -1,0 +1,43 @@
+{
+  "date": "3. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Rast in der Savanne",
+  "bsTitle": "Rast in der Savanne",
+  "caption": "Internationaler Tag des Leoparden",
+  "copyright": "Leopard, der in einem Baum in der Savanne schläft, Masai‑Mara‑Nationalreservat, Kenia (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=Internationaler+Tag+des+Leoparden+Mai&form=hpcapt&filters=HpDate%3a%2220260502_2200%22",
+  "description": "Hoch über der Savanne im Masai-Mara-Nationalreservat hat es sich ein Leopard auf einem Ast bequem gemacht. Im warmen Licht des Abends ruht eine der anpassungsfähigsten Großkatzen der Welt und blickt über die weite Landschaft Kenias. Der Internationale Tag des Leoparden am 3.\u202FMai ist ein Anlass, diese faszinierenden Jäger in den Fokus zu rücken.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+  "hash": "49e74127999b1db3abc9fd59e0d1f2a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_DE-DE1183742562_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260502",
+    "fullStartDateTime": "202605022200",
+    "endDate": "20260503"
+  },
+  "createdAt": "202605030436",
+  "originalUrlBase": "/th?id=OHR.MasaiLeopard_DE-DE1183742562"
+}

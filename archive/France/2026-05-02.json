@@ -1,0 +1,43 @@
+{
+  "date": "3 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Perché dans la savane",
+  "bsTitle": "Perché dans la savane",
+  "caption": "Journée internationale du léopard",
+  "copyright": "Un léopard endormi dans un arbre de la savane, Réserve nationale du Masai Mara, Kenya (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=l%c3%a9opard+animal&form=hpcapt&filters=HpDate%3a%2220260502_2200%22",
+  "description": "Perché au-dessus de la savane du Masai Mara, au Kenya, un léopard s’étire sur une branche tiède, bercé par la lumière dorée du crépuscule. Le 3 mai, Journée internationale du léopard, rend hommage à ce félin d’une étonnante adaptabilité. De l’Afrique aux confins de l’Asie, il traverse forêts, montagnes et plaines ouvertes avec aisance.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+  "hash": "dc6f3cc6d9e0f371c8f55c0a4815a510",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_FR-FR4209826917_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_FR-FR4209826917_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_FR-FR4209826917_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_FR-FR4209826917_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260502",
+    "fullStartDateTime": "202605022200",
+    "endDate": "20260503"
+  },
+  "createdAt": "202605030436",
+  "originalUrlBase": "/th?id=OHR.MasaiLeopard_FR-FR4209826917"
+}

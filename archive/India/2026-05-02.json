@@ -1,0 +1,43 @@
+{
+  "date": "May 3, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Savanna afterglow",
+  "bsTitle": "Savanna afterglow",
+  "caption": "International Leopard Day",
+  "copyright": "Leopard sleeping in a tree in the savannah, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=International+Leopard+Day&form=hpcapt&filters=HpDate%3a%2220260502_1830%22",
+  "description": "High above the savanna in Kenya's Masai Mara, a leopard curls up on a tree branch, napping as the grasslands glow at sunset. On International Leopard Day, observed on 3 May, we celebrate one of the world's most adaptable big cats. Leopards roam across Africa and parts of Asia, thriving in habitats that range from forests and mountains to open savannas. Their spotted coats are unique to each individual, like fingerprints, and their powerful climbing skills allow them to stash prey high in trees, out of reach of scavengers.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260502_MasaiLeopard%22&FORM=HPQUIZ",
+  "hash": "cb3588844bf0e867f17e48156750814e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_EN-IN3617072692_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_EN-IN3617072692_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_EN-IN3617072692_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_EN-IN3617072692_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260502",
+    "fullStartDateTime": "202605021830",
+    "endDate": "20260503"
+  },
+  "createdAt": "202605030436",
+  "originalUrlBase": "/th?id=OHR.MasaiLeopard_EN-IN3617072692"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um sono merecido",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Leopardo dormindo em uma árvore na Reserva Nacional Masai Mara, Quênia (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=leopardo&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260503_MasaiLeopard%22&FORM=HPQUIZ",
+  "hash": "ec6b0cb836caf58380813bb38a2e2fc2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_PT-BR3932185611_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260503",
+    "fullStartDateTime": "202605030300",
+    "endDate": "20260504"
+  },
+  "createdAt": "202605030436",
+  "originalUrlBase": "/th?id=OHR.MasaiLeopard_PT-BR3932185611"
+}
