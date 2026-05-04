@@ -1,0 +1,43 @@
+{
+  "date": "4 de may. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Tradición en cada rincón",
+  "bsTitle": "Tradición en cada rincón",
+  "caption": "Festival de los Patios Cordobeses",
+  "copyright": "Festival de los Patios Cordobeses, Andalucía (© DIEGO GUTIERREZ/Getty Images)",
+  "copyrightOnly": "© DIEGO GUTIERREZ/Getty Images",
+  "copyrightLink": "/search?q=Festival+de+los+Patios+Cordobeses&form=hpcapt&filters=HpDate%3a%2220260503_2200%22",
+  "description": "Cada primavera Córdoba abre las puertas de sus patios íntimos y transforma la ciudad en un gran jardín. El Festival de los Patios Cordobeses, que comienza hoy, invita a recorrer casas históricas donde los vecinos cuidan con orgullo macetas, geranios, jazmines y fuentes frescas. Durante estos días, patios normalmente privados se llenan de visitantes que caminan con calma, miran hacia arriba y descubren cómo la arquitectura permite que la luz, el agua y las flores conviertan espacios en refugios.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260503_CordobaFestival%22&FORM=HPQUIZ",
+  "hash": "65f1602c888c6681f9b92fc28db2f5cf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260503",
+    "fullStartDateTime": "202605032200",
+    "endDate": "20260504"
+  },
+  "createdAt": "202605040436",
+  "originalUrlBase": "/th?id=OHR.CordobaFestival_ES-ES4539784113"
+}

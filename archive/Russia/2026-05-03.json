@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Leopard sleeping in a tree in the savannah, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Masai+Mara+National+Reserve&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260503_MasaiLeopard%22&FORM=HPQUIZ",
+  "hash": "3692b86299a509b1ab9c5aa8f722b0a6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ROW2641665263_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ROW2641665263_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ROW2641665263_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ROW2641665263_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260503",
+    "fullStartDateTime": "202605030700",
+    "endDate": "20260504"
+  },
+  "createdAt": "202605040436",
+  "originalUrlBase": "/th?id=OHR.MasaiLeopard_ROW2641665263"
+}
