@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um brinde à resistência",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Campo de agave-azul perto de Tequila, Jalisco, México (© Brian Overcast/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+cinco+de+mayo&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_MayoAgave%22&FORM=HPQUIZ",
+  "hash": "b297c336afc3741184f3c8757b8e2d3d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_PT-BR7161087994_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260505",
+    "fullStartDateTime": "202605050300",
+    "endDate": "20260506"
+  },
+  "createdAt": "202605050413",
+  "originalUrlBase": "/th?id=OHR.MayoAgave_PT-BR7161087994"
+}

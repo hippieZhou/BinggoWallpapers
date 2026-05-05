@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "藕花风起，首夏清和",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "莲花与莲花植株 (© real444/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%b8%ad%e5%9b%bd%e7%9a%84%e8%8d%b7%e8%8a%b1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_BeginningofSummerY26%22&FORM=HPQUIZ",
+  "hash": "4a9aeb0faa7a50a3d3fa6762692d37eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260504",
+    "fullStartDateTime": "202605041600",
+    "endDate": "20260505"
+  },
+  "createdAt": "202605050413",
+  "originalUrlBase": "/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617"
+}

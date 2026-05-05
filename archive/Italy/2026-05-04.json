@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Coltura & Cultura",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Campo di agave blu nei pressi di Tequila, Jalisco, Messico (© Brian Overcast/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Tequila+citt%c3%a0+Jalisco&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_MayoAgave%22&FORM=HPQUIZ",
+  "hash": "bebf562442209368975f7ba14c567a89",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_IT-IT8717745427_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_IT-IT8717745427_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_IT-IT8717745427_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_IT-IT8717745427_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260504",
+    "fullStartDateTime": "202605042200",
+    "endDate": "20260505"
+  },
+  "createdAt": "202605050413",
+  "originalUrlBase": "/th?id=OHR.MayoAgave_IT-IT8717745427"
+}

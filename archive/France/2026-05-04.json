@@ -1,0 +1,43 @@
+{
+  "date": "5 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Où l’histoire prend racine",
+  "bsTitle": "Où l’histoire prend racine",
+  "caption": "Champs d’agave bleu, Tequila, Mexique",
+  "copyright": "Champs d’agave bleu près de Tequila, Jalisco, Mexique (© Brian Overcast/Alamy)",
+  "copyrightOnly": "© Brian Overcast/Alamy",
+  "copyrightLink": "/search?q=champs+d%e2%80%99agave+Tequila+Jalisco&form=hpcapt&filters=HpDate%3a%2220260504_2200%22",
+  "description": "Autour de la ville de Tequila, dans l’État de Jalisco, les champs d’agaves bleus ondulent à perte de vue, comme une mer minérale sous le soleil mexicain. Leurs feuilles épaisses, ourlées d’épines, captent la lumière et dessinent un paysage presque irréel, inscrit au patrimoine mondial de l’UNESCO. Ici pousse l’Agave tequilana Weber azul, patiemment cultivé pendant sept à dix ans avant la récolte.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_MayoAgave%22&FORM=HPQUIZ",
+  "hash": "56305f208d187a7aa87350780be3695c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_FR-FR5361312928_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260504",
+    "fullStartDateTime": "202605042200",
+    "endDate": "20260505"
+  },
+  "createdAt": "202605050413",
+  "originalUrlBase": "/th?id=OHR.MayoAgave_FR-FR5361312928"
+}

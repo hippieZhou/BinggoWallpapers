@@ -1,0 +1,43 @@
+{
+  "date": "May 5, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Light at the end of the isle",
+  "bsTitle": "Light at the end of the isle",
+  "caption": "Tŵr Mawr Lighthouse, Anglesey, Wales",
+  "copyright": "Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
+  "copyrightOnly": "© Lukas Bischoff/Getty Images",
+  "copyrightLink": "/search?q=Twr+Mawr+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260504_1830%22",
+  "description": "At the far edge of Ynys Llanddwyn, where the land quietly gives way to sea, Tŵr Mawr Lighthouse stands watch without making a fuss. It is not tall, not flashy, but it knows its purpose—and it keeps it bright.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_TwrMawrLighthouse2026%22&FORM=HPQUIZ",
+  "hash": "ce5c9e7cde2dcd5cc6add6372225a78b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260504",
+    "fullStartDateTime": "202605041830",
+    "endDate": "20260505"
+  },
+  "createdAt": "202605050413",
+  "originalUrlBase": "/th?id=OHR.TwrMawrLighthouse2026_EN-IN1989617864"
+}

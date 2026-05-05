@@ -1,0 +1,43 @@
+{
+  "date": "5. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Stück Ostseetradition",
+  "bsTitle": "Ein Stück Ostseetradition",
+  "caption": "Strandkörbe am Ostseestrand von Grömitz, Schleswig‑Holstein",
+  "copyright": "Strandkörbe am Ostseestrand von Grömitz, Schleswig‑Holstein (© Sabine Lubenow/Image Professionals GmbH/Alamy)",
+  "copyrightOnly": "© Sabine Lubenow/Image Professionals GmbH/Alamy",
+  "copyrightLink": "/search?q=Geschichte+Strandkorb+Ostsee&form=hpcapt&filters=HpDate%3a%2220260504_2200%22",
+  "description": "Unzählige Strandkörbe säumen die Promenade am Strand von Grömitz an der Ostseeküste Schleswig-Holsteins und prägen seit Generationen das Panorama des Küstenorts. Als eines der ältesten Seebäder der Region zog der Ort bereits im 19. Jahrhundert Erholungssuchende an die See. Das Erscheinungsbild wird dabei nicht nur vom feinen Sandstrand, sondern auch von der offenen, weiten Lage an der Lübecker Bucht bestimmt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_LuebeckChairs%22&FORM=HPQUIZ",
+  "hash": "0a814bdbdbdc1a1f7aa2ab60b1feb9b1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260504",
+    "fullStartDateTime": "202605042200",
+    "endDate": "20260505"
+  },
+  "createdAt": "202605050413",
+  "originalUrlBase": "/th?id=OHR.LuebeckChairs_DE-DE4681131575"
+}

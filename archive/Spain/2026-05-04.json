@@ -1,0 +1,43 @@
+{
+  "date": "5 de may. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde la historia echó raíces",
+  "bsTitle": "Donde la historia echó raíces",
+  "caption": "Cinco de Mayo",
+  "copyright": "Campo de agave azul cerca de Tequila, Jalisco, México (© Brian Overcast/Alamy)",
+  "copyrightOnly": "© Brian Overcast/Alamy",
+  "copyrightLink": "/search?q=Cinco+de+Mayo&form=hpcapt&filters=HpDate%3a%2220260504_2200%22",
+  "description": "Cada 5 de mayo se recuerda una victoria inesperada del ejército mexicano frente a las tropas francesas en Puebla, en 1862. La fecha se ha convertido en un símbolo de orgullo histórico y resistencia. En muchos lugares se celebran actos cívicos, música y comida tradicional que evocan la diversidad cultural del país.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260504_MayoAgave%22&FORM=HPQUIZ",
+  "hash": "10557a5033c2e0218e347fb357b6cf8f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ES-ES4054314323_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260504",
+    "fullStartDateTime": "202605042200",
+    "endDate": "20260505"
+  },
+  "createdAt": "202605050413",
+  "originalUrlBase": "/th?id=OHR.MayoAgave_ES-ES4054314323"
+}
