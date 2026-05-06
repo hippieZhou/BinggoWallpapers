@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Muri d'acqua",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Temporale sulle pianure, Bulgaria (© Revolu7ion93/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Bulgaria&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BulgariaPlains%22&FORM=HPQUIZ",
+  "hash": "b0896bb3e064fbbef1ec8844c781a346",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_IT-IT9195177220_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260505",
+    "fullStartDateTime": "202605052200",
+    "endDate": "20260506"
+  },
+  "createdAt": "202605060430",
+  "originalUrlBase": "/th?id=OHR.BulgariaPlains_IT-IT9195177220"
+}

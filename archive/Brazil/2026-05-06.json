@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Céu em curto-circuito",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tempestade sobre as planícies, Bulgária (© Revolu7ion93/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Bulg%c3%a1ria&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_BulgariaPlains%22&FORM=HPQUIZ",
+  "hash": "0bc3de635acc654c31b440e4abda2db6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_PT-BR7466173362_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260506",
+    "fullStartDateTime": "202605060300",
+    "endDate": "20260507"
+  },
+  "createdAt": "202605060430",
+  "originalUrlBase": "/th?id=OHR.BulgariaPlains_PT-BR7466173362"
+}

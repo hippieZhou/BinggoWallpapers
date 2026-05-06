@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Tequila+Jalisco+Mexico&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_MayoAgave%22&FORM=HPQUIZ",
+  "hash": "803728ced525284effa25bdacfc0a021",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260505",
+    "fullStartDateTime": "202605050700",
+    "endDate": "20260506"
+  },
+  "createdAt": "202605060430",
+  "originalUrlBase": "/th?id=OHR.MayoAgave_ROW0279228757"
+}

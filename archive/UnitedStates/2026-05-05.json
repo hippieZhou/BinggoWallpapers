@@ -1,0 +1,43 @@
+{
+  "date": "May 5, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Where history took root",
+  "bsTitle": "Where history took root",
+  "caption": "Cinco de Mayo",
+  "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)",
+  "copyrightOnly": "© Brian Overcast/Alamy",
+  "copyrightLink": "/search?q=Cinco+de+Mayo&form=hpcapt&filters=HpDate%3a%2220260505_0700%22",
+  "description": "Cinco de Mayo marks a defining moment in history: on May 5, 1862, a smaller Mexican force defeated the French army at the Battle of Puebla, slowing France's attempt to expand its control over the country. It's not Mexico's Independence Day—that's celebrated in September—but a symbol of resilience that later took on special meaning in the United States, where it grew into a celebration of Mexican heritage and culture.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_MayoAgave%22&FORM=HPQUIZ",
+  "hash": "b9d7429fc8aa5b6c350b668972576256",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260505",
+    "fullStartDateTime": "202605050700",
+    "endDate": "20260506"
+  },
+  "createdAt": "202605060430",
+  "originalUrlBase": "/th?id=OHR.MayoAgave_EN-US0521416350"
+}

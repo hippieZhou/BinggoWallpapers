@@ -1,0 +1,43 @@
+{
+  "date": "6. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Kräfte der Natur",
+  "bsTitle": "Die Kräfte der Natur",
+  "caption": "Gewitter über der Ebene, Bulgarien",
+  "copyright": "Gewitter über der Ebene, Bulgarien (© Revolu7ion93/Getty Images)",
+  "copyrightOnly": "© Revolu7ion93/Getty Images",
+  "copyrightLink": "/search?q=Bulgarien&form=hpcapt&filters=HpDate%3a%2220260505_2200%22",
+  "description": "Dunkle Gewitterwolken ziehen über die weiten Ebenen Bulgariens und entladen sich über einer offenen Kulturlandschaft. Die flachen Regionen im Norden und Süden des Landes zählen zu den fruchtbarsten Gebieten Südosteuropas und reagieren besonders sensibel auf plötzliche Wetterumschwünge.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BulgariaPlains%22&FORM=HPQUIZ",
+  "hash": "2720b5256d934c1653753b98bc473d83",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_DE-DE4866806694_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260505",
+    "fullStartDateTime": "202605052200",
+    "endDate": "20260506"
+  },
+  "createdAt": "202605060430",
+  "originalUrlBase": "/th?id=OHR.BulgariaPlains_DE-DE4866806694"
+}

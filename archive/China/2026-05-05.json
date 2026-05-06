@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "承受压力之下的平原",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%bf%9d%e5%8a%a0%e5%88%a9%e4%ba%9a&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260505_BulgariaPlains%22&FORM=HPQUIZ",
+  "hash": "2739f0f40598d8865abd872d85fa9d92",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260505",
+    "fullStartDateTime": "202605051600",
+    "endDate": "20260506"
+  },
+  "createdAt": "202605060430",
+  "originalUrlBase": "/th?id=OHR.BulgariaPlains_ZH-CN3853985252"
+}
