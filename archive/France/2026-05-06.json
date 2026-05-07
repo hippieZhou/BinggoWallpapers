@@ -1,0 +1,43 @@
+{
+  "date": "7 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un désert à l’état pur",
+  "bsTitle": "Un désert à l’état pur",
+  "caption": "Refuge faunique national de Kofa, Arizona, États-Unis",
+  "copyright": "Refuge faunique national de Kofa, Arizona, États-Unis (© Denis Tangney Jr/Getty Images)",
+  "copyrightOnly": "© Denis Tangney Jr/Getty Images",
+  "copyrightLink": "/search?q=Refuge+faunique+national+de+Kofa&form=hpcapt&filters=HpDate%3a%2220260506_2200%22",
+  "description": "Aux confins du désert de Sonora, dans le sud-ouest de l’Arizona, aux États-Unis, le refuge faunique national de Kofa (Kofa National Wildlife Refuge) déploie un horizon de pics acérés, de ciels immenses et de vie insoupçonnée. Créé en 1939 pour protéger le mouflon du désert, il conserve encore l’empreinte de ces silhouettes agiles qui dominent les crêtes rocheuses.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_Kofa%22&FORM=HPQUIZ",
+  "hash": "762489513f93ff4d5c488c23aa218830",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260506",
+    "fullStartDateTime": "202605062200",
+    "endDate": "20260507"
+  },
+  "createdAt": "202605070430",
+  "originalUrlBase": "/th?id=OHR.Kofa_FR-FR5084005411"
+}

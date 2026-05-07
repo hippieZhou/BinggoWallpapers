@@ -1,0 +1,43 @@
+{
+  "date": "May 6, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Plains under pressure",
+  "bsTitle": "Plains under pressure",
+  "caption": "Thunderstorm above the plains, Bulgaria",
+  "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)",
+  "copyrightOnly": "© Revolu7ion93/Getty Images",
+  "copyrightLink": "/search?q=Bulgaria&form=hpcapt&filters=HpDate%3a%2220260506_0700%22",
+  "description": "Located on the eastern Balkan Peninsula, Bulgaria sits at the crossroads of Europe and Asia, where ancient cultures, fertile landscapes, and shifting climates converge.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_BulgariaPlains%22&FORM=HPQUIZ",
+  "hash": "8f96045f8253f1605ac44417111322c4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260506",
+    "fullStartDateTime": "202605060700",
+    "endDate": "20260507"
+  },
+  "createdAt": "202605070430",
+  "originalUrlBase": "/th?id=OHR.BulgariaPlains_EN-US0576020979"
+}

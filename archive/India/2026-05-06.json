@@ -1,0 +1,43 @@
+{
+  "date": "May 7, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Desert, drawn wide",
+  "bsTitle": "Desert, drawn wide",
+  "caption": "Kofa National Wildlife Refuge, Arizona, United States",
+  "copyright": "Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)",
+  "copyrightOnly": "© Denis Tangney Jr/Getty Images",
+  "copyrightLink": "/search?q=Kofa+National+Wildlife+Refuge&form=hpcapt&filters=HpDate%3a%2220260506_1830%22",
+  "description": "Stretching across the Sonoran Desert in southwestern Arizona, United States, Kofa National Wildlife Refuge is a land of sharp peaks, wide skies and surprising life. The refuge was established in 1939 to protect desert bighorn sheep, whose sure-footed silhouettes still define the rugged landscape.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260506_Kofa%22&FORM=HPQUIZ",
+  "hash": "aeab5d28a8c1f5c65d414014c3cf07ce",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Kofa_EN-IN4942655895_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260506",
+    "fullStartDateTime": "202605061830",
+    "endDate": "20260507"
+  },
+  "createdAt": "202605070430",
+  "originalUrlBase": "/th?id=OHR.Kofa_EN-IN4942655895"
+}
