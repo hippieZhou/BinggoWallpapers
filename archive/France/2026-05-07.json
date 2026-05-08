@@ -1,0 +1,43 @@
+{
+  "date": "8 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Bien plus qu’un « iii ahn »",
+  "bsTitle": "Bien plus qu’un « iii ahn »",
+  "caption": "Journée mondiale de l’âne",
+  "copyright": "Ânesse sarde et son ânon, France (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=%c3%a2ne+animal&form=hpcapt&filters=HpDate%3a%2220260507_2200%22",
+  "description": "La Journée mondiale de l’âne rend hommage à l’un des plus fidèles alliés de l’être humain. Depuis des millénaires, l’âne accompagne les sociétés humaines grâce à son endurance, sa mémoire remarquable et son assurance dans les terrains difficiles. Loin d’être têtu, il observe, analyse et choisit la prudence plutôt que la précipitation.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_SardinianDonkey%22&FORM=HPQUIZ",
+  "hash": "ed36381cff5adb1888f69faa15da8fd9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_FR-FR6669383604_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260507",
+    "fullStartDateTime": "202605072200",
+    "endDate": "20260508"
+  },
+  "createdAt": "202605080412",
+  "originalUrlBase": "/th?id=OHR.SardinianDonkey_FR-FR6669383604"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "8 de may. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Más que un rebuzno",
+  "bsTitle": "Más que un rebuzno",
+  "caption": "Día Mundial del Burro",
+  "copyright": "Burra sarda con su cría, Francia (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+del+Burro&form=hpcapt&filters=HpDate%3a%2220260507_2200%22",
+  "description": "Desde hace más de 5.000 años, el burro acompaña al ser humano de forma constante y silenciosa. Con motivo del Día Mundial del Burro, merece la pena observar con más atención a un animal a menudo subestimado. Mucho más que un simple animal de carga, destaca por su carácter social y su notable memoria. En la imagen, una burra sarda junto a su cría refleja los fuertes vínculos de la especie, capaz de reconocer a individuos conocidos y mantener una clara cohesión grupal.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260507_SardinianDonkey%22&FORM=HPQUIZ",
+  "hash": "cc2e051704d574acc0d8d5f8accf29a0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ES-ES2075094183_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ES-ES2075094183_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ES-ES2075094183_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ES-ES2075094183_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260507",
+    "fullStartDateTime": "202605072200",
+    "endDate": "20260508"
+  },
+  "createdAt": "202605080412",
+  "originalUrlBase": "/th?id=OHR.SardinianDonkey_ES-ES2075094183"
+}
