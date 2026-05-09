@@ -1,0 +1,43 @@
+{
+  "date": "May 8, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Sardinian donkey mare and foal, France",
+  "copyright": "Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=Sardinian+donkey&form=hpcapt&filters=HpDate%3a%2220260508_0700%22",
+  "description": "Few animals have matched humanity's quiet resilience quite like the donkey. Donkeys have worked alongside people for thousands of years, prized for their endurance, sharp memory and sure-footed confidence on rugged ground.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SardinianDonkey%22&FORM=HPQUIZ",
+  "hash": "8bafe79be6d6e2f14a872ecdb1f3cf91",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260508",
+    "fullStartDateTime": "202605080700",
+    "endDate": "20260509"
+  },
+  "createdAt": "202605090419",
+  "originalUrlBase": "/th?id=OHR.SardinianDonkey_ROW1501196122"
+}

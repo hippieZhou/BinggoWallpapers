@@ -1,0 +1,43 @@
+{
+  "date": "9 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’eau, architecte de Krka",
+  "bsTitle": "L’eau, architecte de Krka",
+  "caption": "Chutes de Skradinski Buk, Parc national de Krka, Croatie",
+  "copyright": "Chutes de Skradinski Buk, Parc national de Krka, Croatie (© Amazing Aerial Agency/Adobe Stock)",
+  "copyrightOnly": "© Amazing Aerial Agency/Adobe Stock",
+  "copyrightLink": "/search?q=Parc+national+de+Krka&form=hpcapt&filters=HpDate%3a%2220260508_2200%22",
+  "description": "L’eau est l’architecte du parc national de Krka, en Croatie. Elle y sculpte des bassins émeraude et des chutes en gradins le long de la rivière Krka. L’image met en lumière les chutes de Skradinski Buk, véritables joyaux du parc, nichés dans une forêt dense près du village de Lozovac.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SkradinskiBuk%22&FORM=HPQUIZ",
+  "hash": "53daed4ff178fc85835140e84f62936b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_FR-FR6637164956_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260508",
+    "fullStartDateTime": "202605082200",
+    "endDate": "20260509"
+  },
+  "createdAt": "202605090419",
+  "originalUrlBase": "/th?id=OHR.SkradinskiBuk_FR-FR6637164956"
+}

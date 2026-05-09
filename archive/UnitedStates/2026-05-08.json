@@ -1,0 +1,43 @@
+{
+  "date": "May 8, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "More than a hee-haw",
+  "bsTitle": "More than a hee-haw",
+  "caption": "World Donkey Day",
+  "copyright": "Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=Donkey+animal&form=hpcapt&filters=HpDate%3a%2220260508_0700%22",
+  "description": "World Donkey Day celebrates one of humanity's most quietly capable partners. Donkeys have worked alongside people for thousands of years, prized for their endurance, sharp memory, and sure-footed confidence on rugged ground. Often mistaken for stubborn, they are actually careful thinkers—pausing to assess risk rather than rushing into trouble.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SardinianDonkey%22&FORM=HPQUIZ",
+  "hash": "ae153cfbf1ee080e193e1efb48f0fc27",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260508",
+    "fullStartDateTime": "202605080700",
+    "endDate": "20260509"
+  },
+  "createdAt": "202605090419",
+  "originalUrlBase": "/th?id=OHR.SardinianDonkey_EN-US0705945312"
+}

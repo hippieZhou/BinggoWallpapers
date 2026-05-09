@@ -1,0 +1,43 @@
+{
+  "date": "9. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Sprache des Wassers",
+  "bsTitle": "Die Sprache des Wassers",
+  "caption": "Wasserfälle von Skradinski Buk im Nationalpark Krka, Kroatien",
+  "copyright": "Wasserfälle von Skradinski Buk im Nationalpark Krka, Kroatien (© Amazing Aerial Agency/Adobe Stock)",
+  "copyrightOnly": "© Amazing Aerial Agency/Adobe Stock",
+  "copyrightLink": "/search?q=Nationalpark+Krka+Kroatien&form=hpcapt&filters=HpDate%3a%2220260508_2200%22",
+  "description": "Fließendes Wasser prägt im Nationalpark Krka seit Jahrtausenden eine Landschaft aus smaragdgrünen Becken und gestuften Kalkterrassen. Am Skradinski Buk, nahe dem Dorf Lozovac, verzweigt sich der Fluss in zahlreiche Arme, die über helle Kalkformationen durch dichten Wald in die Tiefe stürzen. So entsteht eine der eindrucksvollsten Wasserfalllandschaften Kroatiens.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SkradinskiBuk%22&FORM=HPQUIZ",
+  "hash": "ba9ebd9313e646596f6fa173f6e6a1a4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_DE-DE6216835034_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_DE-DE6216835034_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260508",
+    "fullStartDateTime": "202605082200",
+    "endDate": "20260509"
+  },
+  "createdAt": "202605090419",
+  "originalUrlBase": "/th?id=OHR.SkradinskiBuk_DE-DE6216835034"
+}

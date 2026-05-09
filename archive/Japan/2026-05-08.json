@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 5月 月 9 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "緑豊かな森に輝く清流",
+  "bsTitle": "緑豊かな森に輝く清流",
+  "caption": "緑豊かな森に輝く清流",
+  "copyright": "スクラディンスキ・ブクの滝, クロアチア (© Amazing Aerial Agency/Adobe Stock)",
+  "copyrightOnly": "© Amazing Aerial Agency/Adobe Stock",
+  "copyrightLink": "/search?q=%e3%82%b9%e3%82%af%e3%83%a9%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b9%e3%82%ad%e3%83%bb%e3%83%96%e3%82%af%e3%81%ae%e6%bb%9d&form=hpcapt&filters=HpDate%3a%2220260508_1500%22",
+  "description": "ここはクロアチアのクルカ国立公園にあるスクラディンスキ・ブクの滝。クルカ川沿いに広がるこの滝は、単一の滝ではなく、全長約 800m にわたり 17 段の石灰華（トラバーチン）段丘が連なる大規模な滝群です。公園を代表するスポットであり、近隣に整備された木製の遊歩道や橋から、滝の流れを間近に眺めることができます。この滝を中心に、クルカ国立公園は豊かな水系と野生生物の生息環境を守っています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260508_SkradinskiBuk%22&FORM=HPQUIZ",
+  "hash": "917aab0b66b8c278f2b62a43fd9e98a9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260508",
+    "fullStartDateTime": "202605081500",
+    "endDate": "20260509"
+  },
+  "createdAt": "202605090419",
+  "originalUrlBase": "/th?id=OHR.SkradinskiBuk_JA-JP5511016641"
+}
