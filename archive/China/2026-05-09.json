@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一份经久不衰的羁绊",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%af%8d%e4%ba%b2%e8%8a%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_MotherCub%22&FORM=HPQUIZ",
+  "hash": "2352321ae912c57a398c1e3fd9afca63",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260509",
+    "fullStartDateTime": "202605091600",
+    "endDate": "20260510"
+  },
+  "createdAt": "202605100439",
+  "originalUrlBase": "/th?id=OHR.MotherCub_ZH-CN0999123163"
+}

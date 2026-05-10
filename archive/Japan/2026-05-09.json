@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 5月 月 10 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は母の日",
+  "bsTitle": "今日は母の日",
+  "caption": "今日は母の日",
+  "copyright": "ホッキョクグマ, カナダ (© Hao Jiang/Getty Images)",
+  "copyrightOnly": "© Hao Jiang/Getty Images",
+  "copyrightLink": "/search?q=%e6%af%8d%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260509_1500%22",
+  "description": "今日 5 月 10 日は母の日。母親の日々の苦労をねぎらい、感謝を表す日です。そして、画像はカナダのワプスク国立公園で戯れるホッキョクグマの母子。ホッキョクグマは冬の巣穴で出産しますが、子どもが巣穴を出るまで最大で 8 ヵ月もの間絶食状態で母乳を与え、約 2 ～ 3 年かけて、母親ひとりで子を育てます。このホッキョクグマの生態は、世界でも有数の過酷な環境に生息しながらも命を守り続ける母性の尊さを伝えています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_MotherCub%22&FORM=HPQUIZ",
+  "hash": "edacf32943179d1fd32e21c415197e61",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260509",
+    "fullStartDateTime": "202605091500",
+    "endDate": "20260510"
+  },
+  "createdAt": "202605100439",
+  "originalUrlBase": "/th?id=OHR.MotherCub_JA-JP7023780399"
+}

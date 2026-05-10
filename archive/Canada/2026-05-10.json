@@ -1,0 +1,43 @@
+{
+  "date": "May 10, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A bond that endures",
+  "bsTitle": "A bond that endures",
+  "caption": "Happy Mother's Day!",
+  "copyright": "Polar bear mother and cubs playing in Wapusk National Park, Manitoba (© Hao Jiang/Getty Images)",
+  "copyrightOnly": "© Hao Jiang/Getty Images",
+  "copyrightLink": "/search?q=Mothers+Day&form=hpcapt&filters=HpDate%3a%2220260510_0400%22",
+  "description": "On Mother's Day, we honour the care, patience and protection that shape lives everywhere. In the wild, these qualities often stand out most where survival is hardest. Captured in Wapusk National Park in northern Manitoba, today's image shows a polar bear mother and her cubs sharing a playful moment on the Arctic tundra.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260510_MotherCub%22&FORM=HPQUIZ",
+  "hash": "f316a51043cf2c1a0bba73804cea88bf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_EN-CA9121944440_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_EN-CA9121944440_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_EN-CA9121944440_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MotherCub_EN-CA9121944440_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260510",
+    "fullStartDateTime": "202605100400",
+    "endDate": "20260511"
+  },
+  "createdAt": "202605100439",
+  "originalUrlBase": "/th?id=OHR.MotherCub_EN-CA9121944440"
+}

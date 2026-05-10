@@ -1,0 +1,43 @@
+{
+  "date": "10 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Plonger, s’envoler et survivre",
+  "bsTitle": "Plonger, s’envoler et survivre",
+  "caption": "Macareux moines, Pays de Galles",
+  "copyright": "Macareux moines, Pays de Galles (© FLPA/Alamy)",
+  "copyrightOnly": "© FLPA/Alamy",
+  "copyrightLink": "/search?q=macareux+moine&form=hpcapt&filters=HpDate%3a%2220260509_2200%22",
+  "description": "Le long des côtes rocheuses de l’Atlantique Nord, au Pays de Galles, le macareux moine niche dans des terriers creusés à flanc de falaise. Son plumage noir et blanc et son bec éclatant le rendent inoubliable, mais cet oiseau marin reste fragile\u202F: la raréfaction des poissons et le réchauffement des océans l’ont fait basculer dans la catégorie des espèces vulnérables. Chaque printemps, il revient fidèlement pondre un unique œuf, puis plonge avec aisance, «\u202Fvolant\u202F» sous l’eau à la poursuite de harengs et de lançons.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_Fratercula%22&FORM=HPQUIZ",
+  "hash": "ef1790abc81bcacfc6f3a68d524e8caa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_FR-FR5694797887_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_FR-FR5694797887_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_FR-FR5694797887_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_FR-FR5694797887_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260509",
+    "fullStartDateTime": "202605092200",
+    "endDate": "20260510"
+  },
+  "createdAt": "202605100439",
+  "originalUrlBase": "/th?id=OHR.Fratercula_FR-FR5694797887"
+}

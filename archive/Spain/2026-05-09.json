@@ -1,0 +1,43 @@
+{
+  "date": "10 de may. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Atardecer en la sabana",
+  "bsTitle": "Atardecer en la sabana",
+  "caption": "Leopardo en la sabana, reserva nacional de Masái Mara, Kenia",
+  "copyright": "Leopardo descansando, reserva nacional de Masái Mara, Kenia (© Klein & Hubert/Nature Picture Library)",
+  "copyrightOnly": "© Klein & Hubert/Nature Picture Library",
+  "copyrightLink": "/search?q=Leopardo&form=hpcapt&filters=HpDate%3a%2220260509_2200%22",
+  "description": "En la sabana del Masái Mara, en Kenia, los leopardos convierten los árboles en aliados. Subirse a las ramas les ofrece descanso, vigilancia y una ventaja clave: mantener sus presas fuera del alcance de competidores como leones o hienas, un comportamiento habitual en paisajes abiertos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260509_MasaiLeopard%22&FORM=HPQUIZ",
+  "hash": "b08bc22e68ba74de2892493063da1ee8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ES-ES0036994554_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ES-ES0036994554_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ES-ES0036994554_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_ES-ES0036994554_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260509",
+    "fullStartDateTime": "202605092200",
+    "endDate": "20260510"
+  },
+  "createdAt": "202605100439",
+  "originalUrlBase": "/th?id=OHR.MasaiLeopard_ES-ES0036994554"
+}
