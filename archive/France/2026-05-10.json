@@ -1,0 +1,43 @@
+{
+  "date": "11 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une architecture sous-marine",
+  "bsTitle": "Une architecture sous-marine",
+  "caption": "Grande Barrière de Corail, Queensland, Australie",
+  "copyright": "Vue aérienne de la Grande Barrière de Corail, Queensland, Australie (© Francesco Riccardo Iacomino/Getty Images)",
+  "copyrightOnly": "© Francesco Riccardo Iacomino/Getty Images",
+  "copyrightLink": "/search?q=Grande+Barri%c3%a8re+de+Corail+Australie&form=hpcapt&filters=HpDate%3a%2220260510_2200%22",
+  "description": "Au large de la côte nord-est de l’Australie, la Grande Barrière de corail s’étire dans les eaux turquoise de la mer de Corail. Bordant le Queensland sur plus de 2\u202F200 kilomètres, elle constitue le plus vaste récif corallien de la planète, composée de près de 3\u202F000 formations coralliennes et de centaines d’îles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260510_QueenslandReef%22&FORM=HPQUIZ",
+  "hash": "4ae65d754d944e1b2b0cf9401c9b0ccd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_FR-FR7051247989_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_FR-FR7051247989_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_FR-FR7051247989_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_FR-FR7051247989_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260510",
+    "fullStartDateTime": "202605102200",
+    "endDate": "20260511"
+  },
+  "createdAt": "202605110454",
+  "originalUrlBase": "/th?id=OHR.QueenslandReef_FR-FR7051247989"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "11. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Mosaik unter Wasser",
+  "bsTitle": "Ein Mosaik unter Wasser",
+  "caption": "Great Barrier Reef aus der Luft, Queensland, Australien",
+  "copyright": "Great Barrier Reef aus der Luft, Queensland, Australien (© Francesco Riccardo Iacomino/Getty Images)",
+  "copyrightOnly": "© Francesco Riccardo Iacomino/Getty Images",
+  "copyrightLink": "/search?q=Great+Barrier+Reef+Australien&form=hpcapt&filters=HpDate%3a%2220260510_2200%22",
+  "description": "Wie ein schimmerndes Mosaik breitet sich vor der Nordostküste Australiens im Korallenmeer eines der größten Naturwunder der Erde aus: das Great Barrier Reef. Das Netzwerk aus fast 3.000 Riffen und Hunderten Inseln erstreckt sich entlang der Küste von Queensland und bildet das größte zusammenhängende Korallenriffsystem der Welt. Es reicht von Norden nach Süden über mehr als 2.300 Kilometer.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260510_QueenslandReef%22&FORM=HPQUIZ",
+  "hash": "9a1154be830989ba9e637a965aed34cb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_DE-DE8475072784_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_DE-DE8475072784_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_DE-DE8475072784_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_DE-DE8475072784_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260510",
+    "fullStartDateTime": "202605102200",
+    "endDate": "20260511"
+  },
+  "createdAt": "202605110454",
+  "originalUrlBase": "/th?id=OHR.QueenslandReef_DE-DE8475072784"
+}

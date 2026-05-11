@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Cidades submersas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Grande Barreira de Corais, Queensland, Austrália (© Francesco Riccardo Iacomino/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Grande+Barreira+de+Corais&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260511_QueenslandReef%22&FORM=HPQUIZ",
+  "hash": "15d33dd5bd6cc8b9fdd3630b7b34368a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_PT-BR2906227798_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_PT-BR2906227798_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_PT-BR2906227798_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_PT-BR2906227798_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260511",
+    "fullStartDateTime": "202605110300",
+    "endDate": "20260512"
+  },
+  "createdAt": "202605110454",
+  "originalUrlBase": "/th?id=OHR.QueenslandReef_PT-BR2906227798"
+}
