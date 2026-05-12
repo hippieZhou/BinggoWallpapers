@@ -1,0 +1,43 @@
+{
+  "date": "May 12, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Flap, dive, survive",
+  "bsTitle": "Flap, dive, survive",
+  "caption": "Atlantic puffins, Wales",
+  "copyright": "Atlantic puffins, Wales (© FLPA/Alamy)",
+  "copyrightOnly": "© FLPA/Alamy",
+  "copyrightLink": "/search?q=Atlantic+puffin&form=hpcapt&filters=HpDate%3a%2220260512_0400%22",
+  "description": "Along the rocky coasts of the North Atlantic, Atlantic puffins make their homes in burrows and cliffside crevices. These seabirds, with their black‑and‑white plumage and colourful beaks, are classified by the IUCN as vulnerable, as overfishing and changing ocean conditions reduce the availability of their prey. Each spring, they return to breed, laying a single egg in carefully dug burrows. Remarkable swimmers, they use their wings to 'fly' underwater when hunting small fish such as herring and sand eels.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_Fratercula%22&FORM=HPQUIZ",
+  "hash": "bd6bd806366c82394320c6f65a2c1af6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_EN-CA9420779261_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260512",
+    "fullStartDateTime": "202605120400",
+    "endDate": "20260513"
+  },
+  "createdAt": "202605120431",
+  "originalUrlBase": "/th?id=OHR.Fratercula_EN-CA9420779261"
+}

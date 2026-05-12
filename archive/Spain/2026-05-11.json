@@ -1,0 +1,43 @@
+{
+  "date": "12 de may. de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Alas bajo el mar",
+  "bsTitle": "Alas bajo el mar",
+  "caption": "Frailecillos atlánticos, Gales",
+  "copyright": "Frailecillos atlánticos, Gales (© FLPA/Alamy)",
+  "copyrightOnly": "© FLPA/Alamy",
+  "copyrightLink": "/search?q=Frailecillo+atl%c3%a1ntico&form=hpcapt&filters=HpDate%3a%2220260511_2200%22",
+  "description": "En el Atlántico Norte, entre acantilados abruptos y costas azotadas por el viento, viven los frailecillos atlánticos. Su aspecto es inconfundible, con cuerpo blanco y negro y un pico de colores vivos que los hace especialmente llamativos. Lamentablemente, la UICN los considera vulnerables, ya que la escasez de alimento provocada por la sobrepesca y los cambios en el océano afecta directamente a su supervivencia.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260511_Fratercula%22&FORM=HPQUIZ",
+  "hash": "8590f401fce6fef72c48037e9ce35731",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_ES-ES7096599670_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260511",
+    "fullStartDateTime": "202605112200",
+    "endDate": "20260512"
+  },
+  "createdAt": "202605120431",
+  "originalUrlBase": "/th?id=OHR.Fratercula_ES-ES7096599670"
+}

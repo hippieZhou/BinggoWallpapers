@@ -1,0 +1,43 @@
+{
+  "date": "May 11, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Underwater architecture",
+  "bsTitle": "Underwater architecture",
+  "caption": "Great Barrier Reef from above, Queensland, Australia",
+  "copyright": "Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)",
+  "copyrightOnly": "© Francesco Riccardo Iacomino/Getty Images",
+  "copyrightLink": "/search?q=Great+Barrier+Reef+Australia&form=hpcapt&filters=HpDate%3a%2220260511_0700%22",
+  "description": "One of the world's greatest natural wonders stretches through the turquoise waters of the Coral Sea off Australia's northeast shoreline. The Great Barrier Reef, running along the coast of Queensland, is the world's largest coral reef system. It is made up of nearly 3,000 individual reefs and hundreds of islands, spanning more than 1,400 miles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260511_QueenslandReef%22&FORM=HPQUIZ",
+  "hash": "754725cebcfb9923a7a69da04a849da2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260511",
+    "fullStartDateTime": "202605110700",
+    "endDate": "20260512"
+  },
+  "createdAt": "202605120431",
+  "originalUrlBase": "/th?id=OHR.QueenslandReef_EN-US0977236952"
+}

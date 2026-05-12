@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Carisma sob pressão",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Papagaios-do-mar, País de Gales (© FLPA/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=papagaio-do-mar&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_Fratercula%22&FORM=HPQUIZ",
+  "hash": "ddf4ca58084cd458b93b914691c15b7a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Fratercula_PT-BR3505081741_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260512",
+    "fullStartDateTime": "202605120300",
+    "endDate": "20260513"
+  },
+  "createdAt": "202605120431",
+  "originalUrlBase": "/th?id=OHR.Fratercula_PT-BR3505081741"
+}
