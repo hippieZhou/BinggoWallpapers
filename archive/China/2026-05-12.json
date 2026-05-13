@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "银河系，摇滚吧！",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%98%bf%e6%8b%89%e5%b7%b4%e9%a9%ac%e5%b1%b1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+  "hash": "abe3fdbc9d5da72fed5f115264cf2635",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260512",
+    "fullStartDateTime": "202605121600",
+    "endDate": "20260513"
+  },
+  "createdAt": "202605130438",
+  "originalUrlBase": "/th?id=OHR.AlabamaHills_ZH-CN1387018045"
+}

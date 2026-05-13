@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 5月 月 13 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "岩のアーチ越しに望む天の川",
+  "bsTitle": "岩のアーチ越しに望む天の川",
+  "caption": "岩のアーチ越しに望む天の川",
+  "copyright": "アラバマヒルズ, 米国 カリフォルニア州 (© Tim Fitzharris/Minden Pictures)",
+  "copyrightOnly": "© Tim Fitzharris/Minden Pictures",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%83%9e%e3%83%92%e3%83%ab%e3%82%ba&form=hpcapt&filters=HpDate%3a%2220260512_1500%22",
+  "description": "ここは米国カリフォルニア州シエラネバダ山脈の東側に広がるアラバマヒルズ。この独特な地形は、約 1 億年前のプレート沈み込みに伴うマグマ活動によって形成された花崗岩類と、それ以前の火山岩が変成した岩石が、その後の長い年月にわたる風と水の侵食を受けたことで形づくられました。そして、今日の画像は丸みを帯びた花崗岩のメビウスアーチ越しに、天の川がくっきりと浮かび上がる一枚です。光害が少ないことから星空観察や夜景撮影の名所として知られ、1920 年代以降は数多くの映画やドラマのロケ地として使用されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+  "hash": "49e02f551936aca3f7b14a7a0337b775",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260512",
+    "fullStartDateTime": "202605121500",
+    "endDate": "20260513"
+  },
+  "createdAt": "202605130438",
+  "originalUrlBase": "/th?id=OHR.AlabamaHills_JA-JP6287825652"
+}

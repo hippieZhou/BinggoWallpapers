@@ -1,0 +1,43 @@
+{
+  "date": "13. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Tor zum Universum",
+  "bsTitle": "Tor zum Universum",
+  "caption": "Felsbogen und Milchstraße, Alabama Hills, Kalifornien, USA",
+  "copyright": "Felsbogen und Milchstraße, Alabama Hills, Sierra Nevada, Kalifornien, USA (© Tim Fitzharris/Minden Pictures)",
+  "copyrightOnly": "© Tim Fitzharris/Minden Pictures",
+  "copyrightLink": "/search?q=Alabama+Hills&form=hpcapt&filters=HpDate%3a%2220260512_2200%22",
+  "description": "Abgerundete Granitfelsen und natürliche Bögen prägen die Landschaft der Alabama Hills im Osten Kaliforniens. Die markanten Formationen am Rande der Sierra Nevada entstanden vor rund 100 Millionen Jahren durch magmatische Prozesse und wurden anschließend über lange Zeit von Wind und Temperaturwechseln geformt. Heute bilden sie einen eindrucksvollen Rahmen für den Nachthimmel.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+  "hash": "4b684e32c447947a31bec1d9b144aa11",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_DE-DE8956133719_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260512",
+    "fullStartDateTime": "202605122200",
+    "endDate": "20260513"
+  },
+  "createdAt": "202605130438",
+  "originalUrlBase": "/th?id=OHR.AlabamaHills_DE-DE8956133719"
+}

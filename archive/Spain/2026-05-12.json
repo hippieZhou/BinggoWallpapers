@@ -1,0 +1,43 @@
+{
+  "date": "13 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Bajo los astros",
+  "bsTitle": "Bajo los astros",
+  "caption": "Arco y Vía Láctea, Alabama Hills, Sierra Nevada, California, EE. UU.",
+  "copyright": "Arco y Vía Láctea, Alabama Hills, Sierra Nevada, California, EE. UU. (© Tim Fitzharris/Minden Pictures)",
+  "copyrightOnly": "© Tim Fitzharris/Minden Pictures",
+  "copyrightLink": "/search?q=Alabama+Hills+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220260512_2200%22",
+  "description": "Bienvenidos a Alabama Hills, en el estado estadounidense de California. Sus formaciones de granito se originaron hace unos cien millones de años, cuando se formó el batolito de la Sierra Nevada, y con el tiempo el viento y el agua fueron erosionando la superficie hasta modelar sus redondeadas y sugerentes formas. Quienes las visitan pueden pasear entre los arcos naturales, hacer excursiones, fotografiar paisajes singulares o recorrer los senderos a caballo o en bicicleta. También pueden admirar las flores silvestres que aparecen según la temporada. La escasa contaminación lumínica convierte a estas colinas en un lugar excelente para observar el cielo nocturno.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+  "hash": "9e76bb0b52e79916f395ba8f6c00a8d0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_ES-ES6766032995_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260512",
+    "fullStartDateTime": "202605122200",
+    "endDate": "20260513"
+  },
+  "createdAt": "202605130438",
+  "originalUrlBase": "/th?id=OHR.AlabamaHills_ES-ES6766032995"
+}

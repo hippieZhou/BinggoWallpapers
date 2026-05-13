@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Geologia cinematográfica",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Arco rochoso e Via Láctea, Alabama Hills, Sierra Nevada, Califórnia, EUA (© Tim Fitzharris/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Alabama+Hills+na+Calif%c3%b3rnia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_AlabamaHills%22&FORM=HPQUIZ",
+  "hash": "381ce6ed8dd3ca5c87fd34151dbaf176",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_PT-BR6088970693_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260513",
+    "fullStartDateTime": "202605130300",
+    "endDate": "20260514"
+  },
+  "createdAt": "202605130438",
+  "originalUrlBase": "/th?id=OHR.AlabamaHills_PT-BR6088970693"
+}

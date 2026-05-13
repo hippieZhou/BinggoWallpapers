@@ -1,0 +1,43 @@
+{
+  "date": "13 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’art de briller sans projecteurs",
+  "bsTitle": "L’art de briller sans projecteurs",
+  "caption": "Voie lactée et arche naturelle, Alabama Hills, États-Unis",
+  "copyright": "Voie lactée et arche naturelle, Alabama Hills, Sierra Nevada, Californie, États-Unis (© Tim Fitzharris/Minden Pictures)",
+  "copyrightOnly": "© Tim Fitzharris/Minden Pictures",
+  "copyrightLink": "/search?q=Alabama+Hills&form=hpcapt&filters=HpDate%3a%2220260512_2200%22",
+  "description": "Dans la lumière nocturne, les arches de granit des Alabama Hills encadrent la Voie lactée au-dessus des reliefs austères de la Sierra Nevada orientale, en Californie. Ces collines, célèbres pour leurs blocs arrondis et leurs roches polies, sont issues de processus géologiques anciens, liés au soulèvement et à l’érosion de roches principalement granitiques. Le vent et l’eau ont patiemment sculpté la pierre, créant aujourd’hui un terrain de jeu naturel où l’on peut marcher entre les arches, observer la flore sauvage printanière ou explorer à cheval ou à vélo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260512_AlabamaHills%22&FORM=HPQUIZ",
+  "hash": "5f2b82afdb57e406525c829d8622e608",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260512",
+    "fullStartDateTime": "202605122200",
+    "endDate": "20260513"
+  },
+  "createdAt": "202605130438",
+  "originalUrlBase": "/th?id=OHR.AlabamaHills_FR-FR7595844295"
+}
