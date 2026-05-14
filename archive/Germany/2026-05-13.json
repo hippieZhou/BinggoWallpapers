@@ -1,0 +1,43 @@
+{
+  "date": "14. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "An Vaters Seite",
+  "bsTitle": "An Vaters Seite",
+  "caption": "Alles Gute zum Vatertag!",
+  "copyright": "Löwenmännchen mit Jungtier (© JasonPrince/iStock/Getty Images)",
+  "copyrightOnly": "© JasonPrince/iStock/Getty Images",
+  "copyrightLink": "/search?q=Vatertag&form=hpcapt&filters=HpDate%3a%2220260513_2200%22",
+  "description": "Am Vatertag feiern wir Menschen, die Halt geben, Orientierung bieten und oft mehr durch ihr Handeln als durch große Worte prägen. In Deutschland fällt dieser Tag mit Christi Himmelfahrt zusammen und ist auch als Herrentag oder Männertag bekannt, vor allem in Ostdeutschland. Es ist eine Gelegenheit, nicht nur Väter, sondern auch Vaterfiguren zu würdigen, die begleiten, ermutigen und Verantwortung übernehmen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_FathersDayItaly%22&FORM=HPQUIZ",
+  "hash": "dbe6a66eace7df6ca5bd309fe861d774",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260513",
+    "fullStartDateTime": "202605132200",
+    "endDate": "20260514"
+  },
+  "createdAt": "202605140436",
+  "originalUrlBase": "/th?id=OHR.FathersDayItaly_DE-DE9115360587"
+}

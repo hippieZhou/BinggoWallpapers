@@ -1,0 +1,43 @@
+{
+  "date": "14 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un voyage dans le temps",
+  "bsTitle": "Un voyage dans le temps",
+  "caption": "Pitigliano, Toscane, Italie",
+  "copyright": "Ville médiévale de Pitigliano, Toscane, Italie (© bluejayphoto/Getty Images Plus)",
+  "copyrightOnly": "© bluejayphoto/Getty Images Plus",
+  "copyrightLink": "/search?q=ville+Pitigliano+Toscane&form=hpcapt&filters=HpDate%3a%2220260513_2200%22",
+  "description": "Perché sur une crête de tuf volcanique au sud de la Toscane, en Italie, Pitigliano domine les vallons tel un décor sculpté dans la pierre. Héritière d’un ancien établissement étrusque, la ville déroule ses ruelles sinueuses entre remparts médiévaux et palais Renaissance. À chaque détour, la roche semble faire écho à la vie passée, tandis que de petites places invitent à s’arrêter pour un café ou une glace, dans un quotidien citadin animé.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_Pitigliano%22&FORM=HPQUIZ",
+  "hash": "0286b851220f8a7302857fd437541c95",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_FR-FR6271151676_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260513",
+    "fullStartDateTime": "202605132200",
+    "endDate": "20260514"
+  },
+  "createdAt": "202605140436",
+  "originalUrlBase": "/th?id=OHR.Pitigliano_FR-FR6271151676"
+}

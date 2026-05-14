@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Profumo di tradizioni",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pitigliano, Provincia di Grosseto, Toscana (© bluejayphoto/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Pitigliano&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_Pitigliano%22&FORM=HPQUIZ",
+  "hash": "e6a7eac6cb42a623a04e2534f83f631c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_IT-IT4525034108_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260513",
+    "fullStartDateTime": "202605132200",
+    "endDate": "20260514"
+  },
+  "createdAt": "202605140436",
+  "originalUrlBase": "/th?id=OHR.Pitigliano_IT-IT4525034108"
+}

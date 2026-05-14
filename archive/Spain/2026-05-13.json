@@ -1,0 +1,43 @@
+{
+  "date": "14 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un viaje en el tiempo",
+  "bsTitle": "Un viaje en el tiempo",
+  "caption": "Pitigliano, Toscana, Italia",
+  "copyright": "Ciudad medieval de Pitigliano, Toscana, Italia (© bluejayphoto/Getty Images Plus)",
+  "copyrightOnly": "© bluejayphoto/Getty Images Plus",
+  "copyrightLink": "/search?q=Pitigliano&form=hpcapt&filters=HpDate%3a%2220260513_2200%22",
+  "description": "Encaramado sobre una cresta de toba en el sur de la Toscana, Italia, Pitigliano es un pequeño pueblo de orígenes etruscos, y sus calles sinuosas aún evocan el pasado, desde fortificaciones medievales hasta palacios renacentistas. Al recorrer sus estrechos callejones, se pueden sentir siglos de vida tallados en la piedra, mientras pequeñas plazas invitan a hacer pausas para tomar un café o un helado. Este pintoresco enclave puede recordarnos al pueblo de Castellfollit de la Roca en Cataluña, por su espectacular emplazamiento y su armonía con el paisaje.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_Pitigliano%22&FORM=HPQUIZ",
+  "hash": "ce2aa3f7692113fe6a6f78f9accb08a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ES-ES6539419592_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260513",
+    "fullStartDateTime": "202605132200",
+    "endDate": "20260514"
+  },
+  "createdAt": "202605140436",
+  "originalUrlBase": "/th?id=OHR.Pitigliano_ES-ES6539419592"
+}

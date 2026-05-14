@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "História à flor da rocha",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cidade medieval de Pitigliano, Toscana, Itália (© bluejayphoto/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=cidade+de+Pitigliano&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_Pitigliano%22&FORM=HPQUIZ",
+  "hash": "44dab79d1908e9c7f8985c9d56126cc2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_PT-BR6490421583_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_PT-BR6490421583_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_PT-BR6490421583_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_PT-BR6490421583_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260514",
+    "fullStartDateTime": "202605140300",
+    "endDate": "20260515"
+  },
+  "createdAt": "202605140436",
+  "originalUrlBase": "/th?id=OHR.Pitigliano_PT-BR6490421583"
+}

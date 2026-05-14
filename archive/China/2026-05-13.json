@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一场穿越时空的旅程",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%9a%ae%e8%92%82%e5%88%a9%e4%ba%9a%e8%af%ba&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260513_Pitigliano%22&FORM=HPQUIZ",
+  "hash": "3b56bc81ada1489dd30ab0de930100d5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260513",
+    "fullStartDateTime": "202605131600",
+    "endDate": "20260514"
+  },
+  "createdAt": "202605140436",
+  "originalUrlBase": "/th?id=OHR.Pitigliano_ZH-CN1509921892"
+}
