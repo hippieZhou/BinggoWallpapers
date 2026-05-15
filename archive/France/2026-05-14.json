@@ -1,0 +1,43 @@
+{
+  "date": "15 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le géant des fonds marins",
+  "bsTitle": "Le géant des fonds marins",
+  "caption": "Famille de cachalots, Océan Indien",
+  "copyright": "Famille de cachalots, Océan Indien (© Tony Wu/Nature Picture Library)",
+  "copyrightOnly": "© Tony Wu/Nature Picture Library",
+  "copyrightLink": "/search?q=cachalot&form=hpcapt&filters=HpDate%3a%2220260514_2200%22",
+  "description": "Doté d’un cerveau exceptionnellement développé, le cachalot explore bien au-delà de la surface. Partons à la rencontre d’un géant des profondeurs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_EndangeredWhales%22&FORM=HPQUIZ",
+  "hash": "4839f15f5e54a4c5ad3db2933195cb86",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_FR-FR6600435943_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260514",
+    "fullStartDateTime": "202605142200",
+    "endDate": "20260515"
+  },
+  "createdAt": "202605150443",
+  "originalUrlBase": "/th?id=OHR.EndangeredWhales_FR-FR6600435943"
+}

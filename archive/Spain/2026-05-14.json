@@ -1,0 +1,43 @@
+{
+  "date": "15 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El guardián de las profundidades",
+  "bsTitle": "El guardián de las profundidades",
+  "caption": "Cachalotes, océano Índico",
+  "copyright": "Una familia de cachalotes, océano Índico (© Tony Wu/Nature Picture Library)",
+  "copyrightOnly": "© Tony Wu/Nature Picture Library",
+  "copyrightLink": "/search?q=Cachalote&form=hpcapt&filters=HpDate%3a%2220260514_2200%22",
+  "description": "Hoy admiramos una familia de cachalotes nadando en el océano Índico, uno de los escenarios donde estos gigantes recorren largas distancias en busca de alimento. El cachalote es el mayor de los cetáceos con dientes y puede superar los quince metros de longitud. Su enorme cabeza alberga un órgano lleno de aceite que le ayuda a regular la flotabilidad y a producir potentes chasquidos. Gracias a ese sonido localizan presas en la oscuridad de las profundidades.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_EndangeredWhales%22&FORM=HPQUIZ",
+  "hash": "723d21880718b8b05e45ed63e25b2bc0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_ES-ES4800033138_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260514",
+    "fullStartDateTime": "202605142200",
+    "endDate": "20260515"
+  },
+  "createdAt": "202605150443",
+  "originalUrlBase": "/th?id=OHR.EndangeredWhales_ES-ES4800033138"
+}

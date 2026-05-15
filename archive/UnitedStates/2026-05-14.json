@@ -1,0 +1,43 @@
+{
+  "date": "May 14, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A journey through time",
+  "bsTitle": "A journey through time",
+  "caption": "Pitigliano, Tuscany, Italy",
+  "copyright": "Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)",
+  "copyrightOnly": "© bluejayphoto/Getty Images Plus",
+  "copyrightLink": "/search?q=Pitigliano+Tuscany&form=hpcapt&filters=HpDate%3a%2220260514_0700%22",
+  "description": "Perched on a tufa ridge in southern Tuscany, Italy, Pitigliano is a small town with a big personality. Its roots stretch back to Etruscan times, and the winding streets still echo the past, from medieval fortifications to Renaissance palaces. Walking through its narrow alleys, you can feel centuries of life carved into the stone, while small piazzas invite pauses for coffee or gelato. This enduring treasure is often called 'Little Jerusalem' for its historic Jewish quarter, where a synagogue and historic cemetery tell stories of a once-thriving community.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_Pitigliano%22&FORM=HPQUIZ",
+  "hash": "ee309ede6f72bd69d83e45a0b50b77d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260514",
+    "fullStartDateTime": "202605140700",
+    "endDate": "20260515"
+  },
+  "createdAt": "202605150443",
+  "originalUrlBase": "/th?id=OHR.Pitigliano_EN-US1208308627"
+}

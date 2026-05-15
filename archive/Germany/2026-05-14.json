@@ -1,0 +1,43 @@
+{
+  "date": "15. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ganz schön laut",
+  "bsTitle": "Ganz schön laut",
+  "caption": "Tag der gefährdeten Arten",
+  "copyright": "Eine Pottwal-Familie im Indischen Ozean (© Tony Wu/Nature Picture Library)",
+  "copyrightOnly": "© Tony Wu/Nature Picture Library",
+  "copyrightLink": "/search?q=Welttag+der+gef%c3%a4hrdeten+Arten&form=hpcapt&filters=HpDate%3a%2220260514_2200%22",
+  "description": "Der Pottwal ist ein Gigant der Tiefe und ein wahrer Meister der Extreme. Er zeigt eindrucksvoll, wozu Anpassung fähig ist. Anlässlich des Tags der gefährdeten Arten rückt ein Lebewesen in den Fokus, das zu den beeindruckendsten Tieren unseres Planeten gehört.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260514_EndangeredWhales%22&FORM=HPQUIZ",
+  "hash": "abd9c81f5cff5e76c76c68117c628500",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_DE-DE2753356925_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260514",
+    "fullStartDateTime": "202605142200",
+    "endDate": "20260515"
+  },
+  "createdAt": "202605150443",
+  "originalUrlBase": "/th?id=OHR.EndangeredWhales_DE-DE2753356925"
+}
