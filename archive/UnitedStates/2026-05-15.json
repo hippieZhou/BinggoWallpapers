@@ -1,0 +1,43 @@
+{
+  "date": "May 15, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Whale you save me?",
+  "bsTitle": "Whale you save me?",
+  "caption": "Endangered Species Day",
+  "copyright": "A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)",
+  "copyrightOnly": "© Tony Wu/Nature Picture Library",
+  "copyrightLink": "/search?q=Endangered+Species+Day&form=hpcapt&filters=HpDate%3a%2220260515_0700%22",
+  "description": "Brains, brawn, and a serious case of going deep—the sperm whale isn't here for surface-level living. This Endangered Species Day, meet a giant that thinks big and dives deeper.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260515_EndangeredWhales%22&FORM=HPQUIZ",
+  "hash": "10098cbe367805f5e194228d8710b42f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260515",
+    "fullStartDateTime": "202605150700",
+    "endDate": "20260516"
+  },
+  "createdAt": "202605160424",
+  "originalUrlBase": "/th?id=OHR.EndangeredWhales_EN-US0380100553"
+}

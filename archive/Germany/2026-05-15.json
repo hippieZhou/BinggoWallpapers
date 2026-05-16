@@ -1,0 +1,43 @@
+{
+  "date": "16. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Zarte Zeichen der Natur",
+  "bsTitle": "Zarte Zeichen der Natur",
+  "caption": "Argus‑Bläuling auf einer Blüte",
+  "copyright": "Argus‑Bläuling auf einer Blüte (© Remus86/Getty Images)",
+  "copyrightOnly": "© Remus86/Getty Images",
+  "copyrightLink": "/search?q=Argus%e2%80%91Bl%c3%a4uling&form=hpcapt&filters=HpDate%3a%2220260515_2200%22",
+  "description": "Kaum hat die warme Jahreszeit begonnen, flattert ein kleiner Botschafter artenreicher Landschaften durch die Wiesen: der Argus‑Bläuling, auch Geißklee‑Bläuling genannt. Er gehört zu den bekanntesten Tagfaltern Deutschlands. Die Männchen leuchten in intensivem Blau, während die Weibchen eher braun gefärbt sind. Namensgebend sind die augenähnlichen Flecken mit orangefarbenem Rand auf der Flügelunterseite. Besonders faszinierend ist sein Lebenszyklus, denn die Raupen leben in enger Gemeinschaft mit Ameisen, die sie beschützen und dafür zuckerhaltige Absonderungen erhalten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260515_ButterflyFlower%22&FORM=HPQUIZ",
+  "hash": "17b0e922a920894a00ca4efd57d1aa4a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260515",
+    "fullStartDateTime": "202605152200",
+    "endDate": "20260516"
+  },
+  "createdAt": "202605160424",
+  "originalUrlBase": "/th?id=OHR.ButterflyFlower_DE-DE3210389568"
+}
