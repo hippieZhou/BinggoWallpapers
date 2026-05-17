@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 5月 月 17 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "山頂から望む夕日",
+  "bsTitle": "山頂から望む夕日",
+  "caption": "山頂から望む夕日",
+  "copyright": "ホークスビル山, 米国 バージニア州 (© John Baggaley/Getty Images)",
+  "copyrightOnly": "© John Baggaley/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9%e3%83%93%e3%83%ab%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220260516_1500%22",
+  "description": "米国バージニア州に位置するシェナンドー国立公園は、細長い形状をした公園です。面積は約 811km² で、1935 年の設立当初は、農耕や伐採で失われた自然を回復するため、再植林が進められました。現在は土地のほとんどが森林に覆われ、200 種以上の鳥類と 40 種以上の魚類が生息するなど多様な生態系が保たれています。そして、画像は公園内で最も標高が高いホークスビル山です。高さは 1,235m で、整備されたスカイライン・ドライブ道を利用して、山頂へ向かうトレイルの登山口にアクセスできます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_ShenandoahSunset%22&FORM=HPQUIZ",
+  "hash": "d2dca8e62ff7705a5c257f9888859f5b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260516",
+    "fullStartDateTime": "202605161500",
+    "endDate": "20260517"
+  },
+  "createdAt": "202605170448",
+  "originalUrlBase": "/th?id=OHR.ShenandoahSunset_JA-JP8062281581"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "17 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Sommet paisible, vue éclatante",
+  "bsTitle": "Sommet paisible, vue éclatante",
+  "caption": "Hawksbill Mountain, Parc national de Shenandoah, États-Unis",
+  "copyright": "Hawksbill Mountain, Parc national de Shenandoah, Virginie, États-Unis (© John Baggaley/Getty Images)",
+  "copyrightOnly": "© John Baggaley/Getty Images",
+  "copyrightLink": "/search?q=sommet+Hawksbill+Mountain&form=hpcapt&filters=HpDate%3a%2220260516_2200%22",
+  "description": "À l’est des États-Unis, la hauteur suffit rarement à expliquer l’émotion d’un panorama. À 1\u202F234 mètres, Hawksbill Mountain, point culminant du parc national de Shenandoah (1\u202F234 m), rappelle que ces montagnes anciennes misent davantage sur l’espace ouvert que sur l’altitude. Créé en 1935, le parc a vu ses terres agricoles et forestières progressivement reconquises par les bois. Aujourd’hui, chênes et érables côtoient le laurier des montagnes et les rhododendrons, sur des roches âgées de plus d’un milliard d’années. Plus de 200 espèces d’oiseaux recensées y trouvent refuge, ainsi que des poissons discrets dans les rivières, et les chiens tenus en laisse sont autorisés sur de nombreux sentiers.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_ShenandoahSunset%22&FORM=HPQUIZ",
+  "hash": "735e6dccd3def17d5ec46d1257d21760",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_FR-FR7678507020_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260516",
+    "fullStartDateTime": "202605162200",
+    "endDate": "20260517"
+  },
+  "createdAt": "202605170448",
+  "originalUrlBase": "/th?id=OHR.ShenandoahSunset_FR-FR7678507020"
+}

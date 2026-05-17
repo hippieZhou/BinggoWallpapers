@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "静谧之巅，喧嚣之景",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国 (© John Baggaley/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%bb%99%e7%ba%b3%e5%ba%a6%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_ShenandoahSunset%22&FORM=HPQUIZ",
+  "hash": "1892c6e4088f18f0f98eece0efda3870",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260516",
+    "fullStartDateTime": "202605161600",
+    "endDate": "20260517"
+  },
+  "createdAt": "202605170448",
+  "originalUrlBase": "/th?id=OHR.ShenandoahSunset_ZH-CN4399136794"
+}

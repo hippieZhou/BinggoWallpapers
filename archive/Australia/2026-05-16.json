@@ -1,0 +1,43 @@
+{
+  "date": "May 16, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Smith Rock State Park, Oregon, United States",
+  "copyright": "Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)",
+  "copyrightOnly": "© Alex Ratson/Getty Images",
+  "copyrightLink": "/search?q=Smith+Rock+State+Park&form=hpcapt&filters=HpDate%3a%2220260516_0700%22",
+  "description": "What do you call a place where the rocks do the climbing, and humans try to keep up? Welcome to Smith Rock State Park in Oregon, United States, where cliffs rise fast, and excuses fall faster. It sits inside the 40-kilometre-long Crooked River Caldera, shaped by multiple volcanic eruptions. Its welded tuff cliffs are made from compressed volcanic ash that cooled under pressure. The Crooked River carved the canyon, while formations like the Spire rise up to 180 metres.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_SmithRockPark%22&FORM=HPQUIZ",
+  "hash": "1ea9405d2417422ba64b12a3a15bf2bb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260516",
+    "fullStartDateTime": "202605160700",
+    "endDate": "20260517"
+  },
+  "createdAt": "202605170448",
+  "originalUrlBase": "/th?id=OHR.SmithRockPark_ROW6845039893"
+}

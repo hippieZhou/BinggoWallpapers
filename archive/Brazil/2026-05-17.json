@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um relevo refeito",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Montanha Hawksbill, Parque Nacional de Shenandoah, Virgínia, Estados Unidos (© John Baggaley/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Shenandoah&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260517_ShenandoahSunset%22&FORM=HPQUIZ",
+  "hash": "5e6b6726940774cefb526b9ab1814daf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_PT-BR7351185056_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_PT-BR7351185056_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_PT-BR7351185056_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_PT-BR7351185056_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260517",
+    "fullStartDateTime": "202605170300",
+    "endDate": "20260518"
+  },
+  "createdAt": "202605170448",
+  "originalUrlBase": "/th?id=OHR.ShenandoahSunset_PT-BR7351185056"
+}

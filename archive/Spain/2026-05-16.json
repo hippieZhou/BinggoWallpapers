@@ -1,0 +1,43 @@
+{
+  "date": "17 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Cima silenciosa con impresionantes vistas",
+  "bsTitle": "Cima silenciosa con impresionantes vistas",
+  "caption": "Montaña Hawksbill, Parque Nacional Shenandoah, Virginia, EE. UU.",
+  "copyright": "Montaña Hawksbill, Parque Nacional Shenandoah, Virginia, EE. UU. (© John Baggaley/Getty Images)",
+  "copyrightOnly": "© John Baggaley/Getty Images",
+  "copyrightLink": "/search?q=Monta%c3%b1a+Hawksbill&form=hpcapt&filters=HpDate%3a%2220260516_2200%22",
+  "description": "La montaña Hawksbill en el Parque Nacional Shenandoah, en Virginia (Estados Unidos), es el punto más alto de esta cadena montañosa dentro del parque. Desde su cumbre rocosa, el paisaje se abre en amplias vistas sobre el valle de Shenandoah y las onduladas crestas de los montes Apalaches. Un sendero relativamente corto conduce hasta la cima, atravesando bosques de robles, arces y pinos que cambian de color de forma espectacular en otoño.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_ShenandoahSunset%22&FORM=HPQUIZ",
+  "hash": "7cf0be5225f0d9a6319305bb6a8f9c2d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ES-ES1620430283_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260516",
+    "fullStartDateTime": "202605162200",
+    "endDate": "20260517"
+  },
+  "createdAt": "202605170448",
+  "originalUrlBase": "/th?id=OHR.ShenandoahSunset_ES-ES1620430283"
+}

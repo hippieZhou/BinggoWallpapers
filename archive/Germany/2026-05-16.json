@@ -1,0 +1,43 @@
+{
+  "date": "17. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Stiller Gipfel, weite Sicht",
+  "bsTitle": "Stiller Gipfel, weite Sicht",
+  "caption": "Hawksbill Mountain im Shenandoah‑Nationalpark, Virginia, USA",
+  "copyright": "Hawksbill Mountain im Shenandoah‑Nationalpark, Virginia, USA (© John Baggaley/Getty Images)",
+  "copyrightOnly": "© John Baggaley/Getty Images",
+  "copyrightLink": "/search?q=Hawksbill+Mountain+USA&form=hpcapt&filters=HpDate%3a%2220260516_2200%22",
+  "description": "Braucht es wirklich große Höhen für einen großartigen Ausblick? Im Osten der USA, im Bundesstaat Virginia, zeigt Hawksbill Mountain, dass auch sanfte Gipfel durchaus beeindrucken können. Mit rund 1.235 Metern ist er der höchste Punkt des Shenandoah‑Nationalparks und erinnert eher an europäische Mittelgebirge als an alpine Landschaften. Genau das macht seinen Reiz aus. Die Region gehört zu den Appalachen, einer der ältesten Gebirgsregionen der Erde, deren Formen über Millionen Jahre hinweg allmählich geglättet wurden.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260516_ShenandoahSunset%22&FORM=HPQUIZ",
+  "hash": "354e922652175a70f2c897662dc155a6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_DE-DE3403386055_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260516",
+    "fullStartDateTime": "202605162200",
+    "endDate": "20260517"
+  },
+  "createdAt": "202605170448",
+  "originalUrlBase": "/th?id=OHR.ShenandoahSunset_DE-DE3403386055"
+}
