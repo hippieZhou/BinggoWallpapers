@@ -1,0 +1,43 @@
+{
+  "date": "18 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Jeu, set et match !",
+  "bsTitle": "Jeu, set et match !",
+  "caption": "Roland-Garros 2026",
+  "copyright": "Chapeaux de paille dans les tribunes de Roland-Garros, Paris (© Horacio Villalobos/Corbis)",
+  "copyrightOnly": "© Horacio Villalobos/Corbis",
+  "copyrightLink": "/search?q=Roland-Garros&form=hpcapt&filters=HpDate%3a%2220260517_2200%22",
+  "description": "En cette fin de printemps, Paris retient son souffle. Aujourd’hui, Porte d’Auteuil, Roland-Garros s’éveille à nouveau, enveloppé dans la lumière douce de mai et l’odeur minérale de la terre battue. Sous les platanes centenaires, le stade murmure une histoire commencée en 1891 avec les premiers Championnats de France, où chaque grain d’ocre raconte l’effort, la patience et la résilience.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260517_HatsRolandGarros%22&FORM=HPQUIZ",
+  "hash": "37d9d5521bc089ee598dc9b825800f1f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260517",
+    "fullStartDateTime": "202605172200",
+    "endDate": "20260518"
+  },
+  "createdAt": "202605180501",
+  "originalUrlBase": "/th?id=OHR.HatsRolandGarros_FR-FR8053000746"
+}

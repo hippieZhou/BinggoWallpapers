@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Hawksbill Mountain in Shenandoah National Park, Virginia, United States (© John Baggaley/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Hawksbill+Mountain&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260517_ShenandoahSunset%22&FORM=HPQUIZ",
+  "hash": "932fb13cb169dbbd5ee057d86c50eb52",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260517",
+    "fullStartDateTime": "202605170700",
+    "endDate": "20260518"
+  },
+  "createdAt": "202605180501",
+  "originalUrlBase": "/th?id=OHR.ShenandoahSunset_ROW7042145908"
+}

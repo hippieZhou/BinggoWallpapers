@@ -1,0 +1,43 @@
+{
+  "date": "May 18, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Hope in the hall",
+  "bsTitle": "Hope in the hall",
+  "caption": "International Museum Day",
+  "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
+  "copyrightOnly": "© Colm Keating/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=International+Museum+Day&form=hpcapt&filters=HpDate%3a%2220260517_2300%22",
+  "description": "You walk into a museum, and suddenly time shifts. A fossil hints at life millions of years ago. A gemstone reflects geological change you can't see. That sense of connection is exactly what International Museum Day, created in 1977 by the International Council of Museums, aims to celebrate.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260517_MuseumLondon%22&FORM=HPQUIZ",
+  "hash": "3c699bcdd2cdcfa00331f43e20ed1c21",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_EN-GB7020914823_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260517",
+    "fullStartDateTime": "202605172300",
+    "endDate": "20260518"
+  },
+  "createdAt": "202605180501",
+  "originalUrlBase": "/th?id=OHR.MuseumLondon_EN-GB7020914823"
+}

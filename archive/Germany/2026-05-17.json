@@ -1,0 +1,43 @@
+{
+  "date": "18. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Ort zum Entdecken und Staunen",
+  "bsTitle": "Ein Ort zum Entdecken und Staunen",
+  "caption": "Natural History Museum, London, England",
+  "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)",
+  "copyrightOnly": "© Colm Keating/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Natural+History+Museum+London&form=hpcapt&filters=HpDate%3a%2220260517_2200%22",
+  "description": "Manchmal genügt ein Schritt durch die Tür eines Museums, um der Zeit eine neue Tiefe zu verleihen. Fossilien zeugen von Leben vor Millionen von Jahren, funkelnde Edelsteine von geologischen Prozessen, die unseren Planeten formten. Museen machen solche Verbindungen sichtbar und eröffnen Räume, in denen Vergangenheit, Gegenwart und Zukunft aufeinandertreffen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260517_MuseumLondon%22&FORM=HPQUIZ",
+  "hash": "70566042d83d010325f3f04360ca9e44",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_DE-DE5033129678_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260517",
+    "fullStartDateTime": "202605172200",
+    "endDate": "20260518"
+  },
+  "createdAt": "202605180501",
+  "originalUrlBase": "/th?id=OHR.MuseumLondon_DE-DE5033129678"
+}

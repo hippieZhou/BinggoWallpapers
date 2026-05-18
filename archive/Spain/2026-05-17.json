@@ -1,0 +1,43 @@
+{
+  "date": "18 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde la ciencia cobra vida",
+  "bsTitle": "Donde la ciencia cobra vida",
+  "caption": "Día Internacional de los Museos",
+  "copyright": "Museo de Historia Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)",
+  "copyrightOnly": "© Colm Keating/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+de+los+Museos&form=hpcapt&filters=HpDate%3a%2220260517_2200%22",
+  "description": "Cada 18 de mayo se celebra el Día Internacional de los Museos, una fecha que invita a mirar estos espacios culturales con otros ojos. Los museos no solo conservan objetos del pasado, también cuentan historias, conectan culturas y despiertan la curiosidad de quienes recorren sus salas con calma. En muchas ciudades se organizan actividades especiales, visitas nocturnas, talleres y propuestas educativas que animan a descubrir tesoros científicos, artísticos e históricos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260517_MuseumLondon%22&FORM=HPQUIZ",
+  "hash": "daae8b7adf7a31bfc22676cd54d6119e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_ES-ES5275876055_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260517",
+    "fullStartDateTime": "202605172200",
+    "endDate": "20260518"
+  },
+  "createdAt": "202605180501",
+  "originalUrlBase": "/th?id=OHR.MuseumLondon_ES-ES5275876055"
+}

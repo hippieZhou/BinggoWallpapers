@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Memórias em exibição",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Museu de História Natural, Londres, Inglaterra (© Colm Keating/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+Internacional+dos+Museus&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260518_MuseumLondon%22&FORM=HPQUIZ",
+  "hash": "9115ba3b53a6aab8e19e7e90107f89ae",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuseumLondon_PT-BR8647023731_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260518",
+    "fullStartDateTime": "202605180300",
+    "endDate": "20260519"
+  },
+  "createdAt": "202605180501",
+  "originalUrlBase": "/th?id=OHR.MuseumLondon_PT-BR8647023731"
+}
