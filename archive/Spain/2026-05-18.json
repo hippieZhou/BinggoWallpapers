@@ -1,0 +1,43 @@
+{
+  "date": "19 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Los confines de Mallorca",
+  "bsTitle": "Los confines de Mallorca",
+  "caption": "Faro de Formentor, Mallorca, Islas Baleares",
+  "copyright": "Faro de Formentor, Mallorca, Islas Baleares (© Allard Schager/Getty Images)",
+  "copyrightOnly": "© Allard Schager/Getty Images",
+  "copyrightLink": "/search?q=Faro+de+Formentor&form=hpcapt&filters=HpDate%3a%2220260518_2200%22",
+  "description": "En el extremo norte de Mallorca, donde la sierra de Tramuntana cae hacia el Mediterráneo, se encuentra el faro de Formentor. Fue inaugurado en 1863 para señalizar una costa abrupta y peligrosa para la navegación. Desde su promontorio domina un paisaje de acantilados, pinares y un mar intenso que cambia de tono con el paso de la luz. El lugar transmite una sensación de aislamiento, como si la isla terminara allí y comenzara únicamente la inmensidad del horizonte.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260518_SpainLighthouse%22&FORM=HPQUIZ",
+  "hash": "4c71f8a7a328fb909fd08c7c25f70517",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_ES-ES7620314804_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260518",
+    "fullStartDateTime": "202605182200",
+    "endDate": "20260519"
+  },
+  "createdAt": "202605190454",
+  "originalUrlBase": "/th?id=OHR.SpainLighthouse_ES-ES7620314804"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "No limite de Maiorca",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Farol de Formentor, Maiorca, Ilhas Baleares, Espanha (© Allard Schager/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cabo+de+Formentor+Maiorca&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_SpainLighthouse%22&FORM=HPQUIZ",
+  "hash": "5d22d2940eec9bb40d6f0bceaf129029",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_PT-BR9837530497_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260519",
+    "fullStartDateTime": "202605190300",
+    "endDate": "20260520"
+  },
+  "createdAt": "202605190454",
+  "originalUrlBase": "/th?id=OHR.SpainLighthouse_PT-BR9837530497"
+}
