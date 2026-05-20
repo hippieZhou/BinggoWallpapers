@@ -1,0 +1,43 @@
+{
+  "date": "May 20, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Where the buzz begins",
+  "bsTitle": "Where the buzz begins",
+  "caption": "World Bee Day",
+  "copyright": "Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)",
+  "copyrightOnly": "© SimonEastwood87/Shutterstock",
+  "copyrightLink": "/search?q=World+Bee+Day&form=hpcapt&filters=HpDate%3a%2220260519_2300%22",
+  "description": "A soft buzz and a dusting of pollen can shape the future of our food. World Bee Day, observed each year on 20 May, celebrates pollinators like the bumble bee pictured here during its quiet yet essential work. Unlike many insects, bumble bees use 'buzz pollination,' vibrating their flight muscles to shake pollen from flowers—a method vital for crops such as tomatoes, peppers and blueberries.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+  "hash": "b1d197f55c88651d4d4a139141bbfa85",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_EN-GB2743073373_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_EN-GB2743073373_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_EN-GB2743073373_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_EN-GB2743073373_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260519",
+    "fullStartDateTime": "202605192300",
+    "endDate": "20260520"
+  },
+  "createdAt": "202605200458",
+  "originalUrlBase": "/th?id=OHR.BumbleBee_EN-GB2743073373"
+}

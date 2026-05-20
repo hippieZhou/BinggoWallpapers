@@ -1,0 +1,43 @@
+{
+  "date": "20. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Kraft des Summens",
+  "bsTitle": "Die Kraft des Summens",
+  "caption": "Weltbienentag",
+  "copyright": "Hummel bei der Bestäubung, Worcester, England (© SimonEastwood87/Shutterstock)",
+  "copyrightOnly": "© SimonEastwood87/Shutterstock",
+  "copyrightLink": "/search?q=Weltbienentag&form=hpcapt&filters=HpDate%3a%2220260519_2200%22",
+  "description": "Ein sanftes Brummen im Garten hat oft eine größere Wirkung, als man vermutet. Am Weltbienentag, der 2018 von den Vereinten Nationen ins Leben gerufen wurde, rückt die stille Arbeit der Bestäuber in den Mittelpunkt. Die hier gezeigte Hummel gehört zur Familie der Bienen und übernimmt eine besondere Aufgabe. Mithilfe der sogenannten Vibrationsbestäubung bringt sie Blüten zum Zittern und löst so den Pollen, den Pflanzen für ihre Fortpflanzung benötigen. Ohne diese Technik hätten Tomaten, Paprika oder Heidelbeeren deutlich geringere Erträge.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+  "hash": "ea9bf341689b53cef2f29f384c4a20a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_DE-DE5081297615_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_DE-DE5081297615_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_DE-DE5081297615_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_DE-DE5081297615_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260519",
+    "fullStartDateTime": "202605192200",
+    "endDate": "20260520"
+  },
+  "createdAt": "202605200458",
+  "originalUrlBase": "/th?id=OHR.BumbleBee_DE-DE5081297615"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 5月 月 20 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は世界ミツバチの日",
+  "bsTitle": "今日は世界ミツバチの日",
+  "caption": "今日は世界ミツバチの日",
+  "copyright": "受粉しているマルハナバチ, イングランド (© SimonEastwood87/Shutterstock)",
+  "copyrightOnly": "© SimonEastwood87/Shutterstock",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e3%83%9f%e3%83%84%e3%83%90%e3%83%81%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260519_1500%22",
+  "description": "今日 5 月 20 日は「世界ミツバチの日」。2017 年 12 月に国連総会で制定されました。そして、今日の画像はマルハナバチ。飛行筋を震わせて花粉を落とす「振動受粉（バズ・ポリネーション）」という独特の方法で植物を受粉させます。こうした花粉を媒介する動物は花粉媒介者と呼ばれており、世界の主要な食用作物の 75% 以上に関与し、収量や品質の向上に貢献しています。近年は、生息地の喪失や気候変動などによって減少が進んでいるため、生物多様性と食料の安定供給のためにも、この小さな働き者を保護することが重要となっています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+  "hash": "1bfe38fc2d9f751be042bb0fe1cdd8aa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_JA-JP8551190250_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260519",
+    "fullStartDateTime": "202605191500",
+    "endDate": "20260520"
+  },
+  "createdAt": "202605200458",
+  "originalUrlBase": "/th?id=OHR.BumbleBee_JA-JP8551190250"
+}

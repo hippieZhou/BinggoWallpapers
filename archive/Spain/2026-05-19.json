@@ -1,0 +1,43 @@
+{
+  "date": "20 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La reina del néctar",
+  "bsTitle": "La reina del néctar",
+  "caption": "Día Mundial de las Abejas",
+  "copyright": "Abejorro polinizando, Worcester, Inglaterra (© SimonEastwood87/Shutterstock)",
+  "copyrightOnly": "© SimonEastwood87/Shutterstock",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+de+las+Abejas&form=hpcapt&filters=HpDate%3a%2220260519_2200%22",
+  "description": "Cada 20 de mayo se celebra el Día Mundial de las Abejas, una fecha que pone en valor a estos insectos esenciales para la vida en el planeta. Su labor como polinizadoras es fundamental para la biodiversidad y para gran parte de los cultivos, aunque su población se enfrenta a amenazas como la pérdida de hábitat o el uso de pesticidas. Su futuro depende en gran medida de pequeñas acciones diarias, como preservar jardines con flores diversas, apoyar prácticas agrícolas sostenibles y reducir el uso de productos químicos en el entorno.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260519_BumbleBee%22&FORM=HPQUIZ",
+  "hash": "c73b3238f25b47962f2c542b3ae7057d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BumbleBee_ES-ES7776212975_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260519",
+    "fullStartDateTime": "202605192200",
+    "endDate": "20260520"
+  },
+  "createdAt": "202605200458",
+  "originalUrlBase": "/th?id=OHR.BumbleBee_ES-ES7776212975"
+}
