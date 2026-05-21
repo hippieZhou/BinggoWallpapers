@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A infusão de um legado",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Terraços de chá na província de Sichuan, China (© lzf/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=dia+internacional+do+ch%c3%a1&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260521_SichuanTea%22&FORM=HPQUIZ",
+  "hash": "ea27caa97386e7766dc7f7b26920fcea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_PT-BR0614842404_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_PT-BR0614842404_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_PT-BR0614842404_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_PT-BR0614842404_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260521",
+    "fullStartDateTime": "202605210300",
+    "endDate": "20260522"
+  },
+  "createdAt": "202605210504",
+  "originalUrlBase": "/th?id=OHR.SichuanTea_PT-BR0614842404"
+}

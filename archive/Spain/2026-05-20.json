@@ -1,0 +1,43 @@
+{
+  "date": "21 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Cultivando un legado",
+  "bsTitle": "Cultivando un legado",
+  "caption": "Día Internacional del Té",
+  "copyright": "Terrazas de té en la provincia de Sichuan, China (© lzf/Shutterstock)",
+  "copyrightOnly": "© lzf/Shutterstock",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+del+T%c3%a9&form=hpcapt&filters=HpDate%3a%2220260520_2200%22",
+  "description": "Cada 21 de mayo se celebra el Día Internacional del Té, una ocasión para reconocer la importancia cultural, social y económica de esta bebida en muchas regiones del mundo. Millones de personas la consumen a diario, pero detrás de cada taza existe una larga historia de cultivo, comercio y saber tradicional. En China, donde el té forma parte de la vida cotidiana desde hace siglos, su producción también está ligada a paisajes agrícolas de gran belleza.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+  "hash": "3894cd33bec83aa1f33af99c345331f8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ES-ES7945062444_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ES-ES7945062444_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ES-ES7945062444_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ES-ES7945062444_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260520",
+    "fullStartDateTime": "202605202200",
+    "endDate": "20260521"
+  },
+  "createdAt": "202605210504",
+  "originalUrlBase": "/th?id=OHR.SichuanTea_ES-ES7945062444"
+}

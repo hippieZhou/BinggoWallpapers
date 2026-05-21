@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Rituali d’oriente",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Terrazzamenti da tè nella provincia del Sichuan, Cina (© lzf/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=T%c3%a8&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+  "hash": "b2a9347bfaf419fc7969d09304e9f984",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_IT-IT6566248519_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_IT-IT6566248519_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_IT-IT6566248519_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_IT-IT6566248519_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260520",
+    "fullStartDateTime": "202605202200",
+    "endDate": "20260521"
+  },
+  "createdAt": "202605210504",
+  "originalUrlBase": "/th?id=OHR.SichuanTea_IT-IT6566248519"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "21 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un héritage liquide",
+  "bsTitle": "Un héritage liquide",
+  "caption": "Journée internationale du thé",
+  "copyright": "Plantations de thé en terrasses, Sichuan, Chine (© lzf/Shutterstock)",
+  "copyrightOnly": "© lzf/Shutterstock",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+du+th%c3%a9&form=hpcapt&filters=HpDate%3a%2220260520_2200%22",
+  "description": "La Journée internationale du thé célèbre une boisson qui relie des gestes du quotidien à des paysages millénaires. Dans la province de Sichuan, au sud-ouest de la Chine, les champs de thé en terrasses émergent de la brume comme une mémoire vibrante. Ici, le thé est cultivé et consommé depuis environ 2\u202F000 ans.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+  "hash": "da30fae81467afc8de2de98d8d177b19",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_FR-FR2758573736_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_FR-FR2758573736_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_FR-FR2758573736_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_FR-FR2758573736_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260520",
+    "fullStartDateTime": "202605202200",
+    "endDate": "20260521"
+  },
+  "createdAt": "202605210504",
+  "originalUrlBase": "/th?id=OHR.SichuanTea_FR-FR2758573736"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "21. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo Tradition aufgebrüht wird",
+  "bsTitle": "Wo Tradition aufgebrüht wird",
+  "caption": "Internationaler Tag des Tees",
+  "copyright": "Teeterrassen in der Provinz Sichuan, China (© lzf/Shutterstock)",
+  "copyrightOnly": "© lzf/Shutterstock",
+  "copyrightLink": "/search?q=Internationaler+Tag+des+Tees&form=hpcapt&filters=HpDate%3a%2220260520_2200%22",
+  "description": "In vielen Regionen der Welt gehört Tee seit Jahrhunderten zum Alltag. Heute wird er mit dem von den Vereinten Nationen ausgerufenen Internationalen Tag des Tees gewürdigt. Terrassen wie diese hier in der chinesischen Provinz Sichuan sind Ausdruck dieser langen Tradition. In dieser Region im Südwesten Chinas wird seit über 2.000 Jahren Tee angebaut und genossen. Am nahe gelegenen Mengding-Berg begründete der Gelehrte Wu Lizhen zur Zeit der Han-Dynastie einige der ersten gezielt gepflegten Teegärten der Welt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260520_SichuanTea%22&FORM=HPQUIZ",
+  "hash": "7cc0bde1475c6c9ae7f14a3b17825a92",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_DE-DE2246997070_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_DE-DE2246997070_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_DE-DE2246997070_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_DE-DE2246997070_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260520",
+    "fullStartDateTime": "202605202200",
+    "endDate": "20260521"
+  },
+  "createdAt": "202605210504",
+  "originalUrlBase": "/th?id=OHR.SichuanTea_DE-DE2246997070"
+}
