@@ -1,0 +1,43 @@
+{
+  "date": "May 21, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Tea terraces in Sichuan Province, China",
+  "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)",
+  "copyrightOnly": "© lzf/Shutterstock",
+  "copyrightLink": "/search?q=Tea+terraces+in+Sichuan+Province&form=hpcapt&filters=HpDate%3a%2220260521_0700%22",
+  "description": "Today's image spotlights a drink that connects daily rituals to ancient landscapes. Just one look at the terraced tea fields of Sichuan Province, China, shows how deep those roots run. This misty region in southwest China is one of the earliest centres of tea culture, where people drank and cultivated tea more than 2,000 years ago. On nearby Mengding Mountain, a scholar named Wu Lizhen planted some of the world's first managed tea gardens during the Han Dynasty, laying the groundwork for generations of growers.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260521_SichuanTea%22&FORM=HPQUIZ",
+  "hash": "6a47bf16f83f4d07e6965feaddc9b2ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260521",
+    "fullStartDateTime": "202605210700",
+    "endDate": "20260522"
+  },
+  "createdAt": "202605220455",
+  "originalUrlBase": "/th?id=OHR.SichuanTea_ROW1006834324"
+}

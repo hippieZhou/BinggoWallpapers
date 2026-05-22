@@ -1,0 +1,43 @@
+{
+  "date": "May 22, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "The shape of life at sea",
+  "bsTitle": "The shape of life at sea",
+  "caption": "International Day for Biological Diversity",
+  "copyright": "Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)",
+  "copyrightOnly": "© WaterFrame_dpr/Alamy",
+  "copyrightLink": "/search?q=International+Day+for+Biological+Diversity&form=hpcapt&filters=HpDate%3a%2220260522_0400%22",
+  "description": "Observed each year on May 22, International Day for Biological Diversity is a global reminder that life on Earth is richer—and more fragile—than it appears. Established by the United Nations, today highlights why protecting plants, animals and ecosystems matters for food, medicine, climate stability and everyday well-being.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_KauehiAtollLagoon%22&FORM=HPQUIZ",
+  "hash": "4327dd5089553029010929b4f3371d1d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-CA6370772500_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-CA6370772500_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-CA6370772500_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-CA6370772500_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260522",
+    "fullStartDateTime": "202605220400",
+    "endDate": "20260523"
+  },
+  "createdAt": "202605220455",
+  "originalUrlBase": "/th?id=OHR.KauehiAtollLagoon_EN-CA6370772500"
+}

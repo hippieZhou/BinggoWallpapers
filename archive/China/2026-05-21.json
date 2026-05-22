@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "海洋生命的律动",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9b%bd%e9%99%85%e7%94%9f%e7%89%a9%e5%a4%9a%e6%a0%b7%e6%80%a7%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260521_KauehiAtollLagoon%22&FORM=HPQUIZ",
+  "hash": "aa8f61e248dfb0b6f5fe9dc17806ffba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260521",
+    "fullStartDateTime": "202605211600",
+    "endDate": "20260522"
+  },
+  "createdAt": "202605220455",
+  "originalUrlBase": "/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080"
+}

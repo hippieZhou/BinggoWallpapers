@@ -1,0 +1,43 @@
+{
+  "date": "22 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La forma de la vida en el mar",
+  "bsTitle": "La forma de la vida en el mar",
+  "caption": "Día Internacional de la Diversidad Biológica",
+  "copyright": "Atolón de Kauehi, archipiélago de Tuamotu, Polinesia Francesa (© WaterFrame_dpr/Alamy)",
+  "copyrightOnly": "© WaterFrame_dpr/Alamy",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+de+la+Diversidad+Biol%c3%b3gica&form=hpcapt&filters=HpDate%3a%2220260521_2200%22",
+  "description": "Hoy se celebra el Día Internacional de la Diversidad Biológica, una fecha que nos recuerda la importancia de proteger las innumerables formas de vida que habitan la Tierra. Desde los bosques tropicales hasta los arrecifes de coral, cada ecosistema alberga especies y relaciones que sostienen el equilibrio natural. En el océano Pacífico, la diversidad marina alcanza expresiones sorprendentes en los atolones que salpican archipiélagos remotos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260521_KauehiAtollLagoon%22&FORM=HPQUIZ",
+  "hash": "3467129e6e1385cf12beefb1c14d12ac",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ES-ES3474565300_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ES-ES3474565300_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ES-ES3474565300_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ES-ES3474565300_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260521",
+    "fullStartDateTime": "202605212200",
+    "endDate": "20260522"
+  },
+  "createdAt": "202605220455",
+  "originalUrlBase": "/th?id=OHR.KauehiAtollLagoon_ES-ES3474565300"
+}

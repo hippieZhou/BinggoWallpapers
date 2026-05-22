@@ -1,0 +1,43 @@
+{
+  "date": "22 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Sur la plage abandonnée…",
+  "bsTitle": "Sur la plage abandonnée…",
+  "caption": "Journée internationale de la diversité biologique",
+  "copyright": "Kauehi, Archipel des Tuamotu, Polynésie française (© WaterFrame_dpr/Alamy)",
+  "copyrightOnly": "© WaterFrame_dpr/Alamy",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+de+la+diversit%c3%a9+biologique&form=hpcapt&filters=HpDate%3a%2220260521_2200%22",
+  "description": "Chaque 22\u202Fmai, la Journée internationale de la diversité biologique nous rappelle que la vie sur Terre est à la fois foisonnante et vulnérable. Instaurée par l’ONU, elle souligne combien la protection des plantes, des animaux et des écosystèmes est essentielle à notre alimentation, à notre santé, à la stabilité du climat et à notre bien-être quotidien.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260521_KauehiAtollLagoon%22&FORM=HPQUIZ",
+  "hash": "e13885efa4396c5de47dbe24670325d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_FR-FR2995406820_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_FR-FR2995406820_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_FR-FR2995406820_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_FR-FR2995406820_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260521",
+    "fullStartDateTime": "202605212200",
+    "endDate": "20260522"
+  },
+  "createdAt": "202605220455",
+  "originalUrlBase": "/th?id=OHR.KauehiAtollLagoon_FR-FR2995406820"
+}
