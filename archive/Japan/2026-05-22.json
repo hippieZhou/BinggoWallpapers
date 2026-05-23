@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 5月 月 23 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は世界カメの日",
+  "bsTitle": "今日は世界カメの日",
+  "caption": "今日は世界カメの日",
+  "copyright": "カメと蝶 (© Patrick Gallet/Getty Images)",
+  "copyrightOnly": "© Patrick Gallet/Getty Images",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e3%82%ab%e3%83%a1%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260522_1500%22",
+  "description": "今日 5 月 23 日は世界カメの日。カメは、約 2 億年前に出現したと考えられていますが、現在は、生息地の汚染や喪失、乱獲などの影響を受け、一部の種は絶滅が危惧されています。カメは、ペットとしても人気ですが、ウミガメが藻場やサンゴ礁を健全な状態に保つのに貢献したり、淡水や陸のカメが生態系のバランスを支えていたりするなど、生物多様性の保全にも欠かせません。今日は、そんな彼らに対する知識を深め、その保護の重要性を認識する日です。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+  "hash": "a1c4e47fd5c21360dd0d3cdd2b6a2c8d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260522",
+    "fullStartDateTime": "202605221500",
+    "endDate": "20260523"
+  },
+  "createdAt": "202605230433",
+  "originalUrlBase": "/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268"
+}

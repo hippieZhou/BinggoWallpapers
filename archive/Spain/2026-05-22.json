@@ -1,0 +1,43 @@
+{
+  "date": "23 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Longevidad legendaria",
+  "bsTitle": "Longevidad legendaria",
+  "caption": "Día Mundial de la Tortuga",
+  "copyright": "Tortugas con mariposas (© Patrick Gallet/Getty Images)",
+  "copyrightOnly": "© Patrick Gallet/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+de+la+Tortuga&form=hpcapt&filters=HpDate%3a%2220260522_2200%22",
+  "description": "Cada 23 de mayo se celebra el Día Mundial de la Tortuga, una fecha dedicada a recordar la importancia de estos reptiles antiguos y a fomentar su protección. Las tortugas habitan la Tierra desde hace más de 200 millones de años y hoy siguen desempeñando un papel esencial en muchos ecosistemas, desde arrecifes y praderas marinas hasta ríos y humedales. Sin embargo, muchas especies afrontan amenazas crecientes debido a la contaminación, la destrucción de su hábitat y el cambio climático.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+  "hash": "4b7dadd4fa9a94b10bfa5d4822bf8f3a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ES-ES8340646109_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ES-ES8340646109_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ES-ES8340646109_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ES-ES8340646109_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260522",
+    "fullStartDateTime": "202605222200",
+    "endDate": "20260523"
+  },
+  "createdAt": "202605230433",
+  "originalUrlBase": "/th?id=OHR.ThreeTurtlesButterflies_ES-ES8340646109"
+}

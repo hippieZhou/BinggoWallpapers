@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pont d'Arc, Ardèche, France (© Gael Fontaine/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Pont+dArc+Ardeche&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_PontArdeche%22&FORM=HPQUIZ",
+  "hash": "d01410a2a528c4f4a86b71609693564e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260522",
+    "fullStartDateTime": "202605220700",
+    "endDate": "20260523"
+  },
+  "createdAt": "202605230433",
+  "originalUrlBase": "/th?id=OHR.PontArdeche_ROW1049828864"
+}

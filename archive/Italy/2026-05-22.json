@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Voci del passato?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tartarughe e farfalle (© Patrick Gallet/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+della+Tartaruga&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+  "hash": "5f2185e4efd74b7c74f80b6caa2942bb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260522",
+    "fullStartDateTime": "202605222200",
+    "endDate": "20260523"
+  },
+  "createdAt": "202605230433",
+  "originalUrlBase": "/th?id=OHR.ThreeTurtlesButterflies_IT-IT6850354411"
+}

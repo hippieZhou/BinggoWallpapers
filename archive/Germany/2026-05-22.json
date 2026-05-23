@@ -1,0 +1,43 @@
+{
+  "date": "23. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Harte Schale, starkes Leben",
+  "bsTitle": "Harte Schale, starkes Leben",
+  "caption": "Welttag der Schildkröte",
+  "copyright": "Schildkröten mit Schmetterlingen (© Patrick Gallet/Getty Images)",
+  "copyrightOnly": "© Patrick Gallet/Getty Images",
+  "copyrightLink": "/search?q=Welttag+der+Schildkr%c3%b6te&form=hpcapt&filters=HpDate%3a%2220260522_2200%22",
+  "description": "Sie gleiten lautlos durch Ozeane, Seen und Feuchtgebiete und erfüllen dabei Aufgaben, die für das Gleichgewicht der Natur unverzichtbar sind. Schildkröten zählen zu den ältesten heute lebenden Reptilien und spielen eine zentrale Rolle in vielen Ökosystemen. Meeresschildkröten halten Seegraswiesen und Korallenriffe gesund, während Süßwasser‑ und Landschildkröten zur Stabilität empfindlicher Lebensräume beitragen. Ihr Panzer ist kein äußeres Schutzschild, sondern ein Teil ihres Skeletts und besteht aus zahlreichen miteinander verwachsenen Knochen. Manche Arten orientieren sich zudem am Magnetfeld der Erde, um nach Jahrzehnten zu genau den Stränden zurückzukehren, an denen sie geschlüpft sind.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260522_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+  "hash": "e61730601329b7aabbd994624cb1ca54",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260522",
+    "fullStartDateTime": "202605222200",
+    "endDate": "20260523"
+  },
+  "createdAt": "202605230433",
+  "originalUrlBase": "/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963"
+}
