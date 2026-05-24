@@ -1,0 +1,43 @@
+{
+  "date": "24. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Schutz für Europas natürliche Vielfalt",
+  "bsTitle": "Schutz für Europas natürliche Vielfalt",
+  "caption": "Europäischer Tag der Parke",
+  "copyright": "Naturpark Drei Zinnen, Südtirol, Italien (© Adisorn Fineday Chutikunakorn/Getty Images)",
+  "copyrightOnly": "© Adisorn Fineday Chutikunakorn/Getty Images",
+  "copyrightLink": "/search?q=Europ%c3%a4ischer+Tag+der+Parke&form=hpcapt&filters=HpDate%3a%2220260523_2200%22",
+  "description": "Manche Landschaften beeindrucken gerade deshalb, weil sie über Jahrzehnte hinweg geschützt wurden. Genau daran erinnert der Europäische Tag der Parke. Er knüpft an die Entstehung der ersten europäischen Nationalparks im Jahr 1909 an und lenkt den Blick auf unseren gemeinsamen Naturschatz. Im Mittelpunkt des heutigen Bildes steht der Naturpark Drei Zinnen in den Dolomiten in Südtirol, Italien. Seit 1981 bewahrt er eine spektakuläre alpine Kulisse innerhalb eines UNESCO‑Welterbes. Besonders bekannt sind die Drei Zinnen: drei markante Felstürme aus Dolomitgestein, die steil aus den Bergwiesen aufragen und den Alpen ein unverwechselbares Gesicht geben.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+  "hash": "fccfd76c2f2f5d0095005e35ee52c415",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260523",
+    "fullStartDateTime": "202605232200",
+    "endDate": "20260524"
+  },
+  "createdAt": "202605240457",
+  "originalUrlBase": "/th?id=OHR.DolomitesPark_DE-DE0867398048"
+}

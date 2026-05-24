@@ -1,0 +1,43 @@
+{
+  "date": "May 24, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "The art of quiet control",
+  "bsTitle": "The art of quiet control",
+  "caption": "A mute swan reflected on tranquil waters",
+  "copyright": "A mute swan reflected on tranquil waters (© Don White/Getty Images)",
+  "copyrightOnly": "© Don White/Getty Images",
+  "copyrightLink": "/search?q=Mute+swan&form=hpcapt&filters=HpDate%3a%2220260524_0400%22",
+  "description": "Swans are admired for their looks, but there is more going on than a calm, graceful glide over the water. These strong, territorial birds have a long history of human involvement. Introduced to Canada from Europe in the 1870s for parks and estates, mute swans established feral populations that now live year-round in parts of Ontario and beyond.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_MuteSwanGI%22&FORM=HPQUIZ",
+  "hash": "90f855bc19daf0bedfa478a7c7d09725",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260524",
+    "fullStartDateTime": "202605240400",
+    "endDate": "20260525"
+  },
+  "createdAt": "202605240457",
+  "originalUrlBase": "/th?id=OHR.MuteSwanGI_EN-CA6792012530"
+}

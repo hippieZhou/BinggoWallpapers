@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "守护欧洲的自然净土",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e4%b8%89%e5%b3%b0%e8%87%aa%e7%84%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+  "hash": "1eeac3a8b66a1c2abfbb039691837938",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260523",
+    "fullStartDateTime": "202605231600",
+    "endDate": "20260524"
+  },
+  "createdAt": "202605240457",
+  "originalUrlBase": "/th?id=OHR.DolomitesPark_ZH-CN7134423478"
+}

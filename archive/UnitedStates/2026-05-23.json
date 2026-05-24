@@ -1,0 +1,43 @@
+{
+  "date": "May 23, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Shell yeah, turtles!",
+  "bsTitle": "Shell yeah, turtles!",
+  "caption": "World Turtle Day",
+  "copyright": "Turtles with butterflies (© Patrick Gallet/Getty Images)",
+  "copyrightOnly": "© Patrick Gallet/Getty Images",
+  "copyrightLink": "/search?q=World+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260523_0700%22",
+  "description": "Turtles are not only fascinating animals; they also play vital roles in nature. Sea turtles help keep seagrass beds and coral reefs healthy, while freshwater and land counterparts support balanced ecosystems. Their shells are part of their skeletons, formed from dozens of fused bones, and some species navigate using Earth's magnetic field to return to the beaches where they hatched.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_ThreeTurtlesButterflies%22&FORM=HPQUIZ",
+  "hash": "2e184e518658e7ed4b55f698324c7d0b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260523",
+    "fullStartDateTime": "202605230700",
+    "endDate": "20260524"
+  },
+  "createdAt": "202605240457",
+  "originalUrlBase": "/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772"
+}

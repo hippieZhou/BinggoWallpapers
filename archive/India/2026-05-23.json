@@ -1,0 +1,43 @@
+{
+  "date": "May 24, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Preserving Europe's wild places",
+  "bsTitle": "Preserving Europe's wild places",
+  "caption": "European Day of Parks",
+  "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)",
+  "copyrightOnly": "© Adisorn Fineday Chutikunakorn/Getty Images",
+  "copyrightLink": "/search?q=European+Day+of+Parks&form=hpcapt&filters=HpDate%3a%2220260523_1830%22",
+  "description": "The European Day of Parks celebrates protected areas across the continent, marking the creation of Europe's first national parks in 1909. It serves as a reminder that many of today's most iconic landscapes exist because of long-term conservation efforts. Today's image highlights a prime example of this legacy: Tre Cime Nature Park in northern Italy.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260523_DolomitesPark%22&FORM=HPQUIZ",
+  "hash": "2150afb543fc45b9523141e94f99d0d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-IN3505043244_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-IN3505043244_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-IN3505043244_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-IN3505043244_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260523",
+    "fullStartDateTime": "202605231830",
+    "endDate": "20260524"
+  },
+  "createdAt": "202605240457",
+  "originalUrlBase": "/th?id=OHR.DolomitesPark_EN-IN3505043244"
+}
