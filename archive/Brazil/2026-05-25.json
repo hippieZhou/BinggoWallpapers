@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O vento como projeto",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista de Jaipur a partir do Hawa Mahal, Rajastão, Índia (© byheaven/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Pal%c3%a1cio+dos+Ventos&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_HawaMahal2026%22&FORM=HPQUIZ",
+  "hash": "418c40ac1c8e0f026e7b3ebe3c29a736",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_PT-BR1391489628_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_PT-BR1391489628_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_PT-BR1391489628_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_PT-BR1391489628_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260525",
+    "fullStartDateTime": "202605250300",
+    "endDate": "20260526"
+  },
+  "createdAt": "202605250515",
+  "originalUrlBase": "/th?id=OHR.HawaMahal2026_PT-BR1391489628"
+}

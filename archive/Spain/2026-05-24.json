@@ -1,0 +1,43 @@
+{
+  "date": "25 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Brisa tallada en piedra",
+  "bsTitle": "Brisa tallada en piedra",
+  "caption": "Vista de Jaipur desde el palacio Hawa Mahal, Rajastán, India",
+  "copyright": "Vista de Jaipur desde el palacio Hawa Mahal, Rajastán, India (© byheaven/Getty Images)",
+  "copyrightOnly": "© byheaven/Getty Images",
+  "copyrightLink": "/search?q=Palacio+Hawa+Mahal&form=hpcapt&filters=HpDate%3a%2220260524_2200%22",
+  "description": "Desde las ventanas del Hawa Mahal, el llamado Palacio de los Vientos, la ciudad de Jaipur (India) se despliega en tonos rosados y ocres. Esta singular fachada del siglo XVIII, llena de pequeñas celosías, fue concebida para que las mujeres de la corte pudieran observar la vida urbana sin ser vistas. A través de esas aberturas, la mirada recorre calles bulliciosas, cúpulas, mercados y azoteas que definen el carácter de la capital del Rajastán.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_HawaMahal2026%22&FORM=HPQUIZ",
+  "hash": "33bc671aeda59288402bcd51191c059f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_ES-ES8790916426_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260524",
+    "fullStartDateTime": "202605242200",
+    "endDate": "20260525"
+  },
+  "createdAt": "202605250515",
+  "originalUrlBase": "/th?id=OHR.HawaMahal2026_ES-ES8790916426"
+}

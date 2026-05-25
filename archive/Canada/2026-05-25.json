@@ -1,0 +1,43 @@
+{
+  "date": "May 25, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A breeze in stone",
+  "bsTitle": "A breeze in stone",
+  "caption": "Hawa Mahal, Jaipur, Rajasthan",
+  "copyright": "View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)",
+  "copyrightOnly": "© byheaven/Getty Images",
+  "copyrightLink": "/search?q=Hawa+Mahal&form=hpcapt&filters=HpDate%3a%2220260525_0400%22",
+  "description": "What if a building could breathe? In the middle of Jaipur, Hawa Mahal does exactly that—pulling in air, pushing out heat and turning architecture into a quiet science experiment. It's less a palace, more a perfectly timed exhale. And yes, it really does live up to its name: the 'Palace of Winds.'",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_HawaMahal2026%22&FORM=HPQUIZ",
+  "hash": "1c306e6668689584db386819e11585a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_EN-CA6985654541_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_EN-CA6985654541_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_EN-CA6985654541_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_EN-CA6985654541_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260525",
+    "fullStartDateTime": "202605250400",
+    "endDate": "20260526"
+  },
+  "createdAt": "202605250515",
+  "originalUrlBase": "/th?id=OHR.HawaMahal2026_EN-CA6985654541"
+}

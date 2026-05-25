@@ -1,0 +1,43 @@
+{
+  "date": "25 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un souffle entre les pierres",
+  "bsTitle": "Un souffle entre les pierres",
+  "caption": "Palais des Vents, Jaipur, Rajasthan, Inde",
+  "copyright": "Vue sur Jaipur depuis le Palais des Vents, Rajasthan, Inde (© byheaven/Getty Images)",
+  "copyrightOnly": "© byheaven/Getty Images",
+  "copyrightLink": "/search?q=Palais+des+Vents+Jaipur&form=hpcapt&filters=HpDate%3a%2220260524_2200%22",
+  "description": "Au cœur de Jaipur, en Inde, le Palais des Vents\u202F(Hawa Mahal) répète le même rituel depuis plus de deux siècles. Grâce à sa conception architecturale, il favorise la circulation de l’air et le rafraîchissement passif, illustrant une approche scientifique fascinante. Plus qu’un palais, c’est une merveille qui démontre une parfaite maîtrise de la ventilation naturelle, faisant honneur à son nom.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_HawaMahal2026%22&FORM=HPQUIZ",
+  "hash": "c510349ba6586ee81e1b7d3fea070d1f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-FR4307485807_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-FR4307485807_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-FR4307485807_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_FR-FR4307485807_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260524",
+    "fullStartDateTime": "202605242200",
+    "endDate": "20260525"
+  },
+  "createdAt": "202605250515",
+  "originalUrlBase": "/th?id=OHR.HawaMahal2026_FR-FR4307485807"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "25. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wasser treibt Geschichte",
+  "bsTitle": "Wasser treibt Geschichte",
+  "caption": "Deutscher Mühlentag",
+  "copyright": "Die Hexenlochmühle im Schwarzwald bei Furtwangen, Baden‑Württemberg (© Conny Pokorny/Shutterstock)",
+  "copyrightOnly": "© Conny Pokorny/Shutterstock",
+  "copyrightLink": "/search?q=Deutscher+M%c3%bchlentag&form=hpcapt&filters=HpDate%3a%2220260524_2200%22",
+  "description": "Jedes Jahr am Pfingstmontag rückt der Deutsche Mühlentag historische Wind‑ und Wassermühlen landesweit in den Fokus. Der Aktionstag erinnert daran, welche zentrale Rolle sie über Jahrhunderte hinweg für das Handwerk, die Energiegewinnung und die regionale Wirtschaft spielten – und warum ihr Erhalt bis heute von Bedeutung ist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_HexenlochMill%22&FORM=HPQUIZ",
+  "hash": "752024a72681c60be1acf58f7c77e3f6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260524",
+    "fullStartDateTime": "202605242200",
+    "endDate": "20260525"
+  },
+  "createdAt": "202605250515",
+  "originalUrlBase": "/th?id=OHR.HexenlochMill_DE-DE3552158856"
+}

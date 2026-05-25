@@ -1,0 +1,43 @@
+{
+  "date": "May 24, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Tre Cime Nature Park, South Tyrol, Italy",
+  "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)",
+  "copyrightOnly": "© Adisorn Fineday Chutikunakorn/Getty Images",
+  "copyrightLink": "/search?q=Tre+Cime+Nature+Park&form=hpcapt&filters=HpDate%3a%2220260524_0700%22",
+  "description": "Today's image highlights a prime example of long-term conservation efforts: Tre Cime Nature Park in northern Italy. Located in the Dolomites—a UNESCO World Heritage Site known for striking geology—the park was established in 1981. It is best known for the Tre Cime di Lavaredo: three towering dolomite peaks that rise sharply above alpine meadows. Their sheer rock faces make them among the Alps' most recognisable landmarks.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260524_DolomitesPark%22&FORM=HPQUIZ",
+  "hash": "281e84e85add44cc8e60bc9781cfcef0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260524",
+    "fullStartDateTime": "202605240700",
+    "endDate": "20260525"
+  },
+  "createdAt": "202605250515",
+  "originalUrlBase": "/th?id=OHR.DolomitesPark_ROW8331574098"
+}
