@@ -1,0 +1,43 @@
+{
+  "date": "May 25, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Where silence bears names",
+  "bsTitle": "Where silence bears names",
+  "caption": "Memorial Day",
+  "copyright": "Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)",
+  "copyrightOnly": "© idesignimages/Getty Images",
+  "copyrightLink": "/search?q=Memorial+Day&form=hpcapt&filters=HpDate%3a%2220260525_0700%22",
+  "description": "Memorial Day honors the men and women who lost their lives while serving in the United States Armed Forces. Observed on the last Monday in May, the holiday traces its origins to the years following the Civil War, when communities began decorating the graves of fallen soldiers. Over time, it became a national observance dedicated to remembrance and gratitude—marked by solemn ceremonies, moments of silence, and visits to memorials across the country.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260525_ArlingtonAmphitheater%22&FORM=HPQUIZ",
+  "hash": "4219c964f7e79fd05450b6171bcd1239",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260525",
+    "fullStartDateTime": "202605250700",
+    "endDate": "20260526"
+  },
+  "createdAt": "202605260456",
+  "originalUrlBase": "/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906"
+}
