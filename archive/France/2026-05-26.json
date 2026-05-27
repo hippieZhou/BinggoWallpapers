@@ -1,0 +1,43 @@
+{
+  "date": "27 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Aussi attendrissante qu’essentielle",
+  "bsTitle": "Aussi attendrissante qu’essentielle",
+  "caption": "Journée mondiale de la loutre",
+  "copyright": "Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis (© roclwyr/Getty Images)",
+  "copyrightOnly": "© roclwyr/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9e+mondiale+de+la+loutre&form=hpcapt&filters=HpDate%3a%2220260526_2200%22",
+  "description": "À l’occasion de la Journée mondiale de la loutre, lumière sur cette petite silhouette fuselée qui glisse dans les eaux froides et limpides de la baie de Kachemak, en Alaska, aux États-Unis. Entre mer et montagnes, la loutre nage avec une aisance joyeuse, joue, plonge, puis réapparaît, comme un éclat de vie dans un paysage sauvage.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_OtterDay%22&FORM=HPQUIZ",
+  "hash": "16b159942473235672767346d452b7e6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260526",
+    "fullStartDateTime": "202605262200",
+    "endDate": "20260527"
+  },
+  "createdAt": "202605270509",
+  "originalUrlBase": "/th?id=OHR.OtterDay_FR-FR4235881841"
+}

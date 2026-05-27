@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Flutuando, mas com propósito",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lontra-marinha, Baía de Kachemak, Homer, Alasca, Estados Unidos (© roclwyr/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+Mundial+da+Lontra&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_OtterDay%22&FORM=HPQUIZ",
+  "hash": "43e2acc8d02f5107e353b0626f4d7194",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_PT-BR2622670476_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_PT-BR2622670476_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_PT-BR2622670476_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_PT-BR2622670476_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260527",
+    "fullStartDateTime": "202605270300",
+    "endDate": "20260528"
+  },
+  "createdAt": "202605270509",
+  "originalUrlBase": "/th?id=OHR.OtterDay_PT-BR2622670476"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "May 26, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A season written in lupine",
+  "bsTitle": "A season written in lupine",
+  "caption": "Lupine flowers in bloom, Northern California",
+  "copyright": "Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jeffrey Lewis/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Lupinus&form=hpcapt&filters=HpDate%3a%2220260526_0700%22",
+  "description": "As spring sweeps across Northern California, the landscape is transformed by the vibrant displays of lupine flowers in shades of blue, purple, and white. Flourishing in the region's Mediterranean climate, these wildflowers provide a vital source of nectar for pollinators such as bees, butterflies, and beetles. With over 200 species found worldwide, lupines range from coastal varieties to those that thrive in mountain meadows. Beyond their striking beauty, lupines are essential to the ecosystem: by fixing nitrogen underground, they enrich soil fertility and support the growth of surrounding plants, even in nutrient-poor environments.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260526_LupineBloom%22&FORM=HPQUIZ",
+  "hash": "447cba09fa5961f085887527e5a51b2b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260526",
+    "fullStartDateTime": "202605260700",
+    "endDate": "20260527"
+  },
+  "createdAt": "202605270509",
+  "originalUrlBase": "/th?id=OHR.LupineBloom_EN-US0920778137"
+}
