@@ -1,0 +1,43 @@
+{
+  "date": "28 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde el diseño se une a la disciplina",
+  "bsTitle": "Donde el diseño se une a la disciplina",
+  "caption": "Antigua muralla de la fortaleza de Hwaseong, Suwon, Corea del Sur",
+  "copyright": "Antigua muralla de la fortaleza de Hwaseong, Suwon, Corea del Sur (© aomam/Getty Images)",
+  "copyrightOnly": "© aomam/Getty Images",
+  "copyrightLink": "/search?q=Fortaleza+de+Hwaseong&form=hpcapt&filters=HpDate%3a%2220260527_2200%22",
+  "description": "La antigua muralla de la fortaleza de Hwaseong, que rodea parte de la ciudad de Suwon, es uno de los complejos defensivos mejor conservados de Corea del Sur. Fue construida a finales del siglo XVIII por orden del rey Jeongjo de la dinastía Joseon, que quiso honrar a su padre y reforzar esta zona estratégica. El muro, de casi seis kilómetros, combina piedra y ladrillo y se adapta a colinas, puertas monumentales, pabellones y baluartes que muestran un diseño militar muy avanzado para su época.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+  "hash": "1f8d4e945e2c0e9d1e6d46935738ab50",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ES-ES3287835347_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260527",
+    "fullStartDateTime": "202605272200",
+    "endDate": "20260528"
+  },
+  "createdAt": "202605280504",
+  "originalUrlBase": "/th?id=OHR.HwaesongFortress_ES-ES3287835347"
+}

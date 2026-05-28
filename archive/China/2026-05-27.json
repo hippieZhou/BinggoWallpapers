@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "设计与秩序相结合",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "华城堡的古城墙，水原，韩国 (© aomam/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%9f%a9%e5%9b%bd%e6%b0%b4%e5%8e%9f%e7%9a%84%e5%8d%8e%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+  "hash": "8ff2b24c1b28a41e1223d650cce731af",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260527",
+    "fullStartDateTime": "202605271600",
+    "endDate": "20260528"
+  },
+  "createdAt": "202605280504",
+  "originalUrlBase": "/th?id=OHR.HwaesongFortress_ZH-CN8225341972"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "28. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Form trifft Ordnung",
+  "bsTitle": "Form trifft Ordnung",
+  "caption": "Alte Stadtmauer der Festung Hwaseong, Suwon, Südkorea",
+  "copyright": "Alte Stadtmauer der Festung Hwaseong, Suwon, Südkorea (© aomam/Getty Images)",
+  "copyrightOnly": "© aomam/Getty Images",
+  "copyrightLink": "/search?q=Festung+Hwaseong+Suwon&form=hpcapt&filters=HpDate%3a%2220260527_2200%22",
+  "description": "Was erzählt eine Mauer, wenn es still wird? Mit Einbruch der Nacht zeigt die Festung Hwaseong im südkoreanischen Suwon, dass Zweck und Schönheit sich nicht ausschließen müssen. Die zwischen 1794 und 1796 unter König Jeongjo der Joseon‑Dynastie errichtete Anlage war weit mehr als eine Verteidigungsstruktur. Sie war Ausdruck politischer Reformen und zugleich ein persönliches Denkmal, das zur Erinnerung an den Vater des Königs errichtet wurde und Teil einer bewusst geplanten Stadtanlage ist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+  "hash": "3cc83c7aa7e166f354d1dc5ece2c0ff8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260527",
+    "fullStartDateTime": "202605272200",
+    "endDate": "20260528"
+  },
+  "createdAt": "202605280504",
+  "originalUrlBase": "/th?id=OHR.HwaesongFortress_DE-DE4428807756"
+}

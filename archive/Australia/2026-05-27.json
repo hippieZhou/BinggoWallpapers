@@ -1,0 +1,43 @@
+{
+  "date": "May 27, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Sea otter, Kachemak Bay, Homer, Alaska, United States",
+  "copyright": "Sea otter, Kachemak Bay, Homer, Alaska, United States (© roclwyr/Getty Images)",
+  "copyrightOnly": "© roclwyr/Getty Images",
+  "copyrightLink": "/search?q=Sea+Otter&form=hpcapt&filters=HpDate%3a%2220260527_0700%22",
+  "description": "Just look at this cutie swimming in the waters of Kachemak Bay in Alaska! Otters are captivating creatures that play an essential role in maintaining healthy ecosystems. Known for their playful behaviour and remarkable intelligence, otters are key indicators of waterway health. Sadly, they face growing challenges from habitat loss and pollution.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_OtterDay%22&FORM=HPQUIZ",
+  "hash": "b0ba1fdd95e845b0d286848c69b1dae0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_ROW8950256578_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_ROW8950256578_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_ROW8950256578_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OtterDay_ROW8950256578_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260527",
+    "fullStartDateTime": "202605270700",
+    "endDate": "20260528"
+  },
+  "createdAt": "202605280504",
+  "originalUrlBase": "/th?id=OHR.OtterDay_ROW8950256578"
+}

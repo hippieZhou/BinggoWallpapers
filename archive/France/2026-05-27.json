@@ -1,0 +1,43 @@
+{
+  "date": "28 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand architecture et discipline ne font qu’une",
+  "bsTitle": "Quand architecture et discipline ne font qu’une",
+  "caption": "Forteresse de Hwaseong, Suwon, Corée du Sud",
+  "copyright": "Forteresse de Hwaseong, Suwon, Corée du Sud (© aomam/Getty Images)",
+  "copyrightOnly": "© aomam/Getty Images",
+  "copyrightLink": "/search?q=Forteresse+de+Waseong+Suwon&form=hpcapt&filters=HpDate%3a%2220260527_2200%22",
+  "description": "À la tombée de la nuit, Suwon, en Corée du Sud, se pare d’un calme feutré. La forteresse de Hwaseong se découpe alors dans l’obscurité, élégante et puissante, rappelant que l’utilité peut engendrer la beauté. Édifiée entre 1794 et 1796 sous le règne du roi Jeongjo, cette muraille n’était pas qu’un rempart\u202F: elle incarnait une vision politique réformatrice, pragmatique, pensée pour un royaume plus efficace et plus juste.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260527_HwaesongFortress%22&FORM=HPQUIZ",
+  "hash": "1cb80ae090a475e0889db05cb3ffc063",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260527",
+    "fullStartDateTime": "202605272200",
+    "endDate": "20260528"
+  },
+  "createdAt": "202605280504",
+  "originalUrlBase": "/th?id=OHR.HwaesongFortress_FR-FR4479337112"
+}
