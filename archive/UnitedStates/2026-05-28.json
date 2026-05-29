@@ -1,0 +1,43 @@
+{
+  "date": "May 28, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Design meets discipline",
+  "bsTitle": "Design meets discipline",
+  "caption": "Old city wall of Hwaseong Fortress, Suwon, South Korea",
+  "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)",
+  "copyrightOnly": "© aomam/Getty Images",
+  "copyrightLink": "/search?q=hwaseong+fortress+suwon&form=hpcapt&filters=HpDate%3a%2220260528_0700%22",
+  "description": "As night settles over Suwon, South Korea, the old city wall pictured here shows that function doesn't necessarily cancel out beauty—it can create it. Built between 1794 and 1796 under King Jeongjo of the Joseon Dynasty, Hwaseong Fortress was more than a barrier. It was policy in stone: a reform minded push for a leaner, better-run state, driven by practicality and a deeply personal motive. Jeongjo ordered its construction to honor his father while strengthening a kingdom that wanted smarter systems, not just thicker walls.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260528_HwaesongFortress%22&FORM=HPQUIZ",
+  "hash": "3eb977efac2f017d417bcc947c09e477",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260528",
+    "fullStartDateTime": "202605280700",
+    "endDate": "20260529"
+  },
+  "createdAt": "202605290506",
+  "originalUrlBase": "/th?id=OHR.HwaesongFortress_EN-US1012626869"
+}

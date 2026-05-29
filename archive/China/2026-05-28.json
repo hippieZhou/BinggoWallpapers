@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "巅峰历史时刻",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%ba%ba%e7%b1%bb%e9%a6%96%e6%ac%a1%e5%be%81%e6%9c%8d%e4%b8%96%e7%95%8c%e6%9c%80%e9%ab%98%e5%b3%b0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260528_SummitEverest%22&FORM=HPQUIZ",
+  "hash": "c194a1eb3e29dcec9cf21bfc5c3c3f33",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260528",
+    "fullStartDateTime": "202605281600",
+    "endDate": "20260529"
+  },
+  "createdAt": "202605290506",
+  "originalUrlBase": "/th?id=OHR.SummitEverest_ZH-CN9252833251"
+}

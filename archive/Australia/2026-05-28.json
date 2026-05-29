@@ -1,0 +1,43 @@
+{
+  "date": "May 28, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Old city wall of Hwaseong Fortress, Suwon, South Korea",
+  "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)",
+  "copyrightOnly": "© aomam/Getty Images",
+  "copyrightLink": "/search?q=Hwaseong+Fortress+Suwon&form=hpcapt&filters=HpDate%3a%2220260528_0700%22",
+  "description": "As night settles over Suwon, South Korea, the old city wall pictured here shows that function doesn't necessarily cancel out beauty—it can create it. Built between 1794 and 1796 under King Jeongjo of the Joseon Dynasty, Hwaseong Fortress was more than a barrier. It was policy in stone: a reform-minded push for a leaner, better-run state, driven by practicality and a deeply personal motive. Jeongjo ordered its construction to honour his father while strengthening a kingdom that wanted smarter systems, not just thicker walls.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260528_HwaesongFortress%22&FORM=HPQUIZ",
+  "hash": "76b27d4c7c7c2e3659aeba56d9754702",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260528",
+    "fullStartDateTime": "202605280700",
+    "endDate": "20260529"
+  },
+  "createdAt": "202605290506",
+  "originalUrlBase": "/th?id=OHR.HwaesongFortress_ROW5120424335"
+}

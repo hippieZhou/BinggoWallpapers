@@ -1,0 +1,43 @@
+{
+  "date": "29 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "En la cima de la historia",
+  "bsTitle": "En la cima de la historia",
+  "caption": "Expedición británica al Everest de 1953",
+  "copyright": "Cumbre del monte Everest, Parque Nacional de Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
+  "copyrightOnly": "© fotoVoyager/Getty Images",
+  "copyrightLink": "/search?q=Expedici%c3%b3n+brit%c3%a1nica+al+Everest+de+1953&form=hpcapt&filters=HpDate%3a%2220260528_2200%22",
+  "description": "La expedición británica al monte Everest, en el Parque Nacional de Sagarmatha (Nepal) de 1953, organizada bajo el liderazgo de John Hunt, marcó un hito en la historia del alpinismo. Durante la primavera de ese año, el equipo avanzó por la vertiente sur desde Nepal, estableciendo campamentos en condiciones extremas. Tras varios intentos y una cuidadosa preparación, Edmund Hillary y Tenzing Norgay, sherpa nepalí, fueron seleccionados para el asalto final, apoyados por el esfuerzo colectivo de todos los integrantes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260528_SummitEverest%22&FORM=HPQUIZ",
+  "hash": "38f5b276bab7b2a467812887e51d04f9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ES-ES4841461045_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260528",
+    "fullStartDateTime": "202605282200",
+    "endDate": "20260529"
+  },
+  "createdAt": "202605290506",
+  "originalUrlBase": "/th?id=OHR.SummitEverest_ES-ES4841461045"
+}

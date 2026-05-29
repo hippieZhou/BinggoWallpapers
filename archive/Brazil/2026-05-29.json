@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Subir é verbo coletivo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Topo do Monte Everest, Parque Nacional de Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=primeira+escalada+Everest&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_SummitEverest%22&FORM=HPQUIZ",
+  "hash": "019f7691776cf6626d63ee715736c865",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260529",
+    "fullStartDateTime": "202605290300",
+    "endDate": "20260530"
+  },
+  "createdAt": "202605290506",
+  "originalUrlBase": "/th?id=OHR.SummitEverest_PT-BR8310035958"
+}
