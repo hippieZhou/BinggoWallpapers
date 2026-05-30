@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Mount+Everest&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_SummitEverest%22&FORM=HPQUIZ",
+  "hash": "2cc0f13e5548305ca22f68e690868061",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260529",
+    "fullStartDateTime": "202605290700",
+    "endDate": "20260530"
+  },
+  "createdAt": "202605300444",
+  "originalUrlBase": "/th?id=OHR.SummitEverest_ROW0124036396"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "30. Mai. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Zwischen den Streifen lesen",
+  "bsTitle": "Zwischen den Streifen lesen",
+  "caption": "Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia",
+  "copyright": "Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia (© Sharon Heald/Nature Picture Library)",
+  "copyrightOnly": "© Sharon Heald/Nature Picture Library",
+  "copyrightLink": "/search?q=Steppenzebra&form=hpcapt&filters=HpDate%3a%2220260529_2200%22",
+  "description": "Im Etosha-Nationalpark in Namibia bedeutet jeder Anfang sofort Bewegung – das Steppenzebra-Fohlen auf diesem Bild scheint dies von Beginn an verstanden zu haben. In einer Landschaft aus Salzpfannen und Grasland ist das richtige Timing entscheidend, denn Zögern kann gefährlich sein. Löwen, Tüpfelhyänen, Wildhunde, Geparden und Leoparden setzen den Herden ständig zu, besonders den Jüngsten. Deshalb sind Zebras erstaunlich gut vorbereitet, wenn sie zur Welt kommen: Minuten nach der Geburt stehen sie bereits und folgen kurz darauf der Herde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_EquusQuagga%22&FORM=HPQUIZ",
+  "hash": "56d52d795aacec7183f21d1b5f4846fa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260529",
+    "fullStartDateTime": "202605292200",
+    "endDate": "20260530"
+  },
+  "createdAt": "202605300444",
+  "originalUrlBase": "/th?id=OHR.EquusQuagga_DE-DE3459381022"
+}

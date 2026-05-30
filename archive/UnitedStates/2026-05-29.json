@@ -1,0 +1,43 @@
+{
+  "date": "May 29, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A 'peak' into history",
+  "bsTitle": "A 'peak' into history",
+  "caption": "1953 Mount Everest Expedition",
+  "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)",
+  "copyrightOnly": "© fotoVoyager/Getty Images",
+  "copyrightLink": "/search?q=Mt+Everest+summit+1953&form=hpcapt&filters=HpDate%3a%2220260529_0700%22",
+  "description": "In Sagarmatha National Park, Nepal, Mount Everest rises into view, calm and unmoved as evening settles in. But on May 29, 1953, that stillness was broken. After years of planning and weeks of climbing, New Zealander Edmund Hillary and Sherpa mountaineer Tenzing Norgay reached the summit. At over 29,000 feet above sea level, they became the first people known to have stood at Earth's highest point.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_SummitEverest%22&FORM=HPQUIZ",
+  "hash": "61b917f2a34e4acb0d6f508ecc6e036b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260529",
+    "fullStartDateTime": "202605290700",
+    "endDate": "20260530"
+  },
+  "createdAt": "202605300444",
+  "originalUrlBase": "/th?id=OHR.SummitEverest_EN-US0552794971"
+}

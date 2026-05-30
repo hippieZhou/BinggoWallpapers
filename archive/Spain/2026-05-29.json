@@ -1,0 +1,43 @@
+{
+  "date": "30 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Las Islas Afortunadas",
+  "bsTitle": "Las Islas Afortunadas",
+  "caption": "Día de Canarias",
+  "copyright": "Vista aérea del Puerto de la Cruz, Tenerife (© Balate Dorin/Getty Images)",
+  "copyrightOnly": "© Balate Dorin/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+de+Canarias&form=hpcapt&filters=HpDate%3a%2220260529_2200%22",
+  "description": "El 30 de mayo se celebra el Día de Canarias, una fecha que conmemora la identidad, la historia y la cultura del archipiélago. Es una jornada marcada por tradiciones populares, música, gastronomía y encuentros que recuerdan el carácter diverso de estas islas atlánticas. La celebración también invita a valorar su entorno natural y la relación histórica entre paisaje y vida cotidiana en un territorio definido por el mar y el origen volcánico.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_TenerifePuerto%22&FORM=HPQUIZ",
+  "hash": "ee40bb582698bcf628e55cc033735677",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260529",
+    "fullStartDateTime": "202605292200",
+    "endDate": "20260530"
+  },
+  "createdAt": "202605300444",
+  "originalUrlBase": "/th?id=OHR.TenerifePuerto_ES-ES2845823553"
+}

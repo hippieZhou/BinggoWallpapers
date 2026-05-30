@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "读懂黑白之间",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "平原斑马幼崽，埃托沙国家公园，纳米比亚 (© Sharon Heald/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b9%b3%e5%8e%9f%e6%96%91%e9%a9%ac&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_EquusQuagga%22&FORM=HPQUIZ",
+  "hash": "508063bdf4c8527beafee8a5fdcb19b1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260529",
+    "fullStartDateTime": "202605291600",
+    "endDate": "20260530"
+  },
+  "createdAt": "202605300444",
+  "originalUrlBase": "/th?id=OHR.EquusQuagga_ZH-CN9323988132"
+}

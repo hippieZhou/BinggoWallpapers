@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 5月 月 30 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "夕焼けに佇む若いシマウマ",
+  "bsTitle": "夕焼けに佇む若いシマウマ",
+  "caption": "夕焼けに佇む若いシマウマ",
+  "copyright": "サバンナシマウマの子馬, ナミビア (© Sharon Heald/Nature Picture Library)",
+  "copyrightOnly": "© Sharon Heald/Nature Picture Library",
+  "copyrightLink": "/search?q=%e3%82%b5%e3%83%90%e3%83%b3%e3%83%8a%e3%82%b7%e3%83%9e%e3%82%a6%e3%83%9e%e3%81%ae%e5%ad%90%e9%a6%ac&form=hpcapt&filters=HpDate%3a%2220260529_1500%22",
+  "description": "今日の画像は、ナミビアのエトーシャ国立公園で撮影されたサバンナシマウマの子ども。大自然に生きるシマウマは、常にライオンやチーター、ヒョウといった捕食者に狙われています。そんな環境で少しでも生存率を上げるため、シマウマの子どもは生まれて数分で立ち上がり、数時間後には自分の足で歩き始めます。彼らの特徴的な黒と白の縞模様については諸説ありますが、近年では吸血性のハエなどの虫を避ける効果が最も有力な説とされています。一方で、捕食者の視覚をかく乱する可能性も指摘されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260529_EquusQuagga%22&FORM=HPQUIZ",
+  "hash": "0276391e7639cb091e2ff71da41b9f98",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260529",
+    "fullStartDateTime": "202605291500",
+    "endDate": "20260530"
+  },
+  "createdAt": "202605300444",
+  "originalUrlBase": "/th?id=OHR.EquusQuagga_JA-JP7756090544"
+}
