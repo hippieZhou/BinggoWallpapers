@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Seguindo o fluxo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista aérea do Parque Nacional Everglades, Flórida, Estados Unidos (© Tetra Images/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+Everglades+na+Fl%c3%b3rida&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_EvergladesWetlands%22&FORM=HPQUIZ",
+  "hash": "1eb3a29fd51939e7e1062888f2429b2b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_PT-BR6176741147_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_PT-BR6176741147_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_PT-BR6176741147_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_PT-BR6176741147_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260531",
+    "fullStartDateTime": "202605310300",
+    "endDate": "20260601"
+  },
+  "createdAt": "202605310513",
+  "originalUrlBase": "/th?id=OHR.EvergladesWetlands_PT-BR6176741147"
+}

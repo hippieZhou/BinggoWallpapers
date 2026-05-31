@@ -1,0 +1,43 @@
+{
+  "date": "31 de may de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Naturaleza en estado puro",
+  "bsTitle": "Naturaleza en estado puro",
+  "caption": "Parque Nacional de los Everglades, Florida, EE. UU.",
+  "copyright": "Vista aérea del Parque Nacional de los Everglades, Florida, EE. UU. (© Tetra Images/Getty Images)",
+  "copyrightOnly": "© Tetra Images/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+de+los+Everglades&form=hpcapt&filters=HpDate%3a%2220260530_2200%22",
+  "description": "El Parque Nacional de los Everglades se extiende por el sur de Florida, en Estados Unidos, como un inmenso mosaico de humedales donde el agua define el paisaje. Ríos lentos, marismas y manglares crean un entorno único que alberga una extraordinaria diversidad de fauna y flora. Aquí conviven caimanes, manatíes y decenas de especies de aves en un equilibrio delicado forjado durante miles de años. Este espacio protegido conserva ecosistemas subtropicales clave y funciona como regulador natural del agua dulce.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260530_EvergladesWetlands%22&FORM=HPQUIZ",
+  "hash": "1c7ddf2ab38a680adf2063972fb5760b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260530",
+    "fullStartDateTime": "202605302200",
+    "endDate": "20260531"
+  },
+  "createdAt": "202605310513",
+  "originalUrlBase": "/th?id=OHR.EvergladesWetlands_ES-ES0912999305"
+}

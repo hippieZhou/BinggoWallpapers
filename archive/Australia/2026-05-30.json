@@ -1,0 +1,43 @@
+{
+  "date": "May 30, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Plains zebra foal in Etosha National Park, Namibia",
+  "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
+  "copyrightOnly": "© Sharon Heald/Nature Picture Library",
+  "copyrightLink": "/search?q=Plains+zebras&form=hpcapt&filters=HpDate%3a%2220260530_0700%22",
+  "description": "Etosha National Park, Namibia, is not a place for soft starts, and the plains zebra foal in this image seems to get the memo. In a land this vast—nearly 22,300 square kilometres of salt pans and grassland—timing is everything, and hesitation is expensive. Lions, spotted hyenas, wild dogs, cheetahs and leopards constantly pressure the herd—especially the youngest—so zebras are born ready. Minutes after arrival, they're upright. Hours later, they're moving.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260530_EquusQuagga%22&FORM=HPQUIZ",
+  "hash": "93ddba330801e6a698a32b35ed0166cb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260530",
+    "fullStartDateTime": "202605300700",
+    "endDate": "20260531"
+  },
+  "createdAt": "202605310513",
+  "originalUrlBase": "/th?id=OHR.EquusQuagga_ROW3735095884"
+}

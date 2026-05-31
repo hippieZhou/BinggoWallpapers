@@ -1,0 +1,43 @@
+{
+  "date": "31 mai 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un lien éternel",
+  "bsTitle": "Un lien éternel",
+  "caption": "Fête des mères",
+  "copyright": "Une guéparde et son guépardeau (© hilton123/Getty Images)",
+  "copyrightOnly": "© hilton123/Getty Images",
+  "copyrightLink": "/search?q=f%c3%aate+des+m%c3%a8res&form=hpcapt&filters=HpDate%3a%2220260530_2200%22",
+  "description": "À l’aube, dans la savane africaine, une maman guépard glisse entre les herbes dorées, attentive au moindre souffle. Son petit avance dans son sillage, protégé par une présence silencieuse qui observe, anticipe et rassure. Chaque halte devient une leçon\u202F: reconnaître un danger, choisir le bon moment, survivre sans jamais être seul.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260530_CheetahMotherDay%22&FORM=HPQUIZ",
+  "hash": "992cf5e8cc603e95d3488a3bccaf56de",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260530",
+    "fullStartDateTime": "202605302200",
+    "endDate": "20260531"
+  },
+  "createdAt": "202605310513",
+  "originalUrlBase": "/th?id=OHR.CheetahMotherDay_FR-FR3566919266"
+}
