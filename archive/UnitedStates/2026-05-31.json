@@ -1,0 +1,43 @@
+{
+  "date": "May 31, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Follow the flow",
+  "bsTitle": "Follow the flow",
+  "caption": "End of American Wetlands Month",
+  "copyright": "Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)",
+  "copyrightOnly": "© Tetra Images/Getty Images",
+  "copyrightLink": "/search?q=American+Wetlands+Month&form=hpcapt&filters=HpDate%3a%2220260531_0700%22",
+  "description": "Today is the last day of American Wetlands Month, but don't let that bog you down. Take today to shine a spotlight on wetlands. Held throughout May, this national observance shines a spotlight on wetlands—some of the most productive ecosystems in the United States—and few places show their power quite like Everglades National Park. From above, Florida's iconic wetlands unfold as a vast patchwork of shallow water, sawgrass, mangroves, and winding channels, shaped by freshwater slowly flowing south from Lake Okeechobee.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_EvergladesWetlands%22&FORM=HPQUIZ",
+  "hash": "22096a97c5886bf7f0e38f96aab3b614",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260531",
+    "fullStartDateTime": "202605310700",
+    "endDate": "20260601"
+  },
+  "createdAt": "202606010553",
+  "originalUrlBase": "/th?id=OHR.EvergladesWetlands_EN-US8572465847"
+}

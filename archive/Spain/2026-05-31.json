@@ -1,0 +1,43 @@
+{
+  "date": "1 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Sabores de la historia",
+  "bsTitle": "Sabores de la historia",
+  "caption": "Palermo, Sicilia, Italia",
+  "copyright": "Horizonte de Palermo al atardecer, Sicilia, Italia (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "© Sean Pavone/Getty Images",
+  "copyrightLink": "/search?q=Palermo&form=hpcapt&filters=HpDate%3a%2220260531_2200%22",
+  "description": "El centro histórico de Palermo, en Sicilia, Italia, es un mosaico de culturas que han dejado su huella durante siglos. Sus calles reflejan la convivencia de tradiciones árabes, normandas, barrocas y españolas, fruto del dominio de la Corona de Aragón y la posterior presencia hispánica, visibles en palacios, iglesias y plazas siempre animadas. Monumentos como la catedral o el Palazzo dei Normanni resumen la compleja historia de la isla y su continua mezcla de influencias artísticas y culturales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+  "hash": "685ec62e3e49f88697897eaddcfcbfef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ES-ES5664715455_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260531",
+    "fullStartDateTime": "202605312200",
+    "endDate": "20260601"
+  },
+  "createdAt": "202606010553",
+  "originalUrlBase": "/th?id=OHR.OlivaPalermo_ES-ES5664715455"
+}

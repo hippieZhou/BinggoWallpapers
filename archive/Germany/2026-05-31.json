@@ -1,0 +1,43 @@
+{
+  "date": "1. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Geschichten aus Stein und Zeit",
+  "bsTitle": "Geschichten aus Stein und Zeit",
+  "caption": "Palermo, Sizilien, Italien",
+  "copyright": "Skyline von Palermo in der Abenddämmerung, Sizilien, Italien (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "© Sean Pavone/Getty Images",
+  "copyrightLink": "/search?q=Palermo+Sizilien&form=hpcapt&filters=HpDate%3a%2220260531_2200%22",
+  "description": "Wenn sich am Abend die Lichter über Palermo einschalten, wirkt die Stadt wie ein Mosaik aus Zeiten und Kulturen. Zwischen Meer und Bergen entfaltet sich eine Kulisse, in der sich Geschichte nicht nur betrachten, sondern regelrecht „lesen“ lässt – Schicht für Schicht, wie in einem vielschichtigen Gemälde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+  "hash": "e15da4e9d4d5987b13883e4add2de216",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260531",
+    "fullStartDateTime": "202605312200",
+    "endDate": "20260601"
+  },
+  "createdAt": "202606010553",
+  "originalUrlBase": "/th?id=OHR.OlivaPalermo_DE-DE3024542120"
+}

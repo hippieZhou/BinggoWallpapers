@@ -1,0 +1,43 @@
+{
+  "date": "Jun 1, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Flavours of history",
+  "bsTitle": "Flavours of history",
+  "caption": "Palermo, Sicily, Italy",
+  "copyright": "Palermo skyline at dusk, Sicily, Italy (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "© Sean Pavone/Getty Images",
+  "copyrightLink": "/search?q=Palermo&form=hpcapt&filters=HpDate%3a%2220260601_0400%22",
+  "description": "Palermo, the capital of the island of Sicily in southern Italy, is a city where layers of history, art and culture meet in a vivid and sometimes chaotic harmony. Founded by the Phoenicians and later shaped by Romans, Arabs, Normans and Spaniards, it carries traces of many civilisations that passed through the Mediterranean. This rich past is visible in its architecture, from the Arab-Norman palaces and churches recognised by UNESCO to the Baroque facades that define its historic streets.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_OlivaPalermo%22&FORM=HPQUIZ",
+  "hash": "d779c6ea942c101c9940c733148acfc7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260601",
+    "fullStartDateTime": "202606010400",
+    "endDate": "20260602"
+  },
+  "createdAt": "202606010553",
+  "originalUrlBase": "/th?id=OHR.OlivaPalermo_EN-CA6978537696"
+}

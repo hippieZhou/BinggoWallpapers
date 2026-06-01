@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "历史的况味",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%b7%b4%e5%8b%92%e8%8e%ab&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+  "hash": "d23ea742e3427e4422abe109603cbefd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260531",
+    "fullStartDateTime": "202605311600",
+    "endDate": "20260601"
+  },
+  "createdAt": "202606010553",
+  "originalUrlBase": "/th?id=OHR.OlivaPalermo_ZH-CN9639920195"
+}

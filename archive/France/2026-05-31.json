@@ -1,0 +1,43 @@
+{
+  "date": "1 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’éclat sicilien",
+  "bsTitle": "L’éclat sicilien",
+  "caption": "Palerme, Sicile, Italie",
+  "copyright": "Palerme au crépuscule, Sicile, Italie (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "© Sean Pavone/Getty Images",
+  "copyrightLink": "/search?q=Palerme+Italie&form=hpcapt&filters=HpDate%3a%2220260531_2200%22",
+  "description": "Capitale vibrante de la Sicile, en Italie, Palerme se dévoile comme un palimpseste méditerranéen. Fondée par les Phéniciens, puis façonnée par les Romains, les Arabes, les Normands et les Espagnols, la ville porte en elle la mémoire de civilisations entremêlées. Cette histoire se lit encore dans la pierre\u202F: palais arabo-normands classés au patrimoine mondial de l’UNESCO, églises aux lignes orientales, façades baroques baignées de lumière.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260531_OlivaPalermo%22&FORM=HPQUIZ",
+  "hash": "5d86b9f066be992a66b92128f79c3924",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260531",
+    "fullStartDateTime": "202605312200",
+    "endDate": "20260601"
+  },
+  "createdAt": "202606010553",
+  "originalUrlBase": "/th?id=OHR.OlivaPalermo_FR-FR3764883294"
+}
