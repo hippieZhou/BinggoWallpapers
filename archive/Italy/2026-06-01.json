@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Viva la Repubblica",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Colonna Traiana, Roma, Lazio (© Domingo Leiva/Moment/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Festa+della+Repubblica&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_ItaliaRepubblica%22&FORM=HPQUIZ",
+  "hash": "cad9f99c7e185f2b96419e77d967de3e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260601",
+    "fullStartDateTime": "202606012200",
+    "endDate": "20260602"
+  },
+  "createdAt": "202606020524",
+  "originalUrlBase": "/th?id=OHR.ItaliaRepubblica_IT-IT5373102949"
+}

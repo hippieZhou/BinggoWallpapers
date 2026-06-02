@@ -1,0 +1,43 @@
+{
+  "date": "Jun 1, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Pride in plain sight",
+  "bsTitle": "Pride in plain sight",
+  "caption": "Happy Pride Month!",
+  "copyright": "Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)",
+  "copyrightOnly": "© Noam Galai/Getty Images",
+  "copyrightLink": "/search?q=Pride+Month+US&form=hpcapt&filters=HpDate%3a%2220260601_0700%22",
+  "description": "Every June, Pride Month bursts into cities and streets across the United States—but its origins lie in defiance, not festivity. The observance grew from the Stonewall uprising of June 1969, when LGBTQIA+ New Yorkers pushed back against routine police raids, igniting a movement that reshaped civil rights history.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_RockefellerPride%22&FORM=HPQUIZ",
+  "hash": "acdae0644e1af36a388c31870839456f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260601",
+    "fullStartDateTime": "202606010700",
+    "endDate": "20260602"
+  },
+  "createdAt": "202606020524",
+  "originalUrlBase": "/th?id=OHR.RockefellerPride_EN-US1087499810"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo der Weg das Wasser teilt",
+  "bsTitle": "Wo der Weg das Wasser teilt",
+  "caption": "Straße durch den Xitai-Jinaier-See, Provinz Qinghai, China",
+  "copyright": "Straße durch den Xitai-Jinaier-See, Provinz Qinghai, China (© Kaicheng Xu/Getty Images)",
+  "copyrightOnly": "© Kaicheng Xu/Getty Images",
+  "copyrightLink": "/search?q=Qaidam+Becken+China&form=hpcapt&filters=HpDate%3a%2220260601_2200%22",
+  "description": "Wie eine surreal wirkende Linie zieht sich eine Straße durch den Xitai-Jinaier-See im Westen Chinas. Der Salzsee, auch als West Taijinar Lake bekannt, liegt im abgelegenen Qaidam-Becken auf über 2.600 Metern Höhe. Ein Abschnitt der Nationalstraße 315 verläuft direkt durch das seichte Wasser und erzeugt den Eindruck, als würde die Fahrbahn zwischen zwei Farben schweben. Auf der einen Seite schimmert das Wasser tiefblau, auf der anderen in grün‑türkisen Tönen – ein Kontrast, der durch unterschiedliche Mineralkonzentrationen entsteht, etwa durch variierende Salz- und Lithiumgehalte im Wasser.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_Qinghai%22&FORM=HPQUIZ",
+  "hash": "23ffa29104770ebcabef1042bc65df1d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_DE-DE2779615258_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260601",
+    "fullStartDateTime": "202606012200",
+    "endDate": "20260602"
+  },
+  "createdAt": "202606020524",
+  "originalUrlBase": "/th?id=OHR.Qinghai_DE-DE2779615258"
+}

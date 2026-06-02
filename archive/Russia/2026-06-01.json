@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Palermo skyline at dusk, Sicily, Italy (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Palermo&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260601_OlivaPalermo%22&FORM=HPQUIZ",
+  "hash": "83ced0f86dd4cc9536e9e06f536d2d9c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ROW4355319130_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ROW4355319130_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ROW4355319130_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_ROW4355319130_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260601",
+    "fullStartDateTime": "202606010700",
+    "endDate": "20260602"
+  },
+  "createdAt": "202606020524",
+  "originalUrlBase": "/th?id=OHR.OlivaPalermo_ROW4355319130"
+}

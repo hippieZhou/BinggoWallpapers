@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma passagem flutuante",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Rodovia sobre o lago Xitai Jinaier, província de Qinghai, China (© Kaicheng Xu/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Qinghai+China&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_Qinghai%22&FORM=HPQUIZ",
+  "hash": "c14119695026d0ecd73def7fbc5a2018",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_PT-BR7641710566_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_PT-BR7641710566_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_PT-BR7641710566_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_PT-BR7641710566_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260602",
+    "fullStartDateTime": "202606020300",
+    "endDate": "20260603"
+  },
+  "createdAt": "202606020524",
+  "originalUrlBase": "/th?id=OHR.Qinghai_PT-BR7641710566"
+}
