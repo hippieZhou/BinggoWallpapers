@@ -1,0 +1,43 @@
+{
+  "date": "Jun 3, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Where the road stops, the ride begins",
+  "bsTitle": "Where the road stops, the ride begins",
+  "caption": "World Bicycle Day",
+  "copyright": "Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)",
+  "copyrightOnly": "© Artur Debat/Getty Images",
+  "copyrightLink": "/search?q=World+Bicycle+Day&form=hpcapt&filters=HpDate%3a%2220260602_2300%22",
+  "description": "Your average route to work might not resemble the one in today's image, but it shouldn't stop you from pedalling. World Bicycle Day invites us to rethink what's possible on two wheels—whether the ride cuts through city streets or remote terrain. Observed every 3 June, the United Nations–backed day recognises cycling as a practical way to move, supporting health, lowering emissions and making mobility more accessible.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+  "hash": "e6a394b49f59cfcfd04a5cb13530d4d0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260602",
+    "fullStartDateTime": "202606022300",
+    "endDate": "20260603"
+  },
+  "createdAt": "202606030556",
+  "originalUrlBase": "/th?id=OHR.BardenasReales_EN-GB8956577575"
+}

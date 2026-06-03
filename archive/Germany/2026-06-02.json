@@ -1,0 +1,43 @@
+{
+  "date": "3. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo die Straße endet, beginnt das Abenteuer",
+  "bsTitle": "Wo die Straße endet, beginnt das Abenteuer",
+  "caption": "Weltfahrradtag",
+  "copyright": "Radfahrer in den Bardenas Reales, einem Naturpark und Biosphärenreservat in Navarra, Spanien (© Artur Debat/Getty Images)",
+  "copyrightOnly": "© Artur Debat/Getty Images",
+  "copyrightLink": "/search?q=Weltfahrradtag&form=hpcapt&filters=HpDate%3a%2220260602_2200%22",
+  "description": "Ihr Arbeitsweg mag anders aussehen als die Szene in unserem heutigen Bild – doch auch in Deutschland gehört das Fahrrad längst zum Alltag. Aktuelle Studien zeigen, dass immer mehr Menschen regelmäßig aufs Rad steigen, sei es für den Weg zur Arbeit, kurze Erledigungen oder Ausflüge ins Grüne. Am Weltfahrradtag am 3. Juni geht es darum, Mobilität neu zu denken und vertraute Strecken anders zu erleben.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+  "hash": "9d5790ac089588987777e06ecd81f05d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260602",
+    "fullStartDateTime": "202606022200",
+    "endDate": "20260603"
+  },
+  "createdAt": "202606030556",
+  "originalUrlBase": "/th?id=OHR.BardenasReales_DE-DE2578527889"
+}

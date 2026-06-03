@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "路之所止，行之所启",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e8%87%aa%e8%a1%8c%e8%bd%a6%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_BardenasReales%22&FORM=HPQUIZ",
+  "hash": "6700d2f2ffa10195590cff04ff0037e9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260602",
+    "fullStartDateTime": "202606021600",
+    "endDate": "20260603"
+  },
+  "createdAt": "202606030556",
+  "originalUrlBase": "/th?id=OHR.BardenasReales_ZH-CN0480548935"
+}

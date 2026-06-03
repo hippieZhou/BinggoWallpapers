@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Qaidam+Basin+China&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260602_Qinghai%22&FORM=HPQUIZ",
+  "hash": "9a1fd8f59ae329eaaabaf2cdab58feca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_ROW4654938866_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_ROW4654938866_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_ROW4654938866_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Qinghai_ROW4654938866_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260602",
+    "fullStartDateTime": "202606020700",
+    "endDate": "20260603"
+  },
+  "createdAt": "202606030556",
+  "originalUrlBase": "/th?id=OHR.Qinghai_ROW4654938866"
+}
