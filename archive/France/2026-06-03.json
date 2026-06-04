@@ -1,0 +1,43 @@
+{
+  "date": "4 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "D’élégantes plumes",
+  "bsTitle": "D’élégantes plumes",
+  "caption": "Aigrette neigeuse, Floride centrale, États-Unis",
+  "copyright": "Aigrette neigeuse, Floride centrale, États-Unis (© Donald M. Jones/Minden Pictures)",
+  "copyrightOnly": "© Donald M. Jones/Minden Pictures",
+  "copyrightLink": "/search?q=aigrette+neigeuse&form=hpcapt&filters=HpDate%3a%2220260603_2200%22",
+  "description": "Nom poétique, allure délicate. L’aigrette neigeuse se distingue par son plumage d’un blanc éclatant et ses étonnantes «\u202Fpantoufles\u202F» jaunes, posées au bout de fines pattes noires. Cette apparence gracieuse a bien failli lui coûter cher\u202F: au début du XXᵉ siècle, ses plumes nuptiales, très prisées pour les chapeaux, ont mené l’espèce au bord de la disparition.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260603_PreeningEgret%22&FORM=HPQUIZ",
+  "hash": "56ca3e5fddbd469e959c65d690e7dff9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260603",
+    "fullStartDateTime": "202606032200",
+    "endDate": "20260604"
+  },
+  "createdAt": "202606040550",
+  "originalUrlBase": "/th?id=OHR.PreeningEgret_FR-FR5555518390"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "4 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Elegancia entre plumas",
+  "bsTitle": "Elegancia entre plumas",
+  "caption": "Garceta nívea acicalándose, Florida central, EE.\u202FUU.",
+  "copyright": "Garceta nívea acicalándose, Florida central, EE.\u202FUU. (© Donald M. Jones/Minden Pictures)",
+  "copyrightOnly": "© Donald M. Jones/Minden Pictures",
+  "copyrightLink": "/search?q=Garceta+n%c3%advea&form=hpcapt&filters=HpDate%3a%2220260603_2200%22",
+  "description": "La garceta nívea se detiene sobre aguas tranquilas mientras se acicala con paciencia, en un gesto cotidiano que revela precisión y calma. En la Florida central, este elegante ave blanca dedica largos minutos a limpiar y alinear sus plumas, esenciales para el vuelo y el aislamiento. El contraste entre su plumaje luminoso y el entorno húmedo resalta cada movimiento del pico y las patas, recordando la importancia del cuidado corporal en su vida diaria.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260603_PreeningEgret%22&FORM=HPQUIZ",
+  "hash": "14a56f3137e03da54e6cf0ce04dd1440",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_ES-ES8215268252_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_ES-ES8215268252_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_ES-ES8215268252_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PreeningEgret_ES-ES8215268252_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260603",
+    "fullStartDateTime": "202606032200",
+    "endDate": "20260604"
+  },
+  "createdAt": "202606040550",
+  "originalUrlBase": "/th?id=OHR.PreeningEgret_ES-ES8215268252"
+}
