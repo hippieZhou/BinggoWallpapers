@@ -1,0 +1,43 @@
+{
+  "date": "5 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Horizonte encendido al amanecer",
+  "bsTitle": "Horizonte encendido al amanecer",
+  "caption": "Molinos de Consuegra al amanecer, Castilla-La Mancha",
+  "copyright": "Molinos de Consuegra al amanecer, Castilla-La Mancha (© Paulo Costa/Getty Images)",
+  "copyrightOnly": "© Paulo Costa/Getty Images",
+  "copyrightLink": "/search?q=Molinos+de+Consuegra&form=hpcapt&filters=HpDate%3a%2220260604_2200%22",
+  "description": "En la llanura manchega, los molinos de Consuegra se alzan como un símbolo poderoso del paisaje y de la historia de Castilla-La Mancha. Situados sobre el cerro Calderico, dominan el horizonte con sus aspas blancas que evocan escenas del pasado rural y literario. Muchos de estos molinos han sido restaurados y conservan su maquinaria original, lo que permite comprender su función tradicional en la molienda del grano.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_CastillaLaMancha%22&FORM=HPQUIZ",
+  "hash": "9898bd80c159eac040c4887b11138074",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260604",
+    "fullStartDateTime": "202606042200",
+    "endDate": "20260605"
+  },
+  "createdAt": "202606050510",
+  "originalUrlBase": "/th?id=OHR.CastillaLaMancha_ES-ES3536382810"
+}

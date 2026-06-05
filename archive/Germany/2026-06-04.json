@@ -1,0 +1,43 @@
+{
+  "date": "5. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die stille Kraft einer unberührten Welt",
+  "bsTitle": "Die stille Kraft einer unberührten Welt",
+  "caption": "Weltumwelttag",
+  "copyright": "Blick vom Skierffe über das Flussdelta des Rapadalen, Nationalpark Sarek, Laponia, Lappland, Schweden (© Robert Haasmann/Getty Images)",
+  "copyrightOnly": "© Robert Haasmann/Getty Images",
+  "copyrightLink": "/search?q=Weltumwelttag&form=hpcapt&filters=HpDate%3a%2220260604_2200%22",
+  "description": "Stellen Sie sich eine Landschaft vor, in der die Natur seit Jahrhunderten ihren eigenen Rhythmus bestimmt – genau das ist der Sarek-Nationalpark. Seit seiner Gründung im Jahr 1909 kommt dieser abgelegene Teil Schwedisch-Lapplands ohne Straßen, Hütten oder markierte Wege aus. Schroffe Gipfel, rund 100 Gletscher und tiefe Täler prägen die Kulisse. Als Teil des UNESCO-Welterbes Laponia ist die Region eng mit der Kultur der Sámi verbunden, deren Rentierherden die Täler bis heute durchziehen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_WedLapland%22&FORM=HPQUIZ",
+  "hash": "7b965cf00f94a0ec58e802ca83d14551",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260604",
+    "fullStartDateTime": "202606042200",
+    "endDate": "20260605"
+  },
+  "createdAt": "202606050510",
+  "originalUrlBase": "/th?id=OHR.WedLapland_DE-DE1297494610"
+}

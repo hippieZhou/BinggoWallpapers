@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O poder de não intervir",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista da montanha Skierffe sobre o delta do rio Rápadalen, Parque Nacional de Sarek, Lapônia, Suécia (© Robert Haasmann/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+Mundial+do+Meio+Ambiente&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_WedLapland%22&FORM=HPQUIZ",
+  "hash": "e6986d71916e0f6ac2769bb2f4d9b563",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_PT-BR8732112197_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_PT-BR8732112197_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_PT-BR8732112197_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_PT-BR8732112197_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260605",
+    "fullStartDateTime": "202606050300",
+    "endDate": "20260606"
+  },
+  "createdAt": "202606050510",
+  "originalUrlBase": "/th?id=OHR.WedLapland_PT-BR8732112197"
+}

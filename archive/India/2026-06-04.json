@@ -1,0 +1,43 @@
+{
+  "date": "Jun 5, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The quiet power of an unclaimed world",
+  "bsTitle": "The quiet power of an unclaimed world",
+  "caption": "World Environment Day",
+  "copyright": "View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)",
+  "copyrightOnly": "© Robert Haasmann/Getty Images",
+  "copyrightLink": "/search?q=World+Environment+Day&form=hpcapt&filters=HpDate%3a%2220260604_1830%22",
+  "description": "If nature had a 'do not disturb' sign, it would hang over Sarek National Park, often called 'the last European wilderness.' On World Environment Day, this remote corner of Swedish Lapland reminds us what the planet looks like when humans take a step back—and let the wild take the lead.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_WedLapland%22&FORM=HPQUIZ",
+  "hash": "c9fe2b367c76891dc2939adda92bf46f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260604",
+    "fullStartDateTime": "202606041830",
+    "endDate": "20260605"
+  },
+  "createdAt": "202606050510",
+  "originalUrlBase": "/th?id=OHR.WedLapland_EN-IN6549880792"
+}

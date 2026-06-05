@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Libero e selvaggio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Delta del fiume Rapadalen, parco nazionale di Sarek, Lapponia, Svezia (© Robert Haasmann/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+mondiale+dell%e2%80%99+ambiente&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260604_WedLapland%22&FORM=HPQUIZ",
+  "hash": "459f35312d692a9a24d421a2afa3241b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_IT-IT1612866051_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_IT-IT1612866051_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_IT-IT1612866051_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WedLapland_IT-IT1612866051_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260604",
+    "fullStartDateTime": "202606042200",
+    "endDate": "20260605"
+  },
+  "createdAt": "202606050510",
+  "originalUrlBase": "/th?id=OHR.WedLapland_IT-IT1612866051"
+}
