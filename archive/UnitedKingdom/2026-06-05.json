@@ -1,0 +1,43 @@
+{
+  "date": "Jun 6, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Wander often, wonder more",
+  "bsTitle": "Wander often, wonder more",
+  "caption": "National Trails Day",
+  "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)",
+  "copyrightOnly": "© The best photo is earned/Getty Images Plus",
+  "copyrightLink": "/search?q=National+Trails+Day&form=hpcapt&filters=HpDate%3a%2220260605_2300%22",
+  "description": "If your screen time has been winning lately, today is a good time to change that—we suggest hiking. National Trails Day was created in 1993 by the American Hiking Society. It is marked in the United Kingdom as well on the first Saturday in June, where organisations across England and Wales nudge people towards exploring trails.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_HikingNatchez%22&FORM=HPQUIZ",
+  "hash": "815c09a3748b3ccff4ebf2106cd91b1e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-GB9388336824_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260605",
+    "fullStartDateTime": "202606052300",
+    "endDate": "20260606"
+  },
+  "createdAt": "202606060447",
+  "originalUrlBase": "/th?id=OHR.HikingNatchez_EN-GB9388336824"
+}

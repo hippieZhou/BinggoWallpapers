@@ -1,0 +1,43 @@
+{
+  "date": "6 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Senderos que cuentan historias",
+  "bsTitle": "Senderos que cuentan historias",
+  "caption": "Natchez Trace Parkway, Tupelo, Misisipi, EE. UU.",
+  "copyright": "Natchez Trace Parkway, Tupelo, Misisipi, EE. UU. (© The best photo is earned/Getty Images Plus)",
+  "copyrightOnly": "© The best photo is earned/Getty Images Plus",
+  "copyrightLink": "/search?q=Senderismo+Natchez+Trace+Parkway&form=hpcapt&filters=HpDate%3a%2220260605_2200%22",
+  "description": "El senderismo en Natchez Trace Parkway, cerca de Tupelo, en Misisipi (Estados Unidos), ofrece una experiencia serena que combina historia y naturaleza. Este histórico corredor, que sigue antiguas rutas indígenas y caminos de colonos, atraviesa bosques frondosos, praderas abiertas y arroyos tranquilos. Los senderos bien señalizados permiten caminar a ritmo pausado mientras se observan aves, ciervos y una variada flora autóctona, creando un entorno ideal para desconectar y disfrutar del paisaje sureño.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_HikingNatchez%22&FORM=HPQUIZ",
+  "hash": "1f8dd0a6167fd27c3b4ccaa8d8ff2844",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ES-ES4258488538_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260605",
+    "fullStartDateTime": "202606052200",
+    "endDate": "20260606"
+  },
+  "createdAt": "202606060447",
+  "originalUrlBase": "/th?id=OHR.HikingNatchez_ES-ES4258488538"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "6 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand le courant mène la danse",
+  "bsTitle": "Quand le courant mène la danse",
+  "caption": "Méduse crinière de lion",
+  "copyright": "Méduse crinière de lion (© Alexander Semenov Images/Shutterstock)",
+  "copyrightOnly": "© Alexander Semenov Images/Shutterstock",
+  "copyrightLink": "/search?q=Journ%c3%a9e+mondiale+de+l%e2%80%99oc%c3%a9an&form=hpcapt&filters=HpDate%3a%2220260605_2200%22",
+  "description": "Aujourd’hui, laissons-nous guider par une créature qui s’abandonne aux courants. La méduse à crinière de lion (Cyanea capillata) évolue principalement dans les mers froides du Nord. Son ombrelle, découpée en huit lobes, flotte comme une fleur pâle, tandis que de longs tentacules et bras buccaux ondulent en dessous.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260605_Cyanea%22&FORM=HPQUIZ",
+  "hash": "9c0de0751b74ac83997f0c7220bc110b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260605",
+    "fullStartDateTime": "202606052200",
+    "endDate": "20260606"
+  },
+  "createdAt": "202606060447",
+  "originalUrlBase": "/th?id=OHR.Cyanea_FR-FR6314357714"
+}

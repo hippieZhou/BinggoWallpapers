@@ -1,0 +1,43 @@
+{
+  "date": "Jun 6, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Wander often, wonder more",
+  "bsTitle": "Wander often, wonder more",
+  "caption": "Natchez Trace Parkway, Mississippi, United States",
+  "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)",
+  "copyrightOnly": "© The best photo is earned/Getty Images Plus",
+  "copyrightLink": "/search?q=Natchez+Trace+Parkway&form=hpcapt&filters=HpDate%3a%2220260606_0400%22",
+  "description": "If your screen time has been winning lately, today is a good excuse to change that—we suggest hiking. While National Trails Day was created in 1993 by the American Hiking Society in the United States, Canadians can easily use it as a reason to head outdoors too. From mountain routes in the Rockies to forest trails and coastal paths, Canada has plenty of places worth swapping notifications for fresh air.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_HikingNatchez%22&FORM=HPQUIZ",
+  "hash": "5ceefbadd0573e30063577cc836009b6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-CA4973547873_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260606",
+    "fullStartDateTime": "202606060400",
+    "endDate": "20260607"
+  },
+  "createdAt": "202606060447",
+  "originalUrlBase": "/th?id=OHR.HikingNatchez_EN-CA4973547873"
+}
