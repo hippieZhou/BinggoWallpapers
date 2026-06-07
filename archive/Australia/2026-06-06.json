@@ -1,0 +1,43 @@
+{
+  "date": "June 6, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Natchez Trace Parkway, Tupelo, Mississippi, United States",
+  "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)",
+  "copyrightOnly": "© The best photo is earned/Getty Images Plus",
+  "copyrightLink": "/search?q=Natchez+Trace+Parkway&form=hpcapt&filters=HpDate%3a%2220260606_0700%22",
+  "description": "Near Tupelo, Mississippi, the Natchez Trace Parkway follows one of North America's oldest travel corridors. Long before paved roads and motorways, Native American communities used this route for trade, hunting and communication across the Southeast. Curious how deeply history can shape a landscape? Some preserved sections of the original trail still sit noticeably below ground level, worn down by centuries of footsteps, horses and wagon wheels. Later, European and American traders, soldiers and explorers relied on the path during the late 18th and early 19th centuries.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260606_HikingNatchez%22&FORM=HPQUIZ",
+  "hash": "b2099df45dfc97aaf00fe8893400bc3b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260606",
+    "fullStartDateTime": "202606060700",
+    "endDate": "20260607"
+  },
+  "createdAt": "202606070517",
+  "originalUrlBase": "/th?id=OHR.HikingNatchez_ROW5481453055"
+}
