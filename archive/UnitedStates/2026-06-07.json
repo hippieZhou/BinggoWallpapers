@@ -1,0 +1,43 @@
+{
+  "date": "Jun 7, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Plant your kingdom",
+  "bsTitle": "Plant your kingdom",
+  "caption": "National Garden Week",
+  "copyright": "Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)",
+  "copyrightOnly": "© Marcus E Jones/Shutterstock",
+  "copyrightLink": "/search?q=National+Garden+Week&form=hpcapt&filters=HpDate%3a%2220260607_0700%22",
+  "description": "Since opening its doors in 1976, the Atlanta Botanical Garden has proven that beauty can be organized. Beds are planned, labels are placed, and every plant has a job. 'To have a garden is not as easy as it seems; it is just as difficult as governing a kingdom.' Nobel Prize-winning German author Hermann Hesse had a point.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_GardenAtlanta%22&FORM=HPQUIZ",
+  "hash": "df4fe01ec1d8fc8215fc47eb61db674d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260607",
+    "fullStartDateTime": "202606070700",
+    "endDate": "20260608"
+  },
+  "createdAt": "202606080523",
+  "originalUrlBase": "/th?id=OHR.GardenAtlanta_EN-US2319128074"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dunseverick+Castle&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_DunseverickCastle2026%22&FORM=HPQUIZ",
+  "hash": "11a2510ef39ec81583b605380733bdec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260607",
+    "fullStartDateTime": "202606070700",
+    "endDate": "20260608"
+  },
+  "createdAt": "202606080523",
+  "originalUrlBase": "/th?id=OHR.DunseverickCastle2026_ROW5774172338"
+}

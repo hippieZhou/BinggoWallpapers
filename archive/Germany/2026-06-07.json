@@ -1,0 +1,43 @@
+{
+  "date": "8. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Gleiten im Takt der Wellen",
+  "bsTitle": "Gleiten im Takt der Wellen",
+  "caption": "Welttag der Ozeane",
+  "copyright": "Gelbe Haarqualle im Ozean (© Alexander Semenov Images/Shutterstock)",
+  "copyrightOnly": "© Alexander Semenov Images/Shutterstock",
+  "copyrightLink": "/search?q=Welttag+der+Ozeane&form=hpcapt&filters=HpDate%3a%2220260607_2200%22",
+  "description": "Lassen Sie sich heute treiben! Der Welttag der Ozeane lädt dazu ein, dem Rhythmus des Wassers zu folgen. Ein faszinierender Begleiter dabei ist die Gelbe Haarqualle. Sie gilt als die größte Qualle der Welt und lebt in den kalten Meeren des Nordatlantiks und des Nordpazifiks. Ihr glockenförmiger Schirm besteht aus acht Lappen, darunter hängen dichte Büschel aus langen, haarähnlichen Tentakeln. Mit der Strömung gleitend, ernährt sie sich von Plankton, kleinen Fischen und Krebstieren. In arktischen Regionen können Exemplare einen Schirmdurchmesser von über 1,8\u202FMetern erreichen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_Cyanea%22&FORM=HPQUIZ",
+  "hash": "0122a97a5ee13a8398e76030dca10eea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_DE-DE8289927523_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260607",
+    "fullStartDateTime": "202606072200",
+    "endDate": "20260608"
+  },
+  "createdAt": "202606080523",
+  "originalUrlBase": "/th?id=OHR.Cyanea_DE-DE8289927523"
+}

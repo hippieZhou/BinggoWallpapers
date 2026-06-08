@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "随波逐流",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e6%b5%b7%e6%b4%8b%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_Cyanea%22&FORM=HPQUIZ",
+  "hash": "ecf6633a13686783188e9f1a3960d01e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260607",
+    "fullStartDateTime": "202606071600",
+    "endDate": "20260608"
+  },
+  "createdAt": "202606080523",
+  "originalUrlBase": "/th?id=OHR.Cyanea_ZH-CN3858079050"
+}

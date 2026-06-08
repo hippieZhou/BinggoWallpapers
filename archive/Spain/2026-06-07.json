@@ -1,0 +1,43 @@
+{
+  "date": "8 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Fluyendo con la corriente",
+  "bsTitle": "Fluyendo con la corriente",
+  "caption": "Día Mundial de los Océanos",
+  "copyright": "Medusa melena de león nadando en el océano (© Alexander Semenov Images/Shutterstock)",
+  "copyrightOnly": "© Alexander Semenov Images/Shutterstock",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+de+los+Oc%c3%a9anos&form=hpcapt&filters=HpDate%3a%2220260607_2200%22",
+  "description": "Cada 8 de junio se celebra el Día Mundial de los Océanos, una fecha para recordar que los mares cubren más del setenta por ciento del planeta y sostienen la vida tal y como la conocemos. Los océanos regulan el clima, producen gran parte del oxígeno que respiramos y son fuente de alimento, cultura y bienestar para millones de personas. Sin embargo, la contaminación, la sobrepesca y el calentamiento global amenazan su equilibrio, haciendo imprescindible una mirada más consciente y comprometida hacia su protección.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_Cyanea%22&FORM=HPQUIZ",
+  "hash": "f65d15702c4a14deb164128121bade17",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ES-ES9225332344_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ES-ES9225332344_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ES-ES9225332344_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ES-ES9225332344_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260607",
+    "fullStartDateTime": "202606072200",
+    "endDate": "20260608"
+  },
+  "createdAt": "202606080523",
+  "originalUrlBase": "/th?id=OHR.Cyanea_ES-ES9225332344"
+}

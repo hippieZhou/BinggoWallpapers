@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 6月 月 8 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は世界海洋デー",
+  "bsTitle": "今日は世界海洋デー",
+  "caption": "今日は世界海洋デー",
+  "copyright": "海中を泳ぐキタユウレイクラゲ (© Alexander Semenov Images/Shutterstock)",
+  "copyrightOnly": "© Alexander Semenov Images/Shutterstock",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e6%b5%b7%e6%b4%8b%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260607_1500%22",
+  "description": "今日 6 月 8 日は「世界海洋デー」。海の大切さを見つめ直し、その保全を考える記念日として、2009 年に国連によって制定されました。そして画像は、世界最大級のクラゲであるキタユウレイクラゲ。直径は 2m を超え、長い触手がライオンのたてがみに見えることから、「ライオンタテガミクラゲ」とも呼ばれています。主にイギリス近海などの寒冷な北方海域に生息し、日本では北海道沖で確認されることがあります。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260607_Cyanea%22&FORM=HPQUIZ",
+  "hash": "6a4451eee5536bb37e20058086c66f48",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260607",
+    "fullStartDateTime": "202606071500",
+    "endDate": "20260608"
+  },
+  "createdAt": "202606080523",
+  "originalUrlBase": "/th?id=OHR.Cyanea_JA-JP0508555494"
+}
