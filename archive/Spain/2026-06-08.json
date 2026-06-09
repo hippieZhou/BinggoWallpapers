@@ -1,0 +1,43 @@
+{
+  "date": "9 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Disfrutando del ocaso",
+  "bsTitle": "Disfrutando del ocaso",
+  "caption": "Vernazza, Cinque Terre, Liguria, Italia",
+  "copyright": "Vernazza, Cinque Terre, Liguria, Italia (© Kelly Cheng/Getty Images)",
+  "copyrightOnly": "© Kelly Cheng/Getty Images",
+  "copyrightLink": "/search?q=Vernazza+Cinque+Terre+Liguria+Italia&form=hpcapt&filters=HpDate%3a%2220260608_2200%22",
+  "description": "Vernazza es uno de los pueblos más reconocibles de Cinque Terre, en la región italiana de Liguria. Sus casas de colores, dispuestas en vertical sobre la roca, miran al mar mientras el puerto marca el ritmo de la vida local. Calles estrechas, escaleras empinadas y fachadas desgastadas por la sal crean una atmósfera auténtica, donde el pasado marinero sigue presente. El sonido del agua, el olor del mar y la luz cambiante acompañan el paseo pausado por este lugar que conserva su identidad.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_CTNPVernazza%22&FORM=HPQUIZ",
+  "hash": "773118836b2d0ccfdc7cc061c0321b35",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ES-ES0282181356_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ES-ES0282181356_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ES-ES0282181356_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ES-ES0282181356_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260608",
+    "fullStartDateTime": "202606082200",
+    "endDate": "20260609"
+  },
+  "createdAt": "202606090458",
+  "originalUrlBase": "/th?id=OHR.CTNPVernazza_ES-ES0282181356"
+}

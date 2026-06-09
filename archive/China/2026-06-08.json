@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "品尝日落",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e9%9f%a6%e5%b0%94%e7%ba%b3%e6%89%8e%e4%ba%94%e6%b8%94%e6%9d%91&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_CTNPVernazza%22&FORM=HPQUIZ",
+  "hash": "0fc624f21993d2cb7a97b39fe721e2c1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260608",
+    "fullStartDateTime": "202606081600",
+    "endDate": "20260609"
+  },
+  "createdAt": "202606090458",
+  "originalUrlBase": "/th?id=OHR.CTNPVernazza_ZH-CN3971102271"
+}

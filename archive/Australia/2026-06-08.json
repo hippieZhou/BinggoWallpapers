@@ -1,0 +1,43 @@
+{
+  "date": "June 8, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Lion's mane jellyfish swimming in the ocean",
+  "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)",
+  "copyrightOnly": "© Alexander Semenov Images/Shutterstock",
+  "copyrightLink": "/search?q=Lions+mane+jellyfish&form=hpcapt&filters=HpDate%3a%2220260608_0700%22",
+  "description": "Today, let's follow the lead of a creature that goes wherever the water takes it. Want to spot a lion's mane jellyfish? Look in cold northern seas. Its bell is divided into eight lobes, and beneath it trail long tentacles and oral arms that can capture plankton, fish and even other jellyfish. Well, a single animal may carry thousands of stinging cells on each tentacle. For humans, the sting can be painful, and even detached tentacles washed ashore may still react on contact. The rule is simple: admire it, then leave it alone.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_Cyanea%22&FORM=HPQUIZ",
+  "hash": "f81ebdb1f443d0543d1f52daf6d486eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260608",
+    "fullStartDateTime": "202606080700",
+    "endDate": "20260609"
+  },
+  "createdAt": "202606090458",
+  "originalUrlBase": "/th?id=OHR.Cyanea_ROW5915372220"
+}

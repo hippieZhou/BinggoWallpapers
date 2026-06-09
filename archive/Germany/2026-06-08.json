@@ -1,0 +1,43 @@
+{
+  "date": "9. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Farben eines ligurischen Abends",
+  "bsTitle": "Farben eines ligurischen Abends",
+  "caption": "Vernazza, Cinque Terre, Ligurien, Italien",
+  "copyright": "Vernazza, Cinque Terre, Ligurien, Italien (© Kelly Cheng/Getty Images)",
+  "copyrightOnly": "© Kelly Cheng/Getty Images",
+  "copyrightLink": "/search?q=Vernazza+Cinque+Terre+Ligurien+Italien&form=hpcapt&filters=HpDate%3a%2220260608_2200%22",
+  "description": "Ein Blick auf das italienische Vernazza genügt und die Zeit scheint langsamer zu fließen. Die pastellfarbenen Häuser drängen sich dicht an den steilen Hang und spiegeln sich im ruhigen Wasser einer geschützten Bucht, dem einzigen natürlichen Hafen der ligurischen Cinque Terre. So ist das Dorf seit Jahrhunderten untrennbar mit dem Meer verbunden. Bereits 1080 erstmals erwähnt, war Vernazza einst ein strategischer Teil der genuesischen Küstenverteidigung – ein Erbe, das in den Ruinen der Doria-Burg und den alten Wachtürmen weiterlebt. Direkt am Ufer erhebt sich die Kirche Santa Margherita d’Antiochia, deren markanter Glockenturm das bunte Treiben am Kai überragt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260608_CTNPVernazza%22&FORM=HPQUIZ",
+  "hash": "0b48a01a1bb2ac16ad6b6b553d81825c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_DE-DE9697732049_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_DE-DE9697732049_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_DE-DE9697732049_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_DE-DE9697732049_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260608",
+    "fullStartDateTime": "202606082200",
+    "endDate": "20260609"
+  },
+  "createdAt": "202606090458",
+  "originalUrlBase": "/th?id=OHR.CTNPVernazza_DE-DE9697732049"
+}
