@@ -1,0 +1,43 @@
+{
+  "date": "June 9, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Vernazza, Cinque Terre, Liguria, Italy",
+  "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)",
+  "copyrightOnly": "© Kelly Cheng/Getty Images",
+  "copyrightLink": "/search?q=Vernazza+Cinque+Terre+Liguria+Italy&form=hpcapt&filters=HpDate%3a%2220260609_0700%22",
+  "description": "Vernazza is a small seaside town in Cinque Terre, in Italy's Liguria region. Built around the area's only natural harbour, it has long been tied to the sea. First recorded in 1080 as a fortified settlement and maritime base, it later became part of the Republic of Genoa's coastal defences. To this day, the village preserves its past in the ruins of Doria Castle and the watchtowers overlooking the bay. At the water's edge stands the Church of Santa Margherita d'Antiochia, first mentioned in 1318 and expanded in later centuries, with a bell tower overlooking the port. Above the houses and narrow lanes, steep terraces support vineyards and olive groves, shaped by generations of stonework in a landscape protected within Cinque Terre National Park, part of a UNESCO World Heritage Site. Picture an aperitivo here: a glass of local white wine, the harbour in view and Ligurian favourites like focaccia and basil pesto—basically a postcard you can taste.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_CTNPVernazza%22&FORM=HPQUIZ",
+  "hash": "19a9f647de281f18042760f4916d4bb7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260609",
+    "fullStartDateTime": "202606090700",
+    "endDate": "20260610"
+  },
+  "createdAt": "202606100510",
+  "originalUrlBase": "/th?id=OHR.CTNPVernazza_ROW6038252808"
+}

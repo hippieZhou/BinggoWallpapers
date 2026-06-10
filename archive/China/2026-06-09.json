@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "一抹蓝色",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%86%b0%e5%b2%9b%e8%b5%ab%e7%91%99%e8%90%a8%e6%b3%a2%e9%b2%81%e5%b0%94&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_Hnausapollur%22&FORM=HPQUIZ",
+  "hash": "6cf73020f6274775ff2126f9a62668eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260609",
+    "fullStartDateTime": "202606091600",
+    "endDate": "20260610"
+  },
+  "createdAt": "202606100510",
+  "originalUrlBase": "/th?id=OHR.Hnausapollur_ZH-CN4075343976"
+}

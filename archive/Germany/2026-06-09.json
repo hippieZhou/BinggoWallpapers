@@ -1,0 +1,43 @@
+{
+  "date": "10. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Hauch von Blau",
+  "bsTitle": "Ein Hauch von Blau",
+  "caption": "Kratersee Hnausapollur, Naturschutzgebiet Fjallabak, Island",
+  "copyright": "Vulkanischer Kratersee Hnausapollur, Naturschutzgebiet Fjallabak, Landmannalaugar, Island (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "© Juan Maria Coy Vergara/Getty Images",
+  "copyrightLink": "/search?q=Hnausapollur+Island&form=hpcapt&filters=HpDate%3a%2220260609_2200%22",
+  "description": "Mitten im isländischen Hochland liegt ein See, der fast zu ruhig wirkt für seine Herkunft. Hnausapollur, auch Bláhylur genannt, befindet sich im Naturschutzgebiet Fjallabak, in einer abgelegenen Region mit Lavafeldern, farbigen Bergen und weiten Tälern, die von vulkanischer Aktivität geprägt sind.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_Hnausapollur%22&FORM=HPQUIZ",
+  "hash": "3a87b4d0aac954ceb4773b788ac30f43",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260609",
+    "fullStartDateTime": "202606092200",
+    "endDate": "20260610"
+  },
+  "createdAt": "202606100510",
+  "originalUrlBase": "/th?id=OHR.Hnausapollur_DE-DE2307473274"
+}

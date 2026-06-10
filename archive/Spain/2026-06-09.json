@@ -1,0 +1,43 @@
+{
+  "date": "10 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un destello azul",
+  "bsTitle": "Un destello azul",
+  "caption": "Lago del cráter de Hnausapollur, Landmannalaugar, Islandia",
+  "copyright": "Lago del cráter de Hnausapollur, Landmannalaugar, Islandia (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "© Juan Maria Coy Vergara/Getty Images",
+  "copyrightLink": "/search?q=Landmannalaugar+Islandia&form=hpcapt&filters=HpDate%3a%2220260609_2200%22",
+  "description": "El lago Hnausapollur se abre como un intenso destello azul en el corazón de la reserva natural de Fjallabak, en la región de Landmannalaugar, al sur de Islandia. Este lago ocupa un cráter volcánico formado hace más de mil años, cuando una erupción explosiva puso en contacto el magma con aguas subterráneas. El resultado fue una depresión amplia y poco profunda que, con el tiempo, se llenó de agua, creando un paisaje tan sereno como sorprendente en medio de montañas de tonos ocres y verdosos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260609_Hnausapollur%22&FORM=HPQUIZ",
+  "hash": "d9915d039998e701fecc48611718a6cc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ES-ES9919226001_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260609",
+    "fullStartDateTime": "202606092200",
+    "endDate": "20260610"
+  },
+  "createdAt": "202606100510",
+  "originalUrlBase": "/th?id=OHR.Hnausapollur_ES-ES9919226001"
+}

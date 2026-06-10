@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O chão como mirante",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Coruja-buraqueira em sentinela (© Wendy/Jeff Sparks/Torquemada/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=coruja+buraqueira&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_BOwl%22&FORM=HPQUIZ",
+  "hash": "ee55c5e1d0889221279660076a41a684",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260610",
+    "fullStartDateTime": "202606100300",
+    "endDate": "20260611"
+  },
+  "createdAt": "202606100510",
+  "originalUrlBase": "/th?id=OHR.BOwl_PT-BR4099408173"
+}
