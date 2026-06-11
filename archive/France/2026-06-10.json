@@ -1,0 +1,43 @@
+{
+  "date": "11 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Entre force et discrétion",
+  "bsTitle": "Entre force et discrétion",
+  "caption": "Des patelles à marée basse sur la Praia da Ursa, Portugal",
+  "copyright": "Des patelles à marée basse sur la Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+  "copyrightOnly": "© Theo Bosboom/Nature Picture Library",
+  "copyrightLink": "/search?q=Praia+da+Ursa+Portugal&form=hpcapt&filters=HpDate%3a%2220260610_2200%22",
+  "description": "Blottie sous les falaises abruptes près du cap da Roca, extrémité occidentale de l’Europe continentale, la Praia da Ursa, au Portugal, donne l’impression d’être au bout du monde. On y accède par un sentier étroit et rocailleux, qui débouche sur une plage sauvage façonnée par le vent, la pierre et la houle de l’Atlantique. À marée basse, le rivage s’élargit brièvement\u202F: des rochers polis émergent, révélant une vie discrète habituellement recouverte par l’océan.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Limpets%22&FORM=HPQUIZ",
+  "hash": "09ce9382cec14d1398bfb18d8ecd66c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260610",
+    "fullStartDateTime": "202606102200",
+    "endDate": "20260611"
+  },
+  "createdAt": "202606110522",
+  "originalUrlBase": "/th?id=OHR.Limpets_FR-FR7051500113"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "June 10, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Hnausapollur crater lake, Fjallabak Nature Reserve, Iceland",
+  "copyright": "Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)",
+  "copyrightOnly": "© Juan Maria Coy Vergara/Getty Images",
+  "copyrightLink": "/search?q=Hnausapollur+Iceland&form=hpcapt&filters=HpDate%3a%2220260610_0700%22",
+  "description": "From above, the lake's smooth surface contrasts sharply with the rugged ground surrounding it. Hnausapollur crater lake—also known as Bláhylur—lies in the heart of Fjallabak Nature Reserve, a remote area of Iceland's highlands shaped more by volcanic activity than by human settlement. The crater formed when magma met groundwater, triggering an explosion that carved out the circular basin visible today.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Hnausapollur%22&FORM=HPQUIZ",
+  "hash": "b95a8736bc08cbfe73d5f90e379f1547",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260610",
+    "fullStartDateTime": "202606100700",
+    "endDate": "20260611"
+  },
+  "createdAt": "202606110522",
+  "originalUrlBase": "/th?id=OHR.Hnausapollur_ROW9570499097"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jun 11, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Quiet strength",
+  "bsTitle": "Quiet strength",
+  "caption": "Limpets at low tide on the coast of Praia da Ursa, Portugal",
+  "copyright": "Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+  "copyrightOnly": "© Theo Bosboom/Nature Picture Library",
+  "copyrightLink": "/search?q=Praia+da+Ursa+Portugal&form=hpcapt&filters=HpDate%3a%2220260611_0400%22",
+  "description": "Tucked away beneath steep cliffs near Cabo da Roca, the westernmost point of mainland Europe, Praia da Ursa feels like the edge of the continent. Reached by a narrow, rugged trail, this secluded beach along Portugal's Atlantic coast is shaped largely by wind, stone and powerful waves. When the tide recedes, the shoreline briefly widens. Smooth rocks emerge, and with them, small signs of life. Limpets cling tightly to the exposed stone, holding fast where the ocean usually breaks.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_Limpets%22&FORM=HPQUIZ",
+  "hash": "2dbc464fdfb11cdb87d0309251c6931d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_EN-CA5417186464_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260611",
+    "fullStartDateTime": "202606110400",
+    "endDate": "20260612"
+  },
+  "createdAt": "202606110522",
+  "originalUrlBase": "/th?id=OHR.Limpets_EN-CA5417186464"
+}

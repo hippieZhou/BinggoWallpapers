@@ -1,0 +1,43 @@
+{
+  "date": "11. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Fest im Fels",
+  "bsTitle": "Fest im Fels",
+  "caption": "Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal",
+  "copyright": "Napfschnecken bei Ebbe an der Küste von Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)",
+  "copyrightOnly": "© Theo Bosboom/Nature Picture Library",
+  "copyrightLink": "/search?q=Praia+da+Ursa+Portugal&form=hpcapt&filters=HpDate%3a%2220260610_2200%22",
+  "description": "An der rauen Westküste Portugals, nahe Cabo da Roca, dem westlichsten Punkt des europäischen Festlands, liegt die Praia da Ursa verborgen unter steilen Felsen. Ein schmaler, teils anspruchsvoller Pfad führt zu diesem abgelegenen Strand am Atlantik, der vor allem von Wind, Gestein und Brandung geprägt ist. Bei Ebbe zieht sich das Meer zurück, die Küstenlinie wirkt für kurze Zeit weiter, und glatte Felsen werden freigelegt. Auf ihnen haften Napfschnecken fest und halten den kräftigen Wellen stand.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260610_Limpets%22&FORM=HPQUIZ",
+  "hash": "3744d25fe711e06733e20e3f5410c991",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260610",
+    "fullStartDateTime": "202606102200",
+    "endDate": "20260611"
+  },
+  "createdAt": "202606110522",
+  "originalUrlBase": "/th?id=OHR.Limpets_DE-DE3433588374"
+}
