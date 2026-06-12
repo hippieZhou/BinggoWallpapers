@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Scia di colore",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Gruccione comune, parco naturale della Sierra de Grazalema, Spagna (© Andres M. Dominguez/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Gruccione+comune&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_SpainBeeEater%22&FORM=HPQUIZ",
+  "hash": "56b4f43fef2406138e7d9b26f9909934",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_IT-IT9615288576_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_IT-IT9615288576_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_IT-IT9615288576_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_IT-IT9615288576_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260611",
+    "fullStartDateTime": "202606112200",
+    "endDate": "20260612"
+  },
+  "createdAt": "202606120525",
+  "originalUrlBase": "/th?id=OHR.SpainBeeEater_IT-IT9615288576"
+}

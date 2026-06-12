@@ -1,0 +1,43 @@
+{
+  "date": "12 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un destello en pleno vuelo",
+  "bsTitle": "Un destello en pleno vuelo",
+  "caption": "Abejaruco europeo, parque natural Sierra de Grazalema, Cádiz",
+  "copyright": "Abejaruco europeo en el parque natural de la Sierra de Grazalema, Cádiz (© Andres M. Dominguez/Nature Picture Library)",
+  "copyrightOnly": "© Andres M. Dominguez/Nature Picture Library",
+  "copyrightLink": "/search?q=Abejaruco+europeo&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
+  "description": "En el parque natural de la Sierra de Grazalema, en Cádiz, el abejaruco europeo ofrece un espectáculo de color difícil de olvidar. Esta ave migratoria surca los cielos con destellos verdes, azules y ocres que brillan al sol. Suele posarse en ramas o cables desde donde observa con atención el vuelo de insectos, especialmente abejas, su alimento preferido.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_SpainBeeEater%22&FORM=HPQUIZ",
+  "hash": "94baa8e44e6aec0bcd67f0a4451009ff",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ES-ES8052156644_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260611",
+    "fullStartDateTime": "202606112200",
+    "endDate": "20260612"
+  },
+  "createdAt": "202606120525",
+  "originalUrlBase": "/th?id=OHR.SpainBeeEater_ES-ES8052156644"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "12 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Comme un éclair de couleurs",
+  "bsTitle": "Comme un éclair de couleurs",
+  "caption": "Guêpier d’Europe, Sierra de Grazalema, Cadix, Espagne",
+  "copyright": "Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library)",
+  "copyrightOnly": "© Andres M. Dominguez/Nature Picture Library",
+  "copyrightLink": "/search?q=gu%c3%aapier+d%e2%80%99Europe&form=hpcapt&filters=HpDate%3a%2220260611_2200%22",
+  "description": "Un éclair de couleurs fend l’air au-dessus des prairies fleuries : le guêpier d’Europe surgit, agile et lumineux. Turquoise éclatant, or et brun profond se mêlent sur ses ailes alors qu’il chasse en plein vol, capturant des abeilles et des guêpes avec une précision fulgurante. Avant de se nourrir, il ôte le dard — un geste appris, comme un rituel révélant son étonnante intelligence.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260611_SpainBeeEater%22&FORM=HPQUIZ",
+  "hash": "52d63f47ab44f555c7ae731cb7fb41fb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260611",
+    "fullStartDateTime": "202606112200",
+    "endDate": "20260612"
+  },
+  "createdAt": "202606120525",
+  "originalUrlBase": "/th?id=OHR.SpainBeeEater_FR-FR5420456430"
+}
