@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Terre di cenere",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parco nazionale delle Badlands, South Dakota, USA (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+nazionale+delle+Badlands&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_BadSunset%22&FORM=HPQUIZ",
+  "hash": "5375f7cbb325748b9861236f5c3b51e6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_IT-IT7610700468_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_IT-IT7610700468_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_IT-IT7610700468_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_IT-IT7610700468_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260612",
+    "fullStartDateTime": "202606122200",
+    "endDate": "20260613"
+  },
+  "createdAt": "202606130515",
+  "originalUrlBase": "/th?id=OHR.BadSunset_IT-IT7610700468"
+}

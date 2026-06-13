@@ -1,0 +1,43 @@
+{
+  "date": "13 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Historia en piedra viva",
+  "bsTitle": "Historia en piedra viva",
+  "caption": "Castillo de Altafulla, Tarragona",
+  "copyright": "Castillo de Altafulla, Tarragona (© Mario Marco/Getty Images)",
+  "copyrightOnly": "© Mario Marco/Getty Images",
+  "copyrightLink": "/search?q=Castillo+de+Altafulla&form=hpcapt&filters=HpDate%3a%2220260612_2200%22",
+  "description": "Situado en el núcleo histórico de Altafulla, en la provincia de Tarragona, el castillo de Altafulla domina el paisaje urbano desde una suave elevación cercana al Mediterráneo. Su origen se remonta a la época medieval, cuando cumplía funciones defensivas y de control del territorio. A lo largo de los siglos, la fortaleza ha experimentado diversas transformaciones que han suavizado su carácter militar y han dado paso a una residencia señorial integrada en el conjunto del municipio.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_AltafullaTarragona%22&FORM=HPQUIZ",
+  "hash": "73bf5ded1c776106787559e275d97a08",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260612",
+    "fullStartDateTime": "202606122200",
+    "endDate": "20260613"
+  },
+  "createdAt": "202606130515",
+  "originalUrlBase": "/th?id=OHR.AltafullaTarragona_ES-ES8470758712"
+}

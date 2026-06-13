@@ -1,0 +1,43 @@
+{
+  "date": "13. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Schichten des Wandels",
+  "bsTitle": "Schichten des Wandels",
+  "caption": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA",
+  "copyright": "Sonnenuntergang im Badlands-Nationalpark, South Dakota, USA (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "© Troy Harrison/Getty Images",
+  "copyrightLink": "/search?q=Badlands-Nationalpark&form=hpcapt&filters=HpDate%3a%2220260612_2200%22",
+  "description": "Wenn die Sonne über dem Badlands-Nationalpark in South Dakota, USA, untergeht, erstrahlen die zerfurchten Hügel in Rosé, Ocker und Aschegrau. Im Abendlicht wirken die Kanten fast wie gemalt, und die Schatten zeichnen jede Falte nach. Die Schichtbänder ähneln einem aufgeschlagenen Gesteinsbuch: Sedimente lagerten sich einst in einem flachen Binnenmeer ab und bauten sich über Millionen Jahre wie ein Schichtkuchen auf, bevor Wind und Wasser die weichen Lagen wieder freilegten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_BadSunset%22&FORM=HPQUIZ",
+  "hash": "12dd2c0fcd9519269ab2db9b4e42e1ab",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_DE-DE9498581527_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_DE-DE9498581527_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_DE-DE9498581527_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_DE-DE9498581527_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260612",
+    "fullStartDateTime": "202606122200",
+    "endDate": "20260613"
+  },
+  "createdAt": "202606130515",
+  "originalUrlBase": "/th?id=OHR.BadSunset_DE-DE9498581527"
+}

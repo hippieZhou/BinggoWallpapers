@@ -1,0 +1,43 @@
+{
+  "date": "Jun 13, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Layers of change",
+  "bsTitle": "Layers of change",
+  "caption": "Sunset in Badlands National Park, South Dakota, United States",
+  "copyright": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "© Troy Harrison/Getty Images",
+  "copyrightLink": "/search?q=Badlands+National+Park&form=hpcapt&filters=HpDate%3a%2220260613_0400%22",
+  "description": "Layered ridges stretch across Badlands National Park in South Dakota. Their bands of pink, grey and gold shift with the light as eroded peaks and valleys come into view. Wind and water continue to shape this terrain, steadily wearing away soft sedimentary rock and exposing millions of years of Earth's history in layers formed by ancient rivers, volcanic ash and periods when shallow seas covered the region.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_BadSunset%22&FORM=HPQUIZ",
+  "hash": "9a06d08c9a04436e043110e85361d750",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-CA4785183991_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-CA4785183991_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-CA4785183991_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-CA4785183991_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260613",
+    "fullStartDateTime": "202606130400",
+    "endDate": "20260614"
+  },
+  "createdAt": "202606130515",
+  "originalUrlBase": "/th?id=OHR.BadSunset_EN-CA4785183991"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O arco-íris ganhou asas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Abelharuco no Parque Natural Sierra de Grazalema, Cádiz, Espanha (© Andres M. Dominguez/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=abelharuco&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_SpainBeeEater%22&FORM=HPQUIZ",
+  "hash": "ecf03ae41536d5753e5f2cf862c126cd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_PT-BR8358258406_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_PT-BR8358258406_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_PT-BR8358258406_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_PT-BR8358258406_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260613",
+    "fullStartDateTime": "202606130300",
+    "endDate": "20260614"
+  },
+  "createdAt": "202606130515",
+  "originalUrlBase": "/th?id=OHR.SpainBeeEater_PT-BR8358258406"
+}

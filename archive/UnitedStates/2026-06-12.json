@@ -1,0 +1,43 @@
+{
+  "date": "Jun 12, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A flash in flight",
+  "bsTitle": "A flash in flight",
+  "caption": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain",
+  "copyright": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)",
+  "copyrightOnly": "© Andres M. Dominguez/Nature Picture Library",
+  "copyrightLink": "/search?q=European+bee-eater&form=hpcapt&filters=HpDate%3a%2220260612_0700%22",
+  "description": "A streak of color glides past a blur of wildflowers as a European bee-eater cuts through the air. Turquoise, gold, and chestnut shimmer across its wings as it hunts in flight, snatching insects midair with swift turns. Bees and wasps are among its favored prey, and the bird often removes the stinger before feeding—a behavior that reduces the risk of injury.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260612_SpainBeeEater%22&FORM=HPQUIZ",
+  "hash": "1fd67d0341095f88fb217ddb96fb2b54",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260612",
+    "fullStartDateTime": "202606120700",
+    "endDate": "20260613"
+  },
+  "createdAt": "202606130515",
+  "originalUrlBase": "/th?id=OHR.SpainBeeEater_EN-US5920719155"
+}
