@@ -1,0 +1,43 @@
+{
+  "date": "14 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "C’est la danse des canards",
+  "bsTitle": "C’est la danse des canards",
+  "caption": "Canard colvert",
+  "copyright": "Canard colvert (© Philippe Paternolli/Getty Images)",
+  "copyrightOnly": "© Philippe Paternolli/Getty Images",
+  "copyrightLink": "/search?q=canard+colvert&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
+  "description": "Au petit matin, le colvert glisse sur l’eau calme tel un pinceau glissant sur une toile. Son plumage chatoyant — tête vert émeraude chez le mâle, robe brun moucheté chez la femelle — capte la lumière naissante. On le croise des marais de Camargue aux canaux urbains d’Amsterdam, fidèle compagnon des paysages aquatiques d’Europe.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_DuckPond%22&FORM=HPQUIZ",
+  "hash": "7f195d663df6bbb5f122b263c29ca020",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260613",
+    "fullStartDateTime": "202606132200",
+    "endDate": "20260614"
+  },
+  "createdAt": "202606140524",
+  "originalUrlBase": "/th?id=OHR.DuckPond_FR-FR7676171535"
+}

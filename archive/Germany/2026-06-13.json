@@ -1,0 +1,43 @@
+{
+  "date": "14. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die stille Kunst des Gartens",
+  "bsTitle": "Die stille Kunst des Gartens",
+  "caption": "Tag des Gartens",
+  "copyright": "Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg (© toriru/Shutterstock)",
+  "copyrightOnly": "© toriru/Shutterstock",
+  "copyrightLink": "/search?q=Tag+des+Gartens&form=hpcapt&filters=HpDate%3a%2220260613_2200%22",
+  "description": "Wer durch einen gut gestalteten Garten geht, spürt sofort: Hier steckt mehr dahinter als nur schöne Blumen. Der Tag des Gartens, der am zweiten Sonntag im Juni begangen wird, lenkt den Blick gezielt auf diese stille Kunst und würdigt Orte, an denen Gestaltung, Pflege und Natur ineinandergreifen. Die Insel Mainau im Bodensee ist dafür ein besonders eindrucksvolles Beispiel. Auf der sogenannten Blumeninsel wechseln sich im Rhythmus der Jahreszeiten Farben, Formen und Düfte ab. Frühjahrsblüher gehen nahtlos in sommerliche Arrangements über, wobei jede Pflanzung sorgfältig geplant und kontinuierlich gepflegt wird. Wege und Beete geben Struktur und Orientierung, ohne die Leichtigkeit des Ortes zu stören oder zu überformen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_MainauFlowers%22&FORM=HPQUIZ",
+  "hash": "c432ae898abca2e4bfce43eb0816cdab",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260613",
+    "fullStartDateTime": "202606132200",
+    "endDate": "20260614"
+  },
+  "createdAt": "202606140524",
+  "originalUrlBase": "/th?id=OHR.MainauFlowers_DE-DE9640558313"
+}

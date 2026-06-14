@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Urbanamente selvagem",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pato-real (© Philippe Paternolli/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=pato-real&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_DuckPond%22&FORM=HPQUIZ",
+  "hash": "2682592c257dc2e9949c920ffccfecd2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_PT-BR2199019099_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_PT-BR2199019099_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_PT-BR2199019099_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_PT-BR2199019099_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260614",
+    "fullStartDateTime": "202606140300",
+    "endDate": "20260615"
+  },
+  "createdAt": "202606140524",
+  "originalUrlBase": "/th?id=OHR.DuckPond_PT-BR2199019099"
+}

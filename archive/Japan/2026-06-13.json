@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 6月 月 14 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "夕焼けに染まる層をなす岩の景観",
+  "bsTitle": "夕焼けに染まる層をなす岩の景観",
+  "caption": "夕焼けに染まる層をなす岩の景観",
+  "copyright": "バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images)",
+  "copyrightOnly": "© Troy Harrison/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%83%a9%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220260613_1500%22",
+  "description": "ここは、米国サウスダコタ州に位置するバッドランズ国立公園。面積約 980km² の広大な敷地には、水と風の浸食によって長い年月をかけて形成された崖や峡谷、そそり立つ尖峰など、独特の地形が広がっています。化石の宝庫としても知られており、荒涼とした地表の下には、3400 万年前から 2500 万年前に生きていた哺乳類の化石が多く確認されています。また、公園の周囲に広がる草原には、バイソン、ビッグホーン、プレーリードッグなどの野生動物が多数生息しています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260613_BadSunset%22&FORM=HPQUIZ",
+  "hash": "ba516e20c8e57933b06565471dfa4d3b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260613",
+    "fullStartDateTime": "202606131500",
+    "endDate": "20260614"
+  },
+  "createdAt": "202606140524",
+  "originalUrlBase": "/th?id=OHR.BadSunset_JA-JP5960860484"
+}
