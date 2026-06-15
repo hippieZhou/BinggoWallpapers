@@ -1,0 +1,43 @@
+{
+  "date": "15 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le silence des vallées",
+  "bsTitle": "Le silence des vallées",
+  "caption": "Parc national des Great Smoky Mountains, États-Unis",
+  "copyright": "Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Mint Images/Getty Images)",
+  "copyrightOnly": "© Mint Images/Getty Images",
+  "copyrightLink": "/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
+  "description": "Façonnées par le temps, les Great Smoky Mountains sont protégées depuis le 15\u202Fjuin\u202F1934, date de la création du parc national situé entre le Tennessee et la Caroline du Nord, aux États-Unis. S’étendant sur environ 211 000 hectares, il abrite des roches des Appalaches datant de plus de 300\u202Fmillions d’années, qui se fondent dans la brume bleutée à l’origine de leur nom.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+  "hash": "2523eb26d4eea7a316b652874bfd343f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260614",
+    "fullStartDateTime": "202606142200",
+    "endDate": "20260615"
+  },
+  "createdAt": "202606150615",
+  "originalUrlBase": "/th?id=OHR.ParkEstd_FR-FR1451638947"
+}

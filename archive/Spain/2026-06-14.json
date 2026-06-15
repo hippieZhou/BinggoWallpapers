@@ -1,0 +1,43 @@
+{
+  "date": "15 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Perfeccionado por el tiempo",
+  "bsTitle": "Perfeccionado por el tiempo",
+  "caption": "Parque nacional de las Grandes Montañas Humeantes, EE. UU.",
+  "copyright": "Parque nacional de las Grandes Montañas Humeantes, Tennessee, EE. UU. (© Mint Images/Getty Images)",
+  "copyrightOnly": "© Mint Images/Getty Images",
+  "copyrightLink": "/search?q=Parque+nacional+de+las+Grandes+Monta%c3%b1as+Humeantes&form=hpcapt&filters=HpDate%3a%2220260614_2200%22",
+  "description": "Situado entre Tennessee y Carolina del Norte, el parque nacional de las Grandes Montañas Humeantes es uno de los espacios protegidos más visitados de Estados Unidos. Su nombre alude a la neblina azulada que envuelve las cumbres y crea un efecto visual parecido al humo. Este fenómeno se debe a la humedad y a los compuestos orgánicos liberados por la vegetación, especialmente abundante en la zona.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+  "hash": "1c75603e662f93318913cac94ba17a71",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ES-ES8806715182_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ES-ES8806715182_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ES-ES8806715182_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ES-ES8806715182_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260614",
+    "fullStartDateTime": "202606142200",
+    "endDate": "20260615"
+  },
+  "createdAt": "202606150615",
+  "originalUrlBase": "/th?id=OHR.ParkEstd_ES-ES8806715182"
+}

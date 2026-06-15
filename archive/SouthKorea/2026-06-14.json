@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Mallard duck (© Philippe Paternolli/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Mallard+duck&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_DuckPond%22&FORM=HPQUIZ",
+  "hash": "6267ecf8d222ff1b4f8faa3b3bf76ac3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260614",
+    "fullStartDateTime": "202606140700",
+    "endDate": "20260615"
+  },
+  "createdAt": "202606150615",
+  "originalUrlBase": "/th?id=OHR.DuckPond_ROW8945252603"
+}

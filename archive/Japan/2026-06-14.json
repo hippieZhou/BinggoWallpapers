@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 6月 月 15 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はグレート・スモーキー山脈国立公園の記念日",
+  "bsTitle": "今日はグレート・スモーキー山脈国立公園の記念日",
+  "caption": "今日はグレート・スモーキー山脈国立公園の記念日",
+  "copyright": "グレート・スモーキー山脈国立公園, 米国 テネシー州 (© Mint Images/Getty Images)",
+  "copyrightOnly": "© Mint Images/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%88%e3%83%bb%e3%82%b9%e3%83%a2%e3%83%bc%e3%82%ad%e3%83%bc%e5%b1%b1%e8%84%88%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%e3%81%ae%e8%a8%98%e5%bf%b5%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260614_1500%22",
+  "description": "1934 年 6 月 15 日、グレート・スモーキー山脈国立公園は米国議会により設立されました。この公園はテネシー州とノースカロライナ州の州境に位置し、約 2,100km² の面積を誇る米国東部で最も広い保護地域の一つです。公園の標高は約 250m から 2,000m で、最高地点であるクウォヒ（標高 2,025m ）の展望台は、壮大な景観を一望できる人気のスポットとなっています。標高差や豊富な降水量、広大な原生林によって、多様な生態系が育まれており、クロクマやヘラジカ、200 種以上の鳥類、数千種の植物が生息しています。また、約 30 種のサンショウウオが生息しており、「サンショウウオの世界の首都」とも呼ばれています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+  "hash": "a38fc231012b301c354effe0f67f8533",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_JA-JP9205724491_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260614",
+    "fullStartDateTime": "202606141500",
+    "endDate": "20260615"
+  },
+  "createdAt": "202606150615",
+  "originalUrlBase": "/th?id=OHR.ParkEstd_JA-JP9205724491"
+}

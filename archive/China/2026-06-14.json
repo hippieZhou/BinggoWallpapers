@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "岁月雕琢，风景始成",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a4%a7%e7%83%9f%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260614_ParkEstd%22&FORM=HPQUIZ",
+  "hash": "ed734be8f459949c040bf05b4d33fcd3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260614",
+    "fullStartDateTime": "202606141600",
+    "endDate": "20260615"
+  },
+  "createdAt": "202606150615",
+  "originalUrlBase": "/th?id=OHR.ParkEstd_ZH-CN3419035151"
+}

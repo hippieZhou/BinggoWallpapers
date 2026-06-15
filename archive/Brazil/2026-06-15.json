@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A névoa como assinatura",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parque Nacional Great Smoky Mountains, Tennessee, Estados Unidos (© Mint Images/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+Great+Smoky+Mountains+Tennesse&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_ParkEstd%22&FORM=HPQUIZ",
+  "hash": "23ec1133d0ab1f1c5ef32d4cfd31a92f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_PT-BR2427992581_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_PT-BR2427992581_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_PT-BR2427992581_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_PT-BR2427992581_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260615",
+    "fullStartDateTime": "202606150300",
+    "endDate": "20260616"
+  },
+  "createdAt": "202606150615",
+  "originalUrlBase": "/th?id=OHR.ParkEstd_PT-BR2427992581"
+}
