@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "蔚蓝海礁的守护者",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛 (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e6%b5%b7%e9%be%9f%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_SevenMileTurtle%22&FORM=HPQUIZ",
+  "hash": "9ee387a7e6da153b239862a768876cde",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260615",
+    "fullStartDateTime": "202606151600",
+    "endDate": "20260616"
+  },
+  "createdAt": "202606160625",
+  "originalUrlBase": "/th?id=OHR.SevenMileTurtle_ZH-CN4346512721"
+}

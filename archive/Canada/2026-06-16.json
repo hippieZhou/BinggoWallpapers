@@ -1,0 +1,43 @@
+{
+  "date": "Jun 16, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Nature's reef keepers",
+  "bsTitle": "Nature's reef keepers",
+  "caption": "World Sea Turtle Day",
+  "copyright": "Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "© Alex Mustard/Nature Picture Library",
+  "copyrightLink": "/search?q=World+Sea+Turtle+Day&form=hpcapt&filters=HpDate%3a%2220260616_0400%22",
+  "description": "Sea Turtle Day highlights some of the ocean's most ancient mariners—reptiles that have existed for over 100 million years. Observed each year on June 16, it raises awareness of their ecological importance and the growing threats they face. Sea turtles play a vital role in maintaining healthy seagrass beds and coral reefs, ecosystems that support diverse marine life. Long migrations between feeding and nesting areas are central to their life cycle. Despite their resilience, all species are threatened by habitat loss, plastic pollution, climate change and accidental capture in fishing gear.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260616_SevenMileTurtle%22&FORM=HPQUIZ",
+  "hash": "23e2136cacc24f29cea6b4cc6fc1f4cd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-CA5750272834_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260616",
+    "fullStartDateTime": "202606160400",
+    "endDate": "20260617"
+  },
+  "createdAt": "202606160625",
+  "originalUrlBase": "/th?id=OHR.SevenMileTurtle_EN-CA5750272834"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "June 15, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Great Smoky Mountains National Park, Tennessee, United States",
+  "copyright": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
+  "copyrightOnly": "© Mint Images/Getty Images",
+  "copyrightLink": "/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220260615_0700%22",
+  "description": "These mountains were shaped over time—and June 15, 1934, helped protect them. That's when the Great Smoky Mountains National Park was established in Tennessee and North Carolina. Covering over 2,112 square kilometres, the park takes its name from the natural smoky haze drifting over its ridgelines. Part of the Appalachian Mountains, these peaks are over 300 million years old.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_ParkEstd%22&FORM=HPQUIZ",
+  "hash": "ae52703c997b9d7dbfbbcf745375daf1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260615",
+    "fullStartDateTime": "202606150700",
+    "endDate": "20260616"
+  },
+  "createdAt": "202606160625",
+  "originalUrlBase": "/th?id=OHR.ParkEstd_ROW8995340148"
+}

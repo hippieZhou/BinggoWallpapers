@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_ParkEstd%22&FORM=HPQUIZ",
+  "hash": "ae52703c997b9d7dbfbbcf745375daf1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260615",
+    "fullStartDateTime": "202606150700",
+    "endDate": "20260616"
+  },
+  "createdAt": "202606160625",
+  "originalUrlBase": "/th?id=OHR.ParkEstd_ROW8995340148"
+}

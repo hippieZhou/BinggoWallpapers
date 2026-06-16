@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Saggi protettori",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tartarughe embricate, Seven Mile Beach, Isole Cayman (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cheloni&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_SevenMileTurtle%22&FORM=HPQUIZ",
+  "hash": "6b2d0531d05dd2c5e3ff50bb1de49905",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_IT-IT4183755480_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260615",
+    "fullStartDateTime": "202606152200",
+    "endDate": "20260616"
+  },
+  "createdAt": "202606160625",
+  "originalUrlBase": "/th?id=OHR.SevenMileTurtle_IT-IT4183755480"
+}

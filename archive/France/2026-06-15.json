@@ -1,0 +1,43 @@
+{
+  "date": "16 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les gardiennes des récifs",
+  "bsTitle": "Les gardiennes des récifs",
+  "caption": "Journée mondiale des tortues marines",
+  "copyright": "Un couple de tortues imbriquées près de Seven Mile Beach, Grand Cayman, Îles Caïmans (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "© Alex Mustard/Nature Picture Library",
+  "copyrightLink": "/search?q=Journ%c3%a9e+mondiale+des+tortues+marines+2026&form=hpcapt&filters=HpDate%3a%2220260615_2200%22",
+  "description": "Chaque 16 juin, la Journée mondiale des tortues marines nous invite à contempler ces navigateurs millénaires, présents depuis plus de 100\u202Fmillions d’années. Leur lenteur n’est qu’apparente\u202F: elles parcourent des distances immenses entre zones d’alimentation et plages de ponte. En broutant les herbiers et en régulant les récifs, elles maintiennent l’équilibre d’écosystèmes essentiels à une vie marine foisonnante. Pourtant, leur destin vacille face à la disparition des habitats, au plastique, au réchauffement des océans et aux captures accidentelles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260615_SevenMileTurtle%22&FORM=HPQUIZ",
+  "hash": "ab3ddb80481cf406b35e123f1a91cc59",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SevenMileTurtle_FR-FR7065841321_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260615",
+    "fullStartDateTime": "202606152200",
+    "endDate": "20260616"
+  },
+  "createdAt": "202606160625",
+  "originalUrlBase": "/th?id=OHR.SevenMileTurtle_FR-FR7065841321"
+}
