@@ -1,0 +1,43 @@
+{
+  "date": "17 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un ascenso de vértigo",
+  "bsTitle": "Un ascenso de vértigo",
+  "caption": "Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza",
+  "copyright": "Carretera Tremola en el paso de San Gotardo, en Airolo, Suiza (© Sandro Bisaro/Getty Images)",
+  "copyrightOnly": "© Sandro Bisaro/Getty Images",
+  "copyrightLink": "/search?q=Carretera+Tremola&form=hpcapt&filters=HpDate%3a%2220260616_2200%22",
+  "description": "La carretera Tremola, situada en el paso de San Gotardo en Airolo, Suiza, es una de las rutas más emblemáticas de los Alpes. Conserva su trazado histórico de adoquines y una sucesión de curvas cerradas que serpentean por la ladera, ofreciendo una experiencia de conducción única. A lo largo del ascenso, el paisaje combina praderas alpinas, rocas y vistas abiertas que cambian con cada giro.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260616_TremolaRoad%22&FORM=HPQUIZ",
+  "hash": "a7c2c27c326c9190e46b2ad319a8ddef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ES-ES9122055819_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260616",
+    "fullStartDateTime": "202606162200",
+    "endDate": "20260617"
+  },
+  "createdAt": "202606170602",
+  "originalUrlBase": "/th?id=OHR.TremolaRoad_ES-ES9122055819"
+}
