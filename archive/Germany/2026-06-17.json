@@ -1,0 +1,43 @@
+{
+  "date": "18. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wunder aus Stein",
+  "bsTitle": "Wunder aus Stein",
+  "caption": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru",
+  "copyright": "Luftaufnahme der Ruinen von Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)",
+  "copyrightOnly": "© Creative-Family/Getty Images Plus",
+  "copyrightLink": "/search?q=Sacsayhuaman+Cusco+Peru&form=hpcapt&filters=HpDate%3a%2220260617_2200%22",
+  "description": "Hoch über der ehemaligen Inkahauptstadt Cusco in Peru thront Sacsayhuamán, ein beeindruckendes Zeugnis der Baukunst und Ambitionen des Inkareichs. Die im 15. Jahrhundert errichtete Anlage war Teil des heiligen Zentrums dieses Reichs. Aus der Vogelperspektive erschließt sich ihre Struktur: Terrassen, offene Plätze und die Überreste von Türmen fügen sich zu einer sorgfältig geplanten Zitadelle zusammen. Besonders imposant sind die gewaltigen Mauern aus riesigen Steinblöcken, von denen einige mehr als acht Meter hoch sind. Präzise ohne Mörtel gefügt, haben sie Jahrhunderte von Erdbeben überdauert.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_Saqsaywaman%22&FORM=HPQUIZ",
+  "hash": "eff48900c62f0203b384cb37c5a6d8ca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_DE-DE3241976270_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260617",
+    "fullStartDateTime": "202606172200",
+    "endDate": "20260618"
+  },
+  "createdAt": "202606180529",
+  "originalUrlBase": "/th?id=OHR.Saqsaywaman_DE-DE3241976270"
+}

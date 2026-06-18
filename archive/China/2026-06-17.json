@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "坚如磐石的奇观",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%a7%98%e9%b2%81%e8%90%a8%e5%85%8b%e5%a1%9e%e5%8d%8e%e6%9b%bc&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_Saqsaywaman%22&FORM=HPQUIZ",
+  "hash": "1af11bfb02f2265892aa166f39fb4c35",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260617",
+    "fullStartDateTime": "202606171600",
+    "endDate": "20260618"
+  },
+  "createdAt": "202606180529",
+  "originalUrlBase": "/th?id=OHR.Saqsaywaman_ZH-CN2584038469"
+}

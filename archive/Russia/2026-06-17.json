@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Tremola+Road&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_TremolaRoad%22&FORM=HPQUIZ",
+  "hash": "63d57aacd24a4696ed7e6327119f5fb0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260617",
+    "fullStartDateTime": "202606170700",
+    "endDate": "20260618"
+  },
+  "createdAt": "202606180529",
+  "originalUrlBase": "/th?id=OHR.TremolaRoad_ROW9264574129"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "18 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une merveille faite de pierre",
+  "bsTitle": "Une merveille faite de pierre",
+  "caption": "Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou",
+  "copyright": "Vue aérienne des ruines de Sacsayhuamán, Cusco, Pérou (© Creative-Family/Getty Images Plus)",
+  "copyrightOnly": "© Creative-Family/Getty Images Plus",
+  "copyrightLink": "/search?q=Sacsayhuam%c3%a1n+Cusco+P%c3%a9rou&form=hpcapt&filters=HpDate%3a%2220260617_2200%22",
+  "description": "Perché sur les hauteurs de Cusco, Sacsayhuamán se dévoile comme une œuvre monumentale où la pierre témoigne de l’audace de l’Empire inca. Édifié au XVe siècle, ce vaste ensemble dominait la capitale sacrée, entre terrasses sculptées, vastes esplanades et vestiges de tours veillant sur la vallée. En arpentant ses murs, le regard s’arrête, fasciné\u202F: d’immenses blocs, certains hauts de plus de huit mètres, s’imbriquent avec une précision presque irréelle, sans la moindre trace de mortier.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260617_Saqsaywaman%22&FORM=HPQUIZ",
+  "hash": "75d1e8ec4725840e1809bd4109e6b5a8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_FR-FR7364469911_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260617",
+    "fullStartDateTime": "202606172200",
+    "endDate": "20260618"
+  },
+  "createdAt": "202606180529",
+  "originalUrlBase": "/th?id=OHR.Saqsaywaman_FR-FR7364469911"
+}
