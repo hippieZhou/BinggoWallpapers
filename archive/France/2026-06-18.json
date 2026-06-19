@@ -1,0 +1,43 @@
+{
+  "date": "19 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Entre ciel, mer et mémoire",
+  "bsTitle": "Entre ciel, mer et mémoire",
+  "caption": "Phare de La Rocchetta, Piombino, Toscane, Italie",
+  "copyright": "Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images)",
+  "copyrightOnly": "© StevanZZ/Getty Images",
+  "copyrightLink": "/search?q=phare+de+la+Rocchetta+Piombino&form=hpcapt&filters=HpDate%3a%2220260618_2200%22",
+  "description": "À l’extrémité de la Piazza Bovio, à Piombino, en Italie, là où la terre semble hésiter avant de s’abandonner à la mer, le phare, délicatement posé sur d’anciens remparts, veille sur l’horizon. Sa silhouette néo-gothique, discrète mais fière, témoigne d’un passé maritime où chaque lumière guidait les navigateurs à travers les courants du canal vers l’île d’Elbe.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260618_IsolaElba%22&FORM=HPQUIZ",
+  "hash": "d6ffacd027dbd5fa69bbc3b851124048",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260618",
+    "fullStartDateTime": "202606182200",
+    "endDate": "20260619"
+  },
+  "createdAt": "202606190609",
+  "originalUrlBase": "/th?id=OHR.IsolaElba_FR-FR6759091748"
+}
