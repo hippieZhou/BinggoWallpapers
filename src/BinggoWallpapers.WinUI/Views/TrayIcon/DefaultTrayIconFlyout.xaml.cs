@@ -6,11 +6,11 @@ using BinggoWallpapers.Core.Services;
 using BinggoWallpapers.WinUI.Selectors;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using U5BFA.Libraries;
+using DesktopFlyouts;
 
 namespace BinggoWallpapers.WinUI.Views.TrayIcon;
 
-public sealed partial class DefaultTrayIconFlyout : TrayIconFlyout
+public sealed partial class DefaultTrayIconFlyout : DesktopFlyout
 {
     public DefaultTrayIconFlyoutViewModel ViewModel { get; }
     public DefaultTrayIconFlyout(DefaultTrayIconFlyoutViewModel viewModel)

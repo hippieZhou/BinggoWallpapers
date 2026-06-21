@@ -22,6 +22,7 @@
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <GenerateTestArtifacts>True</GenerateTestArtifacts>
     <AppxBundle>Never</AppxBundle>
+    <WindowsAppSdkIncludeVersionInfo>true</WindowsAppSdkIncludeVersionInfo>
   </PropertyGroup>
 
   <ItemGroup>
@@ -42,9 +43,9 @@
     <PackageReference Include="CommunityToolkit.WinUI.Controls.HeaderedControls" />
     <PackageReference Include="CommunityToolkit.WinUI.Converters" />
     <PackageReference Include="CommunityToolkit.WinUI.Media" />
+    <PackageReference Include="DesktopFlyouts.WinUI" />
     <PackageReference Include="WinUIEx" />
     <PackageReference Include="ImageEx.WinUI" />
-    <PackageReference Include="0x5BFA.TrayIconFlyout.WinUI" />
     <PackageReference Include="Microsoft.Extensions.Hosting" />
     <PackageReference Include="Microsoft.Graphics.Win2D" />
     <PackageReference Include="Microsoft.WindowsAppSDK" />

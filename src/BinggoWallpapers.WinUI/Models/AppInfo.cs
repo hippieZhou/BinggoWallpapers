@@ -3,7 +3,6 @@
 using System.Runtime.InteropServices;
 using BinggoWallpapers.WinUI.Helpers;
 using CommunityToolkit.WinUI;
-using Microsoft.Windows.ApplicationModel.WindowsAppRuntime;
 using Windows.Storage;
 
 namespace BinggoWallpapers.WinUI.Models;
@@ -40,9 +39,9 @@ public partial class AppInfo
 
     public static string WinAppSdkRuntimeDetails => $"{WinAppSdkDetails}, {RuntimeInfoAsString}, {FrameworkDescription}";
 
-    private static string WinAppSdkDetails => $"Windows App SDK {ReleaseInfo.Major}.{ReleaseInfo.Minor}";
+    private static string WinAppSdkDetails => $"Windows App SDK {Microsoft.WindowsAppSDK.Release.Major}.{Microsoft.WindowsAppSDK.Release.Minor}";
 
-    private static string RuntimeInfoAsString => $"Windows App Runtime {RuntimeInfo.AsString}";
+    private static string RuntimeInfoAsString => $"Windows App Runtime {Microsoft.WindowsAppSDK.Runtime.Version.DotQuadString}";
 
     private static string FrameworkDescription => RuntimeInformation.FrameworkDescription;
 }
