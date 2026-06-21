@@ -1,0 +1,43 @@
+{
+  "date": "20 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una catedral de hielo en medio del océano",
+  "bsTitle": "Una catedral de hielo en medio del océano",
+  "caption": "Iceberg frente a la península Antártica occidental, océano Austral",
+  "copyright": "Iceberg arqueado flotando frente a la península Antártica occidental, océano Austral (© Steven Kazlowski/Nature Picture Library)",
+  "copyrightOnly": "© Steven Kazlowski/Nature Picture Library",
+  "copyrightLink": "/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
+  "description": "Un iceberg arqueado flota frente a la península Antártica occidental, en el océano Austral, como una gran estructura de hielo esculpida por el tiempo. Su forma curva recuerda a una bóveda natural, resultado de un equilibrio delicado entre el frío implacable, el viento constante y el movimiento del mar. La luz se refleja en sus superficies translúcidas, creando matices azules que cambian con el paso del día y revelan la densidad compacta de un hielo formado durante siglos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+  "hash": "c40b6f561d81e88961b59d98c372da76",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ES-ES9715091871_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260619",
+    "fullStartDateTime": "202606192200",
+    "endDate": "20260620"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.ArchedIceberg_ES-ES9715091871"
+}

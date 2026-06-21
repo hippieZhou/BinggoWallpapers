@@ -1,0 +1,43 @@
+{
+  "date": "20. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Unter vollen Segeln",
+  "bsTitle": "Unter vollen Segeln",
+  "caption": "Kieler Woche",
+  "copyright": "Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)",
+  "copyrightOnly": "© Snapshot freddy/Shutterstock",
+  "copyrightLink": "/search?q=Kieler+Woche&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
+  "description": "„Leinen los!“ – so beginnt in Kiel jedes Jahr eines der größten und traditionsreichsten Segelereignisse der Welt: die Kieler Woche. Das renommierte Festival in Schleswig-Holstein verbindet internationale Regatten mit einem maritimen Volksfest, das die Stadt neun Tage lang prägt. Auf der Kieler Förde treffen moderne Yachten, historische Segelschiffe sowie zahlreiche kleinere Boote aufeinander und bestimmen das Bild der Küste.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_KielSailing%22&FORM=HPQUIZ",
+  "hash": "838622184c099061c164b0d5ad39506a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260619",
+    "fullStartDateTime": "202606192200",
+    "endDate": "20260620"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.KielSailing_DE-DE0980571166"
+}

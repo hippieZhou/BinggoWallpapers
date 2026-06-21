@@ -1,0 +1,43 @@
+{
+  "date": "Jun 21, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Feathered fathers",
+  "bsTitle": "Feathered fathers",
+  "caption": "Happy Father's Day!",
+  "copyright": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)",
+  "copyrightOnly": "© McDonald Wildlife Photography Inc./Getty Images",
+  "copyrightLink": "/search?q=Fathers+Day&form=hpcapt&filters=HpDate%3a%2220260620_2300%22",
+  "description": "On the third Sunday in June, we celebrate Father's Day—a moment to thank the steady, watchful figures who help life grow and thrive. Across the world, fatherhood can take surprising and extraordinary forms.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_EggDad%22&FORM=HPQUIZ",
+  "hash": "9a60110ab1bd52a89b371203a7a1aca5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EggDad_EN-GB2308215035_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260620",
+    "fullStartDateTime": "202606202300",
+    "endDate": "20260621"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.EggDad_EN-GB2308215035"
+}

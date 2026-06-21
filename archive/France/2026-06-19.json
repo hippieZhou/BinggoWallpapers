@@ -1,0 +1,43 @@
+{
+  "date": "20 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Sculpté dans la glace",
+  "bsTitle": "Sculpté dans la glace",
+  "caption": "Arche naturelle sculptée dans un iceberg, Océan Antarctique",
+  "copyright": "Arche naturelle sculptée dans un iceberg, Océan Antarctique (© Steven Kazlowski/Nature Picture Library)",
+  "copyrightOnly": "© Steven Kazlowski/Nature Picture Library",
+  "copyrightLink": "/search?q=Iceberg&form=hpcapt&filters=HpDate%3a%2220260619_2200%22",
+  "description": "Une arche sculptée de glace surgit des eaux froides de l’océan Austral, le long de la péninsule Antarctique, région particulièrement touchée par le réchauffement climatique. Cette matière figée s’est formée il y a des millénaires, lorsque la neige s’est lentement comprimée pour devenir de la glace. Un jour, sous l’effet de contraintes mécaniques liées à des fractures internes, un fragment de glacier ou de plateforme flottante se détache : ce phénomène, appelé vêlage, donne naissance à un iceberg voyageur.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+  "hash": "2ceee5200c4367e7a4789a4974e41293",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260619",
+    "fullStartDateTime": "202606192200",
+    "endDate": "20260620"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.ArchedIceberg_FR-FR8603937918"
+}

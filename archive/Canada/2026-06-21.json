@@ -1,0 +1,43 @@
+{
+  "date": "Jun 21, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Rooted across generations",
+  "bsTitle": "Rooted across generations",
+  "caption": "National Indigenous Peoples Day",
+  "copyright": "Red maple leaf, symbol of Canada (© namaki/Getty Images)",
+  "copyrightOnly": "© namaki/Getty Images",
+  "copyrightLink": "/search?q=National+Indigenous+Peoples+Day&form=hpcapt&filters=HpDate%3a%2220260621_0400%22",
+  "description": "How many stories can a single day hold? Quite a lot, actually. Today in Canada, National Indigenous Peoples Day celebrates First Nations, Inuit and Métis peoples whose knowledge, traditions and skills have shaped life across the country for thousands of years. The day was officially recognised in 1996 after years of calls from Indigenous organisations and leaders seeking stronger recognition of their cultures and communities.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_IndigenousMaple%22&FORM=HPQUIZ",
+  "hash": "95a5f31af16c60cb97781d5b4747c825",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260621",
+    "fullStartDateTime": "202606210400",
+    "endDate": "20260622"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.IndigenousMaple_EN-CA8176109531"
+}

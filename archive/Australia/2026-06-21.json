@@ -1,0 +1,43 @@
+{
+  "date": "June 21, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Millau Viaduct, France",
+  "copyright": "Millau Viaduct, France (© Sergi Reboredo/Alamy)",
+  "copyrightOnly": "© Sergi Reboredo/Alamy",
+  "copyrightLink": "/search?q=Millau+Viaduct&form=hpcapt&filters=HpDate%3a%2220260621_0700%22",
+  "description": "Above the Tarn Valley, the Millau Viaduct seems to brush the sky. At 343 metres, its highest pylons rise taller than the Eiffel Tower. At dawn, light mist often drifts between the hills of the Larzac plateau and Aveyron, wrapping steel and concrete in an almost unreal softness. From some viewpoints, the bridge can appear to float above the clouds rather than standing upon them.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_MillauViaductFrance%22&FORM=HPQUIZ",
+  "hash": "21a80934ff15e7233fdad695ba33c9c7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260621",
+    "fullStartDateTime": "202606210700",
+    "endDate": "20260622"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.MillauViaductFrance_ROW0201721820"
+}

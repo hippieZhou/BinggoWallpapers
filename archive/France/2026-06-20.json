@@ -1,0 +1,43 @@
+{
+  "date": "21 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Tous en chœur !",
+  "bsTitle": "Tous en chœur !",
+  "caption": "Fête de la musique",
+  "copyright": "Notre-Dame de Paris et les quais de Seine, Paris (© RudyBalasko/Getty Images)",
+  "copyrightOnly": "© RudyBalasko/Getty Images",
+  "copyrightLink": "/search?q=f%c3%aate+de+la+musique&form=hpcapt&filters=HpDate%3a%2220260620_2200%22",
+  "description": "Chaque 21 juin, alors que la lumière s’étire jusqu’au crépuscule, la Fête de la musique transforme villes et villages en scènes ouvertes. Née en 1982 en France, cette célébration coïncide avec le solstice d’été, moment où la nature elle-même vibre au rythme du jour le plus long. Dans les rues, sous les platanes encore tièdes de soleil, amateurs et professionnels mêlent leurs notes\u202F: guitare, jazz, chorales, musiques du monde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_SeineRiverside%22&FORM=HPQUIZ",
+  "hash": "107c0545863f8bf96fffe62598d00552",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260620",
+    "fullStartDateTime": "202606202200",
+    "endDate": "20260621"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.SeineRiverside_FR-FR9034174472"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Iceberg&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260620_ArchedIceberg%22&FORM=HPQUIZ",
+  "hash": "d9a262548f691b07ec341576998ad66a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260620",
+    "fullStartDateTime": "202606200700",
+    "endDate": "20260621"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.ArchedIceberg_ROW4666187976"
+}

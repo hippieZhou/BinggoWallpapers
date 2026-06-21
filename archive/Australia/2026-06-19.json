@@ -1,0 +1,43 @@
+{
+  "date": "June 19, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "La Rocchetta Lighthouse, Piombino, Italy",
+  "copyright": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)",
+  "copyrightOnly": "© StevanZZ/Getty Images",
+  "copyrightLink": "/search?q=La+Rocchetta+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260619_0700%22",
+  "description": "Perched at the far edge of Piazza Bovio in Piombino, Tuscany, Italy, is the Piombino Lighthouse. Locally, it is known as 'Faro di Piombino' or 'La Rocchetta Lighthouse.' It overlooks the point where the Tuscan coast faces the island of Elba.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_IsolaElba%22&FORM=HPQUIZ",
+  "hash": "c0eb5ad081a73fde9be2e6c6aaef4dd1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260619",
+    "fullStartDateTime": "202606190700",
+    "endDate": "20260620"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.IsolaElba_ROW4135146629"
+}

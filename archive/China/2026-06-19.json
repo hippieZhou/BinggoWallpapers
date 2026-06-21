@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "海洋中冰封的大教堂",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%86%b0%e5%b1%b1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+  "hash": "626556ae8a7c43c8db6642478c21b7b4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260619",
+    "fullStartDateTime": "202606191600",
+    "endDate": "20260620"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.ArchedIceberg_ZH-CN2698040371"
+}

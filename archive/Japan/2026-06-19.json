@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 6月 月 20 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "氷山に穿たれた天然のアーチ",
+  "bsTitle": "氷山に穿たれた天然のアーチ",
+  "caption": "氷山に穿たれた天然のアーチ",
+  "copyright": "アーチ状の氷山, 南極半島西部 (© Steven Kazlowski/Nature Picture Library)",
+  "copyrightOnly": "© Steven Kazlowski/Nature Picture Library",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e7%8a%b6%e3%81%ae%e6%b0%b7%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220260619_1500%22",
+  "description": "氷山は、南極に降り積もった雪が氷となり、海へ移動して割れることで形成されます。南極海で主に見られるのは、上面が平らな卓状氷山ですが、画像のように、浸食によって不規則な形に形成された氷山なども存在します。一見するとただの氷の塊の氷山ですが、実際には生態系を支える重要な存在です。海中部分には藻類が付着しており、オキアミなどのプランクトンが餌としています。そして、そのプランクトンは、魚やアザラシ、クジラなどの食料となります。また、氷が溶けるとその栄養分が周囲の海へと放出され、周辺海域の生態系を豊かにしています。このように氷山は、「移動する生態系」ともいえる役割を果たしています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260619_ArchedIceberg%22&FORM=HPQUIZ",
+  "hash": "397bfd64933556bd64b3dcd7c1739965",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260619",
+    "fullStartDateTime": "202606191500",
+    "endDate": "20260620"
+  },
+  "createdAt": "202606211224",
+  "originalUrlBase": "/th?id=OHR.ArchedIceberg_JA-JP0865478817"
+}
