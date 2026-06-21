@@ -4,15 +4,15 @@ using BinggoWallpapers.WinUI.Notifications;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using CommunityToolkit.Mvvm.Messaging;
+using DesktopFlyouts;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Logging;
 using Microsoft.UI.Xaml;
 using Microsoft.Windows.AppNotifications.Builder;
-using U5BFA.Libraries;
 
 namespace BinggoWallpapers.WinUI.Views.TrayIcon;
 
-public sealed partial class DefaultTrayIconMeunFlyout : TrayIconMenuFlyout
+public sealed partial class DefaultTrayIconMeunFlyout : DesktopMenuFlyout
 {
     public DefaultTrayIconMeunFlyoutViewModel ViewModel { get; }
     public DefaultTrayIconMeunFlyout(DefaultTrayIconMeunFlyoutViewModel viewModel)

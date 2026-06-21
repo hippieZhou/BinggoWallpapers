@@ -4,7 +4,7 @@ using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.Services;
 using BinggoWallpapers.WinUI.Views.TrayIcon;
 using CommunityToolkit.WinUI;
-using U5BFA.Libraries;
+using DesktopFlyouts;
 
 namespace BinggoWallpapers.WinUI.Selectors.Impl;
 
