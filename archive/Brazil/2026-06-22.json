@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um reino movido a chuva",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Floresta tropical de Quinault, Parque Nacional Olímpico, estado de Washington, Estados Unidos (© Chris Moore/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+Mundial+das+Florestas+Tropicais&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_QuinaultFerns%22&FORM=HPQUIZ",
+  "hash": "9b864b5b7ba948ebdff6896401ba471f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_PT-BR5147575881_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_PT-BR5147575881_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_PT-BR5147575881_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_PT-BR5147575881_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260622",
+    "fullStartDateTime": "202606220300",
+    "endDate": "20260623"
+  },
+  "createdAt": "202606220622",
+  "originalUrlBase": "/th?id=OHR.QuinaultFerns_PT-BR5147575881"
+}

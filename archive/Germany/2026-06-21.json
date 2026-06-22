@@ -1,0 +1,43 @@
+{
+  "date": "22. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Regenwälder voller Leben",
+  "bsTitle": "Regenwälder voller Leben",
+  "caption": "Welttag des Regenwaldes",
+  "copyright": "Quinault‑Regenwald im Olympic‑Nationalpark, Washington, USA (© Chris Moore/Tandem Stills + Motion)",
+  "copyrightOnly": "© Chris Moore/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Welttag+des+Regenwaldes&form=hpcapt&filters=HpDate%3a%2220260621_2200%22",
+  "description": "Am 22. Juni rückt der Welttag des Regenwaldes die letzten Regenwälder der Erde in den Fokus. Diese komplexen Ökosysteme bedecken nur rund sechs Prozent der Erdoberfläche. Sie liegen vor allem in tropischen Regionen wie dem Amazonasbecken, dem Kongobecken und in Südostasien und spielen eine zentrale Rolle für Klima, Wasserhaushalt und Artenvielfalt weltweit. Sie speichern große Mengen Kohlenstoff und beeinflussen regionale wie globale Wetter- und Klimasysteme.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_QuinaultFerns%22&FORM=HPQUIZ",
+  "hash": "283816ba0367b4683cb891dfab22a7cc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260621",
+    "fullStartDateTime": "202606212200",
+    "endDate": "20260622"
+  },
+  "createdAt": "202606220622",
+  "originalUrlBase": "/th?id=OHR.QuinaultFerns_DE-DE3985266590"
+}

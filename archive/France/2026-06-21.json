@@ -1,0 +1,43 @@
+{
+  "date": "22 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un royaume humide",
+  "bsTitle": "Un royaume humide",
+  "caption": "Journée mondiale des forêts tropicales",
+  "copyright": "Forêt humide de Quinault, Parc national Olympique, État de Washington, États-Unis (© Chris Moore/Tandem Stills + Motion)",
+  "copyrightOnly": "© Chris Moore/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=journ%c3%a9e+mondiale+des+for%c3%aats+tropicales&form=hpcapt&filters=HpDate%3a%2220260621_2200%22",
+  "description": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à protéger ces mondes vivants, principalement présents sous les tropiques, mais ne couvrant qu’environ 6 % des terres émergées. De l’Amazonie au bassin du Congo, jusqu’aux forêts d’Asie du Sud-Est, ces écosystèmes foisonnent de vie et régulent le climat. Leur richesse ne se mesure pas seulement en hectares, mais en chants d’oiseaux, cycles d’eau et équilibres fragiles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260621_QuinaultFerns%22&FORM=HPQUIZ",
+  "hash": "db550d462114682f0d8e5955d6cb45b9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260621",
+    "fullStartDateTime": "202606212200",
+    "endDate": "20260622"
+  },
+  "createdAt": "202606220622",
+  "originalUrlBase": "/th?id=OHR.QuinaultFerns_FR-FR2142936548"
+}
