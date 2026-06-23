@@ -1,0 +1,43 @@
+{
+  "date": "Jun 22, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A lush kingdom",
+  "bsTitle": "A lush kingdom",
+  "caption": "World Rainforest Day",
+  "copyright": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)",
+  "copyrightOnly": "© Chris Moore/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=World+Rainforest+Day&form=hpcapt&filters=HpDate%3a%2220260622_0700%22",
+  "description": "June 22 is World Rainforest Day, a global moment and a year-round call to protect the world's remaining rainforests. These ecosystems aren't just dots on the map. They thrive across the tropics and beyond yet cover only about 6% of Earth's surface. Think of the Amazon in South America, the Congo Basin in Africa, and the forests of Southeast Asia.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260622_QuinaultFerns%22&FORM=HPQUIZ",
+  "hash": "ea10b944b33537e4675a1c4dbd0217f2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260622",
+    "fullStartDateTime": "202606220700",
+    "endDate": "20260623"
+  },
+  "createdAt": "202606230454",
+  "originalUrlBase": "/th?id=OHR.QuinaultFerns_EN-US6436576493"
+}
