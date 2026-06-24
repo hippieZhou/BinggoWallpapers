@@ -1,0 +1,43 @@
+{
+  "date": "24. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Kleine Flügel, große Wirkung",
+  "bsTitle": "Kleine Flügel, große Wirkung",
+  "caption": "Schmetterling beim Bestäuben einer gelben Blüte",
+  "copyright": "Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images)",
+  "copyrightOnly": "© lzh/Getty Images",
+  "copyrightLink": "/search?q=Best%c3%a4uber+Insekten+&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
+  "description": "Ein Schmetterling flattert von Blüte zu Blüte und setzt dabei einen unscheinbaren Kreislauf in Bewegung: Beim Nektarsammeln bleibt Blütenstaub an ihm haften und wird weitergetragen. So können viele Pflanzen überhaupt Samen und Früchte bilden. Besonders tagaktive Schmetterlinge bestäuben oft farbenreiche Wildblumen und tragen so zur Artenvielfalt vieler Wiesen bei.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+  "hash": "1e062d4e7efaddae0db0149e9f0dbee5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260623",
+    "fullStartDateTime": "202606232200",
+    "endDate": "20260624"
+  },
+  "createdAt": "202606240458",
+  "originalUrlBase": "/th?id=OHR.BFPollin_DE-DE1648202484"
+}

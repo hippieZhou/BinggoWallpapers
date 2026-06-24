@@ -1,0 +1,43 @@
+{
+  "date": "24 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Entre polen y alas",
+  "bsTitle": "Entre polen y alas",
+  "caption": "Mariposa polinizando una flor amarilla",
+  "copyright": "Mariposa polinizando una flor amarilla (© lzh/Getty Images)",
+  "copyrightOnly": "© lzh/Getty Images",
+  "copyrightLink": "/search?q=Polinizaci%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
+  "description": "Los polinizadores desempeñan un papel esencial en el equilibrio de los ecosistemas y en la producción de alimentos. Insectos como abejas, mariposas y escarabajos transportan el polen de una flor a otra, lo que permite la fecundación de muchas plantas. Gracias a este proceso natural, una gran parte de los cultivos que consumimos a diario se pueden desarrollar. Se estima que uno de cada tres bocados de comida depende directa o indirectamente de su labor, lo que subraya su importancia.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+  "hash": "bccdccd33f7b2098146d989eeacb82c6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_ES-ES0605051254_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260623",
+    "fullStartDateTime": "202606232200",
+    "endDate": "20260624"
+  },
+  "createdAt": "202606240458",
+  "originalUrlBase": "/th?id=OHR.BFPollin_ES-ES0605051254"
+}

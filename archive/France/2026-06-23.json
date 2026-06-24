@@ -1,0 +1,43 @@
+{
+  "date": "24 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Silence, ça butine !",
+  "bsTitle": "Silence, ça butine !",
+  "caption": "Pollinisateurs",
+  "copyright": "Papillon sur une fleur jaune (© lzh/Getty Images)",
+  "copyrightOnly": "© lzh/Getty Images",
+  "copyrightLink": "/search?q=pollinisateur&form=hpcapt&filters=HpDate%3a%2220260623_2200%22",
+  "description": "Observer de près un geste minuscule, c’est parfois découvrir tout un univers, comme celui de ce papillon posé sur une fleur jaune, y puisant son nectar. En se nourrissant, il emporte avec lui une fine poussière de pollen qu’il déposera sur une autre corolle. Ce cycle discret permet aux plantes de se reproduire et de perdurer. Les pollinisateurs ne se limitent pas aux abeilles\u202F: papillons, oiseaux, chauves-souris et coléoptères participent tous à cet échange vital, soutenant la diversité des plantes sauvages comme celle des fruits et légumes qui garnissent nos assiettes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_BFPollin%22&FORM=HPQUIZ",
+  "hash": "8faca51a4a4f4852bc30b9b9fd022335",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_FR-FR2895321472_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_FR-FR2895321472_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_FR-FR2895321472_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_FR-FR2895321472_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260623",
+    "fullStartDateTime": "202606232200",
+    "endDate": "20260624"
+  },
+  "createdAt": "202606240458",
+  "originalUrlBase": "/th?id=OHR.BFPollin_FR-FR2895321472"
+}

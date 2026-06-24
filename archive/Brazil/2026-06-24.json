@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O pit-stop dos jardins",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Borboleta polinizando uma flor amarela (© lzh/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=polinizadores&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_BFPollin%22&FORM=HPQUIZ",
+  "hash": "b08ee6504e8a9522520fb10036055e95",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_PT-BR5634257849_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_PT-BR5634257849_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_PT-BR5634257849_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_PT-BR5634257849_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260624",
+    "fullStartDateTime": "202606240300",
+    "endDate": "20260625"
+  },
+  "createdAt": "202606240458",
+  "originalUrlBase": "/th?id=OHR.BFPollin_PT-BR5634257849"
+}

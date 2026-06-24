@@ -1,0 +1,43 @@
+{
+  "date": "June 23, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Mount Fuji on Honshu Island, Japan",
+  "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)",
+  "copyrightOnly": "© phutthiseth thongtae/Getty Images",
+  "copyrightLink": "/search?q=Mount+Fuji&form=hpcapt&filters=HpDate%3a%2220260623_0700%22",
+  "description": "Mount Fuji, Japan's highest mountain, rises to 3,776 metres on Honshu Island, about 97 kilometres southwest of Tokyo. Its near-perfect cone is a volcano—dormant since its last eruption in December 1707 yet still classed as active. That last major event is known as the Hōei eruption. It blasted ash and other tephra across eastern Japan, reaching Edo (today's Tokyo). Beyond geology, Fuji has long been treated as a sacred landscape and a destination for pilgrimage climbs, reflecting how nature, religion and daily life overlap in Japan. That enduring cultural appeal is one reason it was designated a UNESCO World Heritage Site in 2013 as 'a sacred place and source of artistic inspiration.' Fuji is famously visible from far away on clear days but never guaranteed—clouds can hide it in minutes. Whether you hike it or just catch a glimpse from a train window, it still feels like Japan's signature on the horizon.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260623_Fujisan%22&FORM=HPQUIZ",
+  "hash": "5772383aae85659699124d228556c99f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260623",
+    "fullStartDateTime": "202606230700",
+    "endDate": "20260624"
+  },
+  "createdAt": "202606240458",
+  "originalUrlBase": "/th?id=OHR.Fujisan_ROW9816660784"
+}
