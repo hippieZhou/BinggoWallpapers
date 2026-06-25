@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Rinata dal fuoco",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Edifici sulla Grand-Place a Bruxelles, Belgio (© Vladislav Zolotov/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=La+Grand-Place+a+Bruxelles&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+  "hash": "c2d44e7214bc62c0cf2f0c40e5589acc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_IT-IT4483523148_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_IT-IT4483523148_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_IT-IT4483523148_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_IT-IT4483523148_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260624",
+    "fullStartDateTime": "202606242200",
+    "endDate": "20260625"
+  },
+  "createdAt": "202606250457",
+  "originalUrlBase": "/th?id=OHR.GrandPlace_IT-IT4483523148"
+}

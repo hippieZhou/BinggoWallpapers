@@ -1,0 +1,43 @@
+{
+  "date": "Jun 24, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Pollen meets wings",
+  "bsTitle": "Pollen meets wings",
+  "caption": "Pollinator Week",
+  "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)",
+  "copyrightOnly": "© lzh/Getty Images",
+  "copyrightLink": "/search?q=pollinator+week&form=hpcapt&filters=HpDate%3a%2220260624_0700%22",
+  "description": "Zoom in on the small transaction that keeps landscapes alive: a butterfly on a yellow flower, sipping nectar. While it feeds, pollen dusts its body and hitches a ride to the next bloom—one of the quiet ways flowering plants reproduce. Pollinators are not only bees. Butterflies, birds, bats, beetles, and many others help move pollen, supporting wild plants and many of the fruits and vegetables we eat.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_BFPollin%22&FORM=HPQUIZ",
+  "hash": "92c4b2e886fa39bdc12858e8f0042cfe",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260624",
+    "fullStartDateTime": "202606240700",
+    "endDate": "20260625"
+  },
+  "createdAt": "202606250457",
+  "originalUrlBase": "/th?id=OHR.BFPollin_EN-US6519187095"
+}

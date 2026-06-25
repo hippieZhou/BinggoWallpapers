@@ -1,0 +1,43 @@
+{
+  "date": "25 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Enfrente de la historia",
+  "bsTitle": "Enfrente de la historia",
+  "caption": "Edificios de la Grand Place de Bruselas, Bélgica",
+  "copyright": "Edificios de la Grand Place de Bruselas, Bélgica (© Vladislav Zolotov/Getty Images Plus)",
+  "copyrightOnly": "© Vladislav Zolotov/Getty Images Plus",
+  "copyrightLink": "/search?q=Grand+Place+Bruselas&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
+  "description": "La Grand Place de Bruselas, Bélgica, es uno de los conjuntos arquitectónicos más impresionantes de Europa. Sus edificios, alineados en torno a la plaza, muestran una armonía visual notable, con fachadas ricamente decoradas que reflejan siglos de historia y prosperidad. Antiguas casas gremiales, el Ayuntamiento y la Maison du Roi destacan por sus detalles dorados, esculturas y ornamentaciones que evocan el esplendor de distintas épocas. Cada fachada cuenta una historia ligada a los gremios que dieron forma a la vida económica de la ciudad.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+  "hash": "9280a7aa780d84debf1619811a21bda7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ES-ES0768815464_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260624",
+    "fullStartDateTime": "202606242200",
+    "endDate": "20260625"
+  },
+  "createdAt": "202606250457",
+  "originalUrlBase": "/th?id=OHR.GrandPlace_ES-ES0768815464"
+}

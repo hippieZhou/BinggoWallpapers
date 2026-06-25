@@ -1,0 +1,43 @@
+{
+  "date": "25. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Glanz trifft Geschichte",
+  "bsTitle": "Glanz trifft Geschichte",
+  "caption": "Gebäude am Grand-Place in Brüssel, Belgien",
+  "copyright": "Gebäude am Grand-Place in Brüssel, Belgien (© Vladislav Zolotov/Getty Images Plus)",
+  "copyrightOnly": "© Vladislav Zolotov/Getty Images Plus",
+  "copyrightLink": "/search?q=Grand-Place+Br%c3%bcssel&form=hpcapt&filters=HpDate%3a%2220260624_2200%22",
+  "description": "Rund um den Grand-Place in Brüssel, Belgien, entfaltet sich lebendige Geschichte. Prächtige Zunfthäuser säumen den Platz – einst von Brauern, Bäckern und Kaufleuten errichtet, die ihren Wohlstand in Stein, Reliefs und vergoldeten Details sichtbar machten. Gotische Höhen treffen auf barocke Fassaden, während das alte, leicht asymmetrische Rathaus das Ensemble zusammenhält.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+  "hash": "89fd269357e9016a4dbbdb4f4fef38f7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_DE-DE1914769137_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260624",
+    "fullStartDateTime": "202606242200",
+    "endDate": "20260625"
+  },
+  "createdAt": "202606250457",
+  "originalUrlBase": "/th?id=OHR.GrandPlace_DE-DE1914769137"
+}

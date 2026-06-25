@@ -1,0 +1,43 @@
+{
+  "date": "Jun 25, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Square up to history",
+  "bsTitle": "Square up to history",
+  "caption": "Buildings on Grand-Place Square in Brussels, Belgium",
+  "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+  "copyrightOnly": "© Vladislav Zolotov/Getty Images Plus",
+  "copyrightLink": "/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260624_2300%22",
+  "description": "Few squares in Belgium wear history as well as the Grand‑Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants and craftsmen treated architecture as language, translating work, status and rivalry into stone through reliefs, coats of arms and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbours and unapologetically asymmetrical, holds the composition together.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260624_GrandPlace%22&FORM=HPQUIZ",
+  "hash": "f4294d14e5ee64645b0e4896a550a70a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260624",
+    "fullStartDateTime": "202606242300",
+    "endDate": "20260625"
+  },
+  "createdAt": "202606250457",
+  "originalUrlBase": "/th?id=OHR.GrandPlace_EN-GB4788838849"
+}
