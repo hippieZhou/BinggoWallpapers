@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "时事",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%b3%b0%e6%99%a4%e5%a3%ab%e6%b2%b3&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+  "hash": "919b8a22e34363f642b09389f3991d6c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260625",
+    "fullStartDateTime": "202606251600",
+    "endDate": "20260626"
+  },
+  "createdAt": "202606260503",
+  "originalUrlBase": "/th?id=OHR.ThamesSummer_ZH-CN5292532714"
+}

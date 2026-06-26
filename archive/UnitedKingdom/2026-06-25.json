@@ -1,0 +1,43 @@
+{
+  "date": "Jun 26, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Current affairs",
+  "bsTitle": "Current affairs",
+  "caption": "The River Thames, London",
+  "copyright": "The River Thames, London (© Daniel Lange/Getty Images)",
+  "copyrightOnly": "© Daniel Lange/Getty Images",
+  "copyrightLink": "/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220260625_2300%22",
+  "description": "What does a parliament, a clock tower and a giant wheel have in common? They all stand beside the River Thames as if London had carefully staged its icons for dramatic effect.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+  "hash": "f1b93372c52419e1c442b4aeac786383",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260625",
+    "fullStartDateTime": "202606252300",
+    "endDate": "20260626"
+  },
+  "createdAt": "202606260503",
+  "originalUrlBase": "/th?id=OHR.ThamesSummer_EN-GB9133126004"
+}

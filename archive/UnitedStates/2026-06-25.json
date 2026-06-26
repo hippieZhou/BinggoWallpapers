@@ -1,0 +1,43 @@
+{
+  "date": "Jun 25, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Square up to history",
+  "bsTitle": "Square up to history",
+  "caption": "Buildings on Grand-Place Square in Brussels, Belgium",
+  "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+  "copyrightOnly": "© Vladislav Zolotov/Getty Images Plus",
+  "copyrightLink": "/search?q=Grand+Place+Brussels&form=hpcapt&filters=HpDate%3a%2220260625_0700%22",
+  "description": "Few squares in Belgium wear history as well as the Grand Place. The surrounding buildings, seen here, began as guild houses, each funded by a specific trade. Brewers, bakers, merchants, and craftsmen treated architecture as language, translating work, status, and rivalry into stone through reliefs, coats of arms, and generous gold leaf. Styles meet without caution. Gothic verticals rise beside Baroque curves, while the Town Hall, older than its neighbors and unapologetically asymmetrical, holds the composition together.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_GrandPlace%22&FORM=HPQUIZ",
+  "hash": "fbebb939f8aa3b2d7d1487b01ea01b2d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260625",
+    "fullStartDateTime": "202606250700",
+    "endDate": "20260626"
+  },
+  "createdAt": "202606260503",
+  "originalUrlBase": "/th?id=OHR.GrandPlace_EN-US6561229456"
+}

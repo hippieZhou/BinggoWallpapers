@@ -1,0 +1,43 @@
+{
+  "date": "26 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "On se la coule douce",
+  "bsTitle": "On se la coule douce",
+  "caption": "La Tamise, Londres, Angleterre",
+  "copyright": "La Tamise, Londres, Angleterre (© Daniel Lange/Getty Images)",
+  "copyrightOnly": "© Daniel Lange/Getty Images",
+  "copyrightLink": "/search?q=Fleuve+Tamise&form=hpcapt&filters=HpDate%3a%2220260625_2200%22",
+  "description": "Qu'ont en commun un parlement, une tour horloge et une immense roue ? Tous se dressent le long de la Tamise, comme si Londres avait soigneusement disposé ses monuments emblématiques pour créer un décor spectaculaire.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+  "hash": "41a7afc1bfdb3517d78a9a82516be7bd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-FR5709336854_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-FR5709336854_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-FR5709336854_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_FR-FR5709336854_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260625",
+    "fullStartDateTime": "202606252200",
+    "endDate": "20260626"
+  },
+  "createdAt": "202606260503",
+  "originalUrlBase": "/th?id=OHR.ThamesSummer_FR-FR5709336854"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Grand+Place+Brussels&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_GrandPlace%22&FORM=HPQUIZ",
+  "hash": "3fe32710c0638622e396c3d9db5019d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260625",
+    "fullStartDateTime": "202606250700",
+    "endDate": "20260626"
+  },
+  "createdAt": "202606260503",
+  "originalUrlBase": "/th?id=OHR.GrandPlace_ROW9942052634"
+}

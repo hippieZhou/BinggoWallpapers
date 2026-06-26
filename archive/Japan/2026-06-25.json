@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 6月 月 26 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "活気あふれる川沿いの街並み",
+  "bsTitle": "活気あふれる川沿いの街並み",
+  "caption": "活気あふれる川沿いの街並み",
+  "copyright": "テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)",
+  "copyrightOnly": "© Daniel Lange/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%86%e3%83%a0%e3%82%ba%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220260625_1500%22",
+  "description": "イングランド南部を流れるテムズ川は、古代から交通・交易・軍事などの要所とされていました。全長は 346km で、川沿いにはローマ時代や中世の名残が見られます。ロンドン市街を流れる区間には、タワーブリッジや、世界遺産のウェストミンスター宮殿といった建築物が立ち並んでおり、ロンドンの観光名所として知られています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260625_ThamesSummer%22&FORM=HPQUIZ",
+  "hash": "96259bc7658c5ffb0faf3b2ee0f3b9a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260625",
+    "fullStartDateTime": "202606251500",
+    "endDate": "20260626"
+  },
+  "createdAt": "202606260503",
+  "originalUrlBase": "/th?id=OHR.ThamesSummer_JA-JP5302199333"
+}
