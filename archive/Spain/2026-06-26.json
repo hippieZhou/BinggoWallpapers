@@ -1,0 +1,43 @@
+{
+  "date": "27 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Los árboles que perdieron terreno",
+  "bsTitle": "Los árboles que perdieron terreno",
+  "caption": "Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU.",
+  "copyright": "Árboles a la deriva en Boneyard Beach, Hunting Island, Carolina del Sur, EE. UU. (© Frances/Adobe Stock)",
+  "copyrightOnly": "© Frances/Adobe Stock",
+  "copyrightLink": "/search?q=carolina+del+sur&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+  "description": "En Boneyard Beach, en el Parque Estatal Hunting Island (Estados Unidos), los árboles parecen haber quedado congelados en plena transformación, como si el tiempo se hubiera detenido entre la vida y la desaparición. Sus troncos blanqueados y raíces al descubierto cuentan una historia silenciosa de erosión: desde la década de mil novecientos ochenta, el mar avanza aquí con fuerza, devorando hasta nueve metros de costa al año en algunos puntos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+  "hash": "81671e1d91bea5a7c0f63f77620d5a2b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ES-ES1143251949_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260626",
+    "fullStartDateTime": "202606262200",
+    "endDate": "20260627"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.BoneyardBeach_ES-ES1143251949"
+}

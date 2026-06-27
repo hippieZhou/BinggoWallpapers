@@ -1,0 +1,43 @@
+{
+  "date": "27. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Rot‑weiß am Horizont",
+  "bsTitle": "Rot‑weiß am Horizont",
+  "caption": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein",
+  "copyright": "Leuchtturm Westerheversand, Nordsee, Schleswig-Holstein (© bluejayphoto/Getty Images)",
+  "copyrightOnly": "© bluejayphoto/Getty Images",
+  "copyrightLink": "/search?q=Leuchtturm+Westerheversand&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+  "description": "Mitten in den Salzwiesen von Westerheversand erhebt sich ein Leuchtturm mit markanten rot-weißen Streifen über die weitläufige Küstenlandschaft. Seit mehr als hundert Jahren prägt das Bauwerk die Halbinsel Eiderstedt und dient bis heute als wichtiger Orientierungspunkt für die Schifffahrt. Der zwischen 1906 und 1908 errichtete Leuchtturm zählt zu den bekanntesten Wahrzeichen der nordfriesischen Küste. Das Highlight ist die Aussichtsplattform des rund 41 Meter hohen Turms, die über 157 Stufen erreicht werden kann.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_Westerheversand%22&FORM=HPQUIZ",
+  "hash": "2385c7a57c5495634a9ed44b87ef2515",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_DE-DE9270031466_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260626",
+    "fullStartDateTime": "202606262200",
+    "endDate": "20260627"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.Westerheversand_DE-DE9270031466"
+}

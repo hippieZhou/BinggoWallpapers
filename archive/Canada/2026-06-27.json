@@ -1,0 +1,43 @@
+{
+  "date": "Jun 27, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Many voices, one country",
+  "bsTitle": "Many voices, one country",
+  "caption": "Canadian Multiculturalism Day",
+  "copyright": "Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)",
+  "copyrightOnly": "© d3sign/Getty Images",
+  "copyrightLink": "/search?q=Multiculturalism+Day+Canada&form=hpcapt&filters=HpDate%3a%2220260627_0400%22",
+  "description": "Imagine standing beneath Montreal's dramatic sky on a balmy June evening. Around you, conversations switch between French, English, Mandarin, Tagalog and many other languages. A family shares a traditional dish, musicians perform songs from different cultures, and children get to hear folklore passed down through generations. That scene captures the spirit of Canadian Multiculturalism Day.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_MulticulturalismDY%22&FORM=HPQUIZ",
+  "hash": "4cef6c4b235657ed3dcf512edf4daf68",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260627",
+    "fullStartDateTime": "202606270400",
+    "endDate": "20260628"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.MulticulturalismDY_EN-CA9116110353"
+}

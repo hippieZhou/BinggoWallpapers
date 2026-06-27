@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "逐渐失去立足之地的树木",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%ba%a8%e5%bb%b7%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+  "hash": "430c1f4847a17f50aecd5df4f069b9b9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260626",
+    "fullStartDateTime": "202606261600",
+    "endDate": "20260627"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.BoneyardBeach_ZH-CN5540590570"
+}

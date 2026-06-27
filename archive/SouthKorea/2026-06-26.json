@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=River+Thames&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_ThamesSummer%22&FORM=HPQUIZ",
+  "hash": "19eb0c5ce912c87aa98228a912fed091",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260626",
+    "fullStartDateTime": "202606260700",
+    "endDate": "20260627"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.ThamesSummer_ROW5725205310"
+}

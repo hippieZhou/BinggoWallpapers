@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Gli alberi che hanno perso terreno",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Spiaggia di Boneyard Beach, Hunting Island, Carolina del Sud, USA (© Frances/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Hunting+Island+Carolina+del+Sud%2c+USA&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+  "hash": "1570ac00dea148ebc5423133eb109c4e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_IT-IT9837372965_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260626",
+    "fullStartDateTime": "202606262200",
+    "endDate": "20260627"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.BoneyardBeach_IT-IT9837372965"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "27 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Perdre pied",
+  "bsTitle": "Perdre pied",
+  "caption": "Bois flotté sur Hunting Island, Caroline du Sud, États-Unis",
+  "copyright": "Bois flotté sur la plage de Beaufort, Hunting Island, Caroline du Sud, États-Unis (© Frances/Adobe Stock)",
+  "copyrightOnly": "© Frances/Adobe Stock",
+  "copyrightLink": "/search?q=%c3%aele+de+Hunting&form=hpcapt&filters=HpDate%3a%2220260626_2200%22",
+  "description": "Dans le Parc d’État de Hunting Island, en Caroline du Sud, États-Unis, la plage de Beaufort frappe d’abord par ses arbres. Puis une question s’impose : pourquoi ces troncs blanchis et ces racines exposées semblent-ils abandonnés sur le sable, comme figés dans un paysage en ruine ?",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+  "hash": "3928a6c975c3f63c85b687b40ca214cb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_FR-FR6517949092_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260626",
+    "fullStartDateTime": "202606262200",
+    "endDate": "20260627"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.BoneyardBeach_FR-FR6517949092"
+}

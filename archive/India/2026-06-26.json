@@ -1,0 +1,43 @@
+{
+  "date": "Jun 27, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The trees that lost ground",
+  "bsTitle": "The trees that lost ground",
+  "caption": "Boneyard Beach, Hunting Island, South Carolina, United States",
+  "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)",
+  "copyrightOnly": "© Frances/Adobe Stock",
+  "copyrightLink": "/search?q=Hunting+Island&form=hpcapt&filters=HpDate%3a%2220260626_1830%22",
+  "description": "At Boneyard Beach within Hunting Island State Park, South Carolina, United States, the first thing you notice is the trees. Then comes the question: why are bleached trunks and exposed roots scattered across the sand like a scene paused midway through collapse? Since the 1980s, Hunting Island has experienced major beach erosion, with some of the highest rates along the US East Coast—reaching up to 9 metres per year in certain areas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260626_BoneyardBeach%22&FORM=HPQUIZ",
+  "hash": "de153961f8b4f088eeefc46fabf4bc6c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260626",
+    "fullStartDateTime": "202606261830",
+    "endDate": "20260627"
+  },
+  "createdAt": "202606270444",
+  "originalUrlBase": "/th?id=OHR.BoneyardBeach_EN-IN2656634065"
+}
