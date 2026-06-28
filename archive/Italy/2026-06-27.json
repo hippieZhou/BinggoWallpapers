@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Pieni di spine, ma belli!",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cactus Saguaro vicino al Passo Windgate, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Il+saguaro&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+  "hash": "9f9509bf404a3cf0b9071b6daf82e7f1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_IT-IT8055685927_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260627",
+    "fullStartDateTime": "202606272200",
+    "endDate": "20260628"
+  },
+  "createdAt": "202606280511",
+  "originalUrlBase": "/th?id=OHR.SaguaroSun_IT-IT8055685927"
+}

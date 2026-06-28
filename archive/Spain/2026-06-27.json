@@ -1,0 +1,43 @@
+{
+  "date": "28 de jun de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Los colores del orgullo!",
+  "bsTitle": "¡Los colores del orgullo!",
+  "caption": "Día Internacional del Orgullo LGTBI+",
+  "copyright": "Chueca, Madrid, España (© MarioMonte/Getty Images)",
+  "copyrightOnly": "© MarioMonte/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+del+Orgullo&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+  "description": "Chueca, en Madrid, se llena de color cada verano cuando la bandera del orgullo ondea entre balcones y calles, marcando el inicio de una de las celebraciones más vibrantes de Europa. Durante estos días, el barrio se transforma en un escenario abierto donde música, cultura y reivindicación conviven, reflejando el espíritu diverso y acogedor de la ciudad.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_PrideChueca%22&FORM=HPQUIZ",
+  "hash": "e412fa28f11d2fe7afaa622fede1b990",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260627",
+    "fullStartDateTime": "202606272200",
+    "endDate": "20260628"
+  },
+  "createdAt": "202606280511",
+  "originalUrlBase": "/th?id=OHR.PrideChueca_ES-ES4043385731"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "28. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Stille Riesen der Wüste",
+  "bsTitle": "Stille Riesen der Wüste",
+  "caption": "Saguaro-Kakteen, Windgate Pass, McDowell Range, Arizona, USA",
+  "copyright": "Saguaro-Kakteen nahe dem Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+  "copyrightOnly": "© Eric Mischke/Getty Images",
+  "copyrightLink": "/search?q=Saguaro-Kaktus&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+  "description": "Nahe dem Windgate Pass in der McDowell Range ragen Saguaro-Kakteen wie stille Wächter in den Himmel der Sonora-Wüste. Ihre mächtigen Stämme und ausladenden Arme zeichnen markante Silhouetten im warmen Licht Arizonas, USA. Bei Sonnenaufgang färbt sich die Landschaft in goldene und rötliche Töne, die ihre Formen noch eindrucksvoller wirken lassen. Trotz der scheinbaren Starre steckt in ihnen ein erstaunliches Leben, das sich perfekt an Hitze, Trockenheit und seltene Regenfälle angepasst hat.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+  "hash": "bdaf1c08758ab1d15b94bf2d388e1dc5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_DE-DE9702644922_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_DE-DE9702644922_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_DE-DE9702644922_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_DE-DE9702644922_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260627",
+    "fullStartDateTime": "202606272200",
+    "endDate": "20260628"
+  },
+  "createdAt": "202606280511",
+  "originalUrlBase": "/th?id=OHR.SaguaroSun_DE-DE9702644922"
+}

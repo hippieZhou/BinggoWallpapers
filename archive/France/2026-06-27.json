@@ -1,0 +1,43 @@
+{
+  "date": "28 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un piquant sans égal",
+  "bsTitle": "Un piquant sans égal",
+  "caption": "Windgate Pass, chaîne des McDowell, Arizona, États‑Unis",
+  "copyright": "Cactus saguaro près de Windgate Pass, chaîne des McDowell, Arizona, États‑Unis (© Eric Mischke/Getty Images)",
+  "copyrightOnly": "© Eric Mischke/Getty Images",
+  "copyrightLink": "/search?q=cactus+Saguaro&form=hpcapt&filters=HpDate%3a%2220260627_2200%22",
+  "description": "L’expression « rester dans les parages » prend un tout autre sens dans le désert de Sonora aux États-Unis, où le saguaro s’est imposé comme symbole grâce à sa longévité. Avec ses troncs et ses bras dressés dans toutes les directions, ce cactus géant incarne le Sud-Ouest américain.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260627_SaguaroSun%22&FORM=HPQUIZ",
+  "hash": "7d443bd66ecf0a9ea96048787d43cb04",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_FR-FR5935266298_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_FR-FR5935266298_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_FR-FR5935266298_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_FR-FR5935266298_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260627",
+    "fullStartDateTime": "202606272200",
+    "endDate": "20260628"
+  },
+  "createdAt": "202606280511",
+  "originalUrlBase": "/th?id=OHR.SaguaroSun_FR-FR5935266298"
+}
