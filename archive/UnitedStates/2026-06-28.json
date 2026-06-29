@@ -1,0 +1,43 @@
+{
+  "date": "Jun 28, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Looking sharp",
+  "bsTitle": "Looking sharp",
+  "caption": "Saguaro cacti, Windgate Pass, McDowell Range, Arizona",
+  "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)",
+  "copyrightOnly": "© Eric Mischke/Getty Images",
+  "copyrightLink": "/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0700%22",
+  "description": "'Stick around' takes on a new meaning in the Sonoran Desert, where the saguaro cactus has mastered survival. With trunks and arms raised in all directions, this giant has become the American Southwest's mascot.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_SaguaroSun%22&FORM=HPQUIZ",
+  "hash": "e5d162121cfb2b5ce71b9998a9db2836",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260628",
+    "fullStartDateTime": "202606280700",
+    "endDate": "20260629"
+  },
+  "createdAt": "202606290523",
+  "originalUrlBase": "/th?id=OHR.SaguaroSun_EN-US8982109543"
+}

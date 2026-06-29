@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 6月 月 29 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は国際熱帯デー",
+  "bsTitle": "今日は国際熱帯デー",
+  "caption": "今日は国際熱帯デー",
+  "copyright": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)",
+  "copyrightOnly": "© Frederick Millett/Shutterstock",
+  "copyrightLink": "/search?q=%e5%9b%bd%e9%9a%9b%e7%86%b1%e5%b8%af%e3%83%87%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260628_1500%22",
+  "description": "今日 6 月 29 日は国際熱帯デー。熱帯とは、赤道を中心に南北回帰線に挟まれた年中温暖な地域を指します。世界人口の約 40% が暮らし、地球上の生物種の約 80% が生息する重要な場所です。そして、画像は赤道近くに位置するフランス領ポリネシアにあるボラボラ島。島の中央にはオテマヌ山とパヒア山といった玄武岩の峰々がそびえています。周囲を取り囲むサンゴ礁の内側には穏やかなターコイズ色のラグーンが広がり、その美しさから「太平洋の真珠」とも称されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_BoraBoraLagoon%22&FORM=HPQUIZ",
+  "hash": "e8d4b8c3914490b5720111918ca064e9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260628",
+    "fullStartDateTime": "202606281500",
+    "endDate": "20260629"
+  },
+  "createdAt": "202606290523",
+  "originalUrlBase": "/th?id=OHR.BoraBoraLagoon_JA-JP3981162879"
+}

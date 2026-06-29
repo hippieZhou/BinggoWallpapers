@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Saguaro+cactus&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260628_SaguaroSun%22&FORM=HPQUIZ",
+  "hash": "40e43bbb83674910810ae88f850541f6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260628",
+    "fullStartDateTime": "202606280700",
+    "endDate": "20260629"
+  },
+  "createdAt": "202606290523",
+  "originalUrlBase": "/th?id=OHR.SaguaroSun_ROW6246109819"
+}
