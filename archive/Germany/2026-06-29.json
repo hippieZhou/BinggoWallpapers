@@ -1,0 +1,43 @@
+{
+  "date": "30. Juni. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo sich die Schatten in die Länge ziehen",
+  "bsTitle": "Wo sich die Schatten in die Länge ziehen",
+  "caption": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia",
+  "copyright": "Giraffen bei Sonnenuntergang im Masai-Mara-Nationalreservat, Kenia (© danm/Getty Images)",
+  "copyrightOnly": "© danm/Getty Images",
+  "copyrightLink": "/search?q=Masai+Mara+Nationalreservat&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+  "description": "Das Masai-Mara-Nationalreservat im Südwesten Kenias umfasst etwa 1500 Quadratkilometer und grenzt direkt an die Serengeti in Tansania. Es zählt zu den bedeutendsten Schutzgebieten für Wildtiere weltweit. Die Landschaft besteht aus offenen Grasflächen, locker verteilten Akazien und dem Mara-Fluss als zentraler Wasserquelle. Diese Bedingungen ermöglichen eine hohe Artenvielfalt und prägen das ökologische Gleichgewicht. In den Abendstunden, wenn die Sonne sinkt, verbessern sich die Sichtverhältnisse und viele Tiere werden in der weiten Savanne deutlich erkennbar.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+  "hash": "d1943c54217a41091adc8d6f4632797c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260629",
+    "fullStartDateTime": "202606292200",
+    "endDate": "20260630"
+  },
+  "createdAt": "202606300457",
+  "originalUrlBase": "/th?id=OHR.MasaiGiraffe_DE-DE5053384610"
+}

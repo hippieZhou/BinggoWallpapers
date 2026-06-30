@@ -1,0 +1,43 @@
+{
+  "date": "Jun 30, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Where shadows stretch tall",
+  "bsTitle": "Where shadows stretch tall",
+  "caption": "Giraffes in the Masai Mara National Reserve, Kenya",
+  "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+  "copyrightOnly": "© danm/Getty Images",
+  "copyrightLink": "/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260629_1830%22",
+  "description": "As the sun sinks low in the Masai Mara National Reserve, the silhouettes of Masai giraffes rise against a blazing sky and open plains. Another day comes to an end in the reserve, which stretches across about 1,500 square kilometres in southwestern Kenya, bordering Tanzania's Serengeti National Park. It is a vast expanse, one of the world's greatest wildlife arenas. Rolling grasslands, scattered acacia trees and the life-giving Mara River set the stage for unforgettable encounters.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+  "hash": "84ba200e8aff1ca6426dcac9a7c3a73a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260629",
+    "fullStartDateTime": "202606291830",
+    "endDate": "20260630"
+  },
+  "createdAt": "202606300457",
+  "originalUrlBase": "/th?id=OHR.MasaiGiraffe_EN-IN0088128873"
+}

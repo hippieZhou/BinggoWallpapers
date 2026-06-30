@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 6月 月 30 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "夕焼けに浮かぶキリンの影",
+  "bsTitle": "夕焼けに浮かぶキリンの影",
+  "caption": "夕焼けに浮かぶキリンの影",
+  "copyright": "マサイキリン, ケニヤ (© danm/Getty Images)",
+  "copyrightOnly": "© danm/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%9e%e3%82%b5%e3%82%a4%e3%82%ad%e3%83%aa%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260629_1500%22",
+  "description": "今日の画像は、ケニアのマサイマラ国立保護区で撮影されたマサイキリンです。マサイキリンは、他のキリン同様体に模様があり、ギザギザとした葉のような形をしているのが特徴です。この模様は、人間の指紋のように、個体ごとに異なります。彼らは、一日の大半を食事に充てており、長い舌を器用に使って鋭い棘の間から葉を摘み取って食べています。普段は穏やかで優雅に過ごしていますが、捕食者から逃げる際などは時速約 55km に達する速さで走れます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+  "hash": "00eb240719c20cd82c05ead660e70933",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260629",
+    "fullStartDateTime": "202606291500",
+    "endDate": "20260630"
+  },
+  "createdAt": "202606300457",
+  "originalUrlBase": "/th?id=OHR.MasaiGiraffe_JA-JP6554855892"
+}

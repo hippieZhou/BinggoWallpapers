@@ -1,0 +1,43 @@
+{
+  "date": "30 juin 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Jouer à l’ombre la plus longue",
+  "bsTitle": "Jouer à l’ombre la plus longue",
+  "caption": "Réserve nationale du Masai Mara, Kenya",
+  "copyright": "Girafes au coucher du soleil, Masai Mara, Kenya (© danm/Getty Images)",
+  "copyrightOnly": "© danm/Getty Images",
+  "copyrightLink": "/search?q=r%c3%a9serve+Masai+Mara&form=hpcapt&filters=HpDate%3a%2220260629_2200%22",
+  "description": "Alors que le soleil décline sur la réserve nationale du Masai Mara, les girafes masaï se découpent sur un ciel flamboyant et des plaines infinies. Située au sud-ouest du Kenya, à la frontière du parc national du Serengeti en Tanzanie, cette réserve d’environ 1 500 km² est l’un des plus grands sanctuaires animaliers au monde. Ses prairies vallonnées, ses acacias dispersés et la rivière Mara, essentielle à l’écosystème, en font un lieu privilégié pour observer la faune.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260629_MasaiGiraffe%22&FORM=HPQUIZ",
+  "hash": "e11d7ccee6a7d2f3f77c0b137077ec6d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260629",
+    "fullStartDateTime": "202606292200",
+    "endDate": "20260630"
+  },
+  "createdAt": "202606300457",
+  "originalUrlBase": "/th?id=OHR.MasaiGiraffe_FR-FR7072948459"
+}

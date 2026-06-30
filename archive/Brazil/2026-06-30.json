@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O entardecer das gigantes",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Girafas ao pôr do sol na Reserva Nacional Masai Mara, Quênia (© danm/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Reserva+Nacional+Masai+Mara+Quenia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_MasaiGiraffe%22&FORM=HPQUIZ",
+  "hash": "474684fc37455510fc7f7d2032a2c2bb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_PT-BR8199198867_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_PT-BR8199198867_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_PT-BR8199198867_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_PT-BR8199198867_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260630",
+    "fullStartDateTime": "202606300300",
+    "endDate": "20260701"
+  },
+  "createdAt": "202606300457",
+  "originalUrlBase": "/th?id=OHR.MasaiGiraffe_PT-BR8199198867"
+}
