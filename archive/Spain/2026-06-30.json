@@ -1,0 +1,43 @@
+{
+  "date": "1 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Canadá, tallado por el Atlántico",
+  "bsTitle": "Canadá, tallado por el Atlántico",
+  "caption": "Día de Canadá",
+  "copyright": "Dungeon Provincial Park, Terranova y Labrador, Canadá (© Kaitlyn McLachlan/Getty Images)",
+  "copyrightOnly": "© Kaitlyn McLachlan/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+de+Canada&form=hpcapt&filters=HpDate%3a%2220260630_2200%22",
+  "description": "El Dungeon Provincial Park, en Canadá, revela una costa indómita donde el Atlántico sigue moldeando el paisaje con una fuerza imparable. Cada 1 de julio, el país celebra su día nacional, recordando la unión de sus primeras colonias en 1867 y una identidad que hoy se vive entre conciertos, encuentros y fuegos artificiales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_DungeonPark%22&FORM=HPQUIZ",
+  "hash": "22803a5b4e491a7df763f0f3e9fde3ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_ES-ES4904785525_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260630",
+    "fullStartDateTime": "202606302200",
+    "endDate": "20260701"
+  },
+  "createdAt": "202607010515",
+  "originalUrlBase": "/th?id=OHR.DungeonPark_ES-ES4904785525"
+}

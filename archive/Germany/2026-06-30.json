@@ -1,0 +1,43 @@
+{
+  "date": "1. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Rebhänge im Abendlicht",
+  "bsTitle": "Rebhänge im Abendlicht",
+  "caption": "Weinberge im Neckartal bei Stuttgart, Baden‑Württemberg",
+  "copyright": "Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)",
+  "copyrightOnly": "© Cyril Gosselin/Getty Images",
+  "copyrightLink": "/search?q=Stuttgart+Neckar&form=hpcapt&filters=HpDate%3a%2220260630_2200%22",
+  "description": "Oberhalb des Neckars bei Stuttgart ziehen sich terrassierte Weinberge die Hänge hinauf und prägen eine der charakteristischsten Kulturlandschaften des Neckartals. Beim Blick über den Fluss zeichnen sich die markanten Linien der Rebreihen und Trockenmauern ab. Sie schmiegen sich harmonisch an die Hänge und werden vielerorts noch in aufwendiger Handarbeit von den sogenannten Wengertern gepflegt. Das milde Klima begünstigt traditionelle Rebsorten wie Trollinger und Riesling, die bis heute eng mit der Weinbaugeschichte Württembergs verbunden sind.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_NeckarVineyards%22&FORM=HPQUIZ",
+  "hash": "7866e38cb7aeebcbdd4e2ea78e02a61e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260630",
+    "fullStartDateTime": "202606302200",
+    "endDate": "20260701"
+  },
+  "createdAt": "202607010515",
+  "originalUrlBase": "/th?id=OHR.NeckarVineyards_DE-DE0300601892"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Masai+Mara+National+Reserve&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_MasaiGiraffe%22&FORM=HPQUIZ",
+  "hash": "0afadf70e7989c393ce30ba3aa1cf654",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260630",
+    "fullStartDateTime": "202606300700",
+    "endDate": "20260701"
+  },
+  "createdAt": "202607010515",
+  "originalUrlBase": "/th?id=OHR.MasaiGiraffe_ROW6806132366"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jul 1, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "This is your detour",
+  "bsTitle": "This is your detour",
+  "caption": "Kaysersberg, Alsace, France",
+  "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+  "copyrightOnly": "© Federica Gentile/Getty Images",
+  "copyrightLink": "/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260630_2300%22",
+  "description": "Set along the Weiss River, about 7 miles northwest of Colmar, the village of Kaysersberg, in the Alsace region of France, rests on the eastern slopes of the Vosges Mountains. This historic settlement combines medieval charm with a rich architectural heritage.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_KaysersbergVillage%22&FORM=HPQUIZ",
+  "hash": "fd50412107c993e32408298b7037c66f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260630",
+    "fullStartDateTime": "202606302300",
+    "endDate": "20260701"
+  },
+  "createdAt": "202607010515",
+  "originalUrlBase": "/th?id=OHR.KaysersbergVillage_EN-GB9678795742"
+}

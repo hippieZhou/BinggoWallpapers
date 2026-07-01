@@ -1,0 +1,43 @@
+{
+  "date": "Jul 1, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The art of taking the plunge",
+  "bsTitle": "The art of taking the plunge",
+  "caption": "Jog Falls, Karnataka",
+  "copyright": "Jog Falls on the Sharavathi River, Shivamogga district, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Moment/Getty Images",
+  "copyrightLink": "/search?q=Jog+Falls&form=hpcapt&filters=HpDate%3a%2220260630_1830%22",
+  "description": "Most rivers spend their lives flowing around obstacles. The Sharavathi River reaches the edge of a cliff and simply jumps. At Jog Falls in Karnataka, the river plunges 253 metres, making it the third-highest waterfall in India.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260630_JogFalls2026%22&FORM=HPQUIZ",
+  "hash": "b7f94888ce8def0e991988bb01394844",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260630",
+    "fullStartDateTime": "202606301830",
+    "endDate": "20260701"
+  },
+  "createdAt": "202607010515",
+  "originalUrlBase": "/th?id=OHR.JogFalls2026_EN-IN2533705121"
+}

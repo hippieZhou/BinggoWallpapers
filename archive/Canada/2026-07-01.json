@@ -1,0 +1,43 @@
+{
+  "date": "Jul 1, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Canada, carved by the Atlantic",
+  "bsTitle": "Canada, carved by the Atlantic",
+  "caption": "Canada Day",
+  "copyright": "Dungeon Provincial Park, Newfoundland and Labrador (© Kaitlyn McLachlan/Getty Images)",
+  "copyrightOnly": "© Kaitlyn McLachlan/Getty Images",
+  "copyrightLink": "/search?q=Canada+Day&form=hpcapt&filters=HpDate%3a%2220260701_0400%22",
+  "description": "On July 1, Canada celebrates its national day, marking the events of 1867, when the British North America Act (now called the Constitution Act, 1867) united three British colonies into one Dominion.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_DungeonPark%22&FORM=HPQUIZ",
+  "hash": "c7c041a250991b186d7e53f0bdc2ddb3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_EN-CA5716185591_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260701",
+    "fullStartDateTime": "202607010400",
+    "endDate": "20260702"
+  },
+  "createdAt": "202607010515",
+  "originalUrlBase": "/th?id=OHR.DungeonPark_EN-CA5716185591"
+}
