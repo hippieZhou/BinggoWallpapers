@@ -1,0 +1,43 @@
+{
+  "date": "2 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Dentro del universo sagrado de Esna",
+  "bsTitle": "Dentro del universo sagrado de Esna",
+  "caption": "Templo de Jnum en Esna, Egipto",
+  "copyright": "Techo del Templo de Jnum en Esna, Egipto (© Nick Brundle Photography/Getty Images)",
+  "copyrightOnly": "© Nick Brundle Photography/Getty Images",
+  "copyrightLink": "/search?q=El+Templo+de+Jnum+en+Esna&form=hpcapt&filters=HpDate%3a%2220260701_2200%22",
+  "description": "El Templo de Jnum en Esna, al sur de Luxor (Egipto), envuelve al visitante en un universo simbólico donde dioses y cielo parecen dialogar. Dedicado a Khnum, el dios con cabeza de carnero que, según la creencia, modelaba a los humanos con arcilla del Nilo, este espacio conserva una sala monumental sostenida por veinticuatro columnas cubiertas de relieves y textos sagrados.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260701_TempleEsna%22&FORM=HPQUIZ",
+  "hash": "e126a4239c0ea3682ca31dd396fa716f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_ES-ES5295149663_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260701",
+    "fullStartDateTime": "202607012200",
+    "endDate": "20260702"
+  },
+  "createdAt": "202607020453",
+  "originalUrlBase": "/th?id=OHR.TempleEsna_ES-ES5295149663"
+}

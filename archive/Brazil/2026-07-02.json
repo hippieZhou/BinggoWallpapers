@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O cosmos segundo Esna",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Teto do Templo de Esna, Egito (© Nick Brundle Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Templo+Esna+Egito&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260702_TempleEsna%22&FORM=HPQUIZ",
+  "hash": "d7932425c94fc2d367ec9a4eeac4c66e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_PT-BR4377934596_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_PT-BR4377934596_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_PT-BR4377934596_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TempleEsna_PT-BR4377934596_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260702",
+    "fullStartDateTime": "202607020300",
+    "endDate": "20260703"
+  },
+  "createdAt": "202607020453",
+  "originalUrlBase": "/th?id=OHR.TempleEsna_PT-BR4377934596"
+}
