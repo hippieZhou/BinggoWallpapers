@@ -1,0 +1,43 @@
+{
+  "date": "3 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La féerie des lucioles",
+  "bsTitle": "La féerie des lucioles",
+  "caption": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon",
+  "copyright": "Lucioles scintillant au-dessus d'un ruisseau, Okayama, Japon (© tdub303/Getty Images)",
+  "copyrightOnly": "© tdub303/Getty Images",
+  "copyrightLink": "/search?q=luciole&form=hpcapt&filters=HpDate%3a%2220260702_2200%22",
+  "description": "Dans la préfecture d'Okayama, au Japon, lorsque l'air humide flotte au-dessus des cours d'eau, les hotaru, les lucioles japonaises, se mettent à clignoter. Elles s'illuminent souvent environ deux heures après le coucher du soleil, invitant au silence au bord de l'eau.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260702_FirefliesJapan%22&FORM=HPQUIZ",
+  "hash": "7ce3185a56076df60785fd507449f42b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260702",
+    "fullStartDateTime": "202607022200",
+    "endDate": "20260703"
+  },
+  "createdAt": "202607030436",
+  "originalUrlBase": "/th?id=OHR.FirefliesJapan_FR-FR8593158782"
+}

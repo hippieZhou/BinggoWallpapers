@@ -1,0 +1,43 @@
+{
+  "date": "Jul 3, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "The poetry of vanishing light",
+  "bsTitle": "The poetry of vanishing light",
+  "caption": "Fireflies glowing above a stream, Okayama Prefecture, Japan",
+  "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)",
+  "copyrightOnly": "© tdub303/Getty Images",
+  "copyrightLink": "/search?q=Firefly+insect&form=hpcapt&filters=HpDate%3a%2220260703_0400%22",
+  "description": "In Okayama Prefecture, when humid air settles over a stream, hotaru—Japan's fireflies—begin signalling. On warm, windless evenings, they often start glowing about two hours after sunset under favourable conditions, inviting silence beside water.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_FirefliesJapan%22&FORM=HPQUIZ",
+  "hash": "fbb235e900a59780c33b1079d237b751",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-CA2012875414_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260703",
+    "fullStartDateTime": "202607030400",
+    "endDate": "20260704"
+  },
+  "createdAt": "202607030436",
+  "originalUrlBase": "/th?id=OHR.FirefliesJapan_EN-CA2012875414"
+}

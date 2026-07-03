@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "流光之诗",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%90%a4%e7%81%ab%e8%99%ab&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260702_FirefliesJapan%22&FORM=HPQUIZ",
+  "hash": "bc00032bb7f67febb7a74b19bf07b167",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260702",
+    "fullStartDateTime": "202607021600",
+    "endDate": "20260703"
+  },
+  "createdAt": "202607030436",
+  "originalUrlBase": "/th?id=OHR.FirefliesJapan_ZH-CN0071253415"
+}
