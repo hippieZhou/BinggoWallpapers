@@ -1,0 +1,43 @@
+{
+  "date": "4. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Im Herzen des Elsass",
+  "bsTitle": "Im Herzen des Elsass",
+  "caption": "Kaysersberg, Elsass, Frankreich",
+  "copyright": "Kaysersberg, Elsass, Frankreich (© Federica Gentile/Getty Images)",
+  "copyrightOnly": "© Federica Gentile/Getty Images",
+  "copyrightLink": "/search?q=Kaysersberg&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+  "description": "Fachwerkhäuser säumen die Ufer der Weiss im elsässischen Kaysersberg in Frankreich. Entlang des schmalen Flusslaufs drängen sich Giebel und Fensterläden dicht aneinander, während sich darüber die bewaldeten Hänge der Vogesen erheben. Das Dorf liegt rund zwölf Kilometer nordwestlich von Colmar und zählt zu den charakteristischen Weinorten der Region.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+  "hash": "0ffd73faa8eeb5a7727e4301b48c5559",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260703",
+    "fullStartDateTime": "202607032200",
+    "endDate": "20260704"
+  },
+  "createdAt": "202607040428",
+  "originalUrlBase": "/th?id=OHR.KaysersbergVillage_DE-DE1031882295"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jul 4, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "This is your detour",
+  "bsTitle": "This is your detour",
+  "caption": "Kaysersberg, Alsace, France",
+  "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+  "copyrightOnly": "© Federica Gentile/Getty Images",
+  "copyrightLink": "/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260704_0400%22",
+  "description": "On July 4, the Tour de France begins in Barcelona—perfect timing to spotlight northeastern France and the Alsace village of Kaysersberg. Set along the Weiss River, about 12 kilometres northwest of Colmar, this historic town lies on the eastern slopes of the Vosges Mountains.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_KaysersbergVillage%22&FORM=HPQUIZ",
+  "hash": "392d98c00c4427147b90e7d62ea88e3c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260704",
+    "fullStartDateTime": "202607040400",
+    "endDate": "20260705"
+  },
+  "createdAt": "202607040428",
+  "originalUrlBase": "/th?id=OHR.KaysersbergVillage_EN-CA0905183627"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "4 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Faire un Tour au village",
+  "bsTitle": "Faire un Tour au village",
+  "caption": "Kaysersberg, Alsace",
+  "copyright": "Kaysersberg, Alsace (© Federica Gentile/Getty Images)",
+  "copyrightOnly": "© Federica Gentile/Getty Images",
+  "copyrightLink": "/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+  "description": "C’est le Grand Départ pour le Tour de France 2026\u202F! Le parcours s’élance depuis Barcelone, mais au fil des étapes, il traverse de nombreux villages français. Nous avons choisi l’Alsace avec Kaysersberg, niché sur les rives de la Weiss, près de Colmar et au pied des Vosges. Ce bourg historique semble suspendu entre rivière et montagnes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+  "hash": "194d9c22392893893a11df2c47bdc8d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260703",
+    "fullStartDateTime": "202607032200",
+    "endDate": "20260704"
+  },
+  "createdAt": "202607040428",
+  "originalUrlBase": "/th?id=OHR.KaysersbergVillage_FR-FR8479653154"
+}

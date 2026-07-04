@@ -1,0 +1,43 @@
+{
+  "date": "4 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Este es tu desvío",
+  "bsTitle": "Este es tu desvío",
+  "caption": "Kaysersberg, Alsacia, Francia",
+  "copyright": "Kaysersberg, Alsacia, Francia (© Federica Gentile/Getty Images)",
+  "copyrightOnly": "© Federica Gentile/Getty Images",
+  "copyrightLink": "/search?q=Kaysersberg+Francia&form=hpcapt&filters=HpDate%3a%2220260703_2200%22",
+  "description": "Kaysersberg, en Alsacia (Francia), luce su encanto justo cuando el Tour de Francia arranca este mes de julio, llenando de energía esta región del noreste. A unos doce kilómetros de Colmar, este pueblo se extiende junto al río Weiss, entre viñedos y colinas suaves, en un paisaje que combina historia y naturaleza.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+  "hash": "6be7a04a871dfda995bcadae101cca32",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ES-ES2312486084_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260703",
+    "fullStartDateTime": "202607032200",
+    "endDate": "20260704"
+  },
+  "createdAt": "202607040428",
+  "originalUrlBase": "/th?id=OHR.KaysersbergVillage_ES-ES2312486084"
+}

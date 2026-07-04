@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "此行，不虚绕道",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%87%af%e6%b3%bd%e6%96%af%e5%a0%a1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_KaysersbergVillage%22&FORM=HPQUIZ",
+  "hash": "4504349c6e8fa14cfd46f887e438f6b0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260703",
+    "fullStartDateTime": "202607031600",
+    "endDate": "20260704"
+  },
+  "createdAt": "202607040428",
+  "originalUrlBase": "/th?id=OHR.KaysersbergVillage_ZH-CN0445080679"
+}

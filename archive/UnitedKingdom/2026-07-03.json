@@ -1,0 +1,43 @@
+{
+  "date": "Jul 4, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "London under a rainbow",
+  "bsTitle": "London under a rainbow",
+  "caption": "Pride in London",
+  "copyright": "London (© TomasSereda/Getty Images)",
+  "copyrightOnly": "© TomasSereda/Getty Images",
+  "copyrightLink": "/search?q=Pride+in+London&form=hpcapt&filters=HpDate%3a%2220260703_2300%22",
+  "description": "For one day each summer, London becomes a giant rainbow-coloured procession. Streets fill with music, banners, dancing and enough glitter to keep a craft shop in business for months. But Pride in London is more than a party.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260703_PrideInLondon2026%22&FORM=HPQUIZ",
+  "hash": "52fa2bdb267de75873c43d321b0fccf6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260703",
+    "fullStartDateTime": "202607032300",
+    "endDate": "20260704"
+  },
+  "createdAt": "202607040428",
+  "originalUrlBase": "/th?id=OHR.PrideInLondon2026_EN-GB7157270875"
+}
