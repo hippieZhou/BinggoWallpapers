@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "紫色花海",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89%e5%b1%9e&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+  "hash": "490c9611f01ef2aaa93c8291872d30a4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260704",
+    "fullStartDateTime": "202607041600",
+    "endDate": "20260705"
+  },
+  "createdAt": "202607050451",
+  "originalUrlBase": "/th?id=OHR.LavenderRows_ZH-CN0676810895"
+}

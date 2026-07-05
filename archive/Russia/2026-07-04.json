@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Kaysersberg&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_KaysersbergVillage%22&FORM=HPQUIZ",
+  "hash": "e293d3c10ba54d74bebedf5feda6222f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260704",
+    "fullStartDateTime": "202607040700",
+    "endDate": "20260705"
+  },
+  "createdAt": "202607050451",
+  "originalUrlBase": "/th?id=OHR.KaysersbergVillage_ROW7990431342"
+}

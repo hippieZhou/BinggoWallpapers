@@ -1,0 +1,43 @@
+{
+  "date": "Jul 5, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Sea of purple",
+  "bsTitle": "Sea of purple",
+  "caption": "Lavender rows, Plateau de Valensole, Provence, France",
+  "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+  "copyrightOnly": "© Robert Harding/Shutterstock",
+  "copyrightLink": "/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260704_1830%22",
+  "description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+  "hash": "0ee588aa468478b3ff94af02b86b7c4c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-IN4483122586_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-IN4483122586_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-IN4483122586_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-IN4483122586_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260704",
+    "fullStartDateTime": "202607041830",
+    "endDate": "20260705"
+  },
+  "createdAt": "202607050451",
+  "originalUrlBase": "/th?id=OHR.LavenderRows_EN-IN4483122586"
+}

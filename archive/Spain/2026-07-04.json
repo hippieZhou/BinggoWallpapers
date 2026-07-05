@@ -1,0 +1,43 @@
+{
+  "date": "5 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un mar púrpura",
+  "bsTitle": "Un mar púrpura",
+  "caption": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia",
+  "copyright": "Plantaciones de lavanda, Plateau de Valensole, Provenza, Francia (© Robert Harding/Shutterstock)",
+  "copyrightOnly": "© Robert Harding/Shutterstock",
+  "copyrightLink": "/search?q=Lavanda&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
+  "description": "La meseta de Valensole, en el sureste de Francia, se transforma cada verano en un mar ondulante de lavanda que tiñe el paisaje de púrpura y azul. Entre mediados de junio y principios de julio, sus campos en flor, situados entre los valles del Durance y del Asse y cerca de las Gargantas del Verdon, ofrecen una de las estampas más reconocibles de la Provenza, acompañada de un aroma seco e intensamente mediterráneo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+  "hash": "808642c7c954c13b5bb4d5d83d2b659b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_ES-ES6518419327_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260704",
+    "fullStartDateTime": "202607042200",
+    "endDate": "20260705"
+  },
+  "createdAt": "202607050451",
+  "originalUrlBase": "/th?id=OHR.LavenderRows_ES-ES6518419327"
+}

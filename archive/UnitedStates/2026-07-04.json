@@ -1,0 +1,43 @@
+{
+  "date": "Jul 4, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The story continues",
+  "bsTitle": "The story continues",
+  "caption": "The United States' 250th anniversary",
+  "copyright": "Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)",
+  "copyrightOnly": "© f11photo/Shutterstock",
+  "copyrightLink": "/search?q=Fourth+of+July&form=hpcapt&filters=HpDate%3a%2220260704_0700%22",
+  "description": "Today, the United States marks 250 years since the adoption of the Declaration of Independence—a milestone known as the 'semiquincentennial.' This anniversary commemorates 1776, when the Declaration articulated the idea that a nation could be defined by shared principles rather than inherited rule. Two and a half centuries later, this date is marked not only as an anniversary but also as an opportunity to reflect on the nation's long and evolving story.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LibertyHall%22&FORM=HPQUIZ",
+  "hash": "2305647bd26b9ac3970297aaa8dc4d10",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260704",
+    "fullStartDateTime": "202607040700",
+    "endDate": "20260705"
+  },
+  "createdAt": "202607050451",
+  "originalUrlBase": "/th?id=OHR.LibertyHall_EN-US2562041614"
+}

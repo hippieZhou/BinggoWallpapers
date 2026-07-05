@@ -1,0 +1,43 @@
+{
+  "date": "5. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Meer aus Lila",
+  "bsTitle": "Ein Meer aus Lila",
+  "caption": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich",
+  "copyright": "Lavendelfelder, Plateau de Valensole, Provence, Frankreich (© Robert Harding/Shutterstock)",
+  "copyrightOnly": "© Robert Harding/Shutterstock",
+  "copyrightLink": "/search?q=Lavendel&form=hpcapt&filters=HpDate%3a%2220260704_2200%22",
+  "description": "Wenn der Sommer die Provence erreicht, verwandelt sich das Plateau de Valensole in ein weites Meer aus violetten und blauen Tönen. Zwischen den Tälern von Verdon, Durance und Asse ziehen sich Lavendelfelder in sanften Reihen über die Hochebene und formen eine der bekanntesten Landschaften Südfrankreichs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260704_LavenderRows%22&FORM=HPQUIZ",
+  "hash": "8e26d949a0a42db2296f82cfa8a4f1a3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260704",
+    "fullStartDateTime": "202607042200",
+    "endDate": "20260705"
+  },
+  "createdAt": "202607050451",
+  "originalUrlBase": "/th?id=OHR.LavenderRows_DE-DE5950929230"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jul 5, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Sea of purple",
+  "bsTitle": "Sea of purple",
+  "caption": "Lavender rows, Plateau de Valensole, Provence, France",
+  "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)",
+  "copyrightOnly": "© Robert Harding/Shutterstock",
+  "copyrightLink": "/search?q=Lavandula&form=hpcapt&filters=HpDate%3a%2220260705_0400%22",
+  "description": "In southeastern France, on the Valensole Plateau, summer arrives in waves of purple and blue. Valensole—one of the largest plateaus in the region—lies in the Verdon Regional Natural Park between the Durance and Asse valleys, near the Gorges du Verdon and its lakes. From mid-June to early July, depending on altitude and weather, lavender and lavandin bloom and transform the landscape into one of Provence's most recognisable sights. The air carries a sharp, dry and unmistakably Mediterranean scent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260705_LavenderRows%22&FORM=HPQUIZ",
+  "hash": "7454aaa1756fac9f6308083b8c621641",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-CA8245005019_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260705",
+    "fullStartDateTime": "202607050400",
+    "endDate": "20260706"
+  },
+  "createdAt": "202607050451",
+  "originalUrlBase": "/th?id=OHR.LavenderRows_EN-CA8245005019"
+}
