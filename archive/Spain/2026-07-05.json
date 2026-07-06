@@ -1,0 +1,43 @@
+{
+  "date": "6 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una ciudad forjada a lo largo de los siglos",
+  "bsTitle": "Una ciudad forjada a lo largo de los siglos",
+  "caption": "Siracusa, Sicilia, Italia",
+  "copyright": "Siracusa al atardecer, Sicilia, Italia (© Balate Dorin/Getty Images)",
+  "copyrightOnly": "© Balate Dorin/Getty Images",
+  "copyrightLink": "/search?q=Siracusa&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+  "description": "Al caer la tarde en Siracusa, el sol desciende sobre el mar Jónico y la ciudad se envuelve en una luz suave que realza su pasado milenario. Fundada por colonos griegos de Corinto en el siglo VIII antes de nuestra era, la ciudad creció hasta convertirse en una potencia del Mediterráneo antiguo. Hoy forma parte del conjunto Patrimonio Mundial de la UNESCO junto con la necrópolis rupestre de Pantalica y conserva una identidad marcada por la ciencia, el pensamiento y la historia.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260705_SyracuseItaly%22&FORM=HPQUIZ",
+  "hash": "07a8eeaaca71af9c66f1acb7f0eec46c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ES-ES6910557655_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260705",
+    "fullStartDateTime": "202607052200",
+    "endDate": "20260706"
+  },
+  "createdAt": "202607060503",
+  "originalUrlBase": "/th?id=OHR.SyracuseItaly_ES-ES6910557655"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "6. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Im Licht der Jahrhunderte",
+  "bsTitle": "Im Licht der Jahrhunderte",
+  "caption": "Syrakus, Sizilien, Italien",
+  "copyright": "Syrakus bei Sonnenuntergang, Sizilien, Italien (© Balate Dorin/Getty Images)",
+  "copyrightOnly": "© Balate Dorin/Getty Images",
+  "copyrightLink": "/search?q=Syrakus&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+  "description": "Wenn die Sonne über Syrakus sinkt, taucht ein warmes Licht die Küstenstadt auf Sizilien in goldene und rosige Töne. Gegründet im 8. Jahrhundert vor Christus von Siedlern aus Korinth, entwickelte sich Syrakus zu einer der mächtigsten Städte des antiken Mittelmeers und bildet heute zusammen mit der Felsnekropole von Pantalica ein UNESCO-Welterbe. Der Name des Genies Archimedes ist untrennbar mit der Stadt verbunden und auch Platons Aufenthalt verlieh ihr eine besondere geistige Bedeutung.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260705_SyracuseItaly%22&FORM=HPQUIZ",
+  "hash": "afd3929232b8a7700223863c00babd3e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260705",
+    "fullStartDateTime": "202607052200",
+    "endDate": "20260706"
+  },
+  "createdAt": "202607060503",
+  "originalUrlBase": "/th?id=OHR.SyracuseItaly_DE-DE7459831277"
+}

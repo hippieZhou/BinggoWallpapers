@@ -1,0 +1,43 @@
+{
+  "date": "6 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des siècles d’Histoire",
+  "bsTitle": "Des siècles d’Histoire",
+  "caption": "Syracuse, Sicile, Italie",
+  "copyright": "Syracuse au coucher du soleil, Sicile, Italie (© Balate Dorin/Getty Images)",
+  "copyrightOnly": "© Balate Dorin/Getty Images",
+  "copyrightLink": "/search?q=Syracuse+Sicile&form=hpcapt&filters=HpDate%3a%2220260705_2200%22",
+  "description": "Fondée par des colons grecs de Corinthe vers 734 avant J.C., Syracuse (Sicile, Italie) fut l’une des grandes puissances de la Méditerranée antique. Aujourd’hui inscrite au patrimoine mondial de l’UNESCO avec la nécropole rocheuse de Pantalica, la ville reste associée à Archimède et à Platon, qui y séjourna dans l’espoir de rapprocher philosophie et pouvoir.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260705_SyracuseItaly%22&FORM=HPQUIZ",
+  "hash": "3d3e735aa9108e589a4dc1fe522f25e1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260705",
+    "fullStartDateTime": "202607052200",
+    "endDate": "20260706"
+  },
+  "createdAt": "202607060503",
+  "originalUrlBase": "/th?id=OHR.SyracuseItaly_FR-FR9604430573"
+}
