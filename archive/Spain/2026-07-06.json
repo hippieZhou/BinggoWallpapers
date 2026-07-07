@@ -1,0 +1,43 @@
+{
+  "date": "7 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Dos épocas, mismo lugar",
+  "bsTitle": "Dos épocas, mismo lugar",
+  "caption": "Dunas de arena en Maspalomas, Gran Canaria, España",
+  "copyright": "Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)",
+  "copyrightOnly": "© Marco Bottigelli/Getty Images",
+  "copyrightLink": "/search?q=Maspalomas&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+  "description": "Maspalomas, en Gran Canaria, España, sorprende con un paisaje donde la ciudad y el desierto parecen tocarse sin mezclarse. Desde el aire, el trazado ordenado de calles y edificios se detiene de forma abrupta ante un mar de dunas doradas que se extiende junto al Atlántico, creando un contraste único en el archipiélago.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_GranCanaria%22&FORM=HPQUIZ",
+  "hash": "681999ad33437829967e2797271d7f39",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260706",
+    "fullStartDateTime": "202607062200",
+    "endDate": "20260707"
+  },
+  "createdAt": "202607070442",
+  "originalUrlBase": "/th?id=OHR.GranCanaria_ES-ES7578658409"
+}

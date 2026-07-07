@@ -1,0 +1,43 @@
+{
+  "date": "Jul 7, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Colour, craft and canopy life",
+  "bsTitle": "Colour, craft and canopy life",
+  "caption": "Plate-billed mountain toucan with orchids, Ecuador",
+  "copyright": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+  "copyrightOnly": "© Murray Cooper/Minden Pictures",
+  "copyrightLink": "/search?q=Plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0400%22",
+  "description": "A bill like a multitool and plumage full of colour—the plate-billed mountain toucan is one of the Andes' most distinctive birds. It lives in the humid mountain forests of Ecuador and southwestern Colombia, perfectly adapted to life high in the canopy.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_MountainToucanOrchids%22&FORM=HPQUIZ",
+  "hash": "59e40f43174bd3f4f88177b1a4c276ba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-CA5781848121_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260707",
+    "fullStartDateTime": "202607070400",
+    "endDate": "20260708"
+  },
+  "createdAt": "202607070442",
+  "originalUrlBase": "/th?id=OHR.MountainToucanOrchids_EN-CA5781848121"
+}

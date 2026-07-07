@@ -1,0 +1,43 @@
+{
+  "date": "7 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un bec pas si plat",
+  "bsTitle": "Un bec pas si plat",
+  "caption": "Toucan montagnard à bec plat, Équateur",
+  "copyright": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
+  "copyrightOnly": "© Murray Cooper/Minden Pictures",
+  "copyrightLink": "/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+  "description": "Un bec multifonction et un plumage aux couleurs chatoyantes : le toucan montagnard est l’un des oiseaux les plus emblématiques des Andes. Il vit dans les forêts humides d’altitude d’Équateur et du sud-ouest de la Colombie, parfaitement adapté à la vie dans la canopée.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_MountainToucanOrchids%22&FORM=HPQUIZ",
+  "hash": "91336be912df85cd57286309a99c702e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260706",
+    "fullStartDateTime": "202607062200",
+    "endDate": "20260707"
+  },
+  "createdAt": "202607070442",
+  "originalUrlBase": "/th?id=OHR.MountainToucanOrchids_FR-FR9785340325"
+}

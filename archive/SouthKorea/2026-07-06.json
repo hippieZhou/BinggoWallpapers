@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Syracuse+Sicily&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_SyracuseItaly%22&FORM=HPQUIZ",
+  "hash": "6bcf61216a57b43c709a134948c5674f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260706",
+    "fullStartDateTime": "202607060700",
+    "endDate": "20260707"
+  },
+  "createdAt": "202607070442",
+  "originalUrlBase": "/th?id=OHR.SyracuseItaly_ROW8772538423"
+}

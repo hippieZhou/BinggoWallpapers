@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Colori e fauna selvatica",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Tucano montano pettogrigio, Ecuador (© Murray Cooper/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Tucano+montano+pettogrigio&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260706_MountainToucanOrchids%22&FORM=HPQUIZ",
+  "hash": "54b4b0ae0f6fa455b04f44747ff8371a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_IT-IT8965138427_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260706",
+    "fullStartDateTime": "202607062200",
+    "endDate": "20260707"
+  },
+  "createdAt": "202607070442",
+  "originalUrlBase": "/th?id=OHR.MountainToucanOrchids_IT-IT8965138427"
+}
