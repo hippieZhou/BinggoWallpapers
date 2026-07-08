@@ -1,0 +1,43 @@
+{
+  "date": "8. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Echos einer vulkanischen Vergangenheit",
+  "bsTitle": "Echos einer vulkanischen Vergangenheit",
+  "caption": "Sonnenaufgang am Atitlán-See, Guatemala",
+  "copyright": "Sonnenaufgang am Atitlán-See, Guatemala (© shayes17/Getty Images)",
+  "copyrightOnly": "© shayes17/Getty Images",
+  "copyrightLink": "/search?q=Lago+de+Atitl%c3%a1n+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+  "description": "Im guatemaltekischen Hochland liegt der Atitlán-See, eingebettet in eine weite vulkanische Caldera. Tiefblaues Wasser trifft hier auf steile Hänge und die markanten Vulkane Atitlán, Tolimán und San Pedro. In den frühen Morgenstunden entfaltet der Sonnenaufgang eine besondere Stimmung. Das Licht legt sich sanft über die ruhige Oberfläche und betont den Kontrast zwischen Stille und den dramatischen Formen. Zarte Farben spiegeln sich im Wasser und verleihen der Szenerie eine fast unwirkliche Ruhe.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+  "hash": "46fd509611144cbcb25e46782ac7fa97",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_DE-DE9365650175_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260707",
+    "fullStartDateTime": "202607072200",
+    "endDate": "20260708"
+  },
+  "createdAt": "202607080409",
+  "originalUrlBase": "/th?id=OHR.LakeAtitlan_DE-DE9365650175"
+}

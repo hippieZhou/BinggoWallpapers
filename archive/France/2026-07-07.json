@@ -1,0 +1,43 @@
+{
+  "date": "8 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Échos d'un passé volcanique",
+  "bsTitle": "Échos d'un passé volcanique",
+  "caption": "Lever du soleil sur le lac Atitlán, Guatemala",
+  "copyright": "Lever du soleil sur le lac Atitlán, Guatemala (© shayes17/Getty Images)",
+  "copyrightOnly": "© shayes17/Getty Images",
+  "copyrightLink": "/search?q=lac+atitlan+guatemala&form=hpcapt&filters=HpDate%3a%2220260707_2200%22",
+  "description": "Situé dans les hauts plateaux de l'ouest du Guatemala, le lac Atitlán occupe une vaste caldeira volcanique. Ses eaux d'un bleu profond sont encadrées par les parois abruptes du cratère et les volcans coniques Atitlán, Tolimán et San Pedro. Des jetées en bois s'avancent dans les eaux calmes du lac, soulignant le contraste entre sa surface paisible et le relief accidenté façonné par l'activité volcanique.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+  "hash": "a3a903c1b4f05b9a55d28cee92f7a09d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_FR-FR9789294273_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260707",
+    "fullStartDateTime": "202607072200",
+    "endDate": "20260708"
+  },
+  "createdAt": "202607080409",
+  "originalUrlBase": "/th?id=OHR.LakeAtitlan_FR-FR9789294273"
+}

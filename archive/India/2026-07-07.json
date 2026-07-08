@@ -1,0 +1,43 @@
+{
+  "date": "Jul 8, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Echoes of a volcanic past",
+  "bsTitle": "Echoes of a volcanic past",
+  "caption": "Lake Atitlán, Guatemala",
+  "copyright": "Lake Atitlán, Guatemala (© shayes17/Getty Images)",
+  "copyrightOnly": "© shayes17/Getty Images",
+  "copyrightLink": "/search?q=Lake+Atitlan+Guatemala&form=hpcapt&filters=HpDate%3a%2220260707_1830%22",
+  "description": "Set in Guatemala's western highlands, Lake Atitlán fills a vast volcanic caldera. Its deep blue waters are framed by steep crater walls and the cone-shaped volcanoes Atitlán, Tolimán and San Pedro. Wooden piers stretch into the still lake, emphasising the contrast between its calm surface and the rugged terrain shaped by volcanic activity.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+  "hash": "ef21729cda16f50bc8316e28b0a99f0d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-IN1783282765_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260707",
+    "fullStartDateTime": "202607071830",
+    "endDate": "20260708"
+  },
+  "createdAt": "202607080409",
+  "originalUrlBase": "/th?id=OHR.LakeAtitlan_EN-IN1783282765"
+}

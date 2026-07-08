@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 7月 月 8 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "静けさにしずむ湖",
+  "bsTitle": "静けさにしずむ湖",
+  "caption": "静けさにしずむ湖",
+  "copyright": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
+  "copyrightOnly": "© shayes17/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%86%e3%82%a3%e3%83%88%e3%83%a9%e3%83%b3%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22",
+  "description": "グアテマラ西部高地に位置するアティトラン湖は、約 8 万 4 千年前の大噴火によって形成された火山カルデラ湖です。深い青色の湖面は、切り立った火口壁とアティトラン山・トリマン山・サンペドロ山といった火山に囲まれており、湖の静けさと火山の荒々しい地形が、対照的な美しい景観を生み出しています。水深は中米でも有数の深さを誇り、湖底には 1500 年以上前のマヤ遺跡が沈んでいます。周辺では今もカクチケル族やツトゥヒル族などのマヤ系住民が暮らし、言語や織物の伝統を守り受け継ぎながら、この豊かな自然と深く結びついた生活を続けています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260707_LakeAtitlan%22&FORM=HPQUIZ",
+  "hash": "430a88ce7ab0f2db2d441442bbb2b26d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260707",
+    "fullStartDateTime": "202607071500",
+    "endDate": "20260708"
+  },
+  "createdAt": "202607080409",
+  "originalUrlBase": "/th?id=OHR.LakeAtitlan_JA-JP9857275970"
+}

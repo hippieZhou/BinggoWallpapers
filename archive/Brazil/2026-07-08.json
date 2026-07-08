@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um vulcão transformado em horizonte",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Nascer do sol no Lago de Atitlán, Guatemala (© shayes17/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lago+de+Atitlan&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260708_LakeAtitlan%22&FORM=HPQUIZ",
+  "hash": "f46a4e8742d9dfea415ead7eaf7ce5c5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_PT-BR6236816511_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260708",
+    "fullStartDateTime": "202607080300",
+    "endDate": "20260709"
+  },
+  "createdAt": "202607080409",
+  "originalUrlBase": "/th?id=OHR.LakeAtitlan_PT-BR6236816511"
+}
