@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "陆地与海洋的鸟瞰图",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e5%b7%9e&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+  "hash": "30c309500520fa3b5514278ade632c82",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260709",
+    "fullStartDateTime": "202607091600",
+    "endDate": "20260710"
+  },
+  "createdAt": "202607100443",
+  "originalUrlBase": "/th?id=OHR.VictoriaBeach_ZH-CN8892195426"
+}

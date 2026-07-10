@@ -1,0 +1,43 @@
+{
+  "date": "10 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le pays des rivages mouvants",
+  "bsTitle": "Le pays des rivages mouvants",
+  "caption": "Vue aérienne des terres et de l'océan, Victoria, Australie",
+  "copyright": "Vue aérienne des terres et de l'océan, Victoria, Australie (© Nearmap/Getty Images)",
+  "copyrightOnly": "© Nearmap/Getty Images",
+  "copyrightLink": "/search?q=Victoria+Australie&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
+  "description": "Vue du ciel, la côte de Victoria déploie de longues plages dorées, des eaux turquoise et des falaises sculptées par les vents du puissant océan Austral. Sur plus de 1\u202F800 kilomètres de littoral, la terre et la mer façonnent depuis des millénaires les paysages du sud‑est australien.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+  "hash": "3c681c3037c605e75dde1f576bcd447a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_FR-FR3702097800_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260709",
+    "fullStartDateTime": "202607092200",
+    "endDate": "20260710"
+  },
+  "createdAt": "202607100443",
+  "originalUrlBase": "/th?id=OHR.VictoriaBeach_FR-FR3702097800"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jul 10, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The land of moving shorelines",
+  "bsTitle": "The land of moving shorelines",
+  "caption": "Aerial view of land and ocean, Victoria, Australia",
+  "copyright": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+  "copyrightOnly": "© Nearmap/Getty Images",
+  "copyrightLink": "/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260709_1830%22",
+  "description": "Land or sea? In Victoria, you don't have to choose. This southeastern Australian state proves that the best adventures come with a little of both.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+  "hash": "ac6032650dd55c4b44e8482e96e89b6f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-IN4783068086_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260709",
+    "fullStartDateTime": "202607091830",
+    "endDate": "20260710"
+  },
+  "createdAt": "202607100443",
+  "originalUrlBase": "/th?id=OHR.VictoriaBeach_EN-IN4783068086"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lao+Cai+Vietnam&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_SapaVietnam%22&FORM=HPQUIZ",
+  "hash": "e1ec9cc07e2825d72b439dae0889c22f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260709",
+    "fullStartDateTime": "202607090700",
+    "endDate": "20260710"
+  },
+  "createdAt": "202607100443",
+  "originalUrlBase": "/th?id=OHR.SapaVietnam_ROW9241114244"
+}

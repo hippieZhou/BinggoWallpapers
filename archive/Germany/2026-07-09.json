@@ -1,0 +1,43 @@
+{
+  "date": "10. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Zwischen zwei Welten",
+  "bsTitle": "Zwischen zwei Welten",
+  "caption": "Luftaufnahme von Land und Meer, Victoria, Australien",
+  "copyright": "Luftaufnahme von Land und Meer, Victoria, Australien (© Nearmap/Getty Images)",
+  "copyrightOnly": "© Nearmap/Getty Images",
+  "copyrightLink": "/search?q=Victoria+Australien&form=hpcapt&filters=HpDate%3a%2220260709_2200%22",
+  "description": "Aus der Luft eröffnet sich entlang der Küste von Victoria in Australien eine eindrucksvolle Landschaft, in der sich Land und Meer ständig begegnen. Über eine Länge von mehr als 2 500 Kilometern prägt die Küste entlang der Bass Strait und angrenzender Meeresgebiete die Küstenlinie mit hellen Sandstränden, türkisfarbenem Wasser und schroffen Klippen. Diese Kontraste wirken aus der Vogelperspektive besonders deutlich. Die berühmte Great Ocean Road folgt rund 240 Kilometern dieser abwechslungsreichen Küste und verbindet beliebte Surfspots, bewaldete Landspitzen und kleine Orte direkt am Meer.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_VictoriaBeach%22&FORM=HPQUIZ",
+  "hash": "fcd80c0340a15b3192fa8099fd52f51e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_DE-DE7288099938_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260709",
+    "fullStartDateTime": "202607092200",
+    "endDate": "20260710"
+  },
+  "createdAt": "202607100443",
+  "originalUrlBase": "/th?id=OHR.VictoriaBeach_DE-DE7288099938"
+}

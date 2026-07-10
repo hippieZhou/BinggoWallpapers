@@ -1,0 +1,43 @@
+{
+  "date": "Jul 9, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Tradition in every step",
+  "bsTitle": "Tradition in every step",
+  "caption": "Rice fields at Sapa, Lào Cai, Vietnam",
+  "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)",
+  "copyrightOnly": "© Anujak Jaimook/Getty Images",
+  "copyrightLink": "/search?q=L%c3%a0o+Cai+Vietnam&form=hpcapt&filters=HpDate%3a%2220260709_0700%22",
+  "description": "Sunlight cuts through drifting clouds and settles on the terraced slopes of Sapa, where rice fields cascade down the mountainsides like a living staircase. Located in Vietnam's Lào Cai province, this highland region is shaped as much by human hands as by nature. Generations of farmers from local ethnic communities such as the Hmong have carved and maintained these terraces for centuries, guiding water across steep hillsides to sustain each growing season.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260709_SapaVietnam%22&FORM=HPQUIZ",
+  "hash": "c84dae446a1a072dc80ce51cbc6d28c4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260709",
+    "fullStartDateTime": "202607090700",
+    "endDate": "20260710"
+  },
+  "createdAt": "202607100443",
+  "originalUrlBase": "/th?id=OHR.SapaVietnam_EN-US4008171614"
+}
