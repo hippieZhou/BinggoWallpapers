@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "布列塔尼的潮汐之约",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%b3%95%e5%9b%bd%e6%ac%a7%e8%b5%96%e5%9c%a3%e5%8f%a4%e6%96%af%e5%bd%93%e6%b8%af&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_AurayBrittany%22&FORM=HPQUIZ",
+  "hash": "3bafa9b5e68b0b86a69bec810fbff9c0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260710",
+    "fullStartDateTime": "202607101600",
+    "endDate": "20260711"
+  },
+  "createdAt": "202607110400",
+  "originalUrlBase": "/th?id=OHR.AurayBrittany_ZH-CN5549157888"
+}

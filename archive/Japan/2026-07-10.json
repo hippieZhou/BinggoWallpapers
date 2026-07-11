@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 7月 月 11 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "港に停泊する観光船",
+  "bsTitle": "港に停泊する観光船",
+  "caption": "港に停泊する観光船",
+  "copyright": "サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock)",
+  "copyrightOnly": "© Rolf E. Staerk/Shutterstock",
+  "copyrightLink": "/search?q=%e3%82%b5%e3%83%b3%ef%bc%9d%e3%82%b0%e3%82%b9%e3%82%bf%e3%83%b3%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220260710_1500%22",
+  "description": "ここは、サン＝グスタン港。フランスのブルターニュ地域圏にある港町オーレーの港です。その歴史は 12 世紀にまでさかのぼり、当時のブルターニュ公が橋や港、さらに城塞を築いたことに始まります。1776 年には、米国建国の父ともいわれるベンジャミン・フランクリンが訪れており、埠頭の一つは、「フランクリン・ドック」と呼ばれるようになりました。港は 19 世紀まで船の入港が可能でしたが、現在ではツアーの寄港地やマリーナとして利用されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_AurayBrittany%22&FORM=HPQUIZ",
+  "hash": "00daff9f231c180c8948d437ac8a0620",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260710",
+    "fullStartDateTime": "202607101500",
+    "endDate": "20260711"
+  },
+  "createdAt": "202607110400",
+  "originalUrlBase": "/th?id=OHR.AurayBrittany_JA-JP5965695214"
+}

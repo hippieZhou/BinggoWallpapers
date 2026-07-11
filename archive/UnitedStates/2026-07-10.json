@@ -1,0 +1,43 @@
+{
+  "date": "Jul 10, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The land of moving shorelines",
+  "bsTitle": "The land of moving shorelines",
+  "caption": "Aerial view of land and ocean, Victoria, Australia",
+  "copyright": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)",
+  "copyrightOnly": "© Nearmap/Getty Images",
+  "copyrightLink": "/search?q=Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220260710_0700%22",
+  "description": "Victoria, a southeastern state of Australia, extends along more than 1,000 miles of coastline shaped by the Southern Ocean. From above, its beaches appear as sweeping bands of pale sand edged by turquoise waters and rugged cliffs. This dynamic interaction of land and sea defines much of the region's appeal. The famous Great Ocean Road traces roughly 150 miles of this shoreline, winding past popular surf spots, forested headlands, and seaside towns.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260710_VictoriaBeach%22&FORM=HPQUIZ",
+  "hash": "225cf2c8e2767485807232d2c3823f43",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260710",
+    "fullStartDateTime": "202607100700",
+    "endDate": "20260711"
+  },
+  "createdAt": "202607110400",
+  "originalUrlBase": "/th?id=OHR.VictoriaBeach_EN-US7607379912"
+}
