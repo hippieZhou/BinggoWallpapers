@@ -1,0 +1,43 @@
+{
+  "date": "Jul 12, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A wilder side of Maine",
+  "bsTitle": "A wilder side of Maine",
+  "caption": "Katahdin Woods and Waters National Monument, Maine, USA",
+  "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+  "copyrightOnly": "© Cavan Images/Offset/Shutterstock",
+  "copyrightLink": "/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260712_0400%22",
+  "description": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument stretches across more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_KatahdinWWNM%22&FORM=HPQUIZ",
+  "hash": "896436160d5746ed3847714c1506f360",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-CA7288146923_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260712",
+    "fullStartDateTime": "202607120400",
+    "endDate": "20260713"
+  },
+  "createdAt": "202607120420",
+  "originalUrlBase": "/th?id=OHR.KatahdinWWNM_EN-CA7288146923"
+}

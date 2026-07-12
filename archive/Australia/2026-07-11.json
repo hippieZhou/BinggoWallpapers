@@ -1,0 +1,43 @@
+{
+  "date": "July 11, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Coral reef and beach in Raja Ampat, Indonesia",
+  "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+  "copyrightOnly": "© SergeUWPhoto/Shutterstock",
+  "copyrightLink": "/search?q=Raja+Ampat&form=hpcapt&filters=HpDate%3a%2220260711_0700%22",
+  "description": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. Coral reefs cover less than 1% of the ocean floor, yet they support roughly 25% of all marine life. What looks like colourful rocks are actually colonies of tiny animals called coral polyps. Together, they build vast limestone structures that can last for thousands of years. Stretching about 2,300 kilometres along Australia's coast, the Great Barrier Reef is the largest living structure on Earth.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_CoralAwareness%22&FORM=HPQUIZ",
+  "hash": "7bcc8161b5c35076f3dd3227bf57a27e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260711",
+    "fullStartDateTime": "202607110700",
+    "endDate": "20260712"
+  },
+  "createdAt": "202607120420",
+  "originalUrlBase": "/th?id=OHR.CoralAwareness_ROW1949077077"
+}

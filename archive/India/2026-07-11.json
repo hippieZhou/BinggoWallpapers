@@ -1,0 +1,43 @@
+{
+  "date": "Jul 12, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Where the forest swallows sound",
+  "bsTitle": "Where the forest swallows sound",
+  "caption": "Katahdin Woods and Waters National Monument, Maine, United States",
+  "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+  "copyrightOnly": "© Cavan Images/Offset/Shutterstock",
+  "copyrightLink": "/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260711_1830%22",
+  "description": "If you're looking for Maine in the United States at its most untamed, this is it. Katahdin Woods and Waters National Monument spans more than 350 square kilometres of rugged North Woods wilderness, where still ponds reflect the sky and dense forests seem to absorb every sound.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_KatahdinWWNM%22&FORM=HPQUIZ",
+  "hash": "6aff59a094b473fa3778216252102df7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-IN8091413320_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-IN8091413320_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-IN8091413320_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-IN8091413320_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260711",
+    "fullStartDateTime": "202607111830",
+    "endDate": "20260712"
+  },
+  "createdAt": "202607120420",
+  "originalUrlBase": "/th?id=OHR.KatahdinWWNM_EN-IN8091413320"
+}

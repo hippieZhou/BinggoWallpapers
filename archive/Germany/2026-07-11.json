@@ -1,0 +1,43 @@
+{
+  "date": "12. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Maine von seiner wilden Seite",
+  "bsTitle": "Maine von seiner wilden Seite",
+  "caption": "Katahdin Woods and Waters National Monument in Maine, USA",
+  "copyright": "Katahdin Woods and Waters National Monument in Maine, USA (© Cavan Images/Offset/Shutterstock)",
+  "copyrightOnly": "© Cavan Images/Offset/Shutterstock",
+  "copyrightLink": "/search?q=Katahdin+Woods+and+Waters+National+Monument+Vereinigte+Staaten+Informationen&form=hpcapt&filters=HpDate%3a%2220260711_2200%22",
+  "description": "Das Katahdin Woods and Waters National Monument im US-Bundesstaat Maine wurde 2016 ausgewiesen und zählt mit rund 35.000 Hektar zu den jüngeren Schutzgebieten des Landes. Weite Wälder, klare Flüsse und zahlreiche Teiche prägen die Landschaft, während sich im Hintergrund der markante Mount Katahdin westlich angrenzend außerhalb des Gebiets im Baxter State Park erhebt und dem Gebiet eine eindrucksvolle Präsenz verleiht.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260711_KatahdinWWNM%22&FORM=HPQUIZ",
+  "hash": "18d2f6b7da5c9dc2c30eba10ea66341e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260711",
+    "fullStartDateTime": "202607112200",
+    "endDate": "20260712"
+  },
+  "createdAt": "202607120420",
+  "originalUrlBase": "/th?id=OHR.KatahdinWWNM_DE-DE4221964213"
+}
