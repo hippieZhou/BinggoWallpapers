@@ -1,0 +1,43 @@
+{
+  "date": "13 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Ondes minérales",
+  "bsTitle": "Ondes minérales",
+  "caption": "Antelope Canyon, Arizona, États-Unis",
+  "copyright": "Antelope Canyon, territoire Navajo, Arizona, États-Unis (© Mark Skalny/Getty Images)",
+  "copyrightOnly": "© Mark Skalny/Getty Images",
+  "copyrightLink": "/search?q=Antelope+canyon+fente&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+  "description": "À l’est de Page, en Arizona, États-Unis, sur les terres de la Nation Navajo, Antelope Canyon se dévoile comme une rivière figée dans la pierre. Ses parois de grès rouge et orangé ondulent en courbes douces, sculptées par des crues soudaines qui, siècle après siècle, ont creusé ce passage étroit.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_NavajoSandstone%22&FORM=HPQUIZ",
+  "hash": "a684022b2a636f30fb6ca7e48e1c8cdf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_FR-FR2547131354_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_FR-FR2547131354_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_FR-FR2547131354_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_FR-FR2547131354_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260712",
+    "fullStartDateTime": "202607122200",
+    "endDate": "20260713"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.NavajoSandstone_FR-FR2547131354"
+}

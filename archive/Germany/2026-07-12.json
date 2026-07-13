@@ -1,0 +1,43 @@
+{
+  "date": "13. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Im Festspielglanz",
+  "bsTitle": "Im Festspielglanz",
+  "caption": "Münchner Opernfestspiele",
+  "copyright": "München mit der Frauenkirche vor den Alpen, Bayern (© MarcelStrelow/Getty Images)",
+  "copyrightOnly": "© MarcelStrelow/Getty Images",
+  "copyrightLink": "/search?q=M%c3%bcnchner+Opernfestspiele&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+  "description": "Münchens Skyline leuchtet in der Dämmerung, während sich die Türme der Frauenkirche markant vor der Silhouette der Alpen abzeichnen und der Himmel langsam in tiefe Blau- und Violetttöne übergeht. In dieser eindrucksvollen Kulisse finden jeden Sommer die Münchner Opernfestspiele statt, eines der bedeutendsten Klassikfestivals Europas. Über mehrere Wochen hinweg verwandelt sich die Stadt in einen kulturellen Mittelpunkt, an dem die Bayerische Staatsoper ein vielseitiges Programm aus Opern, Konzerten und Ballettaufführungen präsentiert und damit Besucherinnen und Besucher aus aller Welt anzieht.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_MunichTwilight%22&FORM=HPQUIZ",
+  "hash": "f3416c278f8f871d864ee38ab57f7e08",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260712",
+    "fullStartDateTime": "202607122200",
+    "endDate": "20260713"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.MunichTwilight_DE-DE5540064188"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "13 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Lijado durante milenios",
+  "bsTitle": "Lijado durante milenios",
+  "caption": "Día Internacional de la Roca",
+  "copyright": "Antelope Canyon en la Nación Navajo, al este de Page, Arizona, EE. UU. (© Mark Skalny/Getty Images)",
+  "copyrightOnly": "© Mark Skalny/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+internacional+de+la+roca+geolog%c3%ada&form=hpcapt&filters=HpDate%3a%2220260712_2200%22",
+  "description": "El Día Internacional de las Rocas, celebrado el trece de julio, invita a mirar con nuevos ojos paisajes como Antelope Canyon, en Arizona, Estados Unidos, donde la geología cobra vida en cada curva de piedra. Este cañón estrecho, esculpido durante siglos en arenisca por riadas y erosión, revela cómo el agua y el tiempo transforman la Tierra con una precisión casi artística. Sus paredes onduladas, teñidas de rojo y naranja, capturan la luz en haces que parecen moverse.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_NavajoSandstone%22&FORM=HPQUIZ",
+  "hash": "35fa0c5ffb108d1e44e076104b2469bc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ES-ES1041732911_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ES-ES1041732911_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ES-ES1041732911_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ES-ES1041732911_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260712",
+    "fullStartDateTime": "202607122200",
+    "endDate": "20260713"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.NavajoSandstone_ES-ES1041732911"
+}

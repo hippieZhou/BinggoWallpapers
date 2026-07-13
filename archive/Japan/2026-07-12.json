@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 7月 月 13 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は国際岩の日",
+  "bsTitle": "今日は国際岩の日",
+  "caption": "今日は国際岩の日",
+  "copyright": "アンテロープ・キャニオン, 米国 アリゾナ州 (© Mark Skalny/Getty Images)",
+  "copyrightOnly": "© Mark Skalny/Getty Images",
+  "copyrightLink": "/search?q=%e5%9b%bd%e9%9a%9b%e5%b2%a9%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260712_1500%22",
+  "description": "今日 7 月 13 日は国際岩の日 (International Rock Day) 。岩石が人類の歴史や地球の形成に果たしてきた重要な役割を称える日です。そして、今日の画像は、米国アリゾナ州ペイジ近郊のナバホ族の土地に位置するアンテロープ・キャニオン。水による浸食や堆積物などにより、何百万年もの時間をかけてナバホ砂岩が削り出されることで形成されました。滑らかにうねる独特な岩肌が、地球と岩石の雄大な歴史を象徴しています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_NavajoSandstone%22&FORM=HPQUIZ",
+  "hash": "042a2997e889542ec37f672ae3b1b8a8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260712",
+    "fullStartDateTime": "202607121500",
+    "endDate": "20260713"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.NavajoSandstone_JA-JP6458327046"
+}

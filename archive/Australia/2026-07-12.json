@@ -1,0 +1,43 @@
+{
+  "date": "July 12, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Katahdin Woods and Waters National Monument, Maine, USA",
+  "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)",
+  "copyrightOnly": "© Cavan Images/Offset/Shutterstock",
+  "copyrightLink": "/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220260712_0700%22",
+  "description": "If you're looking for Maine at its most untamed, this is it. Katahdin Woods and Waters National Monument spans more than 350 square kilometres of the rugged North Woods, where quiet ponds mirror the sky and dense forests seem to swallow sound. Here, the East Branch of the Penobscot River threads through forests and wetlands, adding to the sense of space and solitude that defines the North Woods.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_KatahdinWWNM%22&FORM=HPQUIZ",
+  "hash": "4752418a3bfb2f9d07f2a34466459e28",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260712",
+    "fullStartDateTime": "202607120700",
+    "endDate": "20260713"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.KatahdinWWNM_ROW0056133161"
+}

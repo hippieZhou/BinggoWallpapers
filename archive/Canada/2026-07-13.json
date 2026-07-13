@@ -1,0 +1,43 @@
+{
+  "date": "Jul 13, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Born to rock",
+  "bsTitle": "Born to rock",
+  "caption": "International Rock Day",
+  "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
+  "copyrightOnly": "© Mark Skalny/Getty Images",
+  "copyrightLink": "/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260713_0400%22",
+  "description": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and the stories they preserve. From ancient tools to towering mountains, rocks reveal clues about shifting continents, changing climates and the evolution of life over millions of years. Few places showcase nature's artistry as vividly as Antelope Canyon on Navajo Nation land in Arizona, seen in today's image. Formed as flash floods gradually eroded Navajo Sandstone over thousands of years, the canyon's graceful, curving walls showcase the slow but relentless force of nature.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_NavajoSandstone%22&FORM=HPQUIZ",
+  "hash": "62e400eeb269ed7d6534d5569eec5e29",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-CA9245641235_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-CA9245641235_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-CA9245641235_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-CA9245641235_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260713",
+    "fullStartDateTime": "202607130400",
+    "endDate": "20260714"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.NavajoSandstone_EN-CA9245641235"
+}

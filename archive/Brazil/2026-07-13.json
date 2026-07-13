@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A pedra que aprendeu a fluir",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Antelope Canyon, leste de Page, Arizona, Estados Unidos (© Mark Skalny/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Antelope+Canyon+no+Arizona&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_NavajoSandstone%22&FORM=HPQUIZ",
+  "hash": "90fde1f46e06f39eb7451623564e0b50",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_PT-BR2813210432_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_PT-BR2813210432_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_PT-BR2813210432_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_PT-BR2813210432_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260713",
+    "fullStartDateTime": "202607130300",
+    "endDate": "20260714"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.NavajoSandstone_PT-BR2813210432"
+}

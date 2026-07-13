@@ -1,0 +1,43 @@
+{
+  "date": "Jul 13, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Born to rock",
+  "bsTitle": "Born to rock",
+  "caption": "International Rock Day",
+  "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)",
+  "copyrightOnly": "© Mark Skalny/Getty Images",
+  "copyrightLink": "/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260712_1830%22",
+  "description": "International Rock Day, observed on 13 July, celebrates the geological building blocks beneath our feet and encourages curiosity about how rocks shape Earth's landscapes and history. From ancient tools to modern mineral uses, rocks hold clues to volcanic eruptions, shifting continents and the evolution of life over millions of years. In India, the vast Deccan Traps stand as a dramatic reminder of the powerful volcanic forces that have shaped our planet.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260712_NavajoSandstone%22&FORM=HPQUIZ",
+  "hash": "3913740c4590fdfe7bda12e864d6d66f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-IN8391264023_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-IN8391264023_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-IN8391264023_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-IN8391264023_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260712",
+    "fullStartDateTime": "202607121830",
+    "endDate": "20260713"
+  },
+  "createdAt": "202607130425",
+  "originalUrlBase": "/th?id=OHR.NavajoSandstone_EN-IN8391264023"
+}
