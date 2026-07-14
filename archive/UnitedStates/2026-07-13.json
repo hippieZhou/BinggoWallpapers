@@ -1,0 +1,43 @@
+{
+  "date": "Jul 13, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Born to rock",
+  "bsTitle": "Born to rock",
+  "caption": "International Rock Day",
+  "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)",
+  "copyrightOnly": "© Mark Skalny/Getty Images",
+  "copyrightLink": "/search?q=International+Rock+Day+geology&form=hpcapt&filters=HpDate%3a%2220260713_0700%22",
+  "description": "International Rock Day, observed on July 13, celebrates the geologic building blocks beneath our feet and encourages curiosity about how rocks shape Earth's landscapes and history. From ancient tools to modern mineral uses, these solid structures hold clues to volcanic eruptions, shifting continents, and life over millions of years. Few places display that story as vividly as Antelope Canyon, a narrow slot canyon on Navajo Nation land east of Page, Arizona. Carved from Navajo Sandstone by flash floods and erosion, its smooth, flowing walls reveal how water and sediment sculpt rock over time. Sunlight filters through the canyon's narrow openings, creating beams of light that dance across red and orange stone, shaped by centuries of natural forces. On International Rock Day, landscapes like this turn geology into a living gallery—inviting visitors to see rocks not as static objects, but as evolving records of our planet's dynamic past.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_NavajoSandstone%22&FORM=HPQUIZ",
+  "hash": "4b7ca0b29f813ff6e80811984bc38844",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260713",
+    "fullStartDateTime": "202607130700",
+    "endDate": "20260714"
+  },
+  "createdAt": "202607140351",
+  "originalUrlBase": "/th?id=OHR.NavajoSandstone_EN-US9496264383"
+}

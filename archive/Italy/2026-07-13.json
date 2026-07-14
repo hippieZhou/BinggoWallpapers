@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Cerco limoni",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cucciolo di squalo limone nella foresta di mangrovie, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=squalo+limone&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_LemonShark%22&FORM=HPQUIZ",
+  "hash": "cbe2058ca8b2cd4a9d1f5183f461eb5c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_IT-IT7940960388_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_IT-IT7940960388_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_IT-IT7940960388_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_IT-IT7940960388_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260713",
+    "fullStartDateTime": "202607132200",
+    "endDate": "20260714"
+  },
+  "createdAt": "202607140351",
+  "originalUrlBase": "/th?id=OHR.LemonShark_IT-IT7940960388"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "14. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Könige der Meere",
+  "bsTitle": "Könige der Meere",
+  "caption": "Tag der Haie",
+  "copyright": "Zitronenhai-Jungtier im Mangrovenwald, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+  "copyrightOnly": "© Shane Gross/Nature Picture Library",
+  "copyrightLink": "/search?q=Tag+der+Haie&form=hpcapt&filters=HpDate%3a%2220260713_2200%22",
+  "description": "Am 14. Juli wird weltweit der Tag der Haie gefeiert. Dieser Tag soll das Bild dieser Tiere verändern und Wissen vermitteln. Haie durchstreifen die Meere seit mehr als 420 Millionen Jahren und gehören zu den ältesten Bewohnern unseres Planeten. Dieser Tag rückt Wissen, Faszination und die Bedeutung dieser Tiere für gesunde Meere in den Mittelpunkt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260713_LemonShark%22&FORM=HPQUIZ",
+  "hash": "060632636809febf8f57a7ebfb92abef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_DE-DE6087754416_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_DE-DE6087754416_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_DE-DE6087754416_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_DE-DE6087754416_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260713",
+    "fullStartDateTime": "202607132200",
+    "endDate": "20260714"
+  },
+  "createdAt": "202607140351",
+  "originalUrlBase": "/th?id=OHR.LemonShark_DE-DE6087754416"
+}

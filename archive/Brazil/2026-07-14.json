@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O mar em modo incubadora",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Filhote de tubarão-limão em floresta de mangue, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+da+Conscientizacao+sobre+Tubaroes&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_LemonShark%22&FORM=HPQUIZ",
+  "hash": "a0b2ff3e711f5d64d389a27a22af6b64",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_PT-BR3191818241_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_PT-BR3191818241_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_PT-BR3191818241_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_PT-BR3191818241_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260714",
+    "fullStartDateTime": "202607140300",
+    "endDate": "20260715"
+  },
+  "createdAt": "202607140351",
+  "originalUrlBase": "/th?id=OHR.LemonShark_PT-BR3191818241"
+}
