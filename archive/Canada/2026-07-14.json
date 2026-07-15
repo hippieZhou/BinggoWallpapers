@@ -1,0 +1,43 @@
+{
+  "date": "Jul 14, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Fin-tastic truths",
+  "bsTitle": "Fin-tastic truths",
+  "caption": "Shark Awareness Day",
+  "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+  "copyrightOnly": "© Shane Gross/Nature Picture Library",
+  "copyrightLink": "/search?q=Shark+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220260714_0400%22",
+  "description": "On July 14, Shark Awareness Day asks us to trade movie panic for ocean truth. Sharks have patrolled the seas for more than 420 million years, and as apex predators, they help keep marine ecosystems in balance.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_LemonShark%22&FORM=HPQUIZ",
+  "hash": "5d290deceed276e632a4b8a346ad4896",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_EN-CA1838897902_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_EN-CA1838897902_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_EN-CA1838897902_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_EN-CA1838897902_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260714",
+    "fullStartDateTime": "202607140400",
+    "endDate": "20260715"
+  },
+  "createdAt": "202607150353",
+  "originalUrlBase": "/th?id=OHR.LemonShark_EN-CA1838897902"
+}

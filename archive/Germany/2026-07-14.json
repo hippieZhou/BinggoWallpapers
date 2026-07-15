@@ -1,0 +1,43 @@
+{
+  "date": "15. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Belohnung nach der Wanderung",
+  "bsTitle": "Die Belohnung nach der Wanderung",
+  "caption": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA",
+  "copyright": "Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images)",
+  "copyrightOnly": "© Steve Dunleavy/Getty Images",
+  "copyrightLink": "/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
+  "description": "Die John Muir Wilderness in der Nähe von Bishop in Kalifornien, USA, zählt zu den eindrucksvollsten Hochgebirgslandschaften der Sierra Nevada. Das 1964 eingerichtete Schutzgebiet erstreckt sich über eine weite, nahezu unberührte Region mit Granitformationen, klaren Seen und alpinen Tälern. Berühmte Fernwanderwege führen durch dieses Gebiet und ziehen Naturbegeisterte aus aller Welt an. Inmitten dieser Landschaft liegt der Marie Lake auf etwa 3.215 Metern Höhe, eingebettet zwischen Felsen und lichten Wäldern. Sein klares Wasser spiegelt die umliegenden Berge und macht ihn zu einem eindrucksvollen Ziel nach einem langen Aufstieg.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_MarieLake%22&FORM=HPQUIZ",
+  "hash": "4476a165e46b6957cc03ad5d5abeff35",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260714",
+    "fullStartDateTime": "202607142200",
+    "endDate": "20260715"
+  },
+  "createdAt": "202607150353",
+  "originalUrlBase": "/th?id=OHR.MarieLake_DE-DE6487639165"
+}

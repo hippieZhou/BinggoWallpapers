@@ -1,0 +1,43 @@
+{
+  "date": "Jul 15, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "The reward after the climb",
+  "bsTitle": "The reward after the climb",
+  "caption": "Marie Lake, John Muir Wilderness, California, United States",
+  "copyright": "Marie Lake, John Muir Wilderness\u202Fnear Bishop, California, United States (© Steve Dunleavy/Getty Images)",
+  "copyrightOnly": "© Steve Dunleavy/Getty Images",
+  "copyrightLink": "/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260714_2300%22",
+  "description": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, United States, would have plenty to share. Its valleys, lakes and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres (263,000 hectares) of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_MarieLake%22&FORM=HPQUIZ",
+  "hash": "3ad49432da257a4b8adb7faf965444b0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-GB7432567016_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-GB7432567016_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-GB7432567016_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-GB7432567016_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260714",
+    "fullStartDateTime": "202607142300",
+    "endDate": "20260715"
+  },
+  "createdAt": "202607150353",
+  "originalUrlBase": "/th?id=OHR.MarieLake_EN-GB7432567016"
+}

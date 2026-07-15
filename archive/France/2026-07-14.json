@@ -1,0 +1,43 @@
+{
+  "date": "15 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des racines et des zestes",
+  "bsTitle": "Des racines et des zestes",
+  "caption": "Requin-citron dans la mangrove",
+  "copyright": "Jeune requin-citron dans la mangrove, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)",
+  "copyrightOnly": "© Shane Gross/Nature Picture Library",
+  "copyrightLink": "/search?q=Requin+citron&form=hpcapt&filters=HpDate%3a%2220260714_2200%22",
+  "description": "Dans les eaux peu profondes d’Eleuthera, aux Bahamas, un jeune requin-citron glisse entre les racines entrelacées des mangroves. Ici, la lumière danse à la surface tandis que l’eau tiède filtre doucement entre ces arbres étonnants, dont les racines offrent un refuge à d’innombrables poissons, crustacés et juvéniles marins.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260714_LemonShark%22&FORM=HPQUIZ",
+  "hash": "58fd90432c5aa534396abe1dd7078e5c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260714",
+    "fullStartDateTime": "202607142200",
+    "endDate": "20260715"
+  },
+  "createdAt": "202607150353",
+  "originalUrlBase": "/th?id=OHR.LemonShark_FR-FR4291742004"
+}
