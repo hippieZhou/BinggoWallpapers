@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um cais camaleônico",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Navy Pier, Chicago, Illinois, Estados Unidos (© Christopher.F Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Navy+Pier+Estados+Unidos&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_NavyPier%22&FORM=HPQUIZ",
+  "hash": "aa3a12af9dc4d0639d22a40fbba48881",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_PT-BR4218227814_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260716",
+    "fullStartDateTime": "202607160300",
+    "endDate": "20260717"
+  },
+  "createdAt": "202607160356",
+  "originalUrlBase": "/th?id=OHR.NavyPier_PT-BR4218227814"
+}

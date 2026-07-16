@@ -1,0 +1,43 @@
+{
+  "date": "16 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un camaleón en el puerto",
+  "bsTitle": "Un camaleón en el puerto",
+  "caption": "Muelle de la Armada, Chicago, Illinois, EE. UU.",
+  "copyright": "Muelle de la Armada, Chicago, Illinois, EE. UU. (© Christopher.F Photography/Getty Images)",
+  "copyrightOnly": "© Christopher.F Photography/Getty Images",
+  "copyrightLink": "/search?q=Muelle+de+la+Armada+Chicago&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+  "description": "En el Muelle de la Armada, en Chicago, Estados Unidos, una pasarela histórica se adentra más de 900 m en el lago Míchigan y muestra cómo un espacio puede reinventarse sin dejar atrás su pasado. Diseñado dentro del Plan de Chicago de 1909 y abierto en 1916, nació como punto estratégico para transporte, ocio y comercio, además de rendir homenaje a los veteranos navales de la Primera Guerra Mundial.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_NavyPier%22&FORM=HPQUIZ",
+  "hash": "1338483233d35d231a0107aad5c8e0ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ES-ES1489693745_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ES-ES1489693745_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ES-ES1489693745_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ES-ES1489693745_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260715",
+    "fullStartDateTime": "202607152200",
+    "endDate": "20260716"
+  },
+  "createdAt": "202607160356",
+  "originalUrlBase": "/th?id=OHR.NavyPier_ES-ES1489693745"
+}

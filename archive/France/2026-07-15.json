@@ -1,0 +1,43 @@
+{
+  "date": "16 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Sieste estivale",
+  "bsTitle": "Sieste estivale",
+  "caption": "Cerf dans l’herbe, parc de Merlet, Haute-Savoie",
+  "copyright": "Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie (© porojnicu/Getty Images)",
+  "copyrightOnly": "© porojnicu/Getty Images",
+  "copyrightLink": "/search?q=cerf+sika&form=hpcapt&filters=HpDate%3a%2220260715_2200%22",
+  "description": "Perché à 1\u202F563 mètres d'altitude au-dessus de Chamonix, le parc Merlet abrite une espèce venue d'Asie de l'Est : le cerf sika (Cervus nippon), introduit en Europe à la fin du XIXᵉ siècle à des fins d'élevage et d'agrément.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_DeerGrass%22&FORM=HPQUIZ",
+  "hash": "b478fdd10c9f3e7763f6a322ca2774b9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260715",
+    "fullStartDateTime": "202607152200",
+    "endDate": "20260716"
+  },
+  "createdAt": "202607160356",
+  "originalUrlBase": "/th?id=OHR.DeerGrass_FR-FR3634474861"
+}

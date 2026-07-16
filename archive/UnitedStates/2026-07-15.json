@@ -1,0 +1,43 @@
+{
+  "date": "Jul 15, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The reward after the climb",
+  "bsTitle": "The reward after the climb",
+  "caption": "Marie Lake, John Muir Wilderness near Bishop, California",
+  "copyright": "Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)",
+  "copyrightOnly": "© Steve Dunleavy/Getty Images",
+  "copyrightLink": "/search?q=John+Muir+Wilderness&form=hpcapt&filters=HpDate%3a%2220260715_0700%22",
+  "description": "If mountains could keep a record of the past, the John Muir Wilderness near Bishop, California, would have plenty to share. Its valleys, lakes, and granite formations reveal a history shaped over millions of years. Established in 1964, this vast protected area spans more than 650,000 acres of the Sierra Nevada and is named after naturalist John Muir. Today, parts of the Pacific Crest Trail and John Muir Trail pass through the area, drawing hikers into one of the largest high-elevation wilderness regions in the contiguous United States.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260715_MarieLake%22&FORM=HPQUIZ",
+  "hash": "9e3f43e3d68542f6ec991d87e444f472",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260715",
+    "fullStartDateTime": "202607150700",
+    "endDate": "20260716"
+  },
+  "createdAt": "202607160356",
+  "originalUrlBase": "/th?id=OHR.MarieLake_EN-US0365186943"
+}
