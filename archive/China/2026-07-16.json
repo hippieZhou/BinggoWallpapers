@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "希腊式的逃离",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b8%8c%e8%85%8a%e5%85%8b%e9%87%8c%e7%89%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+  "hash": "ce5a5296567bdacfd05fd90a9f431038",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260716",
+    "fullStartDateTime": "202607161600",
+    "endDate": "20260717"
+  },
+  "createdAt": "202607170355",
+  "originalUrlBase": "/th?id=OHR.VaiUmbrellas_ZH-CN1271422272"
+}

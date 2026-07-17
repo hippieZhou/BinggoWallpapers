@@ -1,0 +1,43 @@
+{
+  "date": "17 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand l’évasion rime avec préservation",
+  "bsTitle": "Quand l’évasion rime avec préservation",
+  "caption": "Plage de Vaï, Crète, Grèce",
+  "copyright": "Chaises longues sur la plage de Vaï, Crète, Grèce (© borchee/Getty Images)",
+  "copyrightOnly": "© borchee/Getty Images",
+  "copyrightLink": "/search?q=Cr%c3%a8te&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+  "description": "Sur la pointe nord‑est de la Crète, loin de l’agitation touristique, la plage de Vaï déroule son croissant de sable doré, ses eaux turquoise et ses rangées de parasols qui invitent à la détente. Derrière ce décor se cache pourtant un trésor unique en Europe : la plus grande palmeraie de palmiers dattiers du continent, avec plus de 5\u202F000 Phoenix theophrasti, une espèce endémique. Selon la légende, cette oasis serait née des noyaux jetés par des pirates arabes ou des soldats égyptiens.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+  "hash": "6ca5b1b0141cdfb1a34af72bb4b578b4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260716",
+    "fullStartDateTime": "202607162200",
+    "endDate": "20260717"
+  },
+  "createdAt": "202607170355",
+  "originalUrlBase": "/th?id=OHR.VaiUmbrellas_FR-FR3414218342"
+}

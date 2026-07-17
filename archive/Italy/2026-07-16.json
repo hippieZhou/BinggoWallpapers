@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Hellas e Geometria",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ombrelloni blu su una spiaggia sabbiosa a Vai, Creta, Grecia (© borchee/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=L%27isola+Creta+Grecia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_VaiUmbrellas%22&FORM=HPQUIZ",
+  "hash": "a496b9aaf9660f3ebad5b273d93722f2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_IT-IT8454370780_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260716",
+    "fullStartDateTime": "202607162200",
+    "endDate": "20260717"
+  },
+  "createdAt": "202607170355",
+  "originalUrlBase": "/th?id=OHR.VaiUmbrellas_IT-IT8454370780"
+}

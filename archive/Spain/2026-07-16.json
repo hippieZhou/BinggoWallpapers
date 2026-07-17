@@ -1,0 +1,43 @@
+{
+  "date": "17 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un universo por descubrir",
+  "bsTitle": "Un universo por descubrir",
+  "caption": "Observatorio Astronómico de Izaña, Tenerife, España",
+  "copyright": "Vía Láctea y meteoros de las Perseidas sobre el Teide, Observatorio Astronómico de Izaña, Tenerife, Islas Canarias (© Westend61/Getty Images)",
+  "copyrightOnly": "© Westend61/Getty Images",
+  "copyrightLink": "/search?q=Observatorio+Astron%c3%b3mico+de+Izana+Tenerife&form=hpcapt&filters=HpDate%3a%2220260716_2200%22",
+  "description": "En el Observatorio Astronómico de Izaña, en Tenerife, España, la Vía Láctea y los meteoros de las Perseidas dibujan un espectáculo que transforma la noche en un escenario vivo. Sobre el Teide, el cielo se muestra con una claridad excepcional gracias a la altitud y la pureza del aire, convirtiendo este lugar en uno de los mejores puntos de observación del mundo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_PerseidasTenerife%22&FORM=HPQUIZ",
+  "hash": "02e0d4538425125ee741cb50ed2c82e3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ES-ES7757979261_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260716",
+    "fullStartDateTime": "202607162200",
+    "endDate": "20260717"
+  },
+  "createdAt": "202607170355",
+  "originalUrlBase": "/th?id=OHR.PerseidasTenerife_ES-ES7757979261"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "July 16, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Navy Pier, Chicago, Illinois, United States",
+  "copyright": "Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)",
+  "copyrightOnly": "© Christopher.F Photography/Getty Images",
+  "copyrightLink": "/search?q=Navy+Pier+Chicago&form=hpcapt&filters=HpDate%3a%2220260716_0700%22",
+  "description": "Some places are built for a single purpose; others keep reinventing themselves. Navy Pier in Chicago, Illinois, United States, falls into the second category. The structure stretches more than 915 metres into the lake and was designed as part of Edward H. Bennett's and Daniel Burnham's 1909 Plan of Chicago. Opened in 1916, the pier was built for shipping, recreation and passenger travel on Lake Michigan. It was renamed Navy Pier in honour of World War I naval veterans.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260716_NavyPier%22&FORM=HPQUIZ",
+  "hash": "7737477015ed408722e2fa4ba4f61091",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260716",
+    "fullStartDateTime": "202607160700",
+    "endDate": "20260717"
+  },
+  "createdAt": "202607170355",
+  "originalUrlBase": "/th?id=OHR.NavyPier_ROW3320288892"
+}
