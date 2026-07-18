@@ -1,0 +1,43 @@
+{
+  "date": "Jul 17, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "The breadbasket of Canada",
+  "bsTitle": "The breadbasket of Canada",
+  "caption": "Agriculture in Saskatchewan",
+  "copyright": "A prairie storm gathers over grain silos in Saskatchewan (© mysticenergy/Getty Images)",
+  "copyrightOnly": "© mysticenergy/Getty Images",
+  "copyrightLink": "/search?q=Saskatchewan&form=hpcapt&filters=HpDate%3a%2220260717_0400%22",
+  "description": "Picture a farmer watching dark clouds build over the Saskatchewan plains. The crops have already been harvested, but the weather still matters. Where does the grain go next? Often, into grain elevators and storage bins beside fields and railway lines, where it stays protected from rain, moisture and the powerful prairie storms that can arrive with little warning. These storage structures have supported Saskatchewan agriculture for generations, helping to preserve grain quality until it is ready for transport or sale. This is one reason the province has earned the nickname 'Canada's breadbasket.'",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_GrainSilosSK%22&FORM=HPQUIZ",
+  "hash": "c72a3c3df06c15b664fc27b97e3bf517",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260717",
+    "fullStartDateTime": "202607170400",
+    "endDate": "20260718"
+  },
+  "createdAt": "202607180348",
+  "originalUrlBase": "/th?id=OHR.GrainSilosSK_EN-CA7421778186"
+}

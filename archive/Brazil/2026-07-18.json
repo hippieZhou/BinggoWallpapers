@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A arte de fechar o círculo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ponte do Diabo no Parque dos Rododendros de Kromlau, Saxônia, Alemanha (© Mike Mareen/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Ponte+do+Diabo+Rakotzbr%c3%bccke&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_DevilsBridge%22&FORM=HPQUIZ",
+  "hash": "52e0916bc1039b38f1d0c5012e347d62",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_PT-BR5443302606_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_PT-BR5443302606_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_PT-BR5443302606_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_PT-BR5443302606_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260718",
+    "fullStartDateTime": "202607180300",
+    "endDate": "20260719"
+  },
+  "createdAt": "202607180348",
+  "originalUrlBase": "/th?id=OHR.DevilsBridge_PT-BR5443302606"
+}

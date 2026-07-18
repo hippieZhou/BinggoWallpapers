@@ -1,0 +1,43 @@
+{
+  "date": "18 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Entre dos mundos",
+  "bsTitle": "Entre dos mundos",
+  "caption": "Rhododendronpark Kromlau, Sajonia, Alemania",
+  "copyright": "Puente Rakotzbrücke en Rhododendronpark Kromlau, Sajonia, Alemania (© Mike Mareen/Getty Images)",
+  "copyrightOnly": "© Mike Mareen/Getty Images",
+  "copyrightLink": "/search?q=Puente+del+diablo+Rhododendronpark+Kromlau&form=hpcapt&filters=HpDate%3a%2220260717_2200%22",
+  "description": "En el Rakotzbrücke (Puente del Diablo), en Sajonia, Alemania, piedra y reflejo se funden hasta crear un círculo casi perfecto sobre el agua. Construido en 1860 con basalto local, su arco fue diseñado con tal precisión que, en calma absoluta, su silueta y su reflejo forman una figura continua de sorprendente armonía visual.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_DevilsBridge%22&FORM=HPQUIZ",
+  "hash": "3547a9b7a49a9353a18752a26932808d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DevilsBridge_ES-ES8242183956_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260717",
+    "fullStartDateTime": "202607172200",
+    "endDate": "20260718"
+  },
+  "createdAt": "202607180348",
+  "originalUrlBase": "/th?id=OHR.DevilsBridge_ES-ES8242183956"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jul 17, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A Greek escape",
+  "bsTitle": "A Greek escape",
+  "caption": "Vai, Crete, Greece",
+  "copyright": "Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)",
+  "copyrightOnly": "© borchee/Getty Images",
+  "copyrightLink": "/search?q=Crete+Greece&form=hpcapt&filters=HpDate%3a%2220260717_0700%22",
+  "description": "On the remote northeastern tip of the island of Crete in Greece lies Vai—a quiet corner far from the usual tourist trail. At the heart of this region is its beach, a broad curve of golden sand kissed by the calm, shallow waters of the Aegean. With sunbeds, umbrellas, and showers, it's an ideal spot for swimming, relaxing, or simply soaking in the peaceful atmosphere. But what truly sets Vai apart lies just behind the sand: Europe's largest natural palm grove. It is made up of over 5,000 Cretan date palm trees, a species unique to Crete and parts of Türkiye.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260717_VaiUmbrellas%22&FORM=HPQUIZ",
+  "hash": "6650bf41fb3dfbac9b3f76fc00d1b8c3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260717",
+    "fullStartDateTime": "202607170700",
+    "endDate": "20260718"
+  },
+  "createdAt": "202607180348",
+  "originalUrlBase": "/th?id=OHR.VaiUmbrellas_EN-US8985051242"
+}
