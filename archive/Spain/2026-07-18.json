@@ -1,0 +1,43 @@
+{
+  "date": "19 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Reposando el aleteo",
+  "bsTitle": "Reposando el aleteo",
+  "caption": "Golondrinas descansando juntas",
+  "copyright": "Golondrinas descansando juntas (© Oscar Dominguez/Tandem Stills + Motion)",
+  "copyrightOnly": "© Oscar Dominguez/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Golondrinas&form=hpcapt&filters=HpDate%3a%2220260718_2200%22",
+  "description": "En estas golondrinas comunes, posadas sobre juncos en algún humedal de Europa, la quietud resulta casi sorprendente en aves hechas para el vuelo constante. Reconocibles por sus colas ahorquilladas y su agilidad en el aire, pasan la mayor parte de su vida cazando insectos mientras surcan el cielo, en un equilibrio perfecto entre velocidad y precisión.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+  "hash": "3cdb114a81ee76be038bfd7abc300507",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ES-ES1865458756_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ES-ES1865458756_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ES-ES1865458756_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ES-ES1865458756_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260718",
+    "fullStartDateTime": "202607182200",
+    "endDate": "20260719"
+  },
+  "createdAt": "202607190417",
+  "originalUrlBase": "/th?id=OHR.HirundoRustica_ES-ES1865458756"
+}

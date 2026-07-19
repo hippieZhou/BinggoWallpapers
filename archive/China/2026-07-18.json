@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "敛羽栖时",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%ae%b6%e7%87%95&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260718_HirundoRustica%22&FORM=HPQUIZ",
+  "hash": "ef758ac23a9da9f9c491b1830a271c16",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260718",
+    "fullStartDateTime": "202607181600",
+    "endDate": "20260719"
+  },
+  "createdAt": "202607190417",
+  "originalUrlBase": "/th?id=OHR.HirundoRustica_ZH-CN2798518247"
+}
