@@ -1,0 +1,43 @@
+{
+  "date": "Jul 20, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "The lunar perspective",
+  "bsTitle": "The lunar perspective",
+  "caption": "International Moon Day",
+  "copyright": "Moon and Earth captured by the Artemis II crew (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=International+Moon+Day&form=hpcapt&filters=HpDate%3a%2220260719_2300%22",
+  "description": "From the moon's cratered surface, Earth appears as a thin, glowing crescent against the darkness—a rare view that reverses our usual perspective. This stark landscape, shaped by billions of years of impacts, preserves a record of the early solar system. 20 July marks International Moon Day, commemorating the 1969 Apollo 11 landing, when humans first set foot on the lunar surface. Established by the United Nations in 2021, the day highlights past achievements and ongoing efforts to explore the moon.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+  "hash": "c302665d2765908e2e4fef1e4124aec5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_EN-GB4404068677_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260719",
+    "fullStartDateTime": "202607192300",
+    "endDate": "20260720"
+  },
+  "createdAt": "202607200431",
+  "originalUrlBase": "/th?id=OHR.Artemis_EN-GB4404068677"
+}

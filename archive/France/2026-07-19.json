@@ -1,0 +1,43 @@
+{
+  "date": "20 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une perspective lunaire",
+  "bsTitle": "Une perspective lunaire",
+  "caption": "Journée internationale de la Lune",
+  "copyright": "La Lune et la Terre capturées par l'équipage d'Artemis II (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+de+la+Lune&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+  "description": "Depuis la surface lunaire criblée de cratères, la Terre apparaît comme un fin croissant lumineux suspendu dans l’obscurité, une vision rare qui renverse notre perspective habituelle. Ce décor austère, sculpté par des milliards d’années d’impacts, conserve la mémoire des origines du système solaire.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+  "hash": "2acfee183cbc0c5c27e5904e1951c67d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260719",
+    "fullStartDateTime": "202607192200",
+    "endDate": "20260720"
+  },
+  "createdAt": "202607200431",
+  "originalUrlBase": "/th?id=OHR.Artemis_FR-FR5561744161"
+}

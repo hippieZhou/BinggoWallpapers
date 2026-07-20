@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A distância que nos aproxima",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lua e Terra fotografadas pela tripulação da missão Artemis II (© NASA)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+Internacional+da+Lua&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260720_Artemis%22&FORM=HPQUIZ",
+  "hash": "ac92937440fa640cb300a01a265e3ae0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_PT-BR6100754238_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_PT-BR6100754238_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_PT-BR6100754238_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_PT-BR6100754238_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260720",
+    "fullStartDateTime": "202607200300",
+    "endDate": "20260721"
+  },
+  "createdAt": "202607200431",
+  "originalUrlBase": "/th?id=OHR.Artemis_PT-BR6100754238"
+}

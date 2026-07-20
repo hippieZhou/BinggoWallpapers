@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 7月 月 20 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は国際月の日",
+  "bsTitle": "今日は国際月の日",
+  "caption": "今日は国際月の日",
+  "copyright": "月から見た地球 (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=%e5%9b%bd%e9%9a%9b%e6%9c%88%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260719_1500%22",
+  "description": "今日、7 月 20 日は「国際月の日」。1969 年にアポロ 11 号の乗組員が、人類初の月面着陸を行った日です。2021 年に国連総会の決議により採択されたもので、月探査のこれまでの成果や、将来の探査・国際協力に向けた取り組みへの理解を深める日です。そして、今日の画像は月から眺めた地球。クレーターに覆われた月から見ることで、逆に地球が「三日月」のように見えています。月のこの荒涼とした風景は、数十億年にわたる隕石の衝突によって形づくられたもので、人類が誕生する以前からの太陽系の歴史を今に伝えています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+  "hash": "963aeddc07d487ce5f42775e237b3a9d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260719",
+    "fullStartDateTime": "202607191500",
+    "endDate": "20260720"
+  },
+  "createdAt": "202607200431",
+  "originalUrlBase": "/th?id=OHR.Artemis_JA-JP1736021856"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Jul 19, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Wings at rest",
+  "bsTitle": "Wings at rest",
+  "caption": "Barn swallows of different subspecies resting together",
+  "copyright": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)",
+  "copyrightOnly": "© Oscar Dominguez/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=barn+swallow&form=hpcapt&filters=HpDate%3a%2220260719_0700%22",
+  "description": "Perched on slender reeds, a group of barn swallows gathers in a moment of stillness that contrasts with their usual speed. Known for swift, acrobatic flight and deeply forked tails, these birds are built for life on the wing. They catch insects midair and travel vast distances between continents. Subtle variations in color and markings suggest that more than one subspecies may be present, reflecting the barn swallow's extensive global range.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_HirundoRustica%22&FORM=HPQUIZ",
+  "hash": "e7d3575b6ea4688bc7c7e6275f88f2a6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260719",
+    "fullStartDateTime": "202607190700",
+    "endDate": "20260720"
+  },
+  "createdAt": "202607200431",
+  "originalUrlBase": "/th?id=OHR.HirundoRustica_EN-US3193611104"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "20. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Aus der Perspektive des Mondes",
+  "bsTitle": "Aus der Perspektive des Mondes",
+  "caption": "Internationaler Tag des Mondes",
+  "copyright": "Mond und Erde, aufgenommen von der Artemis-II-Crew (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=Internationaler+Tag+des+Mondes&form=hpcapt&filters=HpDate%3a%2220260719_2200%22",
+  "description": "Ein Blick vom Mond aus eröffnet eine ungewohnte Perspektive: Die Erde erscheint dort lediglich als schmale, leuchtende Sichel vor dem dunklen Hintergrund des Alls. Die von Kratern übersäte Mondoberfläche ist das Ergebnis von Milliarden Jahren kosmischer Einschläge und bewahrt Spuren aus der Frühzeit des Sonnensystems. Am 20. Juli wird der Internationale Mondtag begangen. Er erinnert an die Apollo-11-Landung von 1969, als erstmals Menschen den Mond betraten. Die Vereinten Nationen führten den Gedenktag 2021 ein, um sowohl historische Errungenschaften als auch die fortlaufende Erforschung des Mondes in den Fokus zu rücken.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260719_Artemis%22&FORM=HPQUIZ",
+  "hash": "38cebf1f767bea0003e76fa23958ac5b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260719",
+    "fullStartDateTime": "202607192200",
+    "endDate": "20260720"
+  },
+  "createdAt": "202607200431",
+  "originalUrlBase": "/th?id=OHR.Artemis_DE-DE7510070152"
+}
