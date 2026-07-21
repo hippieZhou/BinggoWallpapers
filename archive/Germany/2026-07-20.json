@@ -1,0 +1,43 @@
+{
+  "date": "21. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Offenbar gut verborgen",
+  "bsTitle": "Offenbar gut verborgen",
+  "caption": "Arco de Santa Catalina in Antigua, Guatemala",
+  "copyright": "Arco de Santa Catalina in Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+  "copyrightOnly": "© Filippo Maria Bianchi/Getty Images",
+  "copyrightLink": "/search?q=Arco+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
+  "description": "Der Arco de Santa Catalina in Antigua in Guatemala gehört zu den bekanntesten Motiven Mittelamerikas und wirkt zugleich still und präsent im Stadtbild. Bei Sonnenaufgang leuchtet seine gelbe Fassade über den Kopfsteinpflastern und lenkt den Blick entlang der Straße bis zum Vulkan Agua am Horizont. Ursprünglich im 17. Jahrhundert errichtet, diente der Bogen einem ganz praktischen Zweck. Ordensfrauen konnten zwischen zwei Klostergebäuden wechseln, ohne von außen gesehen zu werden. Aus einer Lösung für Abgeschiedenheit entstand so ein Wahrzeichen von großer Anziehungskraft.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260720_SantaCatalina%22&FORM=HPQUIZ",
+  "hash": "09007268ed0adcb82219b10303e9acef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_DE-DE7681660306_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_DE-DE7681660306_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_DE-DE7681660306_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_DE-DE7681660306_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260720",
+    "fullStartDateTime": "202607202200",
+    "endDate": "20260721"
+  },
+  "createdAt": "202607210410",
+  "originalUrlBase": "/th?id=OHR.SantaCatalina_DE-DE7681660306"
+}

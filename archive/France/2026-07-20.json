@@ -1,0 +1,43 @@
+{
+  "date": "21 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’arche qui cache",
+  "bsTitle": "L’arche qui cache",
+  "caption": "Santa Catalina Arch, Antigua, Guatemala",
+  "copyright": "Arche de Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+  "copyrightOnly": "© Filippo Maria Bianchi/Getty Images",
+  "copyrightLink": "/search?q=Arche+de+Santa+Catalina+Guatemala&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
+  "description": "À Antigua, au Guatemala, l’arche de Santa Catalina se dresse au cœur des rues pavées, avec le volcan Agua en arrière‑plan. Au lever du soleil, sa façade jaune capte la lumière et contraste avec les pavés sombres qui s’étirent dans la perspective de la ville.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260720_SantaCatalina%22&FORM=HPQUIZ",
+  "hash": "20ff99cfb0faa1e27a515c443913d167",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_FR-FR5835984495_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_FR-FR5835984495_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_FR-FR5835984495_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_FR-FR5835984495_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260720",
+    "fullStartDateTime": "202607202200",
+    "endDate": "20260721"
+  },
+  "createdAt": "202607210410",
+  "originalUrlBase": "/th?id=OHR.SantaCatalina_FR-FR5835984495"
+}

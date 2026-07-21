@@ -1,0 +1,43 @@
+{
+  "date": "21 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Arena, sol y gambas",
+  "bsTitle": "Arena, sol y gambas",
+  "caption": "Isla Cristina en Huelva, Andalucía, España",
+  "copyright": "Vista aérea de Isla Cristina en Huelva, Andalucía, España (© MEDITERRANEAN/Getty Images)",
+  "copyrightOnly": "© MEDITERRANEAN/Getty Images",
+  "copyrightLink": "/search?q=Isla+Cristina+Huelva&form=hpcapt&filters=HpDate%3a%2220260720_2200%22",
+  "description": "En Isla Cristina, en Huelva, España, el Atlántico dibuja una costa luminosa donde marismas, playas y tradición marinera marcan el ritmo de la vida. Desde el aire, sus extensas playas de arena fina y los canales que serpentean entre las salinas recuerdan la estrecha relación entre el paisaje y la pesca, una actividad que define la identidad local.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260720_IslaCristina%22&FORM=HPQUIZ",
+  "hash": "9c64648d1d72b1063987a8e5d9ed23d8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ES-ES8480409312_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ES-ES8480409312_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ES-ES8480409312_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ES-ES8480409312_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260720",
+    "fullStartDateTime": "202607202200",
+    "endDate": "20260721"
+  },
+  "createdAt": "202607210410",
+  "originalUrlBase": "/th?id=OHR.IslaCristina_ES-ES8480409312"
+}

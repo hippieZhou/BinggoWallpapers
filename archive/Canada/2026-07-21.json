@@ -1,0 +1,43 @@
+{
+  "date": "Jul 21, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Hidden in plain arch",
+  "bsTitle": "Hidden in plain arch",
+  "caption": "Santa Catalina Arch, Antigua, Guatemala",
+  "copyright": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+  "copyrightOnly": "© Filippo Maria Bianchi/Getty Images",
+  "copyrightLink": "/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt&filters=HpDate%3a%2220260721_0400%22",
+  "description": "Some structures weren't meant to stand out—but time had other ideas. At sunrise, the Santa Catalina Arch glows over the streets of Antigua, Guatemala, its yellow façade catching the light just right as cobblestones stretch ahead and Agua Volcano rises in the distance. The arch was built in the 17th century to solve a practical problem: cloistered nuns needed to cross between convent buildings without being seen from the street. Privacy, not postcards, created one of Central America's most photographed landmarks. Irony holds up well over time.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_SantaCatalina%22&FORM=HPQUIZ",
+  "hash": "5d54a2d4b0b27ad944f0b7e6cc9668ca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-CA0068780262_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-CA0068780262_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-CA0068780262_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-CA0068780262_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260721",
+    "fullStartDateTime": "202607210400",
+    "endDate": "20260722"
+  },
+  "createdAt": "202607210410",
+  "originalUrlBase": "/th?id=OHR.SantaCatalina_EN-CA0068780262"
+}
