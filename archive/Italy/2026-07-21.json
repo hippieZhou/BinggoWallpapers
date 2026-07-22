@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Piccola impronta, grande impatto",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Barriera corallina e spiaggia a Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Raja+Ampat+Indonesia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_CoralAwareness%22&FORM=HPQUIZ",
+  "hash": "55600cfe0126dd02aa2acee92b5dd778",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_IT-IT9276048724_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_IT-IT9276048724_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_IT-IT9276048724_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_IT-IT9276048724_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260721",
+    "fullStartDateTime": "202607212200",
+    "endDate": "20260722"
+  },
+  "createdAt": "202607220411",
+  "originalUrlBase": "/th?id=OHR.CoralAwareness_IT-IT9276048724"
+}

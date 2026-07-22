@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Cidades que respiram sob as ondas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Recife de coral e praia em Raja Ampat, Indonésia (© SergeUWPhoto/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=recife+de+coral&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_CoralAwareness%22&FORM=HPQUIZ",
+  "hash": "1c585fa3c8de6253070b3b81b4a3bb9e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_PT-BR7463277144_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_PT-BR7463277144_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_PT-BR7463277144_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_PT-BR7463277144_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260722",
+    "fullStartDateTime": "202607220300",
+    "endDate": "20260723"
+  },
+  "createdAt": "202607220411",
+  "originalUrlBase": "/th?id=OHR.CoralAwareness_PT-BR7463277144"
+}

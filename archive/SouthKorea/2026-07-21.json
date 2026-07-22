@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Santa+Catalina+Arch+Guatemala&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260721_SantaCatalina%22&FORM=HPQUIZ",
+  "hash": "86ddb5aad87279ad03673b719ae5d21d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ROW4470617746_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ROW4470617746_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ROW4470617746_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ROW4470617746_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260721",
+    "fullStartDateTime": "202607210700",
+    "endDate": "20260722"
+  },
+  "createdAt": "202607220411",
+  "originalUrlBase": "/th?id=OHR.SantaCatalina_ROW4470617746"
+}

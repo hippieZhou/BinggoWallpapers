@@ -1,0 +1,43 @@
+{
+  "date": "Jul 22, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Small footprint, big impact",
+  "bsTitle": "Small footprint, big impact",
+  "caption": "Coral Reef Awareness Week",
+  "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)",
+  "copyrightOnly": "© SergeUWPhoto/Shutterstock",
+  "copyrightLink": "/search?q=Coral+Reef+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220260722_0400%22",
+  "description": "Imagine a city built by animals, glowing in the sunlight and bustling with life beneath the waves. That is a coral reef. During Coral Reef Awareness Week, we celebrate these remarkable ecosystems and the countless species that depend on them.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_CoralAwareness%22&FORM=HPQUIZ",
+  "hash": "5d7adfa9720dd877cdf13d737d4b7552",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-CA0311926536_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260722",
+    "fullStartDateTime": "202607220400",
+    "endDate": "20260723"
+  },
+  "createdAt": "202607220411",
+  "originalUrlBase": "/th?id=OHR.CoralAwareness_EN-CA0311926536"
+}
