@@ -1,0 +1,43 @@
+{
+  "date": "23 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La symphonie des pétales",
+  "bsTitle": "La symphonie des pétales",
+  "caption": "Dahlia rose",
+  "copyright": "Dahlia rose (© Harald Biebel/Getty Images)",
+  "copyrightOnly": "© Harald Biebel/Getty Images",
+  "copyrightLink": "/search?q=Dahlia+plante&form=hpcapt&filters=HpDate%3a%2220260722_2200%22",
+  "description": "Dans un jardin d’été, le dahlia rose capte aussitôt le regard. Originaire du Mexique, cette fleur de la famille des astéracées impose sa présence avec ses pétales ordonnés et ses formes presque infinies. Des variétés miniatures aux fleurs dépassant parfois trente centimètres, le dahlia doit cette diversité à une particularité génétique rare\u202F: il possède huit jeux de chromosomes, d’où la richesse de ses couleurs et de ses silhouettes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+  "hash": "c309e7bcf6921a73af327250f98a3b46",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_FR-FR6134462708_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260722",
+    "fullStartDateTime": "202607222200",
+    "endDate": "20260723"
+  },
+  "createdAt": "202607230409",
+  "originalUrlBase": "/th?id=OHR.PinkDahlia_FR-FR6134462708"
+}

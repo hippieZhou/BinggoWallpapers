@@ -1,0 +1,43 @@
+{
+  "date": "23 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una sinfonía de pétalos",
+  "bsTitle": "Una sinfonía de pétalos",
+  "caption": "Flor de dalia rosa",
+  "copyright": "Flor de dalia rosa (© Harald Biebel/Getty Images)",
+  "copyrightOnly": "© Harald Biebel/Getty Images",
+  "copyrightLink": "/search?q=Flor+de+dalia+rosa&form=hpcapt&filters=HpDate%3a%2220260722_2200%22",
+  "description": "En las dalias, originarias de México, cada flor parece ocupar el centro del escenario con una presencia inconfundible. Con más de 57.000 variedades cultivadas, estas plantas destacan por su asombrosa diversidad de formas y tamaños, con flores que pueden alcanzar unos 35 centímetros de diámetro y una paleta de colores intensa y vibrante.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+  "hash": "cef32c19aa8b897bf8fd1387f7957d33",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ES-ES2391047367_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260722",
+    "fullStartDateTime": "202607222200",
+    "endDate": "20260723"
+  },
+  "createdAt": "202607230409",
+  "originalUrlBase": "/th?id=OHR.PinkDahlia_ES-ES2391047367"
+}

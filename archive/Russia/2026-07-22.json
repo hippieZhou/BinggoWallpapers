@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Auray+Saint-Goustan+France&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_AurayBrittany%22&FORM=HPQUIZ",
+  "hash": "afba8fad04a040c2d692ffa5c4f5af59",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260722",
+    "fullStartDateTime": "202607220700",
+    "endDate": "20260723"
+  },
+  "createdAt": "202607230409",
+  "originalUrlBase": "/th?id=OHR.AurayBrittany_ROW4728433531"
+}

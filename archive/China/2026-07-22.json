@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "瓣叠交响",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "粉红色大丽花 (© Harald Biebel/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a4%a7%e4%b8%bd%e8%8a%b1%e5%b1%9e%e6%a4%8d%e7%89%a9&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+  "hash": "b681a287ffe2ec9c04f9519765a33c33",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260722",
+    "fullStartDateTime": "202607221600",
+    "endDate": "20260723"
+  },
+  "createdAt": "202607230409",
+  "originalUrlBase": "/th?id=OHR.PinkDahlia_ZH-CN2259107800"
+}

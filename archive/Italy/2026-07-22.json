@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Una sinfonia di petali",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Fiore di Dalia rosa (© Harald Biebel/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=dalia+fiore&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260722_PinkDahlia%22&FORM=HPQUIZ",
+  "hash": "7a2eba5d0d8f0a3587bbdab196e94722",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_IT-IT4710141441_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_IT-IT4710141441_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_IT-IT4710141441_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_IT-IT4710141441_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260722",
+    "fullStartDateTime": "202607222200",
+    "endDate": "20260723"
+  },
+  "createdAt": "202607230409",
+  "originalUrlBase": "/th?id=OHR.PinkDahlia_IT-IT4710141441"
+}
