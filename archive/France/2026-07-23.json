@@ -1,0 +1,43 @@
+{
+  "date": "24 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Ça flame rose",
+  "bsTitle": "Ça flame rose",
+  "caption": "Flamboyance de flamants roses",
+  "copyright": "Flamboyance de flamants des Caraïbes, île Isabela, îles Galápagos, Équateur (© Tui De Roy/Nature Picture Library)",
+  "copyrightOnly": "© Tui De Roy/Nature Picture Library",
+  "copyrightLink": "/search?q=Flamant+des+Cara%c3%afbes&form=hpcapt&filters=HpDate%3a%2220260723_2200%22",
+  "description": "La langue française réserve parfois ses plus belles trouvailles aux assemblées d’animaux. Sur l’île Isabela, dans l’archipel des Galápagos, en Équateur, les lagunes saumâtres accueillent ainsi une « flamboyance » de flamants roses des Caraïbes — terme aussi vif que leur plumage, teinté de corail par les crevettes et algues qu’ils filtrent dans la boue tiède.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_GalapagosFlamingos%22&FORM=HPQUIZ",
+  "hash": "2a3d6364d1467c9d5642bf3c93c640c9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_FR-FR0682662624_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260723",
+    "fullStartDateTime": "202607232200",
+    "endDate": "20260724"
+  },
+  "createdAt": "202607240408",
+  "originalUrlBase": "/th?id=OHR.GalapagosFlamingos_FR-FR0682662624"
+}

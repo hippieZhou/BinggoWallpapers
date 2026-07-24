@@ -1,0 +1,43 @@
+{
+  "date": "Jul 23, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A symphony of petals",
+  "bsTitle": "A symphony of petals",
+  "caption": "Pink dahlia flower",
+  "copyright": "Pink dahlia flower (© Harald Biebel/Getty Images)",
+  "copyrightOnly": "© Harald Biebel/Getty Images",
+  "copyrightLink": "/search?q=Dahlia+genus+plant&form=hpcapt&filters=HpDate%3a%2220260723_0700%22",
+  "description": "Some flowers quietly fill a garden. Dahlias arrive as if they have been cast in the lead role. Native to Mexico, these members of the daisy family come in more than 57,000 cultivated varieties, thanks in part to their unusual genetics. Dahlias are octoploids, meaning they have eight sets of chromosomes, which helps create blooms that range from tiny buttons to 14 inches across.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_PinkDahlia%22&FORM=HPQUIZ",
+  "hash": "318d4c64551cc89f13789130dd4766ae",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260723",
+    "fullStartDateTime": "202607230700",
+    "endDate": "20260724"
+  },
+  "createdAt": "202607240408",
+  "originalUrlBase": "/th?id=OHR.PinkDahlia_EN-US1957205704"
+}

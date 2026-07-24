@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "缤纷多彩的一家人",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%be%8e%e6%b4%b2%e7%ba%a2%e9%b9%b3&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260723_GalapagosFlamingos%22&FORM=HPQUIZ",
+  "hash": "5a32ad74ca0aeb6982ba6bf3ccdfaae3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260723",
+    "fullStartDateTime": "202607231600",
+    "endDate": "20260724"
+  },
+  "createdAt": "202607240408",
+  "originalUrlBase": "/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387"
+}
