@@ -1,0 +1,43 @@
+{
+  "date": "9 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La vie sur la côte sud de l’Inde",
+  "bsTitle": "La vie sur la côte sud de l’Inde",
+  "caption": "Plage de Gabit Keni près d’Ankola, Karnataka, Inde",
+  "copyright": "Plage de Gabit Keni près d’Ankola, Karnataka, Inde (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Getty Images",
+  "copyrightLink": "/search?q=Karnataka+Inde&form=hpcapt&filters=HpDate%3a%2220260908_2200%22",
+  "description": "Quand on évoque le sud de l’Inde, viennent souvent à l’esprit les anciennes routes des épices, les mélodies de la musique carnatique et les rivages qui ont relié le sous-continent au monde pendant des siècles. En suivant la côte occidentale du Karnataka jusqu’aux environs d’Ankola, un lieu attire les voyageurs en quête d’authenticité : la plage de Gabit Keni. Ici, le rythme de la vie est dicté par la mer d’Arabie. Avant l’aube, les bateaux de pêche quittent le rivage, perpétuant un savoir-faire profondément enraciné dans le paysage côtier.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+  "hash": "78ff9d6fbb90455cf56892a9b40259f0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260908",
+    "fullStartDateTime": "202609082200",
+    "endDate": "20260909"
+  },
+  "createdAt": "202609090536",
+  "originalUrlBase": "/th?id=OHR.GabitKeni_FR-FR5031931256"
+}

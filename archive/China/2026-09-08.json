@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "印度西海岸的生活",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%8d%b0%e5%ba%a6%e5%8d%a1%e7%ba%b3%e5%a1%94%e5%85%8b%e9%82%a6%e5%ae%89%e7%a7%91%e6%8b%89&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260908_GabitKeni%22&FORM=HPQUIZ",
+  "hash": "37e5ee2d15a851deffffc80576d12412",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260908",
+    "fullStartDateTime": "202609081600",
+    "endDate": "20260909"
+  },
+  "createdAt": "202609090536",
+  "originalUrlBase": "/th?id=OHR.GabitKeni_ZH-CN2314122948"
+}
