@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland, Canada (© mlorenzphotography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Atlantic+puffin&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_PurplePuffin%22&FORM=HPQUIZ",
+  "hash": "ee82267e6e128ddd14558949261a6799",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260909",
+    "fullStartDateTime": "202609090700",
+    "endDate": "20260910"
+  },
+  "createdAt": "202609100527",
+  "originalUrlBase": "/th?id=OHR.PurplePuffin_ROW7550028597"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Sep 10, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Plot twist pending",
+  "bsTitle": "Plot twist pending",
+  "caption": "51st Toronto International Film Festival",
+  "copyright": "The Roy Thomson Hall, Toronto, Ontario (© eskystudio/Shutterstock)",
+  "copyrightOnly": "© eskystudio/Shutterstock",
+  "copyrightLink": "/search?q=Toronto+International+Film+Festival+2026&form=hpcapt&filters=HpDate%3a%2220260910_0400%22",
+  "description": "Ready for eleven days of movie mania? TIFF starts today, and Toronto is slipping into festival mode: coffee in one hand, screening schedule in the other. The event began in 1976 as the Festival of Festivals, giving Canadian audiences access to standout films from around the world. Fifty-one editions later, Roy Thomson Hall, along with other venues, is once again welcoming premieres, filmmakers and crowds hoping to catch the next big conversation before everyone else does.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_TIFFRoy%22&FORM=HPQUIZ",
+  "hash": "13dde1ba8184650fe93131857cc20ed0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260910",
+    "fullStartDateTime": "202609100400",
+    "endDate": "20260911"
+  },
+  "createdAt": "202609100527",
+  "originalUrlBase": "/th?id=OHR.TIFFRoy_EN-CA6717935809"
+}

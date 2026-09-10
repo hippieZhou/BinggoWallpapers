@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "俯瞰大地拼图",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%ae%89%e8%be%be%e5%8d%a2%e8%a5%bf%e4%ba%9a%e5%a4%a7%e5%8c%ba%e5%a5%a5%e5%b0%94%e9%9f%a6%e6%8b%89&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_Olvera%22&FORM=HPQUIZ",
+  "hash": "4cafeb1bdbc558bf597c98b1996562dd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260909",
+    "fullStartDateTime": "202609091600",
+    "endDate": "20260910"
+  },
+  "createdAt": "202609100527",
+  "originalUrlBase": "/th?id=OHR.Olvera_ZH-CN2727093856"
+}

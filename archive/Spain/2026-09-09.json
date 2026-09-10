@@ -1,0 +1,43 @@
+{
+  "date": "10 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un mosaico andaluz",
+  "bsTitle": "Un mosaico andaluz",
+  "caption": "Vista aérea de Olvera, Cádiz, Andalucía, España",
+  "copyright": "Vista aérea de Olvera, Cádiz, Andalucía, España (© Marco Bottigelli/Getty Images)",
+  "copyrightOnly": "© Marco Bottigelli/Getty Images",
+  "copyrightLink": "/search?q=Municipio+de+Olvera&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
+  "description": "Olvera, en la sierra de Cádiz (Andalucía), se ve desde muy lejos: un cerro de casas encaladas coronado por un castillo de origen musulmán y por la mole neoclásica de la iglesia de Nuestra Señora de la Encarnación. A 643 metros de altitud, este pueblo blanco fue durante siglos tierra de frontera, y ese pasado se cuenta en La Cilla, el antiguo granero de los duques de Osuna hoy convertido en centro cultural y museo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_Olvera%22&FORM=HPQUIZ",
+  "hash": "b2e9d33a11ed90fc9351035a60bc2a8c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ES-ES2719648293_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ES-ES2719648293_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ES-ES2719648293_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ES-ES2719648293_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260909",
+    "fullStartDateTime": "202609092200",
+    "endDate": "20260910"
+  },
+  "createdAt": "202609100527",
+  "originalUrlBase": "/th?id=OHR.Olvera_ES-ES2719648293"
+}

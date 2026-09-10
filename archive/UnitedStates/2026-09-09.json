@@ -1,0 +1,43 @@
+{
+  "date": "Sep 9, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Life on India's west coast",
+  "bsTitle": "Life on India's west coast",
+  "caption": "Gabit Keni Beach near Ankola, Karnataka, India",
+  "copyright": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Getty Images",
+  "copyrightLink": "/search?q=Ankola+Karnataka&form=hpcapt&filters=HpDate%3a%2220260909_0700%22",
+  "description": "When people think of South India, they often picture spice trade routes, classical music, folk dances, and a coastline that has connected India with the world for centuries. Follow that coastline west into Karnataka and you'll reach a quieter stop near Ankola: Gabit Keni Beach. Life here revolves around the Arabian Sea, with fishing boats setting out before dawn and returning with the day's catch.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_GabitKeni%22&FORM=HPQUIZ",
+  "hash": "7f05d29cbef06e50b147c97434bc273b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260909",
+    "fullStartDateTime": "202609090700",
+    "endDate": "20260910"
+  },
+  "createdAt": "202609100527",
+  "originalUrlBase": "/th?id=OHR.GabitKeni_EN-US4620523183"
+}

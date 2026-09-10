@@ -1,0 +1,43 @@
+{
+  "date": "10 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un patchwork vu du dessus",
+  "bsTitle": "Un patchwork vu du dessus",
+  "caption": "Vue aérienne d’Olvera, Andalousie, Espagne",
+  "copyright": "Vue aérienne d’Olvera, Andalousie, Espagne (© Marco Bottigelli/Getty Images)",
+  "copyrightOnly": "© Marco Bottigelli/Getty Images",
+  "copyrightLink": "/search?q=Olvera+Espagne&form=hpcapt&filters=HpDate%3a%2220260909_2200%22",
+  "description": "L’Andalousie est l’une des régions les plus emblématiques d’Espagne. Entre flamenco, tapas, héritage mauresque et vastes oliveraies, elle séduit par sa richesse culturelle. Au cœur de ce paysage se trouve Olvera, un village entouré de plus de deux millions d’oliviers, qui conserve les traces de plusieurs siècles d’histoire. Son château domine encore les hauteurs, tandis que l’église Notre-Dame de l’Incarnation marque l’horizon. Pour mieux comprendre le passé médiéval et les traditions locales, le centre culturel La Cilla constitue une étape incontournable.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_Olvera%22&FORM=HPQUIZ",
+  "hash": "3782b87923861e6347d894fb83810663",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260909",
+    "fullStartDateTime": "202609092200",
+    "endDate": "20260910"
+  },
+  "createdAt": "202609100527",
+  "originalUrlBase": "/th?id=OHR.Olvera_FR-FR2163620703"
+}

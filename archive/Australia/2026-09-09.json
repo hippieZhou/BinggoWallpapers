@@ -1,0 +1,43 @@
+{
+  "date": "Sept 9, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Atlantic puffin in Elliston, Newfoundland, Canada",
+  "copyright": "Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland, Canada (© mlorenzphotography/Getty Images)",
+  "copyrightOnly": "© mlorenzphotography/Getty Images",
+  "copyrightLink": "/search?q=Atlantic+puffin&form=hpcapt&filters=HpDate%3a%2220260909_0700%22",
+  "description": "As morning breaks over Elliston, a small seabird appears with a wild iris held across its bill. The scene looks almost like a gift, yet biologists say Atlantic puffins are not known to offer flowers to their mates during courtship. The colourful bill, which becomes brightest in the breeding season and fades later in the year, helps make the photograph memorable. Even their feet turn brighter.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260909_PurplePuffin%22&FORM=HPQUIZ",
+  "hash": "ee82267e6e128ddd14558949261a6799",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260909",
+    "fullStartDateTime": "202609090700",
+    "endDate": "20260910"
+  },
+  "createdAt": "202609100527",
+  "originalUrlBase": "/th?id=OHR.PurplePuffin_ROW7550028597"
+}
