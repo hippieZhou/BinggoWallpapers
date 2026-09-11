@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Olvera+Andalusia+Spain&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_Olvera%22&FORM=HPQUIZ",
+  "hash": "ae486117f8da21c62e17b14f049186c5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260910",
+    "fullStartDateTime": "202609100700",
+    "endDate": "20260911"
+  },
+  "createdAt": "202609110527",
+  "originalUrlBase": "/th?id=OHR.Olvera_ROW4122833130"
+}

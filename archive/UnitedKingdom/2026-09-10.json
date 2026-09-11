@@ -1,0 +1,43 @@
+{
+  "date": "Sept 11, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Where the Mediterranean reigns supreme",
+  "bsTitle": "Where the Mediterranean reigns supreme",
+  "caption": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+  "copyright": "The bay of Villefranche-sur-Mer, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France (© StockByM/Getty Images)",
+  "copyrightOnly": "© StockByM/Getty Images",
+  "copyrightLink": "/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2300%22",
+  "description": "In September, the French Riviera is bathed in softer light, and the Mediterranean vegetation begins to regain its vibrancy. Along the coast, rosemary, wild thyme and Aleppo pine scent the air, while sailboats drift across the sheltered waters of Villefranche-sur-Mer.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_FrenchRivieraVillage%22&FORM=HPQUIZ",
+  "hash": "f9ee63703672641c59afafed9f6f6fe1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260910",
+    "fullStartDateTime": "202609102300",
+    "endDate": "20260911"
+  },
+  "createdAt": "202609110527",
+  "originalUrlBase": "/th?id=OHR.FrenchRivieraVillage_EN-GB7299831823"
+}

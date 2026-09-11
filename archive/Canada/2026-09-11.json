@@ -1,0 +1,43 @@
+{
+  "date": "Sep 11, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Where the Mediterranean reigns supreme",
+  "bsTitle": "Where the Mediterranean reigns supreme",
+  "caption": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+  "copyright": "Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)",
+  "copyrightOnly": "© StockByM/Getty Images",
+  "copyrightLink": "/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260911_0400%22",
+  "description": "In September, the French Riviera is bathed in a softer light, and the Mediterranean landscape takes on fresher tones after the peak of summer. The hills are scented with Aleppo pine, rosemary and wild thyme. In the hinterland, centuries-old olive trees and hilltop villages tell a story shaped by Greek, Roman and Provençal influences.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_FrenchRivieraVillage%22&FORM=HPQUIZ",
+  "hash": "57ff5bb64c0e6c0520740340fa736405",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260911",
+    "fullStartDateTime": "202609110400",
+    "endDate": "20260912"
+  },
+  "createdAt": "202609110527",
+  "originalUrlBase": "/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252"
+}

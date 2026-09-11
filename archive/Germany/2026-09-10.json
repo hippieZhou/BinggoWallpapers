@@ -1,0 +1,43 @@
+{
+  "date": "11. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo das Mittelmeer regiert",
+  "bsTitle": "Wo das Mittelmeer regiert",
+  "caption": "Villefranche-sur-Mer, Côte d’Azur, Frankreich",
+  "copyright": "Villefranche-sur-Mer, Alpes-Maritimes, Côte d’Azur, Frankreich (© StockByM/Getty Images)",
+  "copyrightOnly": "© StockByM/Getty Images",
+  "copyrightLink": "/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260910_2200%22",
+  "description": "Im September zeigt sich die Côte d’Azur von ihrer ruhigeren Seite. Das Licht wirkt weicher, die Sommerhitze lässt nach, und die mediterrane Vegetation gewinnt neue Frische. Zwischen Pinien, Rosmarin und wildem Thymian entfaltet sich eine Landschaft, die seit Jahrhunderten vom Meer geprägt wird. In den Hügeln der Alpes Maritimes erinnern alte Olivenhaine und verstreute Dörfer an die lange Geschichte der Region, die von verschiedenen Kulturen und Traditionen beeinflusst wurde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_FrenchRivieraVillage%22&FORM=HPQUIZ",
+  "hash": "9da5b4d732f39d32e86f2d70946df0c6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260910",
+    "fullStartDateTime": "202609102200",
+    "endDate": "20260911"
+  },
+  "createdAt": "202609110527",
+  "originalUrlBase": "/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127"
+}

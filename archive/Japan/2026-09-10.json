@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 9月 月 11 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "美しい海辺の風景",
+  "bsTitle": "美しい海辺の風景",
+  "caption": "美しい海辺の風景",
+  "copyright": "ガビット・ケニ・ビーチ, インド (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Getty Images",
+  "copyrightLink": "/search?q=Gabit+Keni+%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260910_1500%22",
+  "description": "アンコラは、インド南西部カルナータカ州のウッタラ・カンナダ県にある海辺の町です。アラビア海に面しており、美しい自然のビーチが多数点在しています。今日の画像に写るガビット・ケニ・ビーチもそのひとつです。このビーチの名前は、地元の漁業コミュニティである「ガビット」に由来しており、ビーチとしてだけでなく、漁業が盛んな地域としても知られています。地元の飲食店では、新鮮な魚介を使った料理が人気です。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_GabitKeni%22&FORM=HPQUIZ",
+  "hash": "f6cb6fa04e0e41447d6c05455e5906f5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260910",
+    "fullStartDateTime": "202609101500",
+    "endDate": "20260911"
+  },
+  "createdAt": "202609110527",
+  "originalUrlBase": "/th?id=OHR.GabitKeni_JA-JP3823379916"
+}

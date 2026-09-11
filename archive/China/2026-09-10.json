@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "地中海风情尽显",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%bb%a8%e6%b5%b7%e8%87%aa%e7%94%b1%e5%9f%8e&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260910_FrenchRivieraVillage%22&FORM=HPQUIZ",
+  "hash": "7870e23785fa736c7fe2424fa3bdc743",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260910",
+    "fullStartDateTime": "202609101600",
+    "endDate": "20260911"
+  },
+  "createdAt": "202609110527",
+  "originalUrlBase": "/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422"
+}
