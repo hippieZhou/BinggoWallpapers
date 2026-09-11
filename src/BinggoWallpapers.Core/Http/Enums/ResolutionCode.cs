@@ -19,7 +19,7 @@ public enum ResolutionCode
     /// <summary>
     /// Full HD - 1920x1080
     /// </summary>
-    [ResolutionInfo("Full HD", "_1920x1080.jpg", 1920, 1080)]
+    [ResolutionInfo("FullHD", "_1920x1080.jpg", 1920, 1080)]
     FullHD,
 
     /// <summary>
@@ -33,4 +33,10 @@ public enum ResolutionCode
     /// </summary>
     [ResolutionInfo("UHD", "_UHD.jpg", 3840, 2160)]
     UHD4K,
+
+    /// <summary>
+    /// Mobile - 1080x1920
+    /// </summary>
+    [ResolutionInfo("Mobile", "_1080x1920.jpg", 1080, 1920)]
+    Mobile
 }
