@@ -1,0 +1,48 @@
+{
+  "date": "Sep 11, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A legacy of heroism",
+  "bsTitle": "A legacy of heroism",
+  "caption": "25th anniversary of September 11, 2001",
+  "copyright": "The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)",
+  "copyrightOnly": "© Maurice Savage/Alamy",
+  "copyrightLink": "/search?q=9+11+anniversary+2026&form=hpcapt&filters=HpDate%3a%2220260911_0700%22",
+  "description": "Some journeys never reach their destination yet change the course of history. The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania, tells the story of one such flight. It honors the 40 passengers and crew members whose actions on September 11, 2001, became a defining moment of courage.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_Flight93%22&FORM=HPQUIZ",
+  "hash": "aa25f0f42f2e083076da347987f2b700",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260911",
+    "fullStartDateTime": "202609110700",
+    "endDate": "20260912"
+  },
+  "createdAt": "202609120517",
+  "originalUrlBase": "/th?id=OHR.Flight93_EN-US5966783443"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "Sep 12, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Masters of the surf and shore",
+  "bsTitle": "Masters of the surf and shore",
+  "caption": "California sea lions, offshore Mexico, Pacific Ocean",
+  "copyright": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)",
+  "copyrightOnly": "© Henley Spiers/Nature Picture Library",
+  "copyrightLink": "/search?q=California+sea+lion&form=hpcapt&filters=HpDate%3a%2220260912_0400%22",
+  "description": "A day at the beach is rarely quiet when California sea lions are around. With their booming barks, playful personalities and a knack for stealing the spotlight, these marine mammals know how to put on a show.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_SardineBait%22&FORM=HPQUIZ",
+  "hash": "4544bafac5fdb0c78752369893a921c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260912",
+    "fullStartDateTime": "202609120400",
+    "endDate": "20260913"
+  },
+  "createdAt": "202609120517",
+  "originalUrlBase": "/th?id=OHR.SardineBait_EN-CA8301633998"
+}

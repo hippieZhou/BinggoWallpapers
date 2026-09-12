@@ -1,0 +1,48 @@
+{
+  "date": "12 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Maestros de las olas y los giros",
+  "bsTitle": "Maestros de las olas y los giros",
+  "caption": "Leones marinos de California, frente a México, Océano Pacífico",
+  "copyright": "Leones marinos de California cazando un cardumen de sardinas, México, Océano Pacífico (© Henley Spiers/Nature Picture Library)",
+  "copyrightOnly": "© Henley Spiers/Nature Picture Library",
+  "copyrightLink": "/search?q=lobo+marino+de+California&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+  "description": "Un banco de sardinas se convierte en un torbellino cuando aparecen los leones marinos de California, aquí frente a las costas de México, en el océano Pacífico. Cazan en equipo, giran, aceleran y desordenan al cardumen hasta abrir el hueco perfecto; a veces aprovechan incluso el trabajo de delfines y aves marinas para acorralar a los peces.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_SardineBait%22&FORM=HPQUIZ",
+  "hash": "d0b2046a0b8df0bb46e3d10d5cb8ca26",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_ES-ES9719293392_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260911",
+    "fullStartDateTime": "202609112200",
+    "endDate": "20260912"
+  },
+  "createdAt": "202609120517",
+  "originalUrlBase": "/th?id=OHR.SardineBait_ES-ES9719293392"
+}

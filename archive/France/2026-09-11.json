@@ -1,0 +1,48 @@
+{
+  "date": "12 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des maîtres de la glisse",
+  "bsTitle": "Des maîtres de la glisse",
+  "caption": "Lions de mer de Californie au large du Mexique, Océan Pacifique",
+  "copyright": "Des lions de mer de Californie chassant un banc de sardines au large du Mexique, Océan Pacifique (© Henley Spiers/Nature Picture Library)",
+  "copyrightOnly": "© Henley Spiers/Nature Picture Library",
+  "copyrightLink": "/search?q=lions+de+mer+de+Californie&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+  "description": "Une journée sur la côte Pacifique des États-Unis est rarement silencieuse lorsque les lions de mer de Californie sont de la partie. Leurs aboiements puissants résonnent sur les plages, tandis que leur curiosité et leur énergie attirent tous les regards.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_SardineBait%22&FORM=HPQUIZ",
+  "hash": "2c2ab8593490c4d85ec4ccccf31f6f66",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260911",
+    "fullStartDateTime": "202609112200",
+    "endDate": "20260912"
+  },
+  "createdAt": "202609120517",
+  "originalUrlBase": "/th?id=OHR.SardineBait_FR-FR6373570079"
+}

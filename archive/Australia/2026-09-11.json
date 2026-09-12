@@ -1,0 +1,48 @@
+{
+  "date": "Sept 11, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France",
+  "copyright": "Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)",
+  "copyrightOnly": "© StockByM/Getty Images",
+  "copyrightLink": "/search?q=Villefranche-sur-Mer&form=hpcapt&filters=HpDate%3a%2220260911_0700%22",
+  "description": "In September, the French Riviera is bathed in a softer light, and the Mediterranean landscape takes on fresher tones after the peak of summer. The hills are scented with Aleppo pine, rosemary and wild thyme. In the hinterland, centuries-old olive trees and hilltop villages tell a story shaped by Greek, Roman and Provençal influences.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260911_FrenchRivieraVillage%22&FORM=HPQUIZ",
+  "hash": "3b7c4430bdfd4dd76d058c5aff2abfed",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260911",
+    "fullStartDateTime": "202609110700",
+    "endDate": "20260912"
+  },
+  "createdAt": "202609120517",
+  "originalUrlBase": "/th?id=OHR.FrenchRivieraVillage_ROW4972919500"
+}
