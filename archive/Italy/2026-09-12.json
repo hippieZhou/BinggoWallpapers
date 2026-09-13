@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "La corona d'Italia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cadini di Misurina, Dolomiti, Veneto, Italia (© Vithun Khamsong/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cadini+di+Misurina+Dolomiti&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260912_MisurinaPeak%22&FORM=HPQUIZ",
+  "hash": "ea4fb4e864bb1f6d645a5ddc5e9274e5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_IT-IT4415699665_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_IT-IT4415699665_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_IT-IT4415699665_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_IT-IT4415699665_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_IT-IT4415699665_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260912",
+    "fullStartDateTime": "202609122200",
+    "endDate": "20260913"
+  },
+  "createdAt": "202609130530",
+  "originalUrlBase": "/th?id=OHR.MisurinaPeak_IT-IT4415699665"
+}

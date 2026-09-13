@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O recife que subiu de nível",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cadini di Misurina, Dolomitas, Vêneto, Itália (© Vithun Khamsong/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cadini+di+Misurina+na+It%c3%a1lia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_MisurinaPeak%22&FORM=HPQUIZ",
+  "hash": "86ab97558b02bb891f45ea9841573fc5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_PT-BR1204765846_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260913",
+    "fullStartDateTime": "202609130300",
+    "endDate": "20260914"
+  },
+  "createdAt": "202609130530",
+  "originalUrlBase": "/th?id=OHR.MisurinaPeak_PT-BR1204765846"
+}
