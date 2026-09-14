@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Dove la durezza radica",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Campo di piante di kochia, Cina (© lingqi xie/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Kochia+scoparia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_KochiaChina%22&FORM=HPQUIZ",
+  "hash": "a1b784283f58d920531e3ecbf0801518",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_IT-IT4492706565_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260913",
+    "fullStartDateTime": "202609132200",
+    "endDate": "20260914"
+  },
+  "createdAt": "202609140535",
+  "originalUrlBase": "/th?id=OHR.KochiaChina_IT-IT4492706565"
+}

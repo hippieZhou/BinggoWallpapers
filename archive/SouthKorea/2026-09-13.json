@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260913_MisurinaPeak%22&FORM=HPQUIZ",
+  "hash": "dc361ca6abe85e07a5bc47121cb5976d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_ROW5646793381_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_ROW5646793381_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_ROW5646793381_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_ROW5646793381_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_ROW5646793381_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260913",
+    "fullStartDateTime": "202609130700",
+    "endDate": "20260914"
+  },
+  "createdAt": "202609140535",
+  "originalUrlBase": "/th?id=OHR.MisurinaPeak_ROW5646793381"
+}
