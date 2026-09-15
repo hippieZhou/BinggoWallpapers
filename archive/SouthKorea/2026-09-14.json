@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Field of kochia plants, China (© lingqi xie/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Kochia+plant&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260914_KochiaChina%22&FORM=HPQUIZ",
+  "hash": "ca1d681d20d43c721d24b9d1d865927e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260914",
+    "fullStartDateTime": "202609140700",
+    "endDate": "20260915"
+  },
+  "createdAt": "202609150536",
+  "originalUrlBase": "/th?id=OHR.KochiaChina_ROW6162442762"
+}

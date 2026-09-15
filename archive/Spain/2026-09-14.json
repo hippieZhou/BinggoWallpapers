@@ -1,0 +1,48 @@
+{
+  "date": "15 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Supervivencia de los más llamativos",
+  "bsTitle": "Supervivencia de los más llamativos",
+  "caption": "Guacamayos aliverdes, Brasil",
+  "copyright": "Guacamayos aliverdes, Brasil (© markes51/Getty Images)",
+  "copyrightOnly": "© markes51/Getty Images",
+  "copyrightLink": "/search?q=guacamayo+aliverde&form=hpcapt&filters=HpDate%3a%2220260914_2200%22",
+  "description": "Los guacamayos aliverdes de la imagen vuelan sobre las selvas de Brasil y no entienden de discreción: rojo encendido, banda verde en el ala, plumas azules en el extremo y una cara blanca surcada por finas líneas de plumas rojas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260914_RedMacawsFlight%22&FORM=HPQUIZ",
+  "hash": "bf06c9006ba1f0c76e0d83dfa6f7ec9c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ES-ES0325042957_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260914",
+    "fullStartDateTime": "202609142200",
+    "endDate": "20260915"
+  },
+  "createdAt": "202609150536",
+  "originalUrlBase": "/th?id=OHR.RedMacawsFlight_ES-ES0325042957"
+}

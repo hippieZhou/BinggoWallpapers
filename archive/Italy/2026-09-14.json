@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Loquace e appariscente",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "L'ara dalle ali verdi, Brasile (© markes51/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=L%27ara+dalle+ali+verdi&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260914_RedMacawsFlight%22&FORM=HPQUIZ",
+  "hash": "463d672e62c2968792ad102776e7107f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_IT-IT4575485670_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260914",
+    "fullStartDateTime": "202609142200",
+    "endDate": "20260915"
+  },
+  "createdAt": "202609150536",
+  "originalUrlBase": "/th?id=OHR.RedMacawsFlight_IT-IT4575485670"
+}
