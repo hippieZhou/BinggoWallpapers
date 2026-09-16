@@ -1,0 +1,48 @@
+{
+  "date": "16 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Los nuevos exploradores del Ártico",
+  "bsTitle": "Los nuevos exploradores del Ártico",
+  "caption": "Cachorros de oso polar jugando en Svalbard, Noruega",
+  "copyright": "Cachorros de oso polar jugando en Svalbard, Noruega (© Danny Green/Nature Picture Library)",
+  "copyrightOnly": "© Danny Green/Nature Picture Library",
+  "copyrightLink": "/search?q=Oso+polar&form=hpcapt&filters=HpDate%3a%2220260915_2200%22",
+  "description": "Dos cachorros de oso polar cruzan la nieve en Svalbard, el archipiélago noruego de glaciares y fiordos helados donde el Ártico se muestra sin adornos. Nacieron en una madriguera excavada en la nieve, ciegos y con poco más de medio kilo de peso, y no salieron al exterior hasta la primavera.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+  "hash": "fe99f05b54289a3b2b48c95ef0b46887",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_ES-ES0423960114_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260915",
+    "fullStartDateTime": "202609152200",
+    "endDate": "20260916"
+  },
+  "createdAt": "202609160531",
+  "originalUrlBase": "/th?id=OHR.IcyCubs_ES-ES0423960114"
+}

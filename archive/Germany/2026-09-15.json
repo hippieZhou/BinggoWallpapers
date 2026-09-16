@@ -1,0 +1,48 @@
+{
+  "date": "16. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die neuen Entdecker der Arktis",
+  "bsTitle": "Die neuen Entdecker der Arktis",
+  "caption": "Eisbärenjunge spielen auf Spitzbergen, Norwegen",
+  "copyright": "Eisbärenjunge spielen auf Spitzbergen, Norwegen (© Danny Green/Nature Picture Library)",
+  "copyrightOnly": "© Danny Green/Nature Picture Library",
+  "copyrightLink": "/search?q=Eisb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220260915_2200%22",
+  "description": "Auf Spitzbergen in Norwegen erkunden Eisbärenjunge ihre eisige Welt mit unermüdlicher Neugier. Sie tollen über den Schnee, ringen miteinander und üben spielerisch die Fähigkeiten, die sie später zum Überleben brauchen. Was wie ein fröhliches Spiel wirkt, hilft ihnen dabei, Kraft, Geschicklichkeit und Selbstvertrauen zu entwickeln.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+  "hash": "d47d0786215fe004061a085bdb834b5f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_DE-DE7622238275_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260915",
+    "fullStartDateTime": "202609152200",
+    "endDate": "20260916"
+  },
+  "createdAt": "202609160531",
+  "originalUrlBase": "/th?id=OHR.IcyCubs_DE-DE7622238275"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma aventura polar",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Filhotes de urso-polar brincando em Svalbard, Noruega (© Danny Green/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=urso+polar&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_IcyCubs%22&FORM=HPQUIZ",
+  "hash": "0b5c70fdfca96ffe6176b4ac3b35eebb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_PT-BR1372199595_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260916",
+    "fullStartDateTime": "202609160300",
+    "endDate": "20260917"
+  },
+  "createdAt": "202609160531",
+  "originalUrlBase": "/th?id=OHR.IcyCubs_PT-BR1372199595"
+}

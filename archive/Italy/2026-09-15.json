@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "I nuovi esploratori dell'Artico",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cuccioli di orso polare che giocano a Svalbard, Norvegia (© Danny Green/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=orso+polare&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_IcyCubs%22&FORM=HPQUIZ",
+  "hash": "cfc71fa535fa035bb49ee4835719cd4c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_IT-IT4666651798_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_IT-IT4666651798_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_IT-IT4666651798_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_IT-IT4666651798_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.IcyCubs_IT-IT4666651798_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260915",
+    "fullStartDateTime": "202609152200",
+    "endDate": "20260916"
+  },
+  "createdAt": "202609160531",
+  "originalUrlBase": "/th?id=OHR.IcyCubs_IT-IT4666651798"
+}

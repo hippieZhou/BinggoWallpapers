@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Red-and-green macaws (© markes51/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Red-and-green+macaw&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_RedMacawsFlight%22&FORM=HPQUIZ",
+  "hash": "5c1754338e94991654049ec51e962fd4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260915",
+    "fullStartDateTime": "202609150700",
+    "endDate": "20260916"
+  },
+  "createdAt": "202609160531",
+  "originalUrlBase": "/th?id=OHR.RedMacawsFlight_ROW6429842138"
+}

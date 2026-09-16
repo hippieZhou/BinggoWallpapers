@@ -1,0 +1,48 @@
+{
+  "date": "Sep 15, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A crossroad of cultures",
+  "bsTitle": "A crossroad of cultures",
+  "caption": "Hispanic Heritage Month",
+  "copyright": "Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)",
+  "copyrightOnly": "© zrfphoto/Getty Images",
+  "copyrightLink": "/search?q=Hispanic+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220260915_0700%22",
+  "description": "Today marks the first day of Hispanic Heritage Month, a nationwide celebration honoring the histories, cultures, and contributions of Americans with roots in Spain, Mexico, the Caribbean, and Central and South America. Observed each year from September 15 to October 15, the month begins on a date that coincides with the independence anniversaries of several Latin American nations, including Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260915_FortUnion%22&FORM=HPQUIZ",
+  "hash": "3bb41316fc68eeaa65d14df6fdb398d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260915",
+    "fullStartDateTime": "202609150700",
+    "endDate": "20260916"
+  },
+  "createdAt": "202609160531",
+  "originalUrlBase": "/th?id=OHR.FortUnion_EN-US5138724452"
+}
