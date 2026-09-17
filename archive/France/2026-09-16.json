@@ -1,0 +1,48 @@
+{
+  "date": "17 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Santé !",
+  "bsTitle": "Santé !",
+  "caption": "Santenay, Côte de Beaune, Bourgogne",
+  "copyright": "Le moulin à vent et les vignobles de Sorine, Santenay, Côte de Beaune, Bourgogne (© Marco Bottigelli/Getty Images)",
+  "copyrightOnly": "© Marco Bottigelli/Getty Images",
+  "copyrightLink": "/search?q=Santenay+Bourgogne&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
+  "description": "À la fin de l’été et au début de l’automne, les vendanges réveillent les paysages viticoles français. La date de récolte varie selon les régions, l’ensoleillement et la maturité des raisins. Dans de nombreux domaines, la cueillette reste manuelle : chaque grappe est sélectionnée avec soin pour préserver la qualité des futurs crus.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260916_Santenay%22&FORM=HPQUIZ",
+  "hash": "5ab363abfd77efae433d361ea23619c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260916",
+    "fullStartDateTime": "202609162200",
+    "endDate": "20260917"
+  },
+  "createdAt": "202609170537",
+  "originalUrlBase": "/th?id=OHR.Santenay_FR-FR5987836668"
+}

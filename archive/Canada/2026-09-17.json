@@ -1,0 +1,48 @@
+{
+  "date": "Sep 17, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A patchwork from above",
+  "bsTitle": "A patchwork from above",
+  "caption": "Aerial view of Olvera, Andalusia, Spain",
+  "copyright": "Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)",
+  "copyrightOnly": "© Marco Bottigelli/Getty Images",
+  "copyrightLink": "/search?q=Olvera+Andalusia+Spain&form=hpcapt&filters=HpDate%3a%2220260917_0400%22",
+  "description": "Ever wondered why Andalusia is one of Spain's best-known regions? Flamenco, tapas, Moorish architecture and extensive olive groves all play a part. Beyond its famous cities, you'll find historic places like Olvera. Surrounded by more than 2 million olive trees, this village developed as a strategic frontier settlement shaped by centuries of change. The Castle of Olvera still watches over the town, while the Church of Our Lady of the Incarnation dominates the skyline below. Visit La Cilla Cultural Centre to discover Olvera's medieval history and traditions.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_Olvera%22&FORM=HPQUIZ",
+  "hash": "6ef5ac59f17ca1f4ee167119330189c8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_EN-CA0142222460_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_EN-CA0142222460_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_EN-CA0142222460_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_EN-CA0142222460_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Olvera_EN-CA0142222460_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260917",
+    "fullStartDateTime": "202609170400",
+    "endDate": "20260918"
+  },
+  "createdAt": "202609170537",
+  "originalUrlBase": "/th?id=OHR.Olvera_EN-CA0142222460"
+}
