@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "穿越山口腹地",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b3%b0%e5%8c%ba%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
+  "hash": "d427660ce0d0a746d4918781cdf36250",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260917",
+    "fullStartDateTime": "202609171600",
+    "endDate": "20260918"
+  },
+  "createdAt": "202609180525",
+  "originalUrlBase": "/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412"
+}

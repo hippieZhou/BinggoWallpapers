@@ -1,0 +1,48 @@
+{
+  "date": "Sept 18, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Through the heart of the pass",
+  "bsTitle": "Through the heart of the pass",
+  "caption": "Winnats Pass, Peak District National Park, England",
+  "copyright": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+  "copyrightOnly": "© Daniel_Kay/Getty Images",
+  "copyrightLink": "/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260917_2300%22",
+  "description": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
+  "hash": "7aa6124c8f36d936af72b44b4eae17b6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-GB8850951451_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-GB8850951451_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-GB8850951451_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-GB8850951451_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-GB8850951451_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260917",
+    "fullStartDateTime": "202609172300",
+    "endDate": "20260918"
+  },
+  "createdAt": "202609180525",
+  "originalUrlBase": "/th?id=OHR.WinnatsPassPeak_EN-GB8850951451"
+}

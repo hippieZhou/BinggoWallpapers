@@ -1,0 +1,48 @@
+{
+  "date": "Sep 18, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Through the heart of the pass",
+  "bsTitle": "Through the heart of the pass",
+  "caption": "Winnats Pass, Peak District National Park, England",
+  "copyright": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)",
+  "copyrightOnly": "© Daniel_Kay/Getty Images",
+  "copyrightLink": "/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0400%22",
+  "description": "A long, winding road cuts through rocks more than 300 million years old in England's Peak District. As if that geological timescale were not remarkable enough, the road passes through Winnats Pass, a narrow limestone gorge whose towering cliffs reveal the ancient seas that once covered this part of Britain.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_WinnatsPassPeak%22&FORM=HPQUIZ",
+  "hash": "29ed774f3f64dab3fade733734f654e9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-CA3554895186_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-CA3554895186_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-CA3554895186_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-CA3554895186_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-CA3554895186_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260918",
+    "fullStartDateTime": "202609180400",
+    "endDate": "20260919"
+  },
+  "createdAt": "202609180525",
+  "originalUrlBase": "/th?id=OHR.WinnatsPassPeak_EN-CA3554895186"
+}

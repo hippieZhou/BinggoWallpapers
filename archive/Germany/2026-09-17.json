@@ -1,0 +1,48 @@
+{
+  "date": "18. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Durch das Herz des Passes",
+  "bsTitle": "Durch das Herz des Passes",
+  "caption": "Winnats Pass im Peak-District-Nationalpark, England",
+  "copyright": "Winnats Pass im Peak-District-Nationalpark, England (© Daniel_Kay/Getty Images)",
+  "copyrightOnly": "© Daniel_Kay/Getty Images",
+  "copyrightLink": "/search?q=Peak-District-Nationalpark+England&form=hpcapt&filters=HpDate%3a%2220260917_2200%22",
+  "description": "Im Peak-District-Nationalpark in England schlängelt sich die Straße durch den Winnats Pass, eine eindrucksvolle Kalksteinschlucht nahe dem Dorf Castleton. Steile Felswände ragen zu beiden Seiten empor und prägen eine Landschaft, die über Millionen von Jahren durch natürliche Prozesse geformt wurde. Wer den Pass durchquert, fährt mitten durch eine Kulisse, die von der langen geologischen Geschichte der Region erzählt. Besonders eindrucksvoll wirkt der Ort bei wechselhaftem Wetter, wenn Licht und Schatten über die hellen Felsen wandern.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
+  "hash": "8d24370f0a3e75f8ecf3475fb4298066",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260917",
+    "fullStartDateTime": "202609172200",
+    "endDate": "20260918"
+  },
+  "createdAt": "202609180525",
+  "originalUrlBase": "/th?id=OHR.WinnatsPassPeak_DE-DE1067601127"
+}

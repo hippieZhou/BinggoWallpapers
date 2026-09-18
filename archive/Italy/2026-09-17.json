@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Attraverso il cuore del passo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Winnats Pass, Parco Nazionale del Peak District, Inghilterra (© Daniel_Kay/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Peak+District&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
+  "hash": "5604d2671cfcb1658b5e521bd8291c0f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_IT-IT0574437458_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260917",
+    "fullStartDateTime": "202609172200",
+    "endDate": "20260918"
+  },
+  "createdAt": "202609180525",
+  "originalUrlBase": "/th?id=OHR.WinnatsPassPeak_IT-IT0574437458"
+}

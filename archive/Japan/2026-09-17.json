@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 9月 月 18 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "緑の丘を縫う道",
+  "bsTitle": "緑の丘を縫う道",
+  "caption": "緑の丘を縫う道",
+  "copyright": "ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)",
+  "copyrightOnly": "© Daniel_Kay/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a6%e3%82%a3%e3%83%8a%e3%83%83%e3%83%84%e3%83%bb%e3%83%91%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220260917_1500%22",
+  "description": "ここはイギリスで最初の国立公園であるピーク・ディストリクト国立公園。そして、この石灰岩の断崖に囲まれた曲がりくねった峠道は、ウィナッツ・パス。その周辺には、緑豊かな谷や広々とした丘陵が続き、ハイキングを楽しむことができます。また、地下には洞窟が広がり、旧鉛鉱山の跡も残されているほか、キャッスルトンやベイクウェルといった趣ある町を訪れることもできます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260917_WinnatsPassPeak%22&FORM=HPQUIZ",
+  "hash": "bbfd986781ccb40d124007c46a6e01af",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260917",
+    "fullStartDateTime": "202609171500",
+    "endDate": "20260918"
+  },
+  "createdAt": "202609180525",
+  "originalUrlBase": "/th?id=OHR.WinnatsPassPeak_JA-JP5840257609"
+}
