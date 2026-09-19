@@ -1,0 +1,48 @@
+{
+  "date": "19 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El sonido alpino del Oktoberfest",
+  "bsTitle": "El sonido alpino del Oktoberfest",
+  "caption": "Oktoberfest, Alemania",
+  "copyright": "Músicos tocando la trompa de los Alpes, Waltenhofen, Baviera, Alemania (© U. J. Alexander/Shutterstock)",
+  "copyrightOnly": "© U. J. Alexander/Shutterstock",
+  "copyrightLink": "/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
+  "description": "Hoy abre sus puertas el Oktoberfest, pero esta imagen viene de Waltenhofen, en Baviera (Alemania), y suena a algo mucho más antiguo que la fiesta: la trompa de los Alpes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_AlphornBavaria%22&FORM=HPQUIZ",
+  "hash": "f9d24074950900217cfe928b38179aec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_ES-ES7277929054_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_ES-ES7277929054_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_ES-ES7277929054_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_ES-ES7277929054_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_ES-ES7277929054_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260918",
+    "fullStartDateTime": "202609182200",
+    "endDate": "20260919"
+  },
+  "createdAt": "202609190520",
+  "originalUrlBase": "/th?id=OHR.AlphornBavaria_ES-ES7277929054"
+}

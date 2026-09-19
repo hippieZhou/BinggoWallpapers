@@ -1,0 +1,48 @@
+{
+  "date": "19 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le son alpin de l’Oktoberfest",
+  "bsTitle": "Le son alpin de l’Oktoberfest",
+  "caption": "Oktoberfest, Allemagne",
+  "copyright": "Joueurs de cor des Alpes, Bavière, Allemagne (© U. J. Alexander/Shutterstock)",
+  "copyrightOnly": "© U. J. Alexander/Shutterstock",
+  "copyrightLink": "/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
+  "description": "Alors que l’Oktoberfest ouvre ses portes à Munich, en Bavière (Allemagne), un autre symbole du patrimoine alpin accompagne les visiteurs : le chant profond du cor des Alpes. Bien avant que cette fête n’acquière une renommée mondiale, son écho résonnait déjà entre les sommets de Bavière, d’Autriche et de Suisse, reliant les communautés de montagne à travers les prairies, les forêts d’épicéas et les vallées brumeuses.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_AlphornBavaria%22&FORM=HPQUIZ",
+  "hash": "c701d97aafa05cfd8edcfb66a2e54697",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_FR-FR7751398658_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260918",
+    "fullStartDateTime": "202609182200",
+    "endDate": "20260919"
+  },
+  "createdAt": "202609190520",
+  "originalUrlBase": "/th?id=OHR.AlphornBavaria_FR-FR7751398658"
+}

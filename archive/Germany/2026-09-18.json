@@ -1,0 +1,48 @@
+{
+  "date": "19. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "O’zapft is!",
+  "bsTitle": "O’zapft is!",
+  "caption": "Eröffnung des Oktoberfests",
+  "copyright": "Oktoberfest München, Bayern (© FooTToo/Getty Images)",
+  "copyrightOnly": "© FooTToo/Getty Images",
+  "copyrightLink": "/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260918_2200%22",
+  "description": "Mit dem traditionellen Ruf „O’zapft is!“ beginnt heute in München das 191. Oktoberfest. Bevor sich die Festzelte füllen, richtet sich der Blick auf einen Moment, der jedes Jahr mit Spannung erwartet wird: den Anstich des ersten Bierfasses im Schottenhamel-Festzelt. Erst mit dem Anstich gilt die Wiesn offiziell als eröffnet. Wie viele Schläge der Münchner Oberbürgermeister dafür benötigt, gehört längst zu den meistbeachteten Details der Eröffnung.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260918_OktoberfestMunich%22&FORM=HPQUIZ",
+  "hash": "a73ebecc2c9034130ef5e0a4461d0f09",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260918",
+    "fullStartDateTime": "202609182200",
+    "endDate": "20260919"
+  },
+  "createdAt": "202609190520",
+  "originalUrlBase": "/th?id=OHR.OktoberfestMunich_DE-DE1236844623"
+}
