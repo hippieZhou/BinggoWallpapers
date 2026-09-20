@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 9月 月 20 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "夕焼けに染まるエッフェル塔",
+  "bsTitle": "夕焼けに染まるエッフェル塔",
+  "caption": "夕焼けに染まるエッフェル塔",
+  "copyright": "パリ, フランス (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%91%e3%83%aa&form=hpcapt&filters=HpDate%3a%2220260919_1500%22",
+  "description": "ここはフランス最大の都市パリ。そして、中央にそびえるのがエッフェル塔です。フランス革命 100 周年を記念する 1889 年のパリ万国博覧会に合わせて建設されました。塔の名前は、設計者であるギュスターヴ・エッフェルに由来します。完成当初の高さは 300m で、1930 年に米国でクライスラー・ビルディングが建設されるまでは、世界で最も高い建造物でした。現在も多くの観光客が訪れる名所として親しまれており、フランスの創造性や技術力を象徴しています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_ParisSunset%22&FORM=HPQUIZ",
+  "hash": "8ba0d05ca006ac7c3ba2d933d7621c43",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260919",
+    "fullStartDateTime": "202609191500",
+    "endDate": "20260920"
+  },
+  "createdAt": "202609200533",
+  "originalUrlBase": "/th?id=OHR.ParisSunset_JA-JP6560235841"
+}

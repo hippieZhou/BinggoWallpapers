@@ -1,0 +1,48 @@
+{
+  "date": "20. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der Turm, der Paris eroberte",
+  "bsTitle": "Der Turm, der Paris eroberte",
+  "caption": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich",
+  "copyright": "Eiffelturm bei Sonnenuntergang, Paris, Frankreich (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260919_2200%22",
+  "description": "Paris gehört zu den Städten, die Menschen auf der ganzen Welt faszinieren. Wenn die Sonne hinter dem Eiffelturm untergeht und den Himmel in warme Farben taucht, zeigt sich die französische Hauptstadt von ihrer besonders stimmungsvollen Seite. Der berühmte Turm erhebt sich über dem Champ de Mars und prägt seit mehr als einem Jahrhundert die Silhouette der Stadt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_ParisSunset%22&FORM=HPQUIZ",
+  "hash": "a899ddf0385ad31cf9fc89b9c84db849",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_DE-DE1426517976_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260919",
+    "fullStartDateTime": "202609192200",
+    "endDate": "20260920"
+  },
+  "createdAt": "202609200533",
+  "originalUrlBase": "/th?id=OHR.ParisSunset_DE-DE1426517976"
+}

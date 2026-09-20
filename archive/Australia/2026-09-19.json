@@ -1,0 +1,48 @@
+{
+  "date": "Sept 19, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Lençóis Maranhenses National Park, Brazil",
+  "copyright": "Lençóis Maranhenses National Park, Brazil (© Ignacio Palacios/Getty Images)",
+  "copyrightOnly": "© Ignacio Palacios/Getty Images",
+  "copyrightLink": "/search?q=Lencois+Maranhenses+National+Park&form=hpcapt&filters=HpDate%3a%2220260919_0700%22",
+  "description": "Think you know what a desert looks like? Lençóis Maranhenses National Park might change your mind. Along Brazil's Maranhão coast, huge white dunes sit beside freshwater lagoons, creating a landscape that changes with the seasons. Established as a national park in 1981 and recognised as a UNESCO World Heritage Site in 2024, it covers more than 156,000 hectares (about 386,887 acres) and stretches along 80 kilometres of coastline. The dunes are shaped by prevailing winds, while seasonal rains collect in the hollows between them. Some lagoons last only through the wet season, while others remain year-round, including Lagoa da Esperança.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_Lencois%22&FORM=HPQUIZ",
+  "hash": "b45cf7c1956f8b97349bb9216e50393d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260919",
+    "fullStartDateTime": "202609190700",
+    "endDate": "20260920"
+  },
+  "createdAt": "202609200533",
+  "originalUrlBase": "/th?id=OHR.Lencois_ROW1554257872"
+}

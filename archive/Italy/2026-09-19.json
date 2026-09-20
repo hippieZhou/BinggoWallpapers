@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il suono alpino dell'Oktoberfest",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Giocatori di alphorn, Baviera, Germania (© U. J. Alexander/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Oktoberfest&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_AlphornBavaria%22&FORM=HPQUIZ",
+  "hash": "0d1f428349f4176c3e4faa4beea70c76",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260919",
+    "fullStartDateTime": "202609192200",
+    "endDate": "20260920"
+  },
+  "createdAt": "202609200533",
+  "originalUrlBase": "/th?id=OHR.AlphornBavaria_IT-IT7483263500"
+}

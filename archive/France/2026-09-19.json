@@ -1,0 +1,48 @@
+{
+  "date": "20 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Lumière sur un héritage commun",
+  "bsTitle": "Lumière sur un héritage commun",
+  "caption": "Journées européennes du patrimoine",
+  "copyright": "Château de Castelnaud, Castelnaud-la-Chapelle, Nouvelle-Aquitaine (© garethkirklandphotogrphy/Getty Images)",
+  "copyrightOnly": "© garethkirklandphotogrphy/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9es+europ%c3%a9ennes+du+patrimoine&form=hpcapt&filters=HpDate%3a%2220260919_2200%22",
+  "description": "Ce week-end, à l’occasion des Journées européennes du patrimoine, partez à la découverte de lieux qui racontent l’histoire de nos territoires. Derrière des portes parfois fermées le reste de l’année se cachent des monuments, des jardins, des savoir-faire et des trésors architecturaux témoins de siècles de mémoire collective.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260919_CastelnaudPatrimoine%22&FORM=HPQUIZ",
+  "hash": "f6ac2f754cf7bdcca79ffbce459a05d3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260919",
+    "fullStartDateTime": "202609192200",
+    "endDate": "20260920"
+  },
+  "createdAt": "202609200533",
+  "originalUrlBase": "/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727"
+}
