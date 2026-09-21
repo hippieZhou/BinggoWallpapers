@@ -1,0 +1,48 @@
+{
+  "date": "Sept 21, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Life between fur and sea",
+  "bsTitle": "Life between fur and sea",
+  "caption": "Sea otter, Monterey Bay, California, United States",
+  "copyright": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "© Suzi Eszterhas/Minden Pictures",
+  "copyrightLink": "/search?q=Sea+otters&form=hpcapt&filters=HpDate%3a%2220260920_2300%22",
+  "description": "Few animals are both expert groomers and guardians of underwater forests. In today's image, a sea otter grooms its fur in Monterey Bay, California—a daily ritual essential to its survival. Sea otters have the densest fur of any animal, with up to one million hairs per square inch. Unlike seals and whales, they have little blubber, so their thick, air-trapping coat provides insulation against the cold Pacific.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_GroomingOtter%22&FORM=HPQUIZ",
+  "hash": "b6427fb0c805aef4f70ae58d06d9f4e4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260920",
+    "fullStartDateTime": "202609202300",
+    "endDate": "20260921"
+  },
+  "createdAt": "202609210542",
+  "originalUrlBase": "/th?id=OHR.GroomingOtter_EN-GB9079842121"
+}

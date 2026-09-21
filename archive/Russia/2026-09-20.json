@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Paris&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_ParisSunset%22&FORM=HPQUIZ",
+  "hash": "e3ec9abe9ae8b74c43affcbc65d9cac9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260920",
+    "fullStartDateTime": "202609200700",
+    "endDate": "20260921"
+  },
+  "createdAt": "202609210542",
+  "originalUrlBase": "/th?id=OHR.ParisSunset_ROW1775373883"
+}

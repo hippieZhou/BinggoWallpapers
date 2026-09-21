@@ -1,0 +1,48 @@
+{
+  "date": "Sep 20, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The tower that won Paris over",
+  "bsTitle": "The tower that won Paris over",
+  "caption": "Eiffel Tower at sunset, Paris, France",
+  "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260920_0700%22",
+  "description": "No other city is nearly as romanticized as Paris. Yet the French capital's history has not always been as rosy as the sunset glowing behind the Eiffel Tower. Built for the 1889 Exposition Universelle, or the World's Fair, which marked the centennial of the start of the French Revolution, the tower was originally intended to serve as the fair's entrance centerpiece. Designed by engineer Gustave Eiffel and his team, the iron landmark rose nearly 1,000 feet above the Champ de Mars and became the tallest structure in the world at the time.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260920_ParisSunset%22&FORM=HPQUIZ",
+  "hash": "fb8347266ccf05439d51bcf79941e738",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260920",
+    "fullStartDateTime": "202609200700",
+    "endDate": "20260921"
+  },
+  "createdAt": "202609210542",
+  "originalUrlBase": "/th?id=OHR.ParisSunset_EN-US6532307523"
+}
