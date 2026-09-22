@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "金色时节",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%93%9c%e5%85%b9%e6%9b%bc%e5%b1%b1%e5%8f%a3%e9%99%84%e8%bf%91%e7%9a%84%e7%a7%8b%e6%97%a5%e5%b1%b1%e6%9d%a8%e6%9e%97&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_FallAspens%22&FORM=HPQUIZ",
+  "hash": "80574239946b5ff91d19e3d3b047dad5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260921",
+    "fullStartDateTime": "202609211600",
+    "endDate": "20260922"
+  },
+  "createdAt": "202609220539",
+  "originalUrlBase": "/th?id=OHR.FallAspens_ZH-CN7235054933"
+}

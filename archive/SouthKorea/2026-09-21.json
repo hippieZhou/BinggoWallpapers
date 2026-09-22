@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Sea+otter&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_GroomingOtter%22&FORM=HPQUIZ",
+  "hash": "916b3f146f8ec873bdf61f7bf53c6185",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260921",
+    "fullStartDateTime": "202609210700",
+    "endDate": "20260922"
+  },
+  "createdAt": "202609220539",
+  "originalUrlBase": "/th?id=OHR.GroomingOtter_ROW2104979669"
+}

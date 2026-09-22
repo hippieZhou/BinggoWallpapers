@@ -1,0 +1,48 @@
+{
+  "date": "Sep 21, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Life between fur and sea",
+  "bsTitle": "Life between fur and sea",
+  "caption": "Sea Otter Awareness Week",
+  "copyright": "Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "© Suzi Eszterhas/Minden Pictures",
+  "copyrightLink": "/search?q=sea+otter+awareness+week&form=hpcapt&filters=HpDate%3a%2220260921_0700%22",
+  "description": "Few animals can claim to be both expert groomers and guardians of underwater forests. That's why Sea Otter Awareness Week, held each year during the last full week of September, encourages people to discover more about these remarkable marine mammals and the challenges they face.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_GroomingOtter%22&FORM=HPQUIZ",
+  "hash": "5dcff995bfcc7730941f080d61e4668f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260921",
+    "fullStartDateTime": "202609210700",
+    "endDate": "20260922"
+  },
+  "createdAt": "202609220539",
+  "originalUrlBase": "/th?id=OHR.GroomingOtter_EN-US6710084372"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "22 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Au-delà de la dernière page",
+  "bsTitle": "Au-delà de la dernière page",
+  "caption": "Journée du Hobbit",
+  "copyright": "Maison Hobbit dans le décor de Hobbiton, Matamata, Nouvelle-Zélande (© djr-photography/Shutterstock)",
+  "copyrightOnly": "© djr-photography/Shutterstock",
+  "copyrightLink": "/search?q=Journ%c3%a9e+du+Hobbit&form=hpcapt&filters=HpDate%3a%2220260921_2200%22",
+  "description": "Dans les collines verdoyantes de Matamata, en Nouvelle-Zélande, un décor de cinéma est devenu un lieu à part entière. Installé sur une ferme ovine encore en activité, Hobbiton est né lorsqu’une équipe de repérage des films «\u202FLe Seigneur des anneaux\u202F» découvrit, en 1998, un paysage remarquablement proche de la Comté imaginée par Tolkien. Les courbes du relief, les prairies parsemées de moutons et la lumière changeante semblaient déjà raconter une histoire. Des portes rondes, des jardins soignés et des cheminées à volutes ont ensuite achevé la métamorphose.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260921_TolkienWeek%22&FORM=HPQUIZ",
+  "hash": "159e6aff04a3e5c9e328821bec86dc2e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260921",
+    "fullStartDateTime": "202609212200",
+    "endDate": "20260922"
+  },
+  "createdAt": "202609220539",
+  "originalUrlBase": "/th?id=OHR.TolkienWeek_FR-FR8060088549"
+}
