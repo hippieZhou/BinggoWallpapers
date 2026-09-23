@@ -1,0 +1,48 @@
+{
+  "date": "Sept 23, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The golden season",
+  "bsTitle": "The golden season",
+  "caption": "Autumn equinox",
+  "copyright": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+  "copyrightOnly": "© Danita Delimont/Shutterstock",
+  "copyrightLink": "/search?q=September+equinox&form=hpcapt&filters=HpDate%3a%2220260922_1830%22",
+  "description": "The autumn equinox marks a turning point in the Northern Hemisphere. Occurring each September, it is the moment when the sun crosses the equator heading south, and day and night are nearly equal in length. After this celestial balance, daylight gradually shrinks as the journey towards winter begins.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+  "hash": "7d5f7760a7566686de758117925fcb4f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260922",
+    "fullStartDateTime": "202609221830",
+    "endDate": "20260923"
+  },
+  "createdAt": "202609230523",
+  "originalUrlBase": "/th?id=OHR.FallAspens_EN-IN8196194133"
+}

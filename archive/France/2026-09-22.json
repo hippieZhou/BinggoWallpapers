@@ -1,0 +1,48 @@
+{
+  "date": "23 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La saison dorée",
+  "bsTitle": "La saison dorée",
+  "caption": "Équinoxe d’automne",
+  "copyright": "Peupliers faux-trembles près du col de Guardsman Pass, Utah, États-Unis (© Danita Delimont/Shutterstock)",
+  "copyrightOnly": "© Danita Delimont/Shutterstock",
+  "copyrightLink": "/search?q=%c3%a9quinoxe+de+septembre&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+  "description": "Chaque année, vers la fin de septembre, l’équinoxe d’automne marque un subtil basculement dans l’hémisphère Nord. Le Soleil semble alors franchir l’équateur céleste vers le sud et le jour s’accorde presque à la nuit. Cet instant d’équilibre annonce la lente diminution de la lumière et l’approche progressive de l’hiver.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+  "hash": "cf62d59dc43656d31a12ca91ae3ffcac",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260922",
+    "fullStartDateTime": "202609222200",
+    "endDate": "20260923"
+  },
+  "createdAt": "202609230523",
+  "originalUrlBase": "/th?id=OHR.FallAspens_FR-FR8326000854"
+}

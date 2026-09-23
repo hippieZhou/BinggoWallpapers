@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "I colori della stagione",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Chiesa in Val di Funes, Trentino-Alto Adige, Dolomiti, Italia (© DieterMeyrl/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Equinozio+d%27autunno+2026&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_AutumnTrentino%22&FORM=HPQUIZ",
+  "hash": "e5a9cab543c9605ca804a8a0bd853dc7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260922",
+    "fullStartDateTime": "202609222200",
+    "endDate": "20260923"
+  },
+  "createdAt": "202609230523",
+  "originalUrlBase": "/th?id=OHR.AutumnTrentino_IT-IT8118999546"
+}

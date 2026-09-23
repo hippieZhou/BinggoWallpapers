@@ -1,0 +1,48 @@
+{
+  "date": "Sept 22, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Autumn aspen trees near Guardsman Pass, Utah, United States",
+  "copyright": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)",
+  "copyrightOnly": "© Danita Delimont/Shutterstock",
+  "copyrightLink": "/search?q=Aspen+trees&form=hpcapt&filters=HpDate%3a%2220260922_0700%22",
+  "description": "What makes a tree 'quake?' Take a closer look at an aspen leaf. Its flattened stalk catches even a light breeze, making the leaves flutter and giving the tree its name: quaking aspen. Near Guardsman Pass in Utah, United States, these trees form striking groves across the higher mountain slopes, where cooler, moist conditions suit them well.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+  "hash": "9b1fe7ecdae5321f97c7975d7420711b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260922",
+    "fullStartDateTime": "202609220700",
+    "endDate": "20260923"
+  },
+  "createdAt": "202609230523",
+  "originalUrlBase": "/th?id=OHR.FallAspens_ROW2359837997"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "23 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La estación dorada",
+  "bsTitle": "La estación dorada",
+  "caption": "Equinoccio de otoño",
+  "copyright": "Álamos de otoño cerca de Guardsman Pass, Utah, EE. UU. (© Danita Delimont/Shutterstock)",
+  "copyrightOnly": "© Danita Delimont/Shutterstock",
+  "copyrightLink": "/search?q=Equinoccio+de+oto%c3%b1o&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+  "description": "Los álamos temblones tiñen de oro las laderas próximas a Guardsman Pass, en Utah (EE. UU.), justo cuando el hemisferio norte estrena estación. El otoño ha entrado en España esta madrugada, a las 02:05 en hora peninsular, según el Observatorio Astronómico Nacional: el Sol cruza el ecuador celeste rumbo al sur y el día y la noche pasan a durar casi lo mismo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+  "hash": "d5803cf3d906ce813ffe0709a0e30655",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_ES-ES8557164613_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260922",
+    "fullStartDateTime": "202609222200",
+    "endDate": "20260923"
+  },
+  "createdAt": "202609230523",
+  "originalUrlBase": "/th?id=OHR.FallAspens_ES-ES8557164613"
+}

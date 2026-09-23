@@ -1,0 +1,48 @@
+{
+  "date": "23. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die goldene Jahreszeit",
+  "bsTitle": "Die goldene Jahreszeit",
+  "caption": "September-Tagundnachtgleiche",
+  "copyright": "Herbstliche Espen nahe dem Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)",
+  "copyrightOnly": "© Danita Delimont/Shutterstock",
+  "copyrightLink": "/search?q=September-Tagundnachtgleiche&form=hpcapt&filters=HpDate%3a%2220260922_2200%22",
+  "description": "Die September-Tagundnachtgleiche markiert in Deutschland den astronomischen Beginn des Herbstes. An diesem Tag stehen Tag und Nacht nahezu im Gleichgewicht, bevor die Nächte wieder länger werden. Seit Jahrhunderten gilt dieser Zeitpunkt als Wendepunkt im Jahreslauf. Die Natur bereitet sich auf die kalte Jahreszeit vor und vielerorts beginnt die Landschaft ihr herbstliches Farbenspiel.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260922_FallAspens%22&FORM=HPQUIZ",
+  "hash": "1cd0f4539b97b5c43c058049dfc0ef5f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260922",
+    "fullStartDateTime": "202609222200",
+    "endDate": "20260923"
+  },
+  "createdAt": "202609230523",
+  "originalUrlBase": "/th?id=OHR.FallAspens_DE-DE1894805045"
+}
