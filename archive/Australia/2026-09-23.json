@@ -1,0 +1,48 @@
+{
+  "date": "Sept 23, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand",
+  "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)",
+  "copyrightOnly": "© djr-photography/Shutterstock",
+  "copyrightLink": "/search?q=Hobbiton+Movie+Set&form=hpcapt&filters=HpDate%3a%2220260923_0700%22",
+  "description": "A round door, a bright green frame and a hillside that looks straight out of Middle-earth—welcome to Hobbiton Movie Set in Matamata, New Zealand. Built in 1999 for 'The Lord of the Rings,' the original set featured 39 temporary Hobbit Holes across a 4.9-hectare site. After filming ended, the set was dismantled, but it returned in 2009 for 'The Hobbit' films and was rebuilt as a permanent attraction.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_TolkienWeek%22&FORM=HPQUIZ",
+  "hash": "4e8f87f06de86ce2ba6cf1e49abf4657",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260923",
+    "fullStartDateTime": "202609230700",
+    "endDate": "20260924"
+  },
+  "createdAt": "202609240540",
+  "originalUrlBase": "/th?id=OHR.TolkienWeek_ROW2596246369"
+}

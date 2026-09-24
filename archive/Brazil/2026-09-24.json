@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Muito além da última página",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vila dos Hobbits em Matamata, Nova Zelândia (© djr-photography/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Semana+Tolkien+e+Dia+Hobbit&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_TolkienWeek%22&FORM=HPQUIZ",
+  "hash": "39c8c24317b05e51e54c7d03a3b36af6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TolkienWeek_PT-BR2214990560_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260924",
+    "fullStartDateTime": "202609240300",
+    "endDate": "20260925"
+  },
+  "createdAt": "202609240540",
+  "originalUrlBase": "/th?id=OHR.TolkienWeek_PT-BR2214990560"
+}

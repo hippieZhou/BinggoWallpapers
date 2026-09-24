@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 9月 月 24 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "黒い海岸に寄せる白波",
+  "bsTitle": "黒い海岸に寄せる白波",
+  "caption": "黒い海岸に寄せる白波",
+  "copyright": "ランサローテ島, スペイン (© Westend61/Adobe Stock)",
+  "copyrightOnly": "© Westend61/Adobe Stock",
+  "copyrightLink": "/search?q=%e3%83%a9%e3%83%b3%e3%82%b5%e3%83%ad%e3%83%bc%e3%83%86%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22",
+  "description": "ここは、スペインのカナリア諸島に位置するランサローテ島にあるビーチ。黒い砂浜、ターコイズブルーの海、そして険しい断崖が織りなす独特の景観で知られています。1730 年から 1736 年にかけての大噴火によって、島の広い範囲が溶岩に覆われ、特徴的な黒い海岸線が形成されました。近くには鮮やかな緑色のクリコス湖があり、黒い砂浜、緑の湖、青い海が織りなすコントラストは、訪れる人々を魅了します。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
+  "hash": "d7647344854e4c9bb43639fa62d6af84",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260923",
+    "fullStartDateTime": "202609231500",
+    "endDate": "20260924"
+  },
+  "createdAt": "202609240540",
+  "originalUrlBase": "/th?id=OHR.ElGolfo_JA-JP7674043520"
+}

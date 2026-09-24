@@ -1,0 +1,48 @@
+{
+  "date": "24. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Vulkanische Kontraste",
+  "bsTitle": "Vulkanische Kontraste",
+  "caption": "Lavastrand in El Golfo, Lanzarote, Kanarische Inseln, Spanien",
+  "copyright": "Luftaufnahme des schwarzen Lavastrandes in El Golfo, Lanzarote, Kanarische Inseln, Spanien (© Westend61/Adobe Stock)",
+  "copyrightOnly": "© Westend61/Adobe Stock",
+  "copyrightLink": "/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260923_2200%22",
+  "description": "An der Westküste der spanischen Kanareninsel Lanzarote wirkt die Landschaft beinahe wie von einem anderen Planeten. Der schwarze Lavastrand bei El Golfo bildet einen eindrucksvollen Kontrast zu den tiefblauen Wellen des Atlantiks. Aus der Vogelperspektive werden die Formen und Farben besonders sichtbar und zeigen die vulkanische Herkunft der Insel auf besondere Weise.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260923_ElGolfo%22&FORM=HPQUIZ",
+  "hash": "ccbcbfe4314eae63225526621c9740ea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260923",
+    "fullStartDateTime": "202609232200",
+    "endDate": "20260924"
+  },
+  "createdAt": "202609240540",
+  "originalUrlBase": "/th?id=OHR.ElGolfo_DE-DE2094132875"
+}
