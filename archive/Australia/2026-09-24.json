@@ -1,0 +1,48 @@
+{
+  "date": "Sept 24, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Castelmezzano, Basilicata, Italy",
+  "copyright": "Castelmezzano, Basilicata, Italy (© Sean Pavone/Getty Images)",
+  "copyrightOnly": "© Sean Pavone/Getty Images",
+  "copyrightLink": "/search?q=Castelmezzano&form=hpcapt&filters=HpDate%3a%2220260924_0700%22",
+  "description": "Castelmezzano, in the province of Potenza in Basilicata, Italy, is hidden from view until you reach it. You arrive through a tunnel and as you emerge, the village suddenly appears, wedged among the sandstone pinnacles of the Lucanian Dolomites. The houses seem to climb over one another at around 750 metres above sea level, connected by steps and narrow lanes that rise towards the remains of the Norman fortress.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_CastelmezzanoItaly%22&FORM=HPQUIZ",
+  "hash": "55ccf4b6b1e5b8fef078f657120ff5f7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260924",
+    "fullStartDateTime": "202609240700",
+    "endDate": "20260925"
+  },
+  "createdAt": "202609250538",
+  "originalUrlBase": "/th?id=OHR.CastelmezzanoItaly_ROW3044667748"
+}

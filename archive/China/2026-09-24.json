@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "当月亮也来赴会",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%b8%ad%e7%a7%8b%e8%8a%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260924_MidAutumn2026%22&FORM=HPQUIZ",
+  "hash": "7343d22d2316a5ea34e9dace7c61cd12",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260924",
+    "fullStartDateTime": "202609241600",
+    "endDate": "20260925"
+  },
+  "createdAt": "202609250538",
+  "originalUrlBase": "/th?id=OHR.MidAutumn2026_ZH-CN8947536773"
+}
