@@ -1,0 +1,48 @@
+{
+  "date": "Sept 25, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Jog Falls, Karnataka, India",
+  "copyright": "Jog Falls, Sharavathi River, Karnataka, India (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Getty Images",
+  "copyrightLink": "/search?q=Jog+Falls+India&form=hpcapt&filters=HpDate%3a%2220260925_0700%22",
+  "description": "Most rivers spend their lives flowing around obstacles. The Sharavathi River reaches the edge of a cliff and simply jumps. At Jog Falls in Karnataka, the river plunges 253 metres, making it the third-highest waterfall in India.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_JogFalls2026%22&FORM=HPQUIZ",
+  "hash": "4d12d5e10f683f041c927951952773d1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260925",
+    "fullStartDateTime": "202609250700",
+    "endDate": "20260926"
+  },
+  "createdAt": "202609260542",
+  "originalUrlBase": "/th?id=OHR.JogFalls2026_ROW3282923682"
+}

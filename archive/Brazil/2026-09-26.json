@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O legado de um vulcão",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista aérea da praia de lava negra, El Golfo, Lanzarote, Ilhas Canárias, Espanha (© Westend61/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lanzarote&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260926_ElGolfo%22&FORM=HPQUIZ",
+  "hash": "690f74097a5341e0628275900add782f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_PT-BR1964322549_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260926",
+    "fullStartDateTime": "202609260300",
+    "endDate": "20260927"
+  },
+  "createdAt": "202609260542",
+  "originalUrlBase": "/th?id=OHR.ElGolfo_PT-BR1964322549"
+}

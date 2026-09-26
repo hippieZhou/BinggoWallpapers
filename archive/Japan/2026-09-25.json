@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 9月 月 26 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "標高約2,000mから見渡す大峡谷",
+  "bsTitle": "標高約2,000mから見渡す大峡谷",
+  "caption": "標高約2,000mから見渡す大峡谷",
+  "copyright": "シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jeff Clay/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=%e3%82%b7%e3%83%bc%e3%83%80%e3%83%bc%e3%83%a1%e3%82%b5&form=hpcapt&filters=HpDate%3a%2220260925_1500%22",
+  "description": "ここはシーダーメサ。米国ユタ州にあるベアーズ・イヤーズ国定公園の南部に位置する台地です。標高は約 2,000m で、考古学上の宝庫として知られるグランド・ガルチをはじめ、深い峡谷が数多く存在しています。南側にはミューリー・ポイントと呼ばれる岬があり、ここからサンファン川やバレー・オブ・ザ・ゴッズ、モニュメント・バレー、ナバホ・マウンテンといった素晴らしい景観を一望できます。また、シーダーメサの向こうには 2 つの丘がそびえており、これがクマの耳（ベアーズイヤーズ）に似ていることが、公園の名前の由来となっています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_BearsEars%22&FORM=HPQUIZ",
+  "hash": "8eae43ec94cc824ae18fd5e9534a887a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260925",
+    "fullStartDateTime": "202609251500",
+    "endDate": "20260926"
+  },
+  "createdAt": "202609260542",
+  "originalUrlBase": "/th?id=OHR.BearsEars_JA-JP8214752036"
+}

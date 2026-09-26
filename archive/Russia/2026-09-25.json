@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Jog Falls, Sharavathi River, Karnataka, India (© Amith Nag Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Jog+Falls+India&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260925_JogFalls2026%22&FORM=HPQUIZ",
+  "hash": "4d12d5e10f683f041c927951952773d1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260925",
+    "fullStartDateTime": "202609250700",
+    "endDate": "20260926"
+  },
+  "createdAt": "202609260542",
+  "originalUrlBase": "/th?id=OHR.JogFalls2026_ROW3282923682"
+}
