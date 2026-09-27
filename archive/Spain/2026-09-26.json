@@ -1,0 +1,48 @@
+{
+  "date": "27 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Jardín nocturno en la profundidad",
+  "bsTitle": "Jardín nocturno en la profundidad",
+  "caption": "Cangrejo decorador, Parque Nacional de Komodo, Indonesia",
+  "copyright": "Cangrejo decorador en una pluma marina, Parque Nacional de Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "© Alex Mustard/Nature Picture Library",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Komodo&form=hpcapt&filters=HpDate%3a%2220260926_2200%22",
+  "description": "En los fondos del Parque Nacional de Komodo (Indonesia), un cangrejo decorador se refugia sobre una pluma de mar, ese coral blando que se ancla al sedimento y se despliega como un abanico. La estrategia es sencilla y brillante: la pluma llama la atención y el cangrejo desaparece.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260926_DecoCrab%22&FORM=HPQUIZ",
+  "hash": "cfc90cd7c9dd19d21dac1d801ac12661",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_ES-ES3779382499_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260926",
+    "fullStartDateTime": "202609262200",
+    "endDate": "20260927"
+  },
+  "createdAt": "202609270601",
+  "originalUrlBase": "/th?id=OHR.DecoCrab_ES-ES3779382499"
+}

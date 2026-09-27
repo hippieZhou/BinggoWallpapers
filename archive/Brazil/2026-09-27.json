@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Elegância defensiva",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Caranguejo-decorador em pena-do-mar, Parque Nacional de Komodo, Indonésia (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Komodo+na+Indon%c3%a9sia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_DecoCrab%22&FORM=HPQUIZ",
+  "hash": "5b3c42ec1074ea923b2f94815f52153f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_PT-BR1863827080_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260927",
+    "fullStartDateTime": "202609270300",
+    "endDate": "20260928"
+  },
+  "createdAt": "202609270601",
+  "originalUrlBase": "/th?id=OHR.DecoCrab_PT-BR1863827080"
+}

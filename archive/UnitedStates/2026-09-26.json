@@ -1,0 +1,48 @@
+{
+  "date": "Sep 26, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The stories written across the land",
+  "bsTitle": "The stories written across the land",
+  "caption": "National Public Lands Day",
+  "copyright": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
+  "copyrightOnly": "© Jeff Clay/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=National+Public+Lands+Day&form=hpcapt&filters=HpDate%3a%2220260926_0700%22",
+  "description": "What do a bear's ears, a house on fire, and a road packed with hairpin turns have in common? They're all part of the story of southeastern Utah's public lands.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260926_BearsEars%22&FORM=HPQUIZ",
+  "hash": "a36c7d6f20d817f8175abc123d762ff0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260926",
+    "fullStartDateTime": "202609260700",
+    "endDate": "20260927"
+  },
+  "createdAt": "202609270601",
+  "originalUrlBase": "/th?id=OHR.BearsEars_EN-US9429791451"
+}

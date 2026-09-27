@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Giardino notturno delle profondità",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+Nazionale+di+Komodo&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260926_DecoCrab%22&FORM=HPQUIZ",
+  "hash": "128279acdbf5b541c31ae338cd2c0d88",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260926",
+    "fullStartDateTime": "202609262200",
+    "endDate": "20260927"
+  },
+  "createdAt": "202609270601",
+  "originalUrlBase": "/th?id=OHR.DecoCrab_IT-IT5114188667"
+}

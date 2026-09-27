@@ -1,0 +1,48 @@
+{
+  "date": "Sep 27, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Night garden of the deep",
+  "bsTitle": "Night garden of the deep",
+  "caption": "Decorator crab on a sea pen, Komodo National Park, Indonesia",
+  "copyright": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)",
+  "copyrightOnly": "© Alex Mustard/Nature Picture Library",
+  "copyrightLink": "/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0400%22",
+  "description": "Think of this as underwater hide-and-seek: the sea pen stands out while the crab blends in. Today's image comes from the waters surrounding Komodo National Park in Indonesia, established in 1980 and named after the Komodo dragon, the world's largest living lizard. The protected area includes islands, mangroves, seagrass beds and coral reefs. Located between the Pacific and Indian Oceans, the park is shaped by powerful currents that support a rich diversity of marine life, including species that rely on camouflage to survive.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_DecoCrab%22&FORM=HPQUIZ",
+  "hash": "b3bc557aef796d03f282bd2ffa9d7b2f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DecoCrab_EN-CA9118939695_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260927",
+    "fullStartDateTime": "202609270400",
+    "endDate": "20260928"
+  },
+  "createdAt": "202609270601",
+  "originalUrlBase": "/th?id=OHR.DecoCrab_EN-CA9118939695"
+}
