@@ -1,0 +1,48 @@
+{
+  "date": "28. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Geschichte mit Aussicht",
+  "bsTitle": "Geschichte mit Aussicht",
+  "caption": "Fort Amber bei Jaipur, Rajasthan, Indien",
+  "copyright": "Sattais-Katcheri-Halle im Fort Amber bei Jaipur, Rajasthan, Indien (© R.M. Nunes/Getty Images)",
+  "copyrightOnly": "© R.M. Nunes/Getty Images",
+  "copyrightLink": "/search?q=Fort+Amber+Indien&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+  "description": "Jaipur ist heute als „Pink City“, die rosafarbene Stadt, bekannt. Ihre historische Entwicklung nahm jedoch ihren Ausgang in Amber. Das Fort Amber war über lange Zeit politisches und kulturelles Zentrum der Region. Mit dem Bau wurde 1592 unter Raja Man Singh I. begonnen. Spätere Herrscher erweiterten die Anlage schrittweise, bevor die Residenz im Jahr 1727 in die neu gegründete Stadt Jaipur verlegt wurde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+  "hash": "d88e4f0cf13fd49aa96877aa67cc14e1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260927",
+    "fullStartDateTime": "202609272200",
+    "endDate": "20260928"
+  },
+  "createdAt": "202609280608",
+  "originalUrlBase": "/th?id=OHR.AmberHall_DE-DE3888408627"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "28 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Los 27 pilares de la historia",
+  "bsTitle": "Los 27 pilares de la historia",
+  "caption": "Fuerte de Amber cerca de Jaipur, Rajasthan, India",
+  "copyright": "Sattais Katcheri en el Fuerte de Amber cerca de Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)",
+  "copyrightOnly": "© R.M. Nunes/Getty Images",
+  "copyrightLink": "/search?q=Fuerte+Amber&form=hpcapt&filters=HpDate%3a%2220260927_2200%22",
+  "description": "El Fuerte de Amber, junto a Jaipur (Rajastán, India), fue la capital real antes de que existiera la ciudad rosa. Su construcción arrancó en 1592 con Raja Man Singh I y continuó más de un siglo bajo los soberanos kachwaha; en 1727 la corte se mudó a la nueva Jaipur, aunque Amber siguió acogiendo ceremonias.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_AmberHall%22&FORM=HPQUIZ",
+  "hash": "0ec4752f554822c105ffdc7bed96108c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AmberHall_ES-ES8111355480_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260927",
+    "fullStartDateTime": "202609272200",
+    "endDate": "20260928"
+  },
+  "createdAt": "202609280608",
+  "originalUrlBase": "/th?id=OHR.AmberHall_ES-ES8111355480"
+}

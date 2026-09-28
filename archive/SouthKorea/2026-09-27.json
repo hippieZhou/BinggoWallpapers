@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sunset over the vineyards of Steinhaldenfeld, Neckar valley, Stuttgart, Germany (© Cyril Gosselin/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Neckar+valley&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_NeckarVineyards%22&FORM=HPQUIZ",
+  "hash": "8fa18e82662116b0b6d14d8587ade4d1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260927",
+    "fullStartDateTime": "202609270700",
+    "endDate": "20260928"
+  },
+  "createdAt": "202609280608",
+  "originalUrlBase": "/th?id=OHR.NeckarVineyards_ROW5359254474"
+}

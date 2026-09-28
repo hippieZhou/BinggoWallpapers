@@ -1,0 +1,48 @@
+{
+  "date": "Sept 27, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Steinhaldenfeld, Neckar valley, Germany",
+  "copyright": "Sunset over the vineyards of Steinhaldenfeld, Neckar valley, Stuttgart, Germany (© Cyril Gosselin/Getty Images)",
+  "copyrightOnly": "© Cyril Gosselin/Getty Images",
+  "copyrightLink": "/search?q=Neckar+valley&form=hpcapt&filters=HpDate%3a%2220260927_0700%22",
+  "description": "Forget rolling vineyards—around Stuttgart in Germany, the vines take the uphill route, climbing steep terraces above the Neckar valley and weaving between dry-stone walls. These vineyards are a defining feature of the city's landscape, with some of the steepest plots requiring extensive handwork because machinery is difficult to use. Local winegrowers, known as Wengerter, tend the vines on slopes that can reach gradients of 50 per cent. Traditional varieties such as Trollinger and Riesling are closely associated with the region and remain widely grown today.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260927_NeckarVineyards%22&FORM=HPQUIZ",
+  "hash": "8fa18e82662116b0b6d14d8587ade4d1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260927",
+    "fullStartDateTime": "202609270700",
+    "endDate": "20260928"
+  },
+  "createdAt": "202609280608",
+  "originalUrlBase": "/th?id=OHR.NeckarVineyards_ROW5359254474"
+}
