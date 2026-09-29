@@ -1,0 +1,48 @@
+{
+  "date": "29 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Née des glaciers",
+  "bsTitle": "Née des glaciers",
+  "caption": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis",
+  "copyright": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis (© jared lloyd/Getty Images)",
+  "copyrightOnly": "© jared lloyd/Getty Images",
+  "copyrightLink": "/search?q=rivi%c3%a8re+Kasilof+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2200%22",
+  "description": "Vue du ciel, la rivière Kasilof dessine un ruban turquoise à travers la péninsule de Kenai, en Alaska (États-Unis). Cette teinte saisissante provient des fines particules glaciaires transportées depuis le lac Tustumena, l’un des plus vastes lacs d’eau douce de l’État. Sur environ 27 kilomètres avant de rejoindre le Cook Inlet, le cours d’eau traverse un décor façonné par les glaces depuis des millénaires. À chaque méandre, les reflets sur l’eau laiteuse révèlent un paysage où montagnes, forêts boréales et zones humides composent une remarquable mosaïque naturelle.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260928_KasilofRiver%22&FORM=HPQUIZ",
+  "hash": "dd500110de58bb30013bdee517840bf6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260928",
+    "fullStartDateTime": "202609282200",
+    "endDate": "20260929"
+  },
+  "createdAt": "202609290626",
+  "originalUrlBase": "/th?id=OHR.KasilofRiver_FR-FR9609860572"
+}
