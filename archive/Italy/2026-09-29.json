@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Un volto che non si dimentica mai",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Maschio di basettino, Norfolk, Inghilterra (© Andrew Sproule/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=basettino+(Panurus+biarmicus)&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_BeardReedling%22&FORM=HPQUIZ",
+  "hash": "3d30cb94b01e0ea44c0ccf3384a08b91",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_IT-IT8754476280_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_IT-IT8754476280_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_IT-IT8754476280_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_IT-IT8754476280_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_IT-IT8754476280_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260929",
+    "fullStartDateTime": "202609292200",
+    "endDate": "20260930"
+  },
+  "createdAt": "202609300611",
+  "originalUrlBase": "/th?id=OHR.BeardReedling_IT-IT8754476280"
+}

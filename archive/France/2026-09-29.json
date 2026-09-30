@@ -1,0 +1,48 @@
+{
+  "date": "30 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une drôle de petite tête",
+  "bsTitle": "Une drôle de petite tête",
+  "caption": "Panure à moustaches mâle, Norfolk, Angleterre",
+  "copyright": "Panure à moustaches mâle, Norfolk, Angleterre (© Andrew Sproule/Shutterstock)",
+  "copyrightOnly": "© Andrew Sproule/Shutterstock",
+  "copyrightLink": "/search?q=panure+%c3%a0+moustache&form=hpcapt&filters=HpDate%3a%2220260929_2200%22",
+  "description": "Dans les roselières du Norfolk, à l’est de l’Angleterre, un petit éclat de couleur attire parfois le regard avant de disparaître entre les tiges frémissantes. Le mâle de la panure à moustaches, avec sa tête bleu gris pâle, son bec orange vif et ses marques noires caractéristiques, semble avoir été peint pour se distinguer. Pourtant, cet oiseau discret passe l’essentiel de sa vie à l’abri des regards, au cœur des marais, des berges lacustres et des vastes étendues de roseaux qui façonnent ces paysages humides.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_BeardReedling%22&FORM=HPQUIZ",
+  "hash": "c1b2b6baa23f91a149f30d42f71edc30",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260929",
+    "fullStartDateTime": "202609292200",
+    "endDate": "20260930"
+  },
+  "createdAt": "202609300611",
+  "originalUrlBase": "/th?id=OHR.BeardReedling_FR-FR6298814586"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "30 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un canto inolvidable",
+  "bsTitle": "Un canto inolvidable",
+  "caption": "Macho de bigotudo, Norfolk, Inglaterra",
+  "copyright": "Macho de bigotudo, Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
+  "copyrightOnly": "© Andrew Sproule/Shutterstock",
+  "copyrightLink": "/search?q=bigotudo+Panurus+biarmicus&form=hpcapt&filters=HpDate%3a%2220260929_2200%22",
+  "description": "Sujeto a un tallo en Norfolk (Inglaterra), el macho de bigotudo luce cabeza gris azulada, pico naranja y esas dos manchas negras que le dan nombre, más parecidas a unas patillas que a un bigote. Vive escondido en los carrizales, y casi siempre lo delata su reclamo metálico antes que su figura.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260929_BeardReedling%22&FORM=HPQUIZ",
+  "hash": "573bb5ed1d9eecf0eb20bab82b0a24eb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260929",
+    "fullStartDateTime": "202609292200",
+    "endDate": "20260930"
+  },
+  "createdAt": "202609300611",
+  "originalUrlBase": "/th?id=OHR.BeardReedling_ES-ES8271136302"
+}
