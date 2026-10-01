@@ -1,0 +1,48 @@
+{
+  "date": "Oct 1, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Reading time in granite",
+  "bsTitle": "Reading time in granite",
+  "caption": "Yosemite National Park, California, United States",
+  "copyright": "Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)",
+  "copyrightOnly": "© Robb Hirsch/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0400%22",
+  "description": "In 1890, Yosemite became America's third national park. More than a century later, it still feels like a place that operates on geological time rather than human schedules. From Olmsted Point, the overlook in today's image, that timescale is impossible to miss. The smooth granite underfoot was sculpted by glaciers, while scattered boulders known as glacial erratics were carried here by ice and abandoned when it melted.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_OlmstedPoint%22&FORM=HPQUIZ",
+  "hash": "422aecd55a14fd9997a5ec232e7a9e43",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-CA1947517359_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261001",
+    "fullStartDateTime": "202610010400",
+    "endDate": "20261002"
+  },
+  "createdAt": "202610010642",
+  "originalUrlBase": "/th?id=OHR.OlmstedPoint_EN-CA1947517359"
+}

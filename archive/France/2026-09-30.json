@@ -1,0 +1,48 @@
+{
+  "date": "1 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Elle nous fait tourner la tête",
+  "bsTitle": "Elle nous fait tourner la tête",
+  "caption": "La tour Eiffel au coucher de soleil, Paris, France",
+  "copyright": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "© Alexander Spatari/Getty Images",
+  "copyrightLink": "/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
+  "description": "Paris évoque instantanément les promenades au crépuscule, les quais de la Seine et une élégance célébrée dans le monde entier. Pourtant, derrière cette image romantique se cache une histoire plus nuancée. À la fin du XIXᵉ siècle, la ville accueille l’Exposition universelle commémorant le centenaire de la Révolution française, dans un contexte de profondes transformations urbaines et culturelles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260930_ParisSunset%22&FORM=HPQUIZ",
+  "hash": "0be64b03461f34004c2a53fe3ea7f477",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260930",
+    "fullStartDateTime": "202609302200",
+    "endDate": "20261001"
+  },
+  "createdAt": "202610010642",
+  "originalUrlBase": "/th?id=OHR.ParisSunset_FR-FR0051640032"
+}
