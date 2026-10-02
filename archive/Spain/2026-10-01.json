@@ -1,0 +1,48 @@
+{
+  "date": "2 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Aguas bravas entre bosques",
+  "bsTitle": "Aguas bravas entre bosques",
+  "caption": "Río Chattooga, Carolina del Norte, EE. UU.",
+  "copyright": "Río Chattooga en los montes Apalaches, Carolina del Norte, EE. UU. (© mtilghma/Getty Images)",
+  "copyrightOnly": "© mtilghma/Getty Images",
+  "copyrightLink": "/search?q=Montes+Apalaches&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+  "description": "El río Chattooga baja por los montes Apalaches, en Carolina del Norte (Estados Unidos), y es uno de los tramos de aguas bravas más celebrados del sureste del país. Nace en plena montaña y durante kilómetros marca la frontera entre Georgia, Carolina del Norte y Carolina del Sur, encajonado entre laderas boscosas y escalones de roca.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_ChattoogaRiver%22&FORM=HPQUIZ",
+  "hash": "a31b7ecc497954b0241637bc306452ce",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ES-ES4729549409_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261001",
+    "fullStartDateTime": "202610012200",
+    "endDate": "20261002"
+  },
+  "createdAt": "202610020629",
+  "originalUrlBase": "/th?id=OHR.ChattoogaRiver_ES-ES4729549409"
+}

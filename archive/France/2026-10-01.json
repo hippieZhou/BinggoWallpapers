@@ -1,0 +1,48 @@
+{
+  "date": "2 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L'automne en tourbière",
+  "bsTitle": "L'automne en tourbière",
+  "caption": "Végétation automnale sur la tourbière",
+  "copyright": "Végétation automnale multicolore sur la tourbière (© Utopia_88/Getty Images)",
+  "copyrightOnly": "© Utopia_88/Getty Images",
+  "copyrightLink": "/search?q=tourbi%c3%a8re+d%c3%a9finition&form=hpcapt&filters=HpDate%3a%2220261001_2200%22",
+  "description": "On parle souvent des forêts pour célébrer les couleurs de l'automne — le hêtre cuivré, le chêne doré, l'érable écarlate. Mais en France, d'autres paysages se parent de teintes tout aussi saisissantes, dans un silence que les sous-bois ne connaissent pas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_AutumnPeatBog%22&FORM=HPQUIZ",
+  "hash": "bdc8b2fd765c610a598ff5db21dfdd47",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnPeatBog_FR-FR3286332172_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261001",
+    "fullStartDateTime": "202610012200",
+    "endDate": "20261002"
+  },
+  "createdAt": "202610020629",
+  "originalUrlBase": "/th?id=OHR.AutumnPeatBog_FR-FR3286332172"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Oggi si festeggiano loro",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "L'acquedotto medievale di Perugia, Umbria, Italia (© Marco Saracco/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Acquedotto+medievale+di+Perugia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_PerugiaAqueduct%22&FORM=HPQUIZ",
+  "hash": "80ab8fbacc43a4b6fabd79f975e0d76c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_IT-IT7918245077_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261001",
+    "fullStartDateTime": "202610012200",
+    "endDate": "20261002"
+  },
+  "createdAt": "202610020629",
+  "originalUrlBase": "/th?id=OHR.PerugiaAqueduct_IT-IT7918245077"
+}

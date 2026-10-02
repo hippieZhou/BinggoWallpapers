@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 2 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "川面を流れる紅葉",
+  "bsTitle": "川面を流れる紅葉",
+  "caption": "川面を流れる紅葉",
+  "copyright": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
+  "copyrightOnly": "© mtilghma/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%81%e3%83%a3%e3%83%88%e3%82%a5%e3%83%bc%e3%82%ac%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220261001_1500%22",
+  "description": "ここはチャトゥーガ川。米国ノースカロライナ州のアパラチア山脈を源流とし、サウスカロライナ州とジョージア州の州境を流れる川です。長さは約 92km で、米国南東部で最も長い自由流河川の一つです。美しい景観と豊かな生態系で知られているほか、ラフティングやカヤック、カヌーといったアクティビティを楽しむことができます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261001_ChattoogaRiver%22&FORM=HPQUIZ",
+  "hash": "52c852ac60a732683c1372199f1a8ec8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261001",
+    "fullStartDateTime": "202610011500",
+    "endDate": "20261002"
+  },
+  "createdAt": "202610020629",
+  "originalUrlBase": "/th?id=OHR.ChattoogaRiver_JA-JP8558662500"
+}
