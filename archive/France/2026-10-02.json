@@ -1,0 +1,48 @@
+{
+  "date": "3 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Maître des eaux",
+  "bsTitle": "Maître des eaux",
+  "caption": "Ours brun dans la réserve de Lake Clark, Alaska, États-Unis",
+  "copyright": "Ours brun à Silver Salmon Creek, parc national et réserve de Lake Clark, Alaska, États-Unis (© Danny Green/Nature Picture Library)",
+  "copyrightOnly": "© Danny Green/Nature Picture Library",
+  "copyrightLink": "/search?q=ours+brun+animal&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
+  "description": "En octobre, dans le parc national de Lake Clark en Alaska, aux États-Unis, les ours bruns vivent leurs semaines les plus précieuses. Silver Salmon Creek devient un véritable buffet sauvage : poissons, baies, racines, palourdes — ils mangent sans relâche, accumulant les réserves de graisse qui leur permettront de traverser l'hiver sans manger ni boire. Certains atteignent plus de 450 kilos avant de rejoindre leur tanière.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_GrizzlySwim%22&FORM=HPQUIZ",
+  "hash": "5d6ee81732ddb7d68a43d5b28ac1a8fc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_FR-FR9368655618_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261002",
+    "fullStartDateTime": "202610022200",
+    "endDate": "20261003"
+  },
+  "createdAt": "202610030555",
+  "originalUrlBase": "/th?id=OHR.GrizzlySwim_FR-FR9368655618"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "3 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Pescar, comer y repetir",
+  "bsTitle": "Pescar, comer y repetir",
+  "caption": "Parque Nacional y Reserva del lago Clark, Alaska, EE. UU.",
+  "copyright": "Oso pardo en Silver Salmon Creek, Parque Nacional y Reserva del lago Clark, Alaska, EE. UU. (© Danny Green/Nature Picture Library)",
+  "copyrightOnly": "© Danny Green/Nature Picture Library",
+  "copyrightLink": "/search?q=Oso+pardo&form=hpcapt&filters=HpDate%3a%2220261002_2200%22",
+  "description": "Los osos pardos del Parque Nacional y Reserva del lago Clark, en Alaska (Estados Unidos), viven ahora su temporada de comidas copiosas. En octubre aprovechan todo lo que queda disponible, desde peces y juncias hasta bayas, raíces y almejas, porque cada gramo cuenta: algunos superan los 450 kilogramos antes de meterse en la osera, y esa grasa es lo único que los sostendrá durante un invierno sin comer ni beber.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_GrizzlySwim%22&FORM=HPQUIZ",
+  "hash": "a8fc8c877084fc7ea33b05e2ccadcd86",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_ES-ES2255914104_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_ES-ES2255914104_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_ES-ES2255914104_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_ES-ES2255914104_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_ES-ES2255914104_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261002",
+    "fullStartDateTime": "202610022200",
+    "endDate": "20261003"
+  },
+  "createdAt": "202610030555",
+  "originalUrlBase": "/th?id=OHR.GrizzlySwim_ES-ES2255914104"
+}

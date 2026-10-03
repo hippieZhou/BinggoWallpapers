@@ -1,0 +1,48 @@
+{
+  "date": "Oct 2, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A river worth protecting",
+  "bsTitle": "A river worth protecting",
+  "caption": "Wild and Scenic Rivers Act",
+  "copyright": "Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)",
+  "copyrightOnly": "© mtilghma/Getty Images",
+  "copyrightLink": "/search?q=Wild+and+Scenic+Rivers+Act&form=hpcapt&filters=HpDate%3a%2220261002_0700%22",
+  "description": "Rivers have long played an important role in life across the United States, supporting communities, wildlife, and industry. President Lyndon B. Johnson signed the Wild and Scenic Rivers Act into law on October 2, 1968. It created a national system to protect rivers and river segments with outstanding scenic, recreational, geologic, fish and wildlife, historic, or cultural values. The Act preserves designated rivers in a free-flowing condition, protects their water quality, and aims to safeguard the qualities that made them worthy of designation.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261002_ChattoogaRiver%22&FORM=HPQUIZ",
+  "hash": "dc1a5289938b9110f41a85265580fa00",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261002",
+    "fullStartDateTime": "202610020700",
+    "endDate": "20261003"
+  },
+  "createdAt": "202610030555",
+  "originalUrlBase": "/th?id=OHR.ChattoogaRiver_EN-US5042787453"
+}
