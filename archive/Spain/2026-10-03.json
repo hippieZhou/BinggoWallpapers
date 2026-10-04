@@ -1,0 +1,48 @@
+{
+  "date": "4 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El universo llama",
+  "bsTitle": "El universo llama",
+  "caption": "Comienza la Semana Mundial del Espacio",
+  "copyright": "Cohete lunar Artemis I en el Complejo de Lanzamiento 39B, Centro Espacial Kennedy, Florida, EE. UU., 15 de junio de 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+  "copyrightOnly": "© EVA MARIE UZCATEGUI/Getty Images",
+  "copyrightLink": "/search?q=Semana+Mundial+del+Espacio&form=hpcapt&filters=HpDate%3a%2220261003_2200%22",
+  "description": "El cohete de la imagen espera en el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, en Florida (Estados Unidos), preparado para una misión con un encargo insólito: demostrar que podía llegar a la Luna y volver sin nadie a bordo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_ArtemisRocket%22&FORM=HPQUIZ",
+  "hash": "fa490e71f34747ea9fda3dd1cf612855",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_ES-ES2701886938_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_ES-ES2701886938_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_ES-ES2701886938_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_ES-ES2701886938_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_ES-ES2701886938_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261003",
+    "fullStartDateTime": "202610032200",
+    "endDate": "20261004"
+  },
+  "createdAt": "202610040632",
+  "originalUrlBase": "/th?id=OHR.ArtemisRocket_ES-ES2701886938"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 4 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日から世界宇宙週間",
+  "bsTitle": "今日から世界宇宙週間",
+  "caption": "今日から世界宇宙週間",
+  "copyright": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)",
+  "copyrightOnly": "© EVA MARIE UZCATEGUI/Getty Images",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e5%ae%87%e5%ae%99%e9%80%b1%e9%96%93&form=hpcapt&filters=HpDate%3a%2220261003_1500%22",
+  "description": "今日、10 月 4 日から 10 月 10 日までは、世界宇宙週間です。毎年テーマが定められており、今年のテーマは「ロケット革命」。そして、画像は米国フロリダ州のケネディ宇宙センターで打ち上げられたアルテミス I のロケットです。2022 年 11 月 16 日、NASA はアルテミス I ミッションとしてオリオン宇宙船を打ち上げました。これは、将来の有人月面探査に向けたシステムの安全性と信頼性を検証するための無人飛行試験でした。オリオン宇宙船は地球から約 43 万 km に到達し、月を周回する遠方逆行軌道を飛行した後、約 25 日間にわたるミッションを完了しました。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_ArtemisRocket%22&FORM=HPQUIZ",
+  "hash": "1231e79720ead1916b1be5761768079f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261003",
+    "fullStartDateTime": "202610031500",
+    "endDate": "20261004"
+  },
+  "createdAt": "202610040632",
+  "originalUrlBase": "/th?id=OHR.ArtemisRocket_JA-JP8925094178"
+}

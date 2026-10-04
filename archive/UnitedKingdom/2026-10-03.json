@@ -1,0 +1,48 @@
+{
+  "date": "Oct 4, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "The universe is calling",
+  "bsTitle": "The universe is calling",
+  "caption": "World Space Week begins",
+  "copyright": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)",
+  "copyrightOnly": "© EVA MARIE UZCATEGUI/Getty Images",
+  "copyrightLink": "/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261003_2300%22",
+  "description": "First, you build a rocket. Then you ask it to leave Earth, fly to the moon, survive the trip and bring its spacecraft home. Simple, right? Well, not quite. World Space Week, observed every 4-10 October, celebrates the science that makes missions like this possible. The United Nations established the observance in 1999 to commemorate Sputnik 1's launch on 4 October 1957, and the entry into force of the Outer Space Treaty on 10 October 1967. This year's theme, 'Rocket Revolution,' focuses on the evolving technology driving space exploration.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_ArtemisRocket%22&FORM=HPQUIZ",
+  "hash": "c9561e159ae38e433f41877093219259",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261003",
+    "fullStartDateTime": "202610032300",
+    "endDate": "20261004"
+  },
+  "createdAt": "202610040632",
+  "originalUrlBase": "/th?id=OHR.ArtemisRocket_EN-GB2659306567"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "L'universo ci chiama",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Settimana+mondiale+dello+spazio&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261003_ArtemisRocket%22&FORM=HPQUIZ",
+  "hash": "6cb29df544e3a6a1dd8b993946210a09",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261003",
+    "fullStartDateTime": "202610032200",
+    "endDate": "20261004"
+  },
+  "createdAt": "202610040632",
+  "originalUrlBase": "/th?id=OHR.ArtemisRocket_IT-IT8266299733"
+}
