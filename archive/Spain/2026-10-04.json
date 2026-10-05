@@ -1,0 +1,48 @@
+{
+  "date": "5 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Al agua, lección a lección",
+  "bsTitle": "Al agua, lección a lección",
+  "caption": "Día Mundial de los Docentes",
+  "copyright": "Pingüinos de Adelia, Antártida (© Otto Plantema/Minden Pictures)",
+  "copyrightOnly": "© Otto Plantema/Minden Pictures",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+de+los+Docentes&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+  "description": "¿Qué puede enseñarnos un pingüino de Adelia, un ave de apenas setenta centímetros? Bastante. En el Día Mundial de los Docentes, esta especie de las costas de la Antártida ofrece una lección de ingenio, resistencia y algo de picaresca. Debe su nombre a Adèle, esposa del explorador francés Jules Dumont d'Urville, que dio con la especie durante una expedición en 1840.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+  "hash": "02b7150bbf49b734f89396d375c9376e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_ES-ES0045236370_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_ES-ES0045236370_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_ES-ES0045236370_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_ES-ES0045236370_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_ES-ES0045236370_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261004",
+    "fullStartDateTime": "202610042200",
+    "endDate": "20261005"
+  },
+  "createdAt": "202610050626",
+  "originalUrlBase": "/th?id=OHR.AdelieTeacher_ES-ES0045236370"
+}

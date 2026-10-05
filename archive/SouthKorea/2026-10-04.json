@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Château de Castelnaud overlooking the river Dordogne, France (© garethkirklandphotogrphy/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Chateau+de+Castelnaud&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_CastelnaudPatrimoine%22&FORM=HPQUIZ",
+  "hash": "86d809a7dfb3ce024b1670f475eb0c48",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261004",
+    "fullStartDateTime": "202610040700",
+    "endDate": "20261005"
+  },
+  "createdAt": "202610050626",
+  "originalUrlBase": "/th?id=OHR.CastelnaudPatrimoine_ROW3072375181"
+}

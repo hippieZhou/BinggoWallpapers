@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Un tuffo, una lezione",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Pinguini di Adelia, Antartide (© Otto Plantema/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+mondiale+degli+insegnanti&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+  "hash": "c542581dfb469c7ab558313a84fa2e71",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_IT-IT0908380283_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_IT-IT0908380283_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_IT-IT0908380283_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_IT-IT0908380283_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_IT-IT0908380283_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261004",
+    "fullStartDateTime": "202610042200",
+    "endDate": "20261005"
+  },
+  "createdAt": "202610050626",
+  "originalUrlBase": "/th?id=OHR.AdelieTeacher_IT-IT0908380283"
+}

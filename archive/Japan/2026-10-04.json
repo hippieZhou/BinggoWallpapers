@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 5 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "海へ飛び込もうとするペンギンたち",
+  "bsTitle": "海へ飛び込もうとするペンギンたち",
+  "caption": "海へ飛び込もうとするペンギンたち",
+  "copyright": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)",
+  "copyrightOnly": "© Otto Plantema/Minden Pictures",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%87%e3%83%aa%e3%83%bc%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261004_1500%22",
+  "description": "今日の画像は、南極大陸周辺に生息するアデリーペンギンのグループ。アデリーペンギンは、体長 60 ～ 70cm、体重約 5kg という中型のペンギンです。海中を時速約 14kmで泳ぎ回りながら、餌を捕まえたり、捕食者から逃れたりします。地上の雪原を移動する際は、他のペンギン同様腹ばいになって氷上を滑って移動することがあります。この移動方法は「トボガン」と呼ばれており、北米の先住民が用いていたソリを意味する言葉にちなんで名づけられました。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+  "hash": "a8f683f0ee91c40cd0658207e3dbb53a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261004",
+    "fullStartDateTime": "202610041500",
+    "endDate": "20261005"
+  },
+  "createdAt": "202610050626",
+  "originalUrlBase": "/th?id=OHR.AdelieTeacher_JA-JP9090254921"
+}

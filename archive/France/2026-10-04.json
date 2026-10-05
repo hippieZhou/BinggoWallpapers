@@ -1,0 +1,48 @@
+{
+  "date": "5 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Plonger dans sa leçon",
+  "bsTitle": "Plonger dans sa leçon",
+  "caption": "Journée mondiale des enseignant(e)s",
+  "copyright": "Manchots Adélie, Antarctique (© Otto Plantema/Minden Pictures)",
+  "copyrightOnly": "© Otto Plantema/Minden Pictures",
+  "copyrightLink": "/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261004_2200%22",
+  "description": "À l'occasion de la Journée mondiale des enseignant(e)s, c'est un drôle de professeur qui prend la parole : le manchot Adélie, haut d'à peine 70 centimètres, debout sur la glace antarctique. Son nom rend hommage à Adèle Dumont d'Urville, épouse de l'explorateur français qui croisa ces oiseaux pour la première fois en 1840.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261004_AdelieTeacher%22&FORM=HPQUIZ",
+  "hash": "d5891aa0a144ad12f9d94785232f0289",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261004",
+    "fullStartDateTime": "202610042200",
+    "endDate": "20261005"
+  },
+  "createdAt": "202610050626",
+  "originalUrlBase": "/th?id=OHR.AdelieTeacher_FR-FR4489383327"
+}
