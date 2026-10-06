@@ -1,0 +1,48 @@
+{
+  "date": "6 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La Tierra contada a rayas",
+  "bsTitle": "La Tierra contada a rayas",
+  "caption": "Día Internacional de la Geodiversidad",
+  "copyright": "Relieve Danxia, Geoparque Nacional de Zhangye, Gansu, China (© Weiquan Lin/Getty Images)",
+  "copyrightOnly": "© Weiquan Lin/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+de+la+Geodiversidad&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+  "description": "En el Geoparque Nacional de Zhangye, en Gansu (China), las montañas cuentan su historia geológica a rayas: las lomas se suceden en bandas rojas, naranjas, amarillas y ocres. Es el relieve Danxia, formado por capas sedimentarias que los movimientos tectónicos levantaron y plegaron, y que la erosión terminó de esculpir en crestas, barrancos y farallones.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_DanxiaLandform%22&FORM=HPQUIZ",
+  "hash": "5e3ee9368fad8cf9e949ab9fe49f0d79",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ES-ES4557489111_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261005",
+    "fullStartDateTime": "202610052200",
+    "endDate": "20261006"
+  },
+  "createdAt": "202610060702",
+  "originalUrlBase": "/th?id=OHR.DanxiaLandform_ES-ES4557489111"
+}

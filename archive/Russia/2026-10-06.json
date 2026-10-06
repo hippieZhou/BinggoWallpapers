@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Zhangye+National+Geopark&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_DanxiaLandform%22&FORM=HPQUIZ",
+  "hash": "293e9189e4165fee0c496027f0087236",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261006",
+    "fullStartDateTime": "202610060700",
+    "endDate": "20261007"
+  },
+  "createdAt": "202610060702",
+  "originalUrlBase": "/th?id=OHR.DanxiaLandform_ROW6165298580"
+}

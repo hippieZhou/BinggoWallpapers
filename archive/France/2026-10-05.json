@@ -1,0 +1,48 @@
+{
+  "date": "6 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La mémoire de la Terre",
+  "bsTitle": "La mémoire de la Terre",
+  "caption": "Journée internationale de la géodiversité",
+  "copyright": "Relief Danxia, géoparc national de Zhangye, Gansu, Chine (© Weiquan Lin/Getty Images)",
+  "copyrightOnly": "© Weiquan Lin/Getty Images",
+  "copyrightLink": "/search?q=journ%c3%a9e+internationale+de+la+g%c3%a9odiversit%c3%a9&form=hpcapt&filters=HpDate%3a%2220261005_2200%22",
+  "description": "Et si une chaîne de montagnes pouvait vous raconter son histoire à travers ses couleurs ? Au parc géologique national de Zhangye, dans la province du Gansu en Chine, c'est exactement ce que font les roches. Des crêtes ondulent à perte de vue, striées de rouge, d'orange, d'ocre et de brun — une palette que nul artiste n'aurait osé inventer.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261005_DanxiaLandform%22&FORM=HPQUIZ",
+  "hash": "5113e9a16f7852f9b720becc0cf7abb9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261005",
+    "fullStartDateTime": "202610052200",
+    "endDate": "20261006"
+  },
+  "createdAt": "202610060702",
+  "originalUrlBase": "/th?id=OHR.DanxiaLandform_FR-FR1547265147"
+}
