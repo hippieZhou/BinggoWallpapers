@@ -1,0 +1,48 @@
+{
+  "date": "7 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¿Perdido? Sigue el sendero",
+  "bsTitle": "¿Perdido? Sigue el sendero",
+  "caption": "Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra",
+  "copyright": "Rocas cubiertas de musgo en Puzzlewood, Bosque de Dean, Gloucestershire, Inglaterra (© Fulcanelli_AOS/Getty Images)",
+  "copyrightOnly": "© Fulcanelli_AOS/Getty Images",
+  "copyrightLink": "/search?q=Puzzlewood+Bosque+de+Dean&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+  "description": "En Puzzlewood, junto a Coleford, en el Bosque de Dean (Inglaterra), los senderos serpentean entre árboles retorcidos, rocas tapizadas de musgo y gargantas de piedra que hacen dudar en cada curva. Esas formaciones tan raras se llaman scowles: cavidades naturales que quedaron al descubierto con el tiempo y que después se explotaron para extraer hierro, ya en época romana o incluso antes. En 1848, un trabajador encontró más de 3.000 monedas romanas escondidas en vasijas dentro de una grieta.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_ForestofDean%22&FORM=HPQUIZ",
+  "hash": "94cdc8fe1c46665c697f56451e1dea20",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_ES-ES3526600939_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_ES-ES3526600939_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_ES-ES3526600939_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_ES-ES3526600939_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_ES-ES3526600939_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261006",
+    "fullStartDateTime": "202610062200",
+    "endDate": "20261007"
+  },
+  "createdAt": "202610070643",
+  "originalUrlBase": "/th?id=OHR.ForestofDean_ES-ES3526600939"
+}

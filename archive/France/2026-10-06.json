@@ -1,0 +1,48 @@
+{
+  "date": "7 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La forêt aux mille secrets",
+  "bsTitle": "La forêt aux mille secrets",
+  "caption": "Puzzlewood, forêt de Dean, Gloucestershire, Angleterre",
+  "copyright": "Roches couvertes de mousse à Puzzlewood, forêt de Dean, Gloucestershire, Angleterre (© Fulcanelli_AOS/Getty Images)",
+  "copyrightOnly": "© Fulcanelli_AOS/Getty Images",
+  "copyrightLink": "/search?q=Puzzlewood+Angleterre&form=hpcapt&filters=HpDate%3a%2220261006_2200%22",
+  "description": "À Puzzlewood, près de Coleford dans la forêt de Dean en Angleterre, les sentiers ne mènent nulle part — et c'est précisément leur charme. Sous une épaisse couverture de mousse, des roches tourmentées surgissent du sol, creusées de ravins et de cavités mystérieuses que les Romains exploitaient déjà pour leur minerai de fer, il y a plus de deux mille ans.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_ForestofDean%22&FORM=HPQUIZ",
+  "hash": "7478f5655058965936873d9e495a7539",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261006",
+    "fullStartDateTime": "202610062200",
+    "endDate": "20261007"
+  },
+  "createdAt": "202610070643",
+  "originalUrlBase": "/th?id=OHR.ForestofDean_FR-FR4745623763"
+}

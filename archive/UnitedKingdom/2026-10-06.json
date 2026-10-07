@@ -1,0 +1,48 @@
+{
+  "date": "Oct 7, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Puzzled? Follow the trail",
+  "bsTitle": "Puzzled? Follow the trail",
+  "caption": "Puzzlewood, Forest of Dean, Gloucestershire, England",
+  "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)",
+  "copyrightOnly": "© Fulcanelli_AOS/Getty Images",
+  "copyrightLink": "/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261006_2300%22",
+  "description": "What if a forest could keep you guessing at every turn? At Puzzlewood, near Coleford in the Forest of Dean, England, winding paths lead through twisted trees, moss-covered rocks and deep stone ravines. Its unusual rock formations, known as scowles, are natural geological features that were exposed and modified over time and later exploited for iron ore mining during the Roman period and possibly earlier. In 1848, a worker discovered more than 3,000 Roman-era coins hidden in earthenware jars inside a rock cavity, turning the woodland into a real-life treasure hunt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261006_ForestofDean%22&FORM=HPQUIZ",
+  "hash": "79a9a79a4359c7da5a2ce5686aa2384d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261006",
+    "fullStartDateTime": "202610062300",
+    "endDate": "20261007"
+  },
+  "createdAt": "202610070643",
+  "originalUrlBase": "/th?id=OHR.ForestofDean_EN-GB3000076093"
+}
