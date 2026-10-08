@@ -1,0 +1,48 @@
+{
+  "date": "8 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Poulpe fiction",
+  "bsTitle": "Poulpe fiction",
+  "caption": "Journée internationale du poulpe",
+  "copyright": "Poulpe en position défensive, Mayotte, océan Indien (© Gabriel Barathieu/Minden Pictures)",
+  "copyrightOnly": "© Gabriel Barathieu/Minden Pictures",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+du+poulpe&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
+  "description": "Au large de Mayotte, archipel français de l'océan Indien, ce poulpe a adopté une posture sans équivoque : ce qui s'approche ferait mieux de rebrousser chemin.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_MayotteOctopus%22&FORM=HPQUIZ",
+  "hash": "baeeb03654162a2eaa1439de2eee4b89",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261007",
+    "fullStartDateTime": "202610072200",
+    "endDate": "20261008"
+  },
+  "createdAt": "202610080652",
+  "originalUrlBase": "/th?id=OHR.MayotteOctopus_FR-FR2063163267"
+}

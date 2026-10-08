@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Ora mi vedi, ora no",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Polpo in posizione difensiva, Mayotte, Francia, Oceano Indiano (© Gabriel Barathieu/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+mondiale+del+polpo&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_MayotteOctopus%22&FORM=HPQUIZ",
+  "hash": "88d043e1c8c554ab3785d932a2bd0777",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_IT-IT1227542362_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_IT-IT1227542362_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_IT-IT1227542362_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_IT-IT1227542362_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_IT-IT1227542362_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261007",
+    "fullStartDateTime": "202610072200",
+    "endDate": "20261008"
+  },
+  "createdAt": "202610080652",
+  "originalUrlBase": "/th?id=OHR.MayotteOctopus_IT-IT1227542362"
+}

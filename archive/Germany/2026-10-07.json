@@ -1,0 +1,48 @@
+{
+  "date": "8. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Meister der Tarnung",
+  "bsTitle": "Meister der Tarnung",
+  "caption": "Welttag der Kraken",
+  "copyright": "Krake in Abwehrhaltung, Mayotte, Indischer Ozean (© Gabriel Barathieu/Minden Pictures)",
+  "copyrightOnly": "© Gabriel Barathieu/Minden Pictures",
+  "copyrightLink": "/search?q=Welttag+der+Kraken&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
+  "description": "Am 8. Oktober wird der Welttag der Kraken gefeiert. Der Aktionstag lenkt die Aufmerksamkeit auf eine faszinierende Tiergruppe, die für ihre Intelligenz, ihre Anpassungsfähigkeit und ihre erstaunlichen Überlebensstrategien bekannt ist. Kraken leben in nahezu allen Ozeanen der Erde und begeistern Forschende ebenso wie Naturfreunde mit ihrem komplexen Verhalten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_MayotteOctopus%22&FORM=HPQUIZ",
+  "hash": "f5712c5752985b79a7442914d84a9942",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261007",
+    "fullStartDateTime": "202610072200",
+    "endDate": "20261008"
+  },
+  "createdAt": "202610080652",
+  "originalUrlBase": "/th?id=OHR.MayotteOctopus_DE-DE5307771405"
+}

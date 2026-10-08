@@ -1,0 +1,48 @@
+{
+  "date": "8 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Ahora me ves, ahora no",
+  "bsTitle": "Ahora me ves, ahora no",
+  "caption": "Día Mundial del Pulpo",
+  "copyright": "Pulpo en postura defensiva, Mayotte, Francia, océano Índico (© Gabriel Barathieu/Minden Pictures)",
+  "copyrightOnly": "© Gabriel Barathieu/Minden Pictures",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+del+Pulpo&form=hpcapt&filters=HpDate%3a%2220261007_2200%22",
+  "description": "Frente a las costas de Mayotte (Francia), en el océano Índico, este pulpo ha adoptado una postura defensiva que viene a decir: quien se acerque, que se lo piense mejor. Es una advertencia con estilo, porque en lugar de coraza confía en la transformación.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261007_MayotteOctopus%22&FORM=HPQUIZ",
+  "hash": "33eb21bdf663e675d0fa6c076e2a9a90",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_ES-ES3892391318_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_ES-ES3892391318_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_ES-ES3892391318_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_ES-ES3892391318_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MayotteOctopus_ES-ES3892391318_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261007",
+    "fullStartDateTime": "202610072200",
+    "endDate": "20261008"
+  },
+  "createdAt": "202610080652",
+  "originalUrlBase": "/th?id=OHR.MayotteOctopus_ES-ES3892391318"
+}
