@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "科西嘉岛的岩石前哨",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%a7%91%e8%a5%bf%e5%98%89%e5%b2%9b%e6%a1%91%e5%90%89%e5%a5%88%e5%b0%94%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_IlesSanguinaires%22&FORM=HPQUIZ",
+  "hash": "e324aa5d2988404657fe38261700de65",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261008",
+    "fullStartDateTime": "202610081600",
+    "endDate": "20261009"
+  },
+  "createdAt": "202610090701",
+  "originalUrlBase": "/th?id=OHR.IlesSanguinaires_ZH-CN3149346035"
+}

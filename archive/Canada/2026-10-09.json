@@ -1,0 +1,48 @@
+{
+  "date": "Oct 9, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Corsica's rocky outposts",
+  "bsTitle": "Corsica's rocky outposts",
+  "caption": "View of the Sanguinaires Islands from Corsica, France",
+  "copyright": "View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)",
+  "copyrightOnly": "© Francesco Riccardo Iacomino/Getty Images",
+  "copyrightLink": "/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0400%22",
+  "description": "Just off the coast of Corsica, France, the Sanguinaires Islands rise from the Mediterranean as a small archipelago of four rugged, rocky islands. Viewed from a historic watchtower, they sit at the entrance to the Gulf of Ajaccio. Steep cliffs, centuries-old landmarks and sweeping sea views have drawn visitors to the area for generations. Though the farthest island lies only about 1.9 kilometres from shore, the archipelago feels surprisingly remote, surrounded by open water and shaped by wind, waves and salt spray.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_IlesSanguinaires%22&FORM=HPQUIZ",
+  "hash": "170cbc9110c767ee4b0f5f025ef3e8a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-CA1335462039_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261009",
+    "fullStartDateTime": "202610090400",
+    "endDate": "20261010"
+  },
+  "createdAt": "202610090701",
+  "originalUrlBase": "/th?id=OHR.IlesSanguinaires_EN-CA1335462039"
+}

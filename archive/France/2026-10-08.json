@@ -1,0 +1,48 @@
+{
+  "date": "9 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les îles du bout du monde",
+  "bsTitle": "Les îles du bout du monde",
+  "caption": "Vue des îles Sanguinaires depuis la Corse",
+  "copyright": "Vue des îles Sanguinaires depuis la Corse (© Francesco Riccardo Iacomino/Getty Images)",
+  "copyrightOnly": "© Francesco Riccardo Iacomino/Getty Images",
+  "copyrightLink": "/search?q=archipel+des+Sanguinaires+Corse&form=hpcapt&filters=HpDate%3a%2220261008_2200%22",
+  "description": "À deux kilomètres à peine des côtes corses, les îles Sanguinaires surgissent de la Méditerranée comme une poignée de rochers jetés par quelque titan oublié. Vues depuis une tour de guet historique dominant le golfe d'Ajaccio, elles semblent pourtant appartenir à un autre monde — battu par le vent, sculpté par les vagues et le sel.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261008_IlesSanguinaires%22&FORM=HPQUIZ",
+  "hash": "b5385af2ac36577d2e8ca2b2eec984d5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261008",
+    "fullStartDateTime": "202610082200",
+    "endDate": "20261009"
+  },
+  "createdAt": "202610090701",
+  "originalUrlBase": "/th?id=OHR.IlesSanguinaires_FR-FR5994303029"
+}
