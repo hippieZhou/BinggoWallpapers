@@ -1,0 +1,48 @@
+{
+  "date": "10. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Leben entlang der Vogelzugroute",
+  "bsTitle": "Leben entlang der Vogelzugroute",
+  "caption": "Welttag der Zugvögel",
+  "copyright": "Ohrenscharben über der Monterey Bay, Kalifornien, USA (© Hiroya Minakuchi/Minden Pictures)",
+  "copyrightOnly": "© Hiroya Minakuchi/Minden Pictures",
+  "copyrightLink": "/search?q=Welttag+der+Zugv%c3%b6gel&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
+  "description": "Am 10. Oktober lenkt der Welttag der Zugvögel die Aufmerksamkeit auf die außergewöhnlichen Reisen wandernder Vogelarten. Jedes Jahr legen Millionen von Vögeln enorme Entfernungen zurück und verbinden dabei Regionen, Länder und Kontinente. Der Aktionstag erinnert daran, wie wichtig sichere Rastplätze, geeignete Brutgebiete und intakte Lebensräume entlang ihrer Zugrouten sind. Zugvögel spielen eine bedeutende Rolle in vielen Ökosystemen und zeigen zugleich, wie eng die Natur weltweit miteinander verknüpft ist. Ihre Wanderungen gehören zu den faszinierendsten Naturschauspielen überhaupt und wecken seit jeher die Neugier von Menschen auf der ganzen Welt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_CormorantsFlight%22&FORM=HPQUIZ",
+  "hash": "42e70252302399c63a094c37cf404424",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261009",
+    "fullStartDateTime": "202610092200",
+    "endDate": "20261010"
+  },
+  "createdAt": "202610100633",
+  "originalUrlBase": "/th?id=OHR.CormorantsFlight_DE-DE5717719144"
+}

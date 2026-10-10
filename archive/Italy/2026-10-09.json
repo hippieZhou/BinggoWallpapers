@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "La vita lungo la rotta",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+mondiale+degli+uccelli+migratori&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_CormorantsFlight%22&FORM=HPQUIZ",
+  "hash": "43a9b6fb8ad9eacba98733d26a6b4707",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261009",
+    "fullStartDateTime": "202610092200",
+    "endDate": "20261010"
+  },
+  "createdAt": "202610100633",
+  "originalUrlBase": "/th?id=OHR.CormorantsFlight_IT-IT0012209213"
+}

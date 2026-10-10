@@ -1,0 +1,48 @@
+{
+  "date": "10 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L'univers nous appelle",
+  "bsTitle": "L'univers nous appelle",
+  "caption": "Semaine mondiale de l’espace",
+  "copyright": "Fusée lunaire Artemis I au complexe de lancement 39B, Centre spatial Kennedy, Floride, 15 juin 2022 (© EVA MARIE UZCATEGUI/Getty Images)",
+  "copyrightOnly": "© EVA MARIE UZCATEGUI/Getty Images",
+  "copyrightLink": "/search?q=semaine+mondiale+de+l%27espace&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
+  "description": "D'abord, on construit une fusée. Ensuite, on lui demande de quitter la Terre, de voler jusqu'à la Lune, de survivre au voyage et de ramener son vaisseau à la maison. Simple, non ? Pas tout à fait.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_ArtemisRocket%22&FORM=HPQUIZ",
+  "hash": "01f07d9a215672dd22623cde85926158",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261009",
+    "fullStartDateTime": "202610092200",
+    "endDate": "20261010"
+  },
+  "createdAt": "202610100633",
+  "originalUrlBase": "/th?id=OHR.ArtemisRocket_FR-FR7987344274"
+}

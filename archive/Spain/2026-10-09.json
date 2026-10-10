@@ -1,0 +1,48 @@
+{
+  "date": "10 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Hoy: Zara-goza",
+  "bsTitle": "Hoy: Zara-goza",
+  "caption": "Fiestas del Pilar",
+  "copyright": "Catedral-Basílica de Nuestra Señora del Pilar, Zaragoza, Aragón, España (© frantic00/Getty Images)",
+  "copyrightOnly": "© frantic00/Getty Images",
+  "copyrightLink": "/search?q=Fiestas+del+Pilar&form=hpcapt&filters=HpDate%3a%2220261009_2200%22",
+  "description": "La Catedral-Basílica de Nuestra Señora del Pilar se asoma al Ebro en Zaragoza (Aragón, España), y hoy arranca a su alrededor la semana grande de la ciudad: el pregón abre unas Fiestas del Pilar que se prolongan hasta el domingo 18 de octubre.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261009_ZaragozaBasilica%22&FORM=HPQUIZ",
+  "hash": "e2d49212b774b160c4bd8e145be22ea2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ZaragozaBasilica_ES-ES1990532240_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261009",
+    "fullStartDateTime": "202610092200",
+    "endDate": "20261010"
+  },
+  "createdAt": "202610100633",
+  "originalUrlBase": "/th?id=OHR.ZaragozaBasilica_ES-ES1990532240"
+}
