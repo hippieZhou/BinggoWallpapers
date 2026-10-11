@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il golfo si riempie di vele",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia (© Marco Saracco/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=La+Barcolana+di+Trieste&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_BarcolanaBoats%22&FORM=HPQUIZ",
+  "hash": "a62535a6c85d1e35ce8cb0455acdfc08",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261010",
+    "fullStartDateTime": "202610102200",
+    "endDate": "20261011"
+  },
+  "createdAt": "202610110639",
+  "originalUrlBase": "/th?id=OHR.BarcolanaBoats_IT-IT7828341555"
+}

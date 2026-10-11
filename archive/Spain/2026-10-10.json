@@ -1,0 +1,48 @@
+{
+  "date": "11 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde el otoño mueve la rueda",
+  "bsTitle": "Donde el otoño mueve la rueda",
+  "caption": "Molino de Glade Creek, Babcock, Virginia Occidental, EE. UU.",
+  "copyright": "Molino de Glade Creek, Parque Estatal Babcock, Virginia Occidental, EE. UU. (© dszc/Getty Images)",
+  "copyrightOnly": "© dszc/Getty Images",
+  "copyrightLink": "/search?q=Parque+Estatal+Babcock&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+  "description": "Rodeado de un mosaico de rojos, naranjas y dorados, el molino de Glade Creek se alza sobre las aguas rocosas del arroyo que le da nombre, en el Parque Estatal Babcock, en Virginia Occidental (Estados Unidos). Parece una reliquia de la época de los pioneros, pero en realidad es un homenaje muy bien construido a la tradición harinera de los Apalaches.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_BabcockSP%22&FORM=HPQUIZ",
+  "hash": "e3ed3c61a022a44de3518632ff38cd0e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261010",
+    "fullStartDateTime": "202610102200",
+    "endDate": "20261011"
+  },
+  "createdAt": "202610110639",
+  "originalUrlBase": "/th?id=OHR.BabcockSP_ES-ES4865600988"
+}

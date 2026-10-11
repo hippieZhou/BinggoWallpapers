@@ -1,0 +1,48 @@
+{
+  "date": "11 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La roue des saisons",
+  "bsTitle": "La roue des saisons",
+  "caption": "Parc d'État de Babcock, Virginie-Occidentale, États-Unis",
+  "copyright": "Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis (© dszc/Getty Images)",
+  "copyrightOnly": "© dszc/Getty Images",
+  "copyrightLink": "/search?q=Babcock+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261010_2200%22",
+  "description": "Dans le parc d'État de Babcock, en Virginie-Occidentale, aux États-Unis, le moulin de Glade Creek se dresse au-dessus des eaux vives, encadré d'un patchwork de rouges, d'oranges et d'or. Il a tout d'un vestige pionnier — et pourtant, il a été construit en 1976.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_BabcockSP%22&FORM=HPQUIZ",
+  "hash": "d141cfec65df3e4abce597994814c271",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261010",
+    "fullStartDateTime": "202610102200",
+    "endDate": "20261011"
+  },
+  "createdAt": "202610110639",
+  "originalUrlBase": "/th?id=OHR.BabcockSP_FR-FR9462539296"
+}

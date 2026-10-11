@@ -1,0 +1,48 @@
+{
+  "date": "Oct 10, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Double-crested cormorants over Monterey Bay, California, USA",
+  "copyright": "Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)",
+  "copyrightOnly": "© Hiroya Minakuchi/Minden Pictures",
+  "copyrightLink": "/search?q=Double+crested+cormorant&form=hpcapt&filters=HpDate%3a%2220261010_0700%22",
+  "description": "Today's image has a little airborne drama: double-crested cormorants are cruising above the waves of Monterey Bay, California, United States. Widespread across North America, these adaptable seabirds may migrate or remain year-round, depending on the population. Along California's coast, bays, wetlands and estuaries provide important habitat for birds travelling the Pacific Flyway.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_CormorantsFlight%22&FORM=HPQUIZ",
+  "hash": "ee50b3549cace9b194b3fe5e7fbb0eaa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261010",
+    "fullStartDateTime": "202610100700",
+    "endDate": "20261011"
+  },
+  "createdAt": "202610110639",
+  "originalUrlBase": "/th?id=OHR.CormorantsFlight_ROW8571720617"
+}

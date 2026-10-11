@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Quando águas passadas movem moinhos",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Moinho de Glade Creek, Parque Estadual Babcock, Virgínia Ocidental, EUA (© dszc/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Estadual+Babcock+nos+EUA&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261011_BabcockSP%22&FORM=HPQUIZ",
+  "hash": "a89c21d1826d89b59ecede23a58acbe7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_PT-BR9617512928_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261011",
+    "fullStartDateTime": "202610110300",
+    "endDate": "20261012"
+  },
+  "createdAt": "202610110639",
+  "originalUrlBase": "/th?id=OHR.BabcockSP_PT-BR9617512928"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "秋色中转动的水轮",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261010_BabcockSP%22&FORM=HPQUIZ",
+  "hash": "9561adf7c48edb8bad9274e4bfac4225",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261010",
+    "fullStartDateTime": "202610101600",
+    "endDate": "20261011"
+  },
+  "createdAt": "202610110639",
+  "originalUrlBase": "/th?id=OHR.BabcockSP_ZH-CN5266848536"
+}
