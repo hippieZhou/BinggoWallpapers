@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Un molo sulla baia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Il pontile di Mumbles, Swansea, Galles (© Helen Hotson/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Galles&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261011_MumblesSwansea2026%22&FORM=HPQUIZ",
+  "hash": "96b482f6e06375a0592c7e562363f847",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261011",
+    "fullStartDateTime": "202610112200",
+    "endDate": "20261012"
+  },
+  "createdAt": "202610120648",
+  "originalUrlBase": "/th?id=OHR.MumblesSwansea2026_IT-IT0315747519"
+}

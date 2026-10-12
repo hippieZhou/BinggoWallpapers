@@ -1,0 +1,48 @@
+{
+  "date": "12 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Los colores de la hispanidad",
+  "bsTitle": "Los colores de la hispanidad",
+  "caption": "Fiesta Nacional de España",
+  "copyright": "La Patrulla Águila sobrevuela durante el Desfile Militar del Día Nacional, Madrid, España (© Carlos Alvarez/Getty Images)",
+  "copyrightOnly": "© Carlos Alvarez/Getty Images",
+  "copyrightLink": "/search?q=Fiesta+Nacional+de+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220261011_2200%22",
+  "description": "La Patrulla Águila sobrevuela Madrid (España) dejando en el cielo el rojo y el amarillo de la bandera: durante cuatro décadas fue la imagen más esperada del desfile de la Fiesta Nacional, la jornada que se celebra cada 12 de octubre y que una ley fijó en esa fecha en 1987.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261011_PatrullaAguila%22&FORM=HPQUIZ",
+  "hash": "96003733eb39caffff4e866d0f17549c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PatrullaAguila_ES-ES5090687481_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261011",
+    "fullStartDateTime": "202610112200",
+    "endDate": "20261012"
+  },
+  "createdAt": "202610120648",
+  "originalUrlBase": "/th?id=OHR.PatrullaAguila_ES-ES5090687481"
+}
