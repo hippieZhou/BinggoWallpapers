@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 13 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "紅葉に彩られた湖と滝",
+  "bsTitle": "紅葉に彩られた湖と滝",
+  "caption": "紅葉に彩られた湖と滝",
+  "copyright": "プリトヴィツェ湖群国立公園, クロアチア (© Jan Wlodarczyk/Alamy)",
+  "copyrightOnly": "© Jan Wlodarczyk/Alamy",
+  "copyrightLink": "/search?q=%e3%83%97%e3%83%aa%e3%83%88%e3%83%b4%e3%82%a3%e3%83%84%e3%82%a7%e6%b9%96%e7%be%a4%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261012_1500%22",
+  "description": "ここはクロアチア中部に位置するプリトヴィツェ湖群国立公園。高低差のある 16 の湖と、それを繋ぐ 92 の滝や瀑布という壮大な景観が特徴です。湖水は、含まれるミネラルの組成や太陽光の反射によって、エメラルドグリーンから深い青までさまざまな色合いを見せます。園内には木製の遊歩道が整備されており、滝が流れ落ちる様子や澄んだ湖面、木々に囲まれた岸辺などを間近に眺めることができます。こうした圧倒的な自然美と豊かな生態系が評価され、1979年にユネスコ世界遺産に登録されました。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261012_PlitviceAutumn%22&FORM=HPQUIZ",
+  "hash": "fe374f5e57c9748b12cc79dd0313ac72",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261012",
+    "fullStartDateTime": "202610121500",
+    "endDate": "20261013"
+  },
+  "createdAt": "202610130714",
+  "originalUrlBase": "/th?id=OHR.PlitviceAutumn_JA-JP3930294400"
+}

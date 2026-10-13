@@ -1,0 +1,48 @@
+{
+  "date": "13 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Sinfonía en azul y verde",
+  "bsTitle": "Sinfonía en azul y verde",
+  "caption": "Parque Nacional de los Lagos de Plitvice, Croacia",
+  "copyright": "Parque Nacional de los Lagos de Plitvice, Croacia (© Jan Wlodarczyk/Alamy)",
+  "copyrightOnly": "© Jan Wlodarczyk/Alamy",
+  "copyrightLink": "/search?q=Parque+Nacional+de+los+Lagos+de+Plitvice&form=hpcapt&filters=HpDate%3a%2220261012_2200%22",
+  "description": "En el Parque Nacional de los Lagos de Plitvice, en Croacia, el agua parece estar en todas partes. Dieciséis lagos escalonados se enlazan mediante cascadas, arroyos y saltos que atraviesan cañones calizos cubiertos de bosque, y su color cambia del verde esmeralda al azul intenso según los minerales, la luz y los reflejos. Declarado en 1949, es el parque nacional más antiguo y más grande del país.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261012_PlitviceAutumn%22&FORM=HPQUIZ",
+  "hash": "2b3c30011b787fa0468743c92360505b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ES-ES5332185237_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261012",
+    "fullStartDateTime": "202610122200",
+    "endDate": "20261013"
+  },
+  "createdAt": "202610130714",
+  "originalUrlBase": "/th?id=OHR.PlitviceAutumn_ES-ES5332185237"
+}

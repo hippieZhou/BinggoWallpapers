@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "蓝与绿的交响曲",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%99%ae%e5%88%a9%e7%89%b9%e7%bb%b4%e9%87%87%e6%b9%96%e7%be%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261012_PlitviceAutumn%22&FORM=HPQUIZ",
+  "hash": "ad1579bbbad955364787e365373dc47f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261012",
+    "fullStartDateTime": "202610121600",
+    "endDate": "20261013"
+  },
+  "createdAt": "202610130714",
+  "originalUrlBase": "/th?id=OHR.PlitviceAutumn_ZH-CN5646237897"
+}
