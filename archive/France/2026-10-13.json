@@ -1,0 +1,48 @@
+{
+  "date": "14 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le temps pris dans la pierre",
+  "bsTitle": "Le temps pris dans la pierre",
+  "caption": "Fossiles d'ammonites du Jurassique",
+  "copyright": "Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)",
+  "copyrightOnly": "© J Nemchinova/Getty Images",
+  "copyrightLink": "/search?q=le+Jurassique&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+  "description": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+  "hash": "a9154add3ed0cc86f974613da99d1cf9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261013",
+    "fullStartDateTime": "202610132200",
+    "endDate": "20261014"
+  },
+  "createdAt": "202610140538",
+  "originalUrlBase": "/th?id=OHR.AmmoniteFossils_FR-FR7395830779"
+}

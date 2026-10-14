@@ -1,0 +1,48 @@
+{
+  "date": "Oct 14, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Spirals through time",
+  "bsTitle": "Spirals through time",
+  "caption": "Ammonite fossils from the Jurassic Period",
+  "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+  "copyrightOnly": "© J Nemchinova/Getty Images",
+  "copyrightLink": "/search?q=Ammonite+fossils&form=hpcapt&filters=HpDate%3a%2220261013_1830%22",
+  "description": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+  "hash": "b4aee0bdc1ff4c366467fb8a56ce2948",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-IN8565946131_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261013",
+    "fullStartDateTime": "202610131830",
+    "endDate": "20261014"
+  },
+  "createdAt": "202610140538",
+  "originalUrlBase": "/th?id=OHR.AmmoniteFossils_EN-IN8565946131"
+}

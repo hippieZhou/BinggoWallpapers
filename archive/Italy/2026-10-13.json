@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Spirali nel tempo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Fossili di ammoniti del Giurassico (© J Nemchinova/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Fossili+di+ammoniti&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+  "hash": "b6d1c05996626f8e3a68ffa96e633a7f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_IT-IT0745512844_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261013",
+    "fullStartDateTime": "202610132200",
+    "endDate": "20261014"
+  },
+  "createdAt": "202610140538",
+  "originalUrlBase": "/th?id=OHR.AmmoniteFossils_IT-IT0745512844"
+}

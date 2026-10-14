@@ -1,0 +1,48 @@
+{
+  "date": "14 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Espirales en el tiempo",
+  "bsTitle": "Espirales en el tiempo",
+  "caption": "Fósiles de amonites del Jurásico",
+  "copyright": "Fósiles de amonites del Jurásico (© J Nemchinova/Getty Images)",
+  "copyrightOnly": "© J Nemchinova/Getty Images",
+  "copyrightLink": "/search?q=F%c3%b3siles+de+amonites&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+  "description": "Las conchas enrolladas de la imagen pertenecen a amonites del Jurásico, unos moluscos marinos que poblaban los océanos cuando los dinosaurios dominaban la tierra firme. Se parecían a los nautilos actuales, pero estaban más emparentados con los calamares y los pulpos, y sus conchas tabicadas formaron esas espirales que hoy reconocemos al instante.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261013_AmmoniteFossils%22&FORM=HPQUIZ",
+  "hash": "9bc707f8937f8ea3790b92f9d1ae9799",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ES-ES5982555890_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261013",
+    "fullStartDateTime": "202610132200",
+    "endDate": "20261014"
+  },
+  "createdAt": "202610140538",
+  "originalUrlBase": "/th?id=OHR.AmmoniteFossils_ES-ES5982555890"
+}
