@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O brilho de Wrocław",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista da Praça do Mercado de Wrocław a partir da Ponte das Bruxas, Wrocław, Polônia (© Piotr Mitelski/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Wroclaw+na+Polonia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_WroclawPoland%22&FORM=HPQUIZ",
+  "hash": "f0275e40c2d8dd9a2eec5ce056391a48",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_PT-BR5779158730_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261015",
+    "fullStartDateTime": "202610150300",
+    "endDate": "20261016"
+  },
+  "createdAt": "202610150525",
+  "originalUrlBase": "/th?id=OHR.WroclawPoland_PT-BR5779158730"
+}

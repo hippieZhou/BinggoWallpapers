@@ -1,0 +1,48 @@
+{
+  "date": "15. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Brücken, Dächer und Dämmerung",
+  "bsTitle": "Brücken, Dächer und Dämmerung",
+  "caption": "Blick auf den Breslauer Marktplatz, Breslau, Polen",
+  "copyright": "Blick auf den Breslauer Marktplatz von der Hexenbrücke in Breslau, Polen (© Piotr Mitelski/Shutterstock)",
+  "copyrightOnly": "© Piotr Mitelski/Shutterstock",
+  "copyrightLink": "/search?q=Breslau&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
+  "description": "Wenn in Breslau die Dämmerung einsetzt, legt sich ein warmes Licht über die roten Dächer, die Kirchtürme und die Fassaden der Altstadt. Die Stadt im Südwesten Polens erstreckt sich über mehrere Inseln an der Oder, die durch zahlreiche Brücken miteinander verbunden sind. Im Mittelpunkt steht der Marktplatz, dessen Ursprünge bis ins 13. Jahrhundert zurückreichen. Rund um den Rynek prägen restaurierte Bürgerhäuser und das gotische Rathaus eines der eindrucksvollsten Stadtbilder Mitteleuropas. Zwischen historischen Bauwerken und belebten Straßencafés begegnen sich hier Geschichte und modernes Stadtleben auf besonders reizvolle Weise.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+  "hash": "e76714f129ecbdaf006276a8be080253",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261014",
+    "fullStartDateTime": "202610142200",
+    "endDate": "20261015"
+  },
+  "createdAt": "202610150525",
+  "originalUrlBase": "/th?id=OHR.WroclawPoland_DE-DE7177247783"
+}

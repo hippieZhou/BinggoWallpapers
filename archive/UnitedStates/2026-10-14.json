@@ -1,0 +1,48 @@
+{
+  "date": "Oct 14, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Spirals through time",
+  "bsTitle": "Spirals through time",
+  "caption": "National Fossil Day",
+  "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+  "copyrightOnly": "© J Nemchinova/Getty Images",
+  "copyrightLink": "/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220261014_0700%22",
+  "description": "How do we know what Earth looked like long before humans appeared? Fossils provide many clues. National Fossil Day celebrates paleontology and the discoveries that help scientists reconstruct past environments, trace the evolution of life, and learn about creatures that vanished millions of years ago. From dinosaurs to tiny marine organisms, these remnants of the past preserve snapshots of ancient worlds that no longer exist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_AmmoniteFossils%22&FORM=HPQUIZ",
+  "hash": "26b82fcc80f37a7b150ffcb5eda97dbb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261014",
+    "fullStartDateTime": "202610140700",
+    "endDate": "20261015"
+  },
+  "createdAt": "202610150525",
+  "originalUrlBase": "/th?id=OHR.AmmoniteFossils_EN-US6354038755"
+}

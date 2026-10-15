@@ -1,0 +1,48 @@
+{
+  "date": "15 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La ville aux cent ponts",
+  "bsTitle": "La ville aux cent ponts",
+  "caption": "Place du marché de Wrocław, Pologne",
+  "copyright": "Vue sur la place du marché de Wrocław depuis le pont des Sorcières, Wrocław, Pologne (© Piotr Mitelski/Shutterstock)",
+  "copyrightOnly": "© Piotr Mitelski/Shutterstock",
+  "copyrightLink": "/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261014_2200%22",
+  "description": "Quand le crépuscule enveloppe Wrocław, la lumière dorée se répand sur les toits, les flèches d'église et l'une des plus belles places historiques d'Europe centrale. Cette ville du sud-ouest de la Pologne s'étend sur un archipel d'îles reliées par plus de cent ponts, mêlant architecture médiévale et vie contemporaine animée.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+  "hash": "d8317c20d74cc9403a1b0c1806864626",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261014",
+    "fullStartDateTime": "202610142200",
+    "endDate": "20261015"
+  },
+  "createdAt": "202610150525",
+  "originalUrlBase": "/th?id=OHR.WroclawPoland_FR-FR0061683282"
+}

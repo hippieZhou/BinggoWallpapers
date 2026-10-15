@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Ponti, tetti e crepuscolo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Veduta della piazza del Mercato di Breslavia dal Ponte delle Streghe, Breslavia, Polonia (© Piotr Mitelski/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Breslavia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261014_WroclawPoland%22&FORM=HPQUIZ",
+  "hash": "87d49315333027ebc00787aeda7a1420",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_IT-IT1033829565_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261014",
+    "fullStartDateTime": "202610142200",
+    "endDate": "20261015"
+  },
+  "createdAt": "202610150525",
+  "originalUrlBase": "/th?id=OHR.WroclawPoland_IT-IT1033829565"
+}

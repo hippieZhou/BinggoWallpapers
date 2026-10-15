@@ -1,0 +1,48 @@
+{
+  "date": "Oct 15, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Bridges, rooftops and twilight",
+  "bsTitle": "Bridges, rooftops and twilight",
+  "caption": "Market Square from the Witches' Bridge, Wroclaw, Poland",
+  "copyright": "View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)",
+  "copyrightOnly": "© Piotr Mitelski/Shutterstock",
+  "copyrightLink": "/search?q=Wroclaw&form=hpcapt&filters=HpDate%3a%2220261015_0400%22",
+  "description": "As twilight settles over Wroclaw, golden light spills across rooftops, church towers and one of Central Europe's most striking historic centres. This southwestern Polish city spans islands and waterways linked by more than 100 bridges, blending medieval architecture with vibrant modern life. At its heart is Rynek, a lively Market Square established in the 13th century and home to the Gothic Old Town Hall, one of Wroclaw's most recognisable landmarks.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_WroclawPoland%22&FORM=HPQUIZ",
+  "hash": "5644902e8004489c2e35160ce33b80fe",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.WroclawPoland_EN-CA2941585195_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261015",
+    "fullStartDateTime": "202610150400",
+    "endDate": "20261016"
+  },
+  "createdAt": "202610150525",
+  "originalUrlBase": "/th?id=OHR.WroclawPoland_EN-CA2941585195"
+}
