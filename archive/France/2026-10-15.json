@@ -1,0 +1,48 @@
+{
+  "date": "16 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "En haut du Colorado",
+  "bsTitle": "En haut du Colorado",
+  "caption": "Le mont Sneffels dans les montagnes San Juan, États-Unis",
+  "copyright": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis (© lightphoto/Getty Images)",
+  "copyrightOnly": "© lightphoto/Getty Images",
+  "copyrightLink": "/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+  "description": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+  "hash": "09475694739f675a828b3bf36b641479",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261015",
+    "fullStartDateTime": "202610152200",
+    "endDate": "20261016"
+  },
+  "createdAt": "202610160518",
+  "originalUrlBase": "/th?id=OHR.SneffelsAutumn_FR-FR3895133232"
+}

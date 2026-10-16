@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Oro e neve in Colorado",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Monte Sneffels, San Juan Mountains, vicino a Ridgway, Colorado, USA (© lightphoto/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Monte+Sneffels&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+  "hash": "90477fbb4b7e82659fbe647d43265a56",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_IT-IT1945499761_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_IT-IT1945499761_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_IT-IT1945499761_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_IT-IT1945499761_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_IT-IT1945499761_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261015",
+    "fullStartDateTime": "202610152200",
+    "endDate": "20261016"
+  },
+  "createdAt": "202610160518",
+  "originalUrlBase": "/th?id=OHR.SneffelsAutumn_IT-IT1945499761"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "16 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Oro y nieve en Colorado",
+  "bsTitle": "Oro y nieve en Colorado",
+  "caption": "Monte Sneffels, montañas San Juan, Colorado, EE. UU.",
+  "copyright": "Monte Sneffels, montañas San Juan, cerca de Ridgway, Colorado, EE. UU. (© lightphoto/Getty Images)",
+  "copyrightOnly": "© lightphoto/Getty Images",
+  "copyrightLink": "/search?q=Monte+Sneffels&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+  "description": "El monte Sneffels se alza sobre las montañas San Juan, cerca de Ridgway, en Colorado (Estados Unidos), y supera los 4.300 metros de altitud. Pertenece al club de los llamados «catorcemiles», los picos que rebasan los 14.000 pies (4.270 m), y en octubre protagoniza uno de los espectáculos más buscados del oeste americano: las laderas se llenan de álamos temblones dorados justo cuando la nieve empieza a asentarse en las cumbres.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_SneffelsAutumn%22&FORM=HPQUIZ",
+  "hash": "e4696c64aa954d2db6f3c05b1e2b325e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ES-ES3631909168_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261015",
+    "fullStartDateTime": "202610152200",
+    "endDate": "20261016"
+  },
+  "createdAt": "202610160518",
+  "originalUrlBase": "/th?id=OHR.SneffelsAutumn_ES-ES3631909168"
+}

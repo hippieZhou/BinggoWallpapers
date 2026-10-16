@@ -1,0 +1,48 @@
+{
+  "date": "16. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Hoch über Bayern",
+  "bsTitle": "Hoch über Bayern",
+  "caption": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern",
+  "copyright": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern (© imageBROKER/Martin Moxter)",
+  "copyrightOnly": "© imageBROKER/Martin Moxter",
+  "copyrightLink": "/search?q=Kloster+Andechs&form=hpcapt&filters=HpDate%3a%2220261015_2200%22",
+  "description": "Andechs in Oberbayern verbindet weite Ausblicke mit einer langen Geschichte. Hoch auf dem Heiligen Berg thront das Kloster Andechs, ein Wallfahrtsort, zu dem Menschen bereits seit dem 12. Jahrhundert pilgern. Das Benediktinerkloster selbst wurde 1455 gegründet. Seitdem betreuen Benediktiner die Wallfahrt. Die religiösen Wurzeln des Berges sind jedoch noch älter: Der dort verwahrte Reliquienschatz reicht bis ins 10. Jahrhundert zurück.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261015_AndechsAbbey%22&FORM=HPQUIZ",
+  "hash": "9d4c63d95790927e9c82119094eca7c6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261015",
+    "fullStartDateTime": "202610152200",
+    "endDate": "20261016"
+  },
+  "createdAt": "202610160518",
+  "originalUrlBase": "/th?id=OHR.AndechsAbbey_DE-DE4997798666"
+}

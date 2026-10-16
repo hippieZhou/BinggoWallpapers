@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Correntes criativas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Chapada dos Veadeiros, Goiás (© Roberto Kenji/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Chapada+dos+Veadeiros&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_Veadeiros%22&FORM=HPQUIZ",
+  "hash": "041225b55123df1dec674ba18ef5ccf2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261016",
+    "fullStartDateTime": "202610160300",
+    "endDate": "20261017"
+  },
+  "createdAt": "202610160518",
+  "originalUrlBase": "/th?id=OHR.Veadeiros_PT-BR0644976929"
+}
