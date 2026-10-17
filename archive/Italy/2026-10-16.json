@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Arte di 36.000 anni fa",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Riproduzione a grandezza naturale delle pitture della grotta di Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=grotta+di+Chauvet&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_ChauvetPaintingsFrance%22&FORM=HPQUIZ",
+  "hash": "ceba2e5b69a30a2637171e8ab57b17a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261016",
+    "fullStartDateTime": "202610162200",
+    "endDate": "20261017"
+  },
+  "createdAt": "202610170512",
+  "originalUrlBase": "/th?id=OHR.ChauvetPaintingsFrance_IT-IT2139803809"
+}

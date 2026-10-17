@@ -1,0 +1,48 @@
+{
+  "date": "Oct 16, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "'Peak' into Colorado",
+  "bsTitle": "'Peak' into Colorado",
+  "caption": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado",
+  "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)",
+  "copyrightOnly": "© lightphoto/Getty Images",
+  "copyrightLink": "/search?q=Mount+Sneffels&form=hpcapt&filters=HpDate%3a%2220261016_0700%22",
+  "description": "Some mountains make you work for the view. Mount Sneffels makes you work for the last few hundred feet. Rising to 14,150 feet in Colorado's San Juan Mountains, this fourteener is a familiar sight around Ridgway, Ouray, and Telluride. It sits within the 16,587-acre Mount Sneffels Wilderness, a protected area designated in 1980. Hikers can reach the mountain from several approaches, including the Yankee Boy Basin and the Blue Lakes area.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_SneffelsAutumn%22&FORM=HPQUIZ",
+  "hash": "1fbd6203de00eef691ca704a9a7b1048",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261016",
+    "fullStartDateTime": "202610160700",
+    "endDate": "20261017"
+  },
+  "createdAt": "202610170512",
+  "originalUrlBase": "/th?id=OHR.SneffelsAutumn_EN-US3953128777"
+}

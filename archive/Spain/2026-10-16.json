@@ -1,0 +1,48 @@
+{
+  "date": "17 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Arte de hace 36.000 años",
+  "bsTitle": "Arte de hace 36.000 años",
+  "caption": "Reproducción de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia",
+  "copyright": "Reproducción a tamaño real de las pinturas de la cueva de Chauvet, Vallon-Pont-d'Arc, Francia (© Audrey Poree/Alamy)",
+  "copyrightOnly": "© Audrey Poree/Alamy",
+  "copyrightLink": "/search?q=cueva+de+Chauvet&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+  "description": "Estos caballos, leones y rinocerontes se pintaron hace unos 36.000 años en la cueva de Chauvet, en Vallon-Pont-d'Arc (Francia), aunque lo que muestra la imagen es una copia. La cueva original, descubierta en 1994, permaneció sellada durante milenios y conserva más de 400 pinturas y grabados; para protegerla del deterioro que provoca la presencia humana, nunca se abrió al público.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_ChauvetPaintingsFrance%22&FORM=HPQUIZ",
+  "hash": "5bbf2653e0358afa397bc48c1c9a8fc2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261016",
+    "fullStartDateTime": "202610162200",
+    "endDate": "20261017"
+  },
+  "createdAt": "202610170512",
+  "originalUrlBase": "/th?id=OHR.ChauvetPaintingsFrance_ES-ES5871821224"
+}

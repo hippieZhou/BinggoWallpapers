@@ -1,0 +1,48 @@
+{
+  "date": "17 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le jardinier des bois",
+  "bsTitle": "Le jardinier des bois",
+  "caption": "Écureuil roux",
+  "copyright": "Écureuil roux (© Cédric GUERE/Getty Images)",
+  "copyrightOnly": "© Cédric GUERE/Getty Images",
+  "copyrightLink": "/search?q=%c3%a9cureuil+roux&form=hpcapt&filters=HpDate%3a%2220261016_2200%22",
+  "description": "Sur l’image du jour, un écureuil semble nous adresser un sourire malicieux. Une expression irrésistible, parfaitement assortie à l’effervescence de l’automne.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261016_SmilingSquirrel%22&FORM=HPQUIZ",
+  "hash": "30caee2351acc2b7501d64ed30346445",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261016",
+    "fullStartDateTime": "202610162200",
+    "endDate": "20261017"
+  },
+  "createdAt": "202610170512",
+  "originalUrlBase": "/th?id=OHR.SmilingSquirrel_FR-FR7350313584"
+}
