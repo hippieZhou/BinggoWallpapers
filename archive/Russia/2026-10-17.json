@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Medieval+Aqueduct+Perugia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_PerugiaAqueduct%22&FORM=HPQUIZ",
+  "hash": "ad5273829c63f06fa87ab44a6a3a7ccf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261017",
+    "fullStartDateTime": "202610170700",
+    "endDate": "20261018"
+  },
+  "createdAt": "202610180517",
+  "originalUrlBase": "/th?id=OHR.PerugiaAqueduct_ROW9255897123"
+}

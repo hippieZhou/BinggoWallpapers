@@ -1,0 +1,48 @@
+{
+  "date": "18 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La torre de los príncipes",
+  "bsTitle": "La torre de los príncipes",
+  "caption": "Castillo de Dolbadarn, Eryri (Snowdonia), Gales",
+  "copyright": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales (© joe daniel price/Getty Images)",
+  "copyrightOnly": "© joe daniel price/Getty Images",
+  "copyrightLink": "/search?q=Castillo+de+Dolbadarn&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+  "description": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_DolbadarnWales%22&FORM=HPQUIZ",
+  "hash": "67a4956bdc832b3d8475cfcc95dfaa41",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ES-ES3329263701_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ES-ES3329263701_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ES-ES3329263701_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ES-ES3329263701_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ES-ES3329263701_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261017",
+    "fullStartDateTime": "202610172200",
+    "endDate": "20261018"
+  },
+  "createdAt": "202610180517",
+  "originalUrlBase": "/th?id=OHR.DolbadarnWales_ES-ES3329263701"
+}

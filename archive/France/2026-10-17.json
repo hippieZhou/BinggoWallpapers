@@ -1,0 +1,48 @@
+{
+  "date": "18 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "75 ans et rayonnant",
+  "bsTitle": "75 ans et rayonnant",
+  "caption": "Le parc national d’Eryri au Pays de Galles fête ses 75 ans",
+  "copyright": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles (© joe daniel price/Getty Images)",
+  "copyrightOnly": "© joe daniel price/Getty Images",
+  "copyrightLink": "/search?q=parc+Eryri+Pays+de+Galles&form=hpcapt&filters=HpDate%3a%2220261017_2200%22",
+  "description": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_DolbadarnWales%22&FORM=HPQUIZ",
+  "hash": "3056a451379cdad774a468eb9f98d370",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261017",
+    "fullStartDateTime": "202610172200",
+    "endDate": "20261018"
+  },
+  "createdAt": "202610180517",
+  "originalUrlBase": "/th?id=OHR.DolbadarnWales_FR-FR3604957648"
+}

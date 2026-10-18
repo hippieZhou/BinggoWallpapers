@@ -1,0 +1,48 @@
+{
+  "date": "Oct 17, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Medieval Aqueduct, Perugia, Italy",
+  "copyright": "Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)",
+  "copyrightOnly": "© Marco Saracco/Getty Images",
+  "copyrightLink": "/search?q=Medieval+Aqueduct+Perugia&form=hpcapt&filters=HpDate%3a%2220261017_0700%22",
+  "description": "Perugia has a walkway with a story beneath every step: its medieval aqueduct. Construction began in 1254, and by around 1280, the aqueduct was carrying water from Monte Pacciano to the Fontana Maggiore in the city centre. The clever bit? Engineers found a way to make the water flow uphill. Using a pressurised conduit, the system overcame the city's steep terrain—an impressive feat of medieval engineering.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261017_PerugiaAqueduct%22&FORM=HPQUIZ",
+  "hash": "ad5273829c63f06fa87ab44a6a3a7ccf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261017",
+    "fullStartDateTime": "202610170700",
+    "endDate": "20261018"
+  },
+  "createdAt": "202610180517",
+  "originalUrlBase": "/th?id=OHR.PerugiaAqueduct_ROW9255897123"
+}
