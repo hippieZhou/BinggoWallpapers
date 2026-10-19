@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "水上通衢",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%a4%a7%e8%bf%90%e6%b2%b3&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_VeniceSunrise%22&FORM=HPQUIZ",
+  "hash": "423ca0274a16c6906e776de99f1a0240",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261018",
+    "fullStartDateTime": "202610181600",
+    "endDate": "20261019"
+  },
+  "createdAt": "202610190531",
+  "originalUrlBase": "/th?id=OHR.VeniceSunrise_ZH-CN5251815339"
+}

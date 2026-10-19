@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Eryri+National+Park+Wales&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261018_DolbadarnWales%22&FORM=HPQUIZ",
+  "hash": "1c706a014bcbbd2f43229d5e11ac582d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261018",
+    "fullStartDateTime": "202610180700",
+    "endDate": "20261019"
+  },
+  "createdAt": "202610190531",
+  "originalUrlBase": "/th?id=OHR.DolbadarnWales_ROW9422076532"
+}
