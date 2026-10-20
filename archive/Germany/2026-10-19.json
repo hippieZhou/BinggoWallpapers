@@ -1,0 +1,48 @@
+{
+  "date": "20. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Immer mit der Ruhe",
+  "bsTitle": "Immer mit der Ruhe",
+  "caption": "Internationaler Tag des Faultiers",
+  "copyright": "Braunkehl-Faultier, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "© Suzi Eszterhas/Minden Pictures",
+  "copyrightLink": "/search?q=Internationaler+Tag+des+Faultiers&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
+  "description": "Am 20. Oktober ist Internationaler Tag des Faultiers. Das Braunkehl-Faultier aus den tropischen Wäldern Mittel- und Südamerikas zeigt eindrucksvoll, dass ein langsames Leben durchaus Vorteile haben kann. Auch rund um Puerto Viejo de Talamanca in Costa Rica findet es in den Baumkronen einen passenden Lebensraum.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_BrownSloth%22&FORM=HPQUIZ",
+  "hash": "f577862db4826918e95331b413d2f49e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261019",
+    "fullStartDateTime": "202610192200",
+    "endDate": "20261020"
+  },
+  "createdAt": "202610200534",
+  "originalUrlBase": "/th?id=OHR.BrownSloth_DE-DE1394372620"
+}

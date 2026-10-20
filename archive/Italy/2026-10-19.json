@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "La lentezza come strategia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=bradipo+tridattilo&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_BrownSloth%22&FORM=HPQUIZ",
+  "hash": "c3ab380f7a8a70b2ee261948a154deaf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261019",
+    "fullStartDateTime": "202610192200",
+    "endDate": "20261020"
+  },
+  "createdAt": "202610200534",
+  "originalUrlBase": "/th?id=OHR.BrownSloth_IT-IT3225849910"
+}

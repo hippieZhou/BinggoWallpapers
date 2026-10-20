@@ -1,0 +1,48 @@
+{
+  "date": "20 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La lentitud como estrategia",
+  "bsTitle": "La lentitud como estrategia",
+  "caption": "Día Internacional del Perezoso",
+  "copyright": "Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "© Suzi Eszterhas/Minden Pictures",
+  "copyrightLink": "/search?q=Perezoso+de+tres+dedos&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
+  "description": "Este perezoso de tres dedos, fotografiado en Puerto Viejo de Talamanca (Costa Rica), no es un animal perezoso: es un animal eficiente. Su dieta se basa en hojas, un alimento pobre en energía y difícil de digerir, así que ha resuelto el problema por el otro extremo, gastando lo mínimo. Se mueve despacio, duerme mucho y digiere durante días.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_BrownSloth%22&FORM=HPQUIZ",
+  "hash": "74b603b0444c76974d703815119d154b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261019",
+    "fullStartDateTime": "202610192200",
+    "endDate": "20261020"
+  },
+  "createdAt": "202610200534",
+  "originalUrlBase": "/th?id=OHR.BrownSloth_ES-ES6810824751"
+}

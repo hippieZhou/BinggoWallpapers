@@ -1,0 +1,48 @@
+{
+  "date": "Oct 20, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Life in the slow lane",
+  "bsTitle": "Life in the slow lane",
+  "caption": "International Sloth Day",
+  "copyright": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "© Suzi Eszterhas/Minden Pictures",
+  "copyrightLink": "/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261019_2300%22",
+  "description": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. On International Sloth Day, this three-toed mammal offers a different lesson in getting by: conserve energy, hang on and take your time.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_BrownSloth%22&FORM=HPQUIZ",
+  "hash": "c1c6502e01df2a00a5d1d08fb3828dac",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261019",
+    "fullStartDateTime": "202610192300",
+    "endDate": "20261020"
+  },
+  "createdAt": "202610200534",
+  "originalUrlBase": "/th?id=OHR.BrownSloth_EN-GB5100181368"
+}

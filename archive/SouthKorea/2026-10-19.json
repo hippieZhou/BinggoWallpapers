@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Grand+Canal+Venice&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_VeniceSunrise%22&FORM=HPQUIZ",
+  "hash": "87624c138d37f024d600fda55ba8f9f5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261019",
+    "fullStartDateTime": "202610190700",
+    "endDate": "20261020"
+  },
+  "createdAt": "202610200534",
+  "originalUrlBase": "/th?id=OHR.VeniceSunrise_ROW9643744702"
+}

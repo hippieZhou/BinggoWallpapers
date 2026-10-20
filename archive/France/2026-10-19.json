@@ -1,0 +1,48 @@
+{
+  "date": "20 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La vie au ralenti",
+  "bsTitle": "La vie au ralenti",
+  "caption": "Journée internationale du paresseux",
+  "copyright": "Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)",
+  "copyrightOnly": "© Suzi Eszterhas/Minden Pictures",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+du+paresseux&form=hpcapt&filters=HpDate%3a%2220261019_2200%22",
+  "description": "Lentement mais sûrement… Le paresseux à gorge brune semble bien avoir renoncé à toute idée de course. À l’occasion de la Journée internationale du paresseux, ce mammifère à trois doigts nous souffle une autre façon d’avancer : économiser son énergie, s’accrocher et savourer le temps.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261019_BrownSloth%22&FORM=HPQUIZ",
+  "hash": "0fe1e8928b291eefb7a682a9b7bf9123",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261019",
+    "fullStartDateTime": "202610192200",
+    "endDate": "20261020"
+  },
+  "createdAt": "202610200534",
+  "originalUrlBase": "/th?id=OHR.BrownSloth_FR-FR7781895704"
+}
