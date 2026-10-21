@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "飞掠河面",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%b6%8a%e5%8d%97%e9%a1%ba%e5%8c%96%e5%b8%82&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+  "hash": "a7a759485d043460ce495a296170a16d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261020",
+    "fullStartDateTime": "202610201600",
+    "endDate": "20261021"
+  },
+  "createdAt": "202610210534",
+  "originalUrlBase": "/th?id=OHR.VietnamBridge_ZH-CN6134321119"
+}

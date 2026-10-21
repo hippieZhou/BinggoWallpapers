@@ -1,0 +1,48 @@
+{
+  "date": "Oct 21, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Winging it over the river",
+  "bsTitle": "Winging it over the river",
+  "caption": "Nguyen Hoang Bridge, Hue, Vietnam",
+  "copyright": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+  "copyrightOnly": "© VU PHAM VAN/Getty Images",
+  "copyrightLink": "/search?q=Hue+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2300%22",
+  "description": "Bridging the gap between old and new, Nguyen Hoang Bridge gives Hue's skyline a fresh connection. Spanning the Perfume River in Vietnam, the modern steel-arch landmark opened to traffic on 26 March 2025. Its design, called 'The Crane Facing Thien Mu,' draws inspiration from a local legend and nearby Thien Mu Pagoda.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+  "hash": "22445128032ec2989601441c03f84515",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-GB5180652549_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261020",
+    "fullStartDateTime": "202610202300",
+    "endDate": "20261021"
+  },
+  "createdAt": "202610210534",
+  "originalUrlBase": "/th?id=OHR.VietnamBridge_EN-GB5180652549"
+}

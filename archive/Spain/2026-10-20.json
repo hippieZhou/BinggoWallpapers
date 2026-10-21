@@ -1,0 +1,48 @@
+{
+  "date": "21 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un puente recién estrenado",
+  "bsTitle": "Un puente recién estrenado",
+  "caption": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam",
+  "copyright": "Puente Nguyễn Hoàng sobre el río de los Perfumes, Hue, Vietnam (© VU PHAM VAN/Getty Images)",
+  "copyrightOnly": "© VU PHAM VAN/Getty Images",
+  "copyrightLink": "/search?q=Hue%2c+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
+  "description": "El puente Nguyễn Hoàng cruza el río de los Perfumes en Hue (Vietnam), y es una incorporación muy reciente al paisaje: se abrió al tráfico en marzo de 2025. Mide 380 metros de largo y más de 40 de ancho, y su diseño es obra del finlandés Antti Karjalainen, especialista en puentes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+  "hash": "e377fd0eff63568a185179939cede7f5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_ES-ES2577546493_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261020",
+    "fullStartDateTime": "202610202200",
+    "endDate": "20261021"
+  },
+  "createdAt": "202610210534",
+  "originalUrlBase": "/th?id=OHR.VietnamBridge_ES-ES2577546493"
+}

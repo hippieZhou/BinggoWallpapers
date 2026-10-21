@@ -1,0 +1,48 @@
+{
+  "date": "21 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Vol au-dessus de la rivière",
+  "bsTitle": "Vol au-dessus de la rivière",
+  "caption": "Pont Nguyen Hoang, Hué, Vietnam",
+  "copyright": "Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images)",
+  "copyrightOnly": "© VU PHAM VAN/Getty Images",
+  "copyrightLink": "/search?q=Hu%c3%a9+Vietnam&form=hpcapt&filters=HpDate%3a%2220261020_2200%22",
+  "description": "À Hué, au Vietnam, passé et avenir se rejoignent au-dessus de la rivière des Parfums. Ouvert à la circulation le 26 mars 2025, le pont Nguyen Hoang redessine l’horizon de la ville. Son concept, « La grue tournée vers Thien Mu », s’inspire d’une légende locale et de la célèbre pagode voisine.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261020_VietnamBridge%22&FORM=HPQUIZ",
+  "hash": "92b881122e341d2dacf10d588e7812c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261020",
+    "fullStartDateTime": "202610202200",
+    "endDate": "20261021"
+  },
+  "createdAt": "202610210534",
+  "originalUrlBase": "/th?id=OHR.VietnamBridge_FR-FR7991423921"
+}
