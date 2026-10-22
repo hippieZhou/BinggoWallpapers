@@ -1,0 +1,48 @@
+{
+  "date": "Oct 22, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Still waters, vivid colours",
+  "bsTitle": "Still waters, vivid colours",
+  "caption": "Autumn in Naejangsan National Park, South Korea",
+  "copyright": "Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)",
+  "copyrightOnly": "© Twenty47studio/Getty Images",
+  "copyrightLink": "/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261021_2300%22",
+  "description": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colours, making it one of Korea's premier destinations for autumn scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_NaejangsanNP%22&FORM=HPQUIZ",
+  "hash": "bbdb4ba3da47eeff578c1a9019e5a6d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261021",
+    "fullStartDateTime": "202610212300",
+    "endDate": "20261022"
+  },
+  "createdAt": "202610220537",
+  "originalUrlBase": "/th?id=OHR.NaejangsanNP_EN-GB5252582759"
+}

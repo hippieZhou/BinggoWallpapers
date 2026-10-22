@@ -1,0 +1,48 @@
+{
+  "date": "22 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Córdoba en flor",
+  "bsTitle": "Córdoba en flor",
+  "caption": "Festival Internacional de las Flores de Córdoba",
+  "copyright": "Patio interior tradicional cordobés, Córdoba, Andalucía, España (© Martinez Studio/ShutterStock)",
+  "copyrightOnly": "© Martinez Studio/ShutterStock",
+  "copyrightLink": "/search?q=Festival+Internacional+de+las+Flores+de+C%c3%b3rdoba&form=hpcapt&filters=HpDate%3a%2220261021_2200%22",
+  "description": "Córdoba (Andalucía, España) guarda su tesoro puertas adentro: patios encalados, macetas colgadas, una fuente y sombra fresca en el centro de la casa. Un modelo heredado de las casas romanas y andalusíes, tan arraigado que la Fiesta de los Patios es Patrimonio Cultural Inmaterial de la Unesco desde 2012.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_CordobaPatios%22&FORM=HPQUIZ",
+  "hash": "0a2f348e5d360b58fda993586464646d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CordobaPatios_ES-ES7294783560_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261021",
+    "fullStartDateTime": "202610212200",
+    "endDate": "20261022"
+  },
+  "createdAt": "202610220537",
+  "originalUrlBase": "/th?id=OHR.CordobaPatios_ES-ES7294783560"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 22 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "紅葉に彩られた東屋",
+  "bsTitle": "紅葉に彩られた東屋",
+  "caption": "紅葉に彩られた東屋",
+  "copyright": "内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images)",
+  "copyrightOnly": "© Twenty47studio/Getty Images",
+  "copyrightLink": "/search?q=%e5%86%85%e8%94%b5%e5%b1%b1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220261021_1500%22",
+  "description": "ここは韓国南西部に位置する内蔵山（ネジャンサン）国立公園です。内蔵山は「内蔵九峰」と呼ばれる 9 つの峰からなり、その最高峰は標高 763m の神仙峰（シンソンボン）です。公園は韓国を代表する紅葉の名所として知られ、秋には山々が鮮やかに色づきます。「内蔵山」という名前には、「山の中に尽きることのない宝が隠されている」という意味が込められています。画像は、公園を象徴する風景のひとつとして親しまれている東屋、羽化亭（ウファジョン）です。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_NaejangsanNP%22&FORM=HPQUIZ",
+  "hash": "b98333ed9cc7fda9e958bf351e624a0d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261021",
+    "fullStartDateTime": "202610211500",
+    "endDate": "20261022"
+  },
+  "createdAt": "202610220537",
+  "originalUrlBase": "/th?id=OHR.NaejangsanNP_JA-JP7092803320"
+}

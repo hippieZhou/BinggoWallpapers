@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "静水映斑斓",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%86%85%e8%97%8f%e5%b1%b1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_NaejangsanNP%22&FORM=HPQUIZ",
+  "hash": "f5712223d70223a41356c0e2064f8cbd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261021",
+    "fullStartDateTime": "202610211600",
+    "endDate": "20261022"
+  },
+  "createdAt": "202610220537",
+  "originalUrlBase": "/th?id=OHR.NaejangsanNP_ZH-CN6538893004"
+}

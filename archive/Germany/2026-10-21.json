@@ -1,0 +1,48 @@
+{
+  "date": "22. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Stille Wasser, leuchtende Farben",
+  "bsTitle": "Stille Wasser, leuchtende Farben",
+  "caption": "Herbst im Naejangsan-Nationalpark, Südkorea",
+  "copyright": "Herbst im Naejangsan-Nationalpark, Südkorea (© Twenty47studio/Getty Images)",
+  "copyrightOnly": "© Twenty47studio/Getty Images",
+  "copyrightLink": "/search?q=Naejangsan-Nationalpark&form=hpcapt&filters=HpDate%3a%2220261021_2200%22",
+  "description": "Ein Herbst wie aus dem Bilderbuch: Im Naejangsan-Nationalpark leuchten die Berghänge in kräftigem Rot, Orange, Gelb und Gold. Der im Südwesten Südkoreas gelegene Park ist vor allem für seine spektakulären Ahornfarben bekannt. Kein Wunder, dass er zu den beliebtesten Reisezielen des Landes zu dieser Jahreszeit zählt. Sein Name bedeutet „viele Geheimnisse in den Bergen“ und passt gut zur abwechslungsreichen Umgebung.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261021_NaejangsanNP%22&FORM=HPQUIZ",
+  "hash": "b7718fca32e311c95955a0eec6319c7d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261021",
+    "fullStartDateTime": "202610212200",
+    "endDate": "20261022"
+  },
+  "createdAt": "202610220537",
+  "originalUrlBase": "/th?id=OHR.NaejangsanNP_DE-DE1873468197"
+}
