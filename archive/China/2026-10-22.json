@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "荒野伙伴",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%81%b0%e7%8b%bc&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+  "hash": "0360442f708dff212a10b844a50f9ef0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261022",
+    "fullStartDateTime": "202610221600",
+    "endDate": "20261023"
+  },
+  "createdAt": "202610230535",
+  "originalUrlBase": "/th?id=OHR.YellowstoneWolves_ZH-CN6767268961"
+}

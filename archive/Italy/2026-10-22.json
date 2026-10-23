@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "La vita nel branco",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=parco+nazionale+di+yellowstone&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+  "hash": "ccd5ba3c93eecf10148c17232e8b0854",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261022",
+    "fullStartDateTime": "202610222200",
+    "endDate": "20261023"
+  },
+  "createdAt": "202610230535",
+  "originalUrlBase": "/th?id=OHR.YellowstoneWolves_IT-IT3969091116"
+}

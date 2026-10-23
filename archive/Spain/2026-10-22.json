@@ -1,0 +1,48 @@
+{
+  "date": "23 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La vida en manada",
+  "bsTitle": "La vida en manada",
+  "caption": "Lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+  "copyright": "Dos lobos grises, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© John Morrison/Getty Images)",
+  "copyrightOnly": "© John Morrison/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Yellowstone&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
+  "description": "Dos lobos grises cruzan el matorral del Parque Nacional de Yellowstone, en Wyoming (Estados Unidos), donde viven algunas de las manadas mejor estudiadas del mundo. Y esa palabra, manada, describe en realidad una familia: un grupo emparentado que caza en equipo, defiende su territorio y saca adelante a las crías del año. Su pelaje denso les permite aguantar inviernos extremos, y su oído y su olfato los convierten en cazadores extraordinarios.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+  "hash": "1b5273810f9212c8b4f0371cf92b25d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ES-ES1877782674_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261022",
+    "fullStartDateTime": "202610222200",
+    "endDate": "20261023"
+  },
+  "createdAt": "202610230535",
+  "originalUrlBase": "/th?id=OHR.YellowstoneWolves_ES-ES1877782674"
+}

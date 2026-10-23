@@ -1,0 +1,48 @@
+{
+  "date": "23. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Partner in freier Wildbahn",
+  "bsTitle": "Partner in freier Wildbahn",
+  "caption": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+  "copyright": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images)",
+  "copyrightOnly": "© John Morrison/Getty Images",
+  "copyrightLink": "/search?q=Wolf+Tier&form=hpcapt&filters=HpDate%3a%2220261022_2200%22",
+  "description": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261022_YellowstoneWolves%22&FORM=HPQUIZ",
+  "hash": "95a05e174a85c811538bc0ce91bb7939",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261022",
+    "fullStartDateTime": "202610222200",
+    "endDate": "20261023"
+  },
+  "createdAt": "202610230535",
+  "originalUrlBase": "/th?id=OHR.YellowstoneWolves_DE-DE2017697752"
+}
