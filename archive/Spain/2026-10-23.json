@@ -1,0 +1,48 @@
+{
+  "date": "24 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una catedral de libros",
+  "bsTitle": "Una catedral de libros",
+  "caption": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil",
+  "copyright": "Real Gabinete Portugués de Lectura, Río de Janeiro, Brasil (© Antonio Salaverry/Shutterstock)",
+  "copyrightOnly": "© Antonio Salaverry/Shutterstock",
+  "copyrightLink": "/search?q=Real+Gabinete+Portugu%c3%a9s+de+Lectura&form=hpcapt&filters=HpDate%3a%2220261023_2200%22",
+  "description": "El Real Gabinete Portugués de Lectura, en Río de Janeiro (Brasil), es una de esas bibliotecas que se visitan con la boca abierta. Tres alturas de estanterías de madera oscura cubren las paredes de suelo a techo, cargadas de volúmenes encuadernados, y desde arriba una gran claraboya de vidrio de colores deja caer la luz sobre la sala de lectura.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_PortugueseLibrary%22&FORM=HPQUIZ",
+  "hash": "3f44f50aa3c6a0d8097ce4235c9af85e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ES-ES7866547666_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261023",
+    "fullStartDateTime": "202610232200",
+    "endDate": "20261024"
+  },
+  "createdAt": "202610240514",
+  "originalUrlBase": "/th?id=OHR.PortugueseLibrary_ES-ES7866547666"
+}

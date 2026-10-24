@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 24 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "図書館の天窓から差し込む自然光",
+  "bsTitle": "図書館の天窓から差し込む自然光",
+  "caption": "図書館の天窓から差し込む自然光",
+  "copyright": "王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)",
+  "copyrightOnly": "© Antonio Salaverry/Shutterstock",
+  "copyrightLink": "/search?q=%e7%8e%8b%e7%ab%8b%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab%e5%9b%b3%e6%9b%b8%e9%a4%a8&form=hpcapt&filters=HpDate%3a%2220261023_1500%22",
+  "description": "ここはブラジルのリオデジャネイロにある王立ポルトガル図書館。ブラジルがポルトガルから独立した後、ポルトガルの言語と文化の保存・振興を目的として 1837 年に設立されました。約 35 万冊の蔵書を有し、ポルトガル国外では最大級のポルトガル語文献コレクションを誇ります。広大な閲覧室には、20m 以上の高さを誇る巨大な本棚が設置され、ステンドグラスの天窓や、アーミラリー天球儀で美しく装飾されています。設立から2世紀近くが経った今も、ブラジルとポルトガルの文化的な結びつきを伝え続けています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261023_PortugueseLibrary%22&FORM=HPQUIZ",
+  "hash": "8b58e40b8bc4c736d8fcfbdfa4dbcd4a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261023",
+    "fullStartDateTime": "202610231500",
+    "endDate": "20261024"
+  },
+  "createdAt": "202610240514",
+  "originalUrlBase": "/th?id=OHR.PortugueseLibrary_JA-JP3230226750"
+}

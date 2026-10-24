@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A biblioteca mais teatral do Rio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Real Gabinete Português de Leitura, Rio de Janeiro (© Antonio Salaverry/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Real+Gabinete+Portugues+de+Leitura&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_PortugueseLibrary%22&FORM=HPQUIZ",
+  "hash": "17a5e45558ed23051bdd2fd31eb1c991",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_PT-BR6869331212_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261024",
+    "fullStartDateTime": "202610240300",
+    "endDate": "20261025"
+  },
+  "createdAt": "202610240514",
+  "originalUrlBase": "/th?id=OHR.PortugueseLibrary_PT-BR6869331212"
+}
