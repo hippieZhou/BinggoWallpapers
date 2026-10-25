@@ -1,0 +1,48 @@
+{
+  "date": "Oct 25, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "The clock strikes back",
+  "bsTitle": "The clock strikes back",
+  "caption": "British Summer Time ends",
+  "copyright": "The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images)",
+  "copyrightOnly": "© Alexey_Fedoren/iStock/Getty Images",
+  "copyrightLink": "/search?q=British+Summer+Time&form=hpcapt&filters=HpDate%3a%2220261024_2300%22",
+  "description": "Ready to turn back time? Britain does it every autumn, no time machine required. Today, British Summer Time (BST) ends as clocks go back one hour from 2 am BST to 1 am GMT, giving you an extra hour in bed.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_BSTEnds2026%22&FORM=HPQUIZ",
+  "hash": "6c844eb5517f3c2803ccb1670c3c67e0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261024",
+    "fullStartDateTime": "202610242300",
+    "endDate": "20261026"
+  },
+  "createdAt": "202610250532",
+  "originalUrlBase": "/th?id=OHR.BSTEnds2026_EN-GB5502884225"
+}

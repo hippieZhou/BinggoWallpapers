@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um cenário que dispensa moldura",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lago Maligne, Parque Nacional de Jasper, Alberta, Canadá (© Andrey Popov/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Jasper+Canad%c3%a1&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261025_MaligneFest%22&FORM=HPQUIZ",
+  "hash": "73390f7f0f35cc4fae5218227436f92c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_PT-BR7307872506_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261025",
+    "fullStartDateTime": "202610250300",
+    "endDate": "20261026"
+  },
+  "createdAt": "202610250532",
+  "originalUrlBase": "/th?id=OHR.MaligneFest_PT-BR7307872506"
+}

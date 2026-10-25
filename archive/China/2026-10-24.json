@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "群峰与宁静相遇之地",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%8e%9b%e7%90%b3%e6%b9%96&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_MaligneFest%22&FORM=HPQUIZ",
+  "hash": "e5e6a9075ef5d714848599cb68148e62",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261024",
+    "fullStartDateTime": "202610241600",
+    "endDate": "20261025"
+  },
+  "createdAt": "202610250532",
+  "originalUrlBase": "/th?id=OHR.MaligneFest_ZH-CN8343066766"
+}

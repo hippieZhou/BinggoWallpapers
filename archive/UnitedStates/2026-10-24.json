@@ -1,0 +1,48 @@
+{
+  "date": "Oct 24, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Bookishly extravagant",
+  "bsTitle": "Bookishly extravagant",
+  "caption": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil",
+  "copyright": "Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)",
+  "copyrightOnly": "© Antonio Salaverry/Shutterstock",
+  "copyrightLink": "/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0700%22",
+  "description": "Today we're inside the Royal Portuguese Cabinet of Reading in Rio de Janeiro, Brazil, where the humble act of opening a book took on grand architectural ambitions. Founded in 1837 by 43 Portuguese immigrants, just 15 years after Brazil's independence, the institution eventually moved into the building seen here, completed half a century later in a lavish Neo-Manueline style. Shelves soar over 70 feet around a vast reading room, crowned by a monumental stained-glass skylight that makes daylight part of the design.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_PortugueseLibrary%22&FORM=HPQUIZ",
+  "hash": "3057fa6ba3981b84f32ee198891d6232",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261024",
+    "fullStartDateTime": "202610240700",
+    "endDate": "20261025"
+  },
+  "createdAt": "202610250532",
+  "originalUrlBase": "/th?id=OHR.PortugueseLibrary_EN-US7519268149"
+}

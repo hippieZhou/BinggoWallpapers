@@ -1,0 +1,48 @@
+{
+  "date": "25 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des étoiles plein les yeux",
+  "bsTitle": "Des étoiles plein les yeux",
+  "caption": "Lac Maligne, Parc national Jasper, Alberta, Canada",
+  "copyright": "Lac Maligne, Parc national Jasper, Alberta, Canada (© Andrey Popov/Getty Images)",
+  "copyrightOnly": "© Andrey Popov/Getty Images",
+  "copyrightLink": "/search?q=Lac+Maligne&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
+  "description": "Quand la nuit enveloppe le parc national de Jasper, en Alberta (Canada), les montagnes changent de décor. Désigné réserve de ciel étoilé en 2011, ce territoire de plus de 11 000 km² limite la pollution lumineuse afin de préserver l’obscurité. Étoiles, planètes et Voie lactée composent alors un spectacle saisissant au-dessus des sommets. Puis l’aube se lève et ramène doucement le regard vers la terre.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_MaligneFest%22&FORM=HPQUIZ",
+  "hash": "9c4c6e7c01f6de7f73bb92f1ecb12701",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261024",
+    "fullStartDateTime": "202610242200",
+    "endDate": "20261025"
+  },
+  "createdAt": "202610250532",
+  "originalUrlBase": "/th?id=OHR.MaligneFest_FR-FR5795515025"
+}

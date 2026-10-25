@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Cinema, piazze e pasta",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Festa+del+Cinema+di+Roma&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_CarbonaraRomeMarket%22&FORM=HPQUIZ",
+  "hash": "ebc4b355ad017454d5c2026d4cfe3003",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261024",
+    "fullStartDateTime": "202610242200",
+    "endDate": "20261025"
+  },
+  "createdAt": "202610250532",
+  "originalUrlBase": "/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754"
+}

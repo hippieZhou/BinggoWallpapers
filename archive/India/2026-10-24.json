@@ -1,0 +1,48 @@
+{
+  "date": "Oct 25, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The road that runs on water",
+  "bsTitle": "The road that runs on water",
+  "caption": "Grand Canal in Venice, Italy",
+  "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)",
+  "copyrightOnly": "© Juan Romero/Cavan Images",
+  "copyrightLink": "/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261024_1830%22",
+  "description": "What if a city's busiest street had no road? In Venice, Italy, traffic flows along the Grand Canal, a 3.9-kilometre waterway that winds through the city in a giant reverse S-shape. Known to locals as the Canalazzo, it is Venice's main water-traffic corridor, carrying vaporetti, water taxis, gondolas, police boats and other vessels. The canal follows the course of an ancient river that once flowed into the Venetian Lagoon.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261024_VeniceSunrise%22&FORM=HPQUIZ",
+  "hash": "99a8c448469a4e8c81ad080f11e2dbc8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261024",
+    "fullStartDateTime": "202610241830",
+    "endDate": "20261025"
+  },
+  "createdAt": "202610250532",
+  "originalUrlBase": "/th?id=OHR.VeniceSunrise_EN-IN8305689376"
+}
