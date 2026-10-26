@@ -1,0 +1,48 @@
+{
+  "date": "Oct 25, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Nature's autumn soundtrack",
+  "bsTitle": "Nature's autumn soundtrack",
+  "caption": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria",
+  "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+  "copyrightOnly": "© Nadya85/Getty Images",
+  "copyrightLink": "/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_0700%22",
+  "description": "In Bulgaria's Western Rhodope Mountains, autumn leaves gather beside the rushing waters of Sitovo Waterfall. Near the village of Sitovo, southwest of Plovdiv, the falls tumble beneath an old stone bridge whose arch frames the cascades like a storybook scene. Moss-covered stones and pine trees add shades of green to the autumn landscape, while fallen leaves gather along the water's edge or drift through its pools. The falls become especially lively after rain and during spring snowmelt, when the surrounding woodland echoes with the sound of rushing water.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261025_SitovoWaterfall%22&FORM=HPQUIZ",
+  "hash": "f64493809c164c7be4fb02e2be9cec09",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261025",
+    "fullStartDateTime": "202610250700",
+    "endDate": "20261026"
+  },
+  "createdAt": "202610260537",
+  "originalUrlBase": "/th?id=OHR.SitovoWaterfall_EN-US7626867890"
+}

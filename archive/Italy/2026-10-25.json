@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Acqua, pietra e mistero",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Sitovo+provincia+di+Plovdiv&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261025_SitovoWaterfall%22&FORM=HPQUIZ",
+  "hash": "fc691401a30b2c8ce7383a3792032836",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261025",
+    "fullStartDateTime": "202610252300",
+    "endDate": "20261026"
+  },
+  "createdAt": "202610260537",
+  "originalUrlBase": "/th?id=OHR.SitovoWaterfall_IT-IT4859902057"
+}
