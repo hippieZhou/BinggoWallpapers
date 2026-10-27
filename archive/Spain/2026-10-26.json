@@ -1,0 +1,48 @@
+{
+  "date": "27 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Reflejos dorados",
+  "bsTitle": "Reflejos dorados",
+  "caption": "Cipreses de estanque con color otoñal, Georgia, EE. UU.",
+  "copyright": "Bosque de cipreses de estanque, Georgia, EE. UU. (© Chris Moore/Getty Images)",
+  "copyrightOnly": "© Chris Moore/Getty Images",
+  "copyrightLink": "/search?q=cipres+estanque&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+  "description": "Reflejado en un agua sin una onda y encendido por la última luz del día, este bosquete de cipreses de estanque compone una escena de simetría casi perfecta. La especie es propia del sureste de Estados Unidos y esta imagen se tomó en Georgia, donde crece en lugares como el gran pantano de Okefenokee y otros humedales de tierras bajas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_PondCypress%22&FORM=HPQUIZ",
+  "hash": "496544b522ae7391aae634e5a6e25e22",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ES-ES1413599118_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261026",
+    "fullStartDateTime": "202610262300",
+    "endDate": "20261027"
+  },
+  "createdAt": "202610270549",
+  "originalUrlBase": "/th?id=OHR.PondCypress_ES-ES1413599118"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "大自然的金色明镜",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%b1%a0%e6%9d%89&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_PondCypress%22&FORM=HPQUIZ",
+  "hash": "bd1e1d7a297913000ce4600e3fa393b8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261026",
+    "fullStartDateTime": "202610261600",
+    "endDate": "20261027"
+  },
+  "createdAt": "202610270549",
+  "originalUrlBase": "/th?id=OHR.PondCypress_ZH-CN9472607734"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "27 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le reflet doré de la nature",
+  "bsTitle": "Le reflet doré de la nature",
+  "caption": "Cyprès des étangs, Géorgie, États-Unis",
+  "copyright": "Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images)",
+  "copyrightOnly": "© Chris Moore/Getty Images",
+  "copyrightLink": "/search?q=cypr%c3%a8s+des+%c3%a9tangs&form=hpcapt&filters=HpDate%3a%2220261026_2300%22",
+  "description": "Se reflétant dans une eau paisible sous la lumière dorée du couchant, ce bosquet de cyprès des étangs compose un saisissant tableau de couleurs et de symétrie. Originaire du sud-est des États-Unis, cet arbre affectionne les mares peu profondes, les dépressions humides et les zones marécageuses. En Géorgie (États-Unis), où cette image a été capturée, il peuple notamment le célèbre marais d’Okefenokee et d’autres terres basses gorgées d’eau.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_PondCypress%22&FORM=HPQUIZ",
+  "hash": "b861b8207975be95946c47f039c354dc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261026",
+    "fullStartDateTime": "202610262300",
+    "endDate": "20261027"
+  },
+  "createdAt": "202610270549",
+  "originalUrlBase": "/th?id=OHR.PondCypress_FR-FR3578297716"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "Oct 26, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Hanging in there",
+  "bsTitle": "Hanging in there",
+  "caption": "Bat Week",
+  "copyright": "Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)",
+  "copyrightOnly": "© Doug Gimesy/Nature Picture Library",
+  "copyrightLink": "/search?q=Bat+Week&form=hpcapt&filters=HpDate%3a%2220261026_0700%22",
+  "description": "Bat Week shines a spotlight on some of the world's most important and often misunderstood mammals. Observed each October, the event celebrates the vital role bats play in healthy ecosystems across the globe. As pollinators, seed dispersers, and natural pest controllers, they support forests, farms, and food supplies. Some can consume thousands of insects in a single night, helping reduce the need for pesticides. With more than 1,500 species found worldwide, bats are the only mammals capable of sustained flight, making them one of nature's most impressive success stories.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261026_HangingBat%22&FORM=HPQUIZ",
+  "hash": "a7c299adafaab46a527c467155126330",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261026",
+    "fullStartDateTime": "202610260700",
+    "endDate": "20261027"
+  },
+  "createdAt": "202610270549",
+  "originalUrlBase": "/th?id=OHR.HangingBat_EN-US7714746725"
+}
