@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 28 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "夕暮れに佇む古城",
+  "bsTitle": "夕暮れに佇む古城",
+  "caption": "夕暮れに佇む古城",
+  "copyright": "クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)",
+  "copyrightOnly": "© Marek Saroch/Alamy",
+  "copyrightLink": "/search?q=Kun%c4%9btick%c3%a1+hora+Castle+&form=hpcapt&filters=HpDate%3a%2220261027_1500%22",
+  "description": "チェコ東部のボヘミア地方にそびえるクネティツカー・ホラ城は、14 世紀なかば頃には、すでにこの地に城が存在していたとされています。時代の流れとともに、要塞や貴族の居城として発展し、16 世紀には当時有力だったペルンシュテイン家によって、後期ゴシック様式とルネサンス様式の壮大な城へと改築されました。その後は荒廃し、採石によって一部が失われましたが、20 世紀初めから修復が始まりました。現在は、城内で展示や当時使用されていた部屋を見学することが可能であり、塔からは周囲の雄大な景色を一望できます。中世ボヘミアの歴史を今に伝える印象的な城です。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261027_KuneticeCastle%22&FORM=HPQUIZ",
+  "hash": "68fd8e6d65f06ca08c983da81d868aff",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261027",
+    "fullStartDateTime": "202610271500",
+    "endDate": "20261028"
+  },
+  "createdAt": "202610280628",
+  "originalUrlBase": "/th?id=OHR.KuneticeCastle_JA-JP3914699688"
+}

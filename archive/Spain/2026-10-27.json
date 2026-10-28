@@ -1,0 +1,48 @@
+{
+  "date": "28 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Siglos sobre Bohemia",
+  "bsTitle": "Siglos sobre Bohemia",
+  "caption": "Castillo de Kunětická hora, Bohemia, Chequia",
+  "copyright": "Castillo de Kunětická hora, Bohemia, Chequia (© Marek Saroch/Alamy)",
+  "copyrightOnly": "© Marek Saroch/Alamy",
+  "copyrightLink": "/search?q=Castillo+de+Kun%c4%9btick%c3%a1+hora&form=hpcapt&filters=HpDate%3a%2220261027_2300%22",
+  "description": "¿Qué historias contarían estos muros? El castillo de Kunětická hora se alza sobre un cerro solitario en el este de Bohemia, en en Chequia, y lleva siglos vigilando la llanura del Elba. A finales del siglo XIV ya había una fortaleza en esta colina, y su posición elevada, que permitía controlar todo el territorio circundante, la convirtió en una plaza codiciada.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261027_KuneticeCastle%22&FORM=HPQUIZ",
+  "hash": "6f23e12c923c4139936139d88c196c21",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_ES-ES0637644398_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_ES-ES0637644398_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_ES-ES0637644398_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_ES-ES0637644398_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_ES-ES0637644398_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261027",
+    "fullStartDateTime": "202610272300",
+    "endDate": "20261028"
+  },
+  "createdAt": "202610280628",
+  "originalUrlBase": "/th?id=OHR.KuneticeCastle_ES-ES0637644398"
+}

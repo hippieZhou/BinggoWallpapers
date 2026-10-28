@@ -1,0 +1,48 @@
+{
+  "date": "Oct 27, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Nature's golden mirror",
+  "bsTitle": "Nature's golden mirror",
+  "caption": "A grove of pond cypress trees with fall foliage, Georgia",
+  "copyright": "A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)",
+  "copyrightOnly": "© Chris Moore/Getty Images",
+  "copyrightLink": "/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22",
+  "description": "Reflected in calm water and glowing in the light of the setting sun, this grove of pond cypress creates a striking display of color and symmetry. Native to the southeastern United States, the species is associated with shallow ponds, depressions, and wetland habitats. This image was captured in Georgia, where these trees can be found in places such as the Okefenokee Swamp and other low-lying wetlands.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261027_PondCypress%22&FORM=HPQUIZ",
+  "hash": "8c3480019357ff01bd574a7e13966224",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261027",
+    "fullStartDateTime": "202610270700",
+    "endDate": "20261028"
+  },
+  "createdAt": "202610280628",
+  "originalUrlBase": "/th?id=OHR.PondCypress_EN-US0123444779"
+}
