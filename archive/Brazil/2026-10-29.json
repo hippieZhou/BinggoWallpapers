@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um mistério milenar",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Avebury+na+Inglaterra&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AveburyStones%22&FORM=HPQUIZ",
+  "hash": "07394434fb40ac5a298001a2c8f1f72f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261029",
+    "fullStartDateTime": "202610290300",
+    "endDate": "20261030"
+  },
+  "createdAt": "202610290638",
+  "originalUrlBase": "/th?id=OHR.AveburyStones_PT-BR9317811680"
+}

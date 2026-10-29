@@ -1,0 +1,48 @@
+{
+  "date": "29 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un paseo por la prehistoria",
+  "bsTitle": "Un paseo por la prehistoria",
+  "caption": "Menhires de Avebury, Wiltshire, Inglaterra",
+  "copyright": "Menhires de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
+  "copyrightOnly": "© George W Johnson/Getty Images",
+  "copyrightLink": "/search?q=Menhires+de+Avebury&form=hpcapt&filters=HpDate%3a%2220261028_2300%22",
+  "description": "Con la niebla de la mañana entre las piedras, los menhires de Avebury, en Wiltshire (Inglaterra), parecen fuera del tiempo. Forman parte de un monumento neolítico levantado hace unos 4.500 años que incluye el mayor círculo de piedras prehistórico del mundo, un enorme recinto de foso y terraplén y avenidas de megalitos que se prolongan por la campiña.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261028_AveburyStones%22&FORM=HPQUIZ",
+  "hash": "8c30ce84b7573fdb2087d5decbae7128",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ES-ES9090727572_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ES-ES9090727572_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ES-ES9090727572_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ES-ES9090727572_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ES-ES9090727572_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261028",
+    "fullStartDateTime": "202610282300",
+    "endDate": "20261029"
+  },
+  "createdAt": "202610290638",
+  "originalUrlBase": "/th?id=OHR.AveburyStones_ES-ES9090727572"
+}

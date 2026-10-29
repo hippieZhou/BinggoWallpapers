@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 10月 月 29 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "草原に立ち並ぶ巨石群",
+  "bsTitle": "草原に立ち並ぶ巨石群",
+  "caption": "草原に立ち並ぶ巨石群",
+  "copyright": "エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)",
+  "copyrightOnly": "© George W Johnson/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%a8%e3%83%bc%e3%83%b4%e3%83%99%e3%83%aa%e3%83%bc+%e5%b7%a8%e7%9f%b3%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220261028_1500%22",
+  "description": "イングランド南西部ウィルトシャーにあるエーヴベリー。朝霧に包まれた巨石群は、約 4500 年前の新石器時代に築かれた遺跡の一部です。世界最大の先史時代の環状列石をはじめ、巨大な環状遺構や列石が残されており、シルベリー・ヒルなど周辺の遺跡とともに広大な遺跡群を形成し、ユネスコ世界遺産にも登録されています。訪れる人は巨石の間を歩くことで、現代の田園風景に溶け込む古代遺跡を間近に体感することができます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261028_AveburyStones%22&FORM=HPQUIZ",
+  "hash": "d6e319715f7572177def89ba9f8da2ca",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261028",
+    "fullStartDateTime": "202610281500",
+    "endDate": "20261029"
+  },
+  "createdAt": "202610290638",
+  "originalUrlBase": "/th?id=OHR.AveburyStones_JA-JP4031336786"
+}
