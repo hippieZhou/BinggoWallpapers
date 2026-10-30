@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Avebury+henge+Wiltshire&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AveburyStones%22&FORM=HPQUIZ",
+  "hash": "49116aeb4a5cf80a32d708da7eb964b9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261029",
+    "fullStartDateTime": "202610290700",
+    "endDate": "20261030"
+  },
+  "createdAt": "202610300639",
+  "originalUrlBase": "/th?id=OHR.AveburyStones_ROW2156116179"
+}

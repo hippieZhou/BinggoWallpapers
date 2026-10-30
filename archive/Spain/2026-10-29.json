@@ -1,0 +1,48 @@
+{
+  "date": "30 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Hora de levantar el vuelo",
+  "bsTitle": "Hora de levantar el vuelo",
+  "caption": "Grullas canadienses, Nuevo México, Estados Unidos",
+  "copyright": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA (© Terry St.Louis/Getty Images)",
+  "copyrightOnly": "© Terry St.Louis/Getty Images",
+  "copyrightLink": "/search?q=Grullas+Canadienses&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+  "description": "El invierno trae consigo un ritmo familiar al Refugio Nacional de Vida Silvestre Bosque del Apache, en Nuevo México. Las grullas regresan, los humedales se llenan de aves y la zona se convierte en un punto de encuentro para la fauna estacional. Fundado en 1939, este santuario de 57.331 acres (23,201 hectáreas) se creó para ofrecer una parada protegida a las aves acuáticas migratorias. Hoy, sus humedales, campos y cursos de agua albergan fauna durante todo el año. Las grullas canadienses, protagonistas de la imagen de hoy, están especialmente ligadas al refugio durante el invierno.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+  "hash": "1938794829b93607f3bf772d97e9acb9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ES-ES8460518037_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ES-ES8460518037_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ES-ES8460518037_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ES-ES8460518037_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ES-ES8460518037_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261029",
+    "fullStartDateTime": "202610292300",
+    "endDate": "20261030"
+  },
+  "createdAt": "202610300639",
+  "originalUrlBase": "/th?id=OHR.AutumnCranes_ES-ES8460518037"
+}

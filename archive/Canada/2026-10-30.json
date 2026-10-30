@@ -1,0 +1,48 @@
+{
+  "date": "Oct 30, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Time to fly high",
+  "bsTitle": "Time to fly high",
+  "caption": "Sandhill cranes, New Mexico, USA",
+  "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+  "copyrightOnly": "© Terry St.Louis/Getty Images",
+  "copyrightLink": "/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0400%22",
+  "description": "Winter transforms Bosque del Apache National Wildlife Refuge in New Mexico into a haven for wildlife. Established in 1939, the 57,331-acre sanctuary provides an important stopover for migrating waterfowl and supports wildlife year-round. Sandhill cranes, featured in today's image, arrive in late October and spend the winter here, roosting in shallow water at night and feeding in nearby fields at sunrise. The refuge is a key wintering ground for the Rocky Mountain population of sandhill cranes. Other seasonal visitors include snow geese, northern pintails, hawks and eagles, while mule deer, coyotes and other mammals inhabit its diverse habitats.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_AutumnCranes%22&FORM=HPQUIZ",
+  "hash": "e08a0c3c1d113878341665d4028c456d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-CA4395405990_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261030",
+    "fullStartDateTime": "202610300400",
+    "endDate": "20261031"
+  },
+  "createdAt": "202610300639",
+  "originalUrlBase": "/th?id=OHR.AutumnCranes_EN-CA4395405990"
+}

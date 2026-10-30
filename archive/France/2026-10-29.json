@@ -1,0 +1,48 @@
+{
+  "date": "30 oct. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L'heure de prendre de la hauteur",
+  "bsTitle": "L'heure de prendre de la hauteur",
+  "caption": "Grues du Canada, Nouveau-Mexique, États-Unis",
+  "copyright": "Grues du Canada, réserve de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images)",
+  "copyrightOnly": "© Terry St.Louis/Getty Images",
+  "copyrightLink": "/search?q=Grue+du+Canada&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+  "description": "L'hiver instaure un rythme particulier dans la réserve naturelle nationale de Bosque del Apache, au Nouveau-Mexique. Créé en 1939, ce sanctuaire de 230 km2 offre une halte protégée aux oiseaux aquatiques migrateurs. Ses zones humides, ses champs et ses cours d'eau abritent aussi une faune toute l'année.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+  "hash": "f15856096ad24efa5cd5406c49efaa99",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261029",
+    "fullStartDateTime": "202610292300",
+    "endDate": "20261030"
+  },
+  "createdAt": "202610300639",
+  "originalUrlBase": "/th?id=OHR.AutumnCranes_FR-FR2970535620"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "30. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Zeit für Höhenflüge",
+  "bsTitle": "Zeit für Höhenflüge",
+  "caption": "Kanadakraniche, New Mexico, USA",
+  "copyright": "Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+  "copyrightOnly": "© Terry St.Louis/Getty Images",
+  "copyrightLink": "/search?q=Kanadakranich&form=hpcapt&filters=HpDate%3a%2220261029_2300%22",
+  "description": "Der Winter bringt einen vertrauten Rhythmus in das Bosque del Apache National Wildlife Refuge in New Mexico. Die Kraniche treffen ein, die Feuchtgebiete füllen sich mit Vögeln und das Gebiet wird zu einem Knotenpunkt für saisonale Wildtiere. Das 1939 gegründete, 23.000 Hektar große Schutzgebiet wurde geschaffen, um Zugvögeln einen geschützten Rastplatz zu bieten. Seine Feuchtgebiete, Felder und Wasserwege sind heute das ganze Jahr über Rückzugsort für Wildtiere. Kanadakraniche, die auf dem heutigen Bild zu sehen sind, sind besonders im Winter häufig in diesem Schutzgebiet anzutreffen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261029_AutumnCranes%22&FORM=HPQUIZ",
+  "hash": "841ba314371c7bc580068cd37aca730c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261029",
+    "fullStartDateTime": "202610292300",
+    "endDate": "20261030"
+  },
+  "createdAt": "202610300639",
+  "originalUrlBase": "/th?id=OHR.AutumnCranes_DE-DE0229834342"
+}
