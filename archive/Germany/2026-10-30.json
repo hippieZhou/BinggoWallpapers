@@ -1,0 +1,48 @@
+{
+  "date": "31. Okt.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der Geist vergangener Kaiserreiche",
+  "bsTitle": "Der Geist vergangener Kaiserreiche",
+  "caption": "Heute ist Halloween!",
+  "copyright": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
+  "copyrightOnly": "© AlxeyPnferov/Getty Images",
+  "copyrightLink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+  "description": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_FrankfurtHalloween%22&FORM=HPQUIZ",
+  "hash": "ead7a5128f2dac8473d3b22c72a6d9d4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261030",
+    "fullStartDateTime": "202610302300",
+    "endDate": "20261031"
+  },
+  "createdAt": "202610310629",
+  "originalUrlBase": "/th?id=OHR.FrankfurtHalloween_DE-DE2172526536"
+}

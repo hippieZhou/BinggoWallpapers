@@ -1,0 +1,48 @@
+{
+  "date": "31 de oct de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Los fantasmas de imperios pasados",
+  "bsTitle": "Los fantasmas de imperios pasados",
+  "caption": "¡Es Halloween!",
+  "copyright": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
+  "copyrightOnly": "© AlxeyPnferov/Getty Images",
+  "copyrightLink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22",
+  "description": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_FrankfurtHalloween%22&FORM=HPQUIZ",
+  "hash": "8245bdb6e180d9de710d68657456b9e7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261030",
+    "fullStartDateTime": "202610302300",
+    "endDate": "20261031"
+  },
+  "createdAt": "202610310629",
+  "originalUrlBase": "/th?id=OHR.FrankfurtHalloween_ES-ES0138515727"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "Oct 30, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Time to fly high",
+  "bsTitle": "Time to fly high",
+  "caption": "Bosque del Apache National Wildlife Refuge, New Mexico",
+  "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+  "copyrightOnly": "© Terry St.Louis/Getty Images",
+  "copyrightLink": "/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0700%22",
+  "description": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields, and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_AutumnCranes%22&FORM=HPQUIZ",
+  "hash": "5d23d8ca2501c88990d08bf23b12dd87",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261030",
+    "fullStartDateTime": "202610300700",
+    "endDate": "20261031"
+  },
+  "createdAt": "202610310629",
+  "originalUrlBase": "/th?id=OHR.AutumnCranes_EN-US9795571462"
+}

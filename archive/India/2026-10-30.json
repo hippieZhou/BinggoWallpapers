@@ -1,0 +1,48 @@
+{
+  "date": "Oct 31, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Ghosts of empires past",
+  "bsTitle": "Ghosts of empires past",
+  "caption": "It's Halloween!",
+  "copyright": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+  "copyrightOnly": "© AlxeyPnferov/Getty Images",
+  "copyrightLink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_1830%22",
+  "description": "Forget the fog machine. Frankfurt, Germany, has something far more effective: a Gothic cathedral with a tower that looks ready for a midnight séance. St Bartholomew's Cathedral, seen here, has the medieval silhouette Halloween practically ordered for itself. But the festival's own history is even stranger.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261030_FrankfurtHalloween%22&FORM=HPQUIZ",
+  "hash": "637c924c2de67adf52a3861d28ceb37a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261030",
+    "fullStartDateTime": "202610301830",
+    "endDate": "20261031"
+  },
+  "createdAt": "202610310629",
+  "originalUrlBase": "/th?id=OHR.FrankfurtHalloween_EN-IN8941917618"
+}
