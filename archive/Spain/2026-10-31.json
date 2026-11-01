@@ -1,0 +1,48 @@
+{
+  "date": "1 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Niebla entre los árboles",
+  "bsTitle": "Niebla entre los árboles",
+  "caption": "Selva Negra, Baden-Württemberg, Alemania",
+  "copyright": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
+  "copyrightOnly": "© Britus/Getty Images",
+  "copyrightLink": "/search?q=Selva+Negra+Alemania&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+  "description": "Hoy disfrutamos de las vistas envueltas en la niebla de la Selva Negra, que se extiende a lo largo de unos 160 kilómetros por el suroeste de Alemania entre colinas boscosas, profundos valles, lagos y encantadores pueblos. Su punto más alto, el Feldberg, alcanza los 1.493 metros, y la Selva Negra también alberga el nacimiento de los ríos Danubio y Neckar. La historia y la tradición también están muy presentes en esta región. La actividad forestal ha desempeñado durante mucho tiempo un papel importante, mientras que una tradición relojera de varios siglos contribuyó a que sus característicos relojes de cuco se hicieran famosos mucho más allá de las fronteras de Alemania.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+  "hash": "4871cb3085d9dcd75070bd4ec40af68a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261031",
+    "fullStartDateTime": "202610312300",
+    "endDate": "20261101"
+  },
+  "createdAt": "202611010700",
+  "originalUrlBase": "/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557"
+}

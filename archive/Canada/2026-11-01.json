@@ -1,0 +1,48 @@
+{
+  "date": "Nov 1, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Mist among the trees",
+  "bsTitle": "Mist among the trees",
+  "caption": "Black Forest, Baden-Württemberg, Germany",
+  "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+  "copyrightOnly": "© Britus/Getty Images",
+  "copyrightLink": "/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261101_0400%22",
+  "description": "The Black Forest in south-west Germany is known for its misty landscapes, forested hills, deep valleys, lakes and picturesque towns. Stretching about 160 kilometres, the region is home to Feldberg, its highest peak at 1,493 metres, and marks the source of both the Danube and Neckar rivers. Beyond its natural beauty, the Black Forest is rich in history and tradition. Forestry has shaped the region for centuries, while its renowned clockmaking heritage helped make the cuckoo clock famous around the world. Today, the area remains one of Germany's most distinctive destinations, blending cultural heritage with striking scenery.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+  "hash": "2f3908badf6ab796158809a3a0e3ff4f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261101",
+    "fullStartDateTime": "202611010400",
+    "endDate": "20261102"
+  },
+  "createdAt": "202611010700",
+  "originalUrlBase": "/th?id=OHR.SchwarzwaldAutumn_EN-CA6119950535"
+}

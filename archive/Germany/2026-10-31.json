@@ -1,0 +1,48 @@
+{
+  "date": "1. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wälder im Nebel",
+  "bsTitle": "Wälder im Nebel",
+  "caption": "Schwarzwald, Baden-Württemberg",
+  "copyright": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
+  "copyrightOnly": "© Britus/Getty Images",
+  "copyrightLink": "/search?q=Schwarzwald+Deutschland&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+  "description": "Heute lassen wir den Blick über die nebelverhangene Landschaft des Schwarzwaldes schweifen, der sich über rund 160 Kilometer durch den Südwesten Deutschlands erstreckt und bewaldete Hügel, tiefe Täler, Seen und charmante Städtchen umfasst. Sein höchster Gipfel, der Feldberg, ist 1.493 Meter hoch. Der Schwarzwald ist der Ursprung der Flüsse Donau und Neckar und die Region ist reich an Geschichte und Tradition. Die Forstwirtschaft spielt hier seit jeher eine wichtige Rolle und die jahrhundertealte Uhrmachertradition hat dazu beigetragen, dass die unverwechselbare Kuckucksuhr weit über die Grenzen Deutschlands hinaus berühmt wurde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+  "hash": "8d708799fc049d1f4a9cb7098e3a5214",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261031",
+    "fullStartDateTime": "202610312300",
+    "endDate": "20261101"
+  },
+  "createdAt": "202611010700",
+  "originalUrlBase": "/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453"
+}

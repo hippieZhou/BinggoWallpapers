@@ -1,0 +1,48 @@
+{
+  "date": "1 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Manteau de brume sur la forêt",
+  "bsTitle": "Manteau de brume sur la forêt",
+  "caption": "Forêt-Noire, Bade-Wurtemberg, Allemagne",
+  "copyright": "Forêt-Noire, Bade-Wurtemberg, Allemagne  (© Britus/Getty Images)",
+  "copyrightOnly": "© Britus/Getty Images",
+  "copyrightLink": "/search?q=For%c3%aat-Noire+Allemagne&form=hpcapt&filters=HpDate%3a%2220261031_2300%22",
+  "description": "Ces paysages brumeux à perte de vue se trouvent en Forêt-Noire, une région qui s’étend sur environ 160 kilomètres dans le sud-ouest de l’Allemagne. Collines boisées, vallées profondes, lacs et charmantes petites villes dessinent ses particularités très appréciées par les visiteurs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+  "hash": "e0fee05c7ff3b9c39eb6a77dd9762d4b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261031",
+    "fullStartDateTime": "202610312300",
+    "endDate": "20261101"
+  },
+  "createdAt": "202611010700",
+  "originalUrlBase": "/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698"
+}

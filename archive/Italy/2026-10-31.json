@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Alberi che svettano tra la foschia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Foresta+Nera+Germania&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261031_SchwarzwaldAutumn%22&FORM=HPQUIZ",
+  "hash": "4b219b5015349f11fb7d3fe19b9b97aa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261031",
+    "fullStartDateTime": "202610312300",
+    "endDate": "20261101"
+  },
+  "createdAt": "202611010700",
+  "originalUrlBase": "/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599"
+}
