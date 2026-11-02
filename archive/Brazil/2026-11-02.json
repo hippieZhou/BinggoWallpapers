@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O futuro sobre o gelo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá (© Danita Delimont/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Urso+polar&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_HudsonBear%22&FORM=HPQUIZ",
+  "hash": "c202c0a26c9cbac1294c7ee36f6fdc88",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261102",
+    "fullStartDateTime": "202611020300",
+    "endDate": "20261103"
+  },
+  "createdAt": "202611020659",
+  "originalUrlBase": "/th?id=OHR.HudsonBear_PT-BR1375226804"
+}

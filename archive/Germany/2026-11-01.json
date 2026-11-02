@@ -1,0 +1,48 @@
+{
+  "date": "2. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Eine Zukunft, geprägt vom Eis",
+  "bsTitle": "Eine Zukunft, geprägt vom Eis",
+  "caption": "Eisbären, Kanada",
+  "copyright": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock)",
+  "copyrightOnly": "© Danita Delimont/Adobe Stock",
+  "copyrightLink": "/search?q=Eisb%c3%a4ren&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+  "description": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+  "hash": "bf8891f81fe007be6cb02cf43de9a9bd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261101",
+    "fullStartDateTime": "202611012300",
+    "endDate": "20261102"
+  },
+  "createdAt": "202611020659",
+  "originalUrlBase": "/th?id=OHR.HudsonBear_DE-DE3504338986"
+}

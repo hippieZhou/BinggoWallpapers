@@ -1,0 +1,48 @@
+{
+  "date": "2 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un avenir écrit dans la glace",
+  "bsTitle": "Un avenir écrit dans la glace",
+  "caption": "Ours polaire au Canada",
+  "copyright": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+  "copyrightOnly": "© Danita Delimont/Adobe Stock",
+  "copyrightLink": "/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+  "description": "Si le mois de novembre nous rapproche un peu plus des fêtes de fin d’année, les ours polaires, eux, ont d’autres projets. Ils se rassemblent le long des rives de la baie d’Hudson, dans le Manitoba (Canada), en attendant que la banquise se forme pour pouvoir repartir chasser le phoque. Les ours polaires sont de puissants nageurs, des chasseurs hors pair et remarquablement adaptés à la vie dans l’un des environnements les plus hostiles de la planète. Pourtant, le recul de la banquise les oblige à passer plus de temps sur la terre ferme, ce qui rend la recherche de nourriture plus difficile et augmente le risque de rencontres avec les humains.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+  "hash": "38626787e73cf9f113c6f938cd201edc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261101",
+    "fullStartDateTime": "202611012300",
+    "endDate": "20261102"
+  },
+  "createdAt": "202611020659",
+  "originalUrlBase": "/th?id=OHR.HudsonBear_FR-FR2767726453"
+}

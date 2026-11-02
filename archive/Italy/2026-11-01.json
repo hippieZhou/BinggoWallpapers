@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Un futuro scolpito nel ghiaccio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Orso+Polare&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+  "hash": "869a7fd66be018a4b4df2a0166111c63",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261101",
+    "fullStartDateTime": "202611012300",
+    "endDate": "20261102"
+  },
+  "createdAt": "202611020659",
+  "originalUrlBase": "/th?id=OHR.HudsonBear_IT-IT6232079426"
+}

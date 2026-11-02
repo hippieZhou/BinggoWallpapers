@@ -1,0 +1,48 @@
+{
+  "date": "Nov 2, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "A future written in ice",
+  "bsTitle": "A future written in ice",
+  "caption": "Polar Bear Week",
+  "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+  "copyrightOnly": "© Danita Delimont/Adobe Stock",
+  "copyrightLink": "/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261101_1830%22",
+  "description": "These polar bears are gathering along the shores of Hudson Bay in Manitoba, Canada, waiting for sea ice to form so they can head back out to hunt seals. That annual spectacle inspired Polar Bear Week, observed during the first week of November, a celebration of the Arctic's largest land predator. Polar bears are powerful swimmers, expert hunters and remarkably adapted to life in one of Earth's harshest environments. Yet shrinking sea ice means many spend longer on land, making it harder to find food and raising the risk of encounters with people.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261101_HudsonBear%22&FORM=HPQUIZ",
+  "hash": "602aae97c36c429921091a890ec59a0a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261101",
+    "fullStartDateTime": "202611011830",
+    "endDate": "20261102"
+  },
+  "createdAt": "202611020659",
+  "originalUrlBase": "/th?id=OHR.HudsonBear_EN-IN9299365522"
+}
