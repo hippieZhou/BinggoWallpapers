@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Pace in cima al mondo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lago+di+Braies+Dolomiti&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_AlpineBraies%22&FORM=HPQUIZ",
+  "hash": "85a1fe38450219142cb97cd3179acdb6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261102",
+    "fullStartDateTime": "202611022300",
+    "endDate": "20261103"
+  },
+  "createdAt": "202611030724",
+  "originalUrlBase": "/th?id=OHR.AlpineBraies_IT-IT4890299611"
+}

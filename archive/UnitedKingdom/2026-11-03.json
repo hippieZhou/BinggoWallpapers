@@ -1,0 +1,48 @@
+{
+  "date": "Nov 3, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Peace among the peaks",
+  "bsTitle": "Peace among the peaks",
+  "caption": "Lake Braies, Dolomites, Italy",
+  "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)",
+  "copyrightOnly": "© leonid_tit/Getty Images",
+  "copyrightLink": "/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0000%22",
+  "description": "Lake Braies sits almost 1,500 metres above sea level in the Dolomites of South Tyrol, northern Italy. Surrounded by forest and the dramatic peaks of the Fanes-Sennes-Braies Nature Park, the lake is known for its striking green and blue waters. A 3.5-kilometre trail circles the shore, while traditional wooden rowing boats offer another way to take in the scenery. The lake is also a starting point for several mountain walks, including the Dolomites' famous Alta Via 1.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_AlpineBraies%22&FORM=HPQUIZ",
+  "hash": "52e9e6a9883e4205d5e36872921c0479",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261103",
+    "fullStartDateTime": "202611030000",
+    "endDate": "20261104"
+  },
+  "createdAt": "202611030724",
+  "originalUrlBase": "/th?id=OHR.AlpineBraies_EN-GB4055015386"
+}

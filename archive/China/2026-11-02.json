@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "群峰间的宁静",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_AlpineBraies%22&FORM=HPQUIZ",
+  "hash": "6bd5dfc358e5b75ec73225f8ebca75dd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261102",
+    "fullStartDateTime": "202611021600",
+    "endDate": "20261103"
+  },
+  "createdAt": "202611030724",
+  "originalUrlBase": "/th?id=OHR.AlpineBraies_ZH-CN7307997866"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "3 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La paix parmi les sommets",
+  "bsTitle": "La paix parmi les sommets",
+  "caption": "Lac de Braies, Dolomites, Italie",
+  "copyright": "Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images)",
+  "copyrightOnly": "© leonid_tit/Getty Images",
+  "copyrightLink": "/search?q=Lac+de+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+  "description": "Le lac de Braies se trouve à près de 1 500 mètres d'altitude dans les Dolomites du Tyrol du Sud, au nord de l'Italie. Entouré de forêts et des sommets spectaculaires du parc naturel de Fanes-Sennes-Braies, ce lac est réputé pour ses eaux d'un vert et d'un bleu saisissants. Un sentier de 3,5 kilomètres fait le tour de ses rives, tandis que des barques traditionnelles en bois permettent de profiter autrement du paysage. Le lac est également le point de départ de plusieurs randonnées en montagne, dont la célèbre Alta Via 1 des Dolomites qui parcoure 125 km dans les montagnes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_AlpineBraies%22&FORM=HPQUIZ",
+  "hash": "0f6ae79e0a62e140c8d77829d70cef83",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261102",
+    "fullStartDateTime": "202611022300",
+    "endDate": "20261103"
+  },
+  "createdAt": "202611030724",
+  "originalUrlBase": "/th?id=OHR.AlpineBraies_FR-FR8651963330"
+}

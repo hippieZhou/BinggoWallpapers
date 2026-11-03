@@ -1,0 +1,48 @@
+{
+  "date": "3. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Stille Gipfelwelten",
+  "bsTitle": "Stille Gipfelwelten",
+  "caption": "Pragser Wildsee, Dolomiten, Italien",
+  "copyright": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images)",
+  "copyrightOnly": "© leonid_tit/Getty Images",
+  "copyrightLink": "/search?q=Pragser+Wildsee+Dolomiten&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+  "description": "Der Pragser Wildsee liegt auf fast 1.500 Metern Höhe in den Südtiroler Dolomiten. Umgeben von Wäldern und den imposanten Gipfeln des Naturparks Fanes-Sennes-Prags, ist der See für sein auffallend grün-blaues Wasser bekannt. Ein 3,5 Kilometer langer Wanderweg führt um das Ufer herum, aber der Wildsee lässt sich auch mit traditionellen Holzruderbooten erkunden. Der See ist zudem Ausgangspunkt für mehrere Bergwanderungen, darunter der berühmte Alta Via 1 Höhenweg der Dolomiten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261102_AlpineBraies%22&FORM=HPQUIZ",
+  "hash": "5d09031a93a455e4cca7225082b52406",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261102",
+    "fullStartDateTime": "202611022300",
+    "endDate": "20261103"
+  },
+  "createdAt": "202611030724",
+  "originalUrlBase": "/th?id=OHR.AlpineBraies_DE-DE4176036164"
+}
