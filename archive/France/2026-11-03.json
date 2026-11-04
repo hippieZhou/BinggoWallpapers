@@ -1,0 +1,48 @@
+{
+  "date": "4 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Glisser à travers une peinture",
+  "bsTitle": "Glisser à travers une peinture",
+  "caption": "Cyprès chauves, Xuancheng, Anhui, Chine",
+  "copyright": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
+  "copyrightOnly": "© Jackal Pan/Getty Images",
+  "copyrightLink": "/search?q=cypr%c3%a8s+chauve&form=hpcapt&filters=HpDate%3a%2220261103_2300%22",
+  "description": "Dans ce labyrinthe lumineux de cyprès chauves à Xuancheng, dans la province de l'Anhui, l’automne métamorphose les zones boisées inondées en une mosaïque aux teintes ambre, cuivre et rouille profond. Le cyprès chauve se distingue des autres conifères par sa particularité de perdre ses aiguilles souples et plumeuses chaque automne. Celles-ci virent au brun rougeâtre avant de tomber.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_AutumnChina%22&FORM=HPQUIZ",
+  "hash": "f871f5d11c264b35ee9f041da09ed3f2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261103",
+    "fullStartDateTime": "202611032300",
+    "endDate": "20261104"
+  },
+  "createdAt": "202611040705",
+  "originalUrlBase": "/th?id=OHR.AutumnChina_FR-FR8803814320"
+}

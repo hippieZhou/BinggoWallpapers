@@ -1,0 +1,48 @@
+{
+  "date": "Nov 3, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Taquaras Beach, Balneário Camboriú, Brazil",
+  "copyright": "Taquaras Beach, Balneário Camboriú, Brazil (© MaRabelo/Getty Images)",
+  "copyrightOnly": "© MaRabelo/Getty Images",
+  "copyrightLink": "/search?q=Balne%c3%a1rio+Cambori%c3%ba&form=hpcapt&filters=HpDate%3a%2220261103_0800%22",
+  "description": "On Brazil's southern coast, Taquaras Beach offers a quieter escape in Balneário Camboriú, Santa Catarina. Clear blue-green waters meet a broad stretch of golden sand, backed by lush vegetation and rolling green hills. Away from the livelier atmosphere of the city centre, the beach is known for its peaceful surroundings and natural beauty. With its inviting shoreline, rich greenery and unspoilt feel, Taquaras showcases a calmer side of this popular Brazilian coastal destination.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261103_Camburiu%22&FORM=HPQUIZ",
+  "hash": "bafd67bab8148420cb744f5abd71398d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261103",
+    "fullStartDateTime": "202611030800",
+    "endDate": "20261104"
+  },
+  "createdAt": "202611040705",
+  "originalUrlBase": "/th?id=OHR.Camburiu_ROW3589076688"
+}
