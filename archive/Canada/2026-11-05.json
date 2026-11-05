@@ -1,0 +1,48 @@
+{
+  "date": "Nov 5, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "One step closer to the summit",
+  "bsTitle": "One step closer to the summit",
+  "caption": "Black Crag, Lake District, England",
+  "copyright": "Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+  "copyrightOnly": "© Alex Treadway/Getty Images",
+  "copyrightLink": "/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261105_0500%22",
+  "description": "A simple wooden gate opens onto the Lake District, a UNESCO World Heritage Site in north-west England known for its lakes, rolling hills and centuries-old stone walls. This path leads toward Black Crag, the summit of Black Fell, which rises to about 323 metres and offers impressive views of Windermere, Coniston Water, and the Langdale Pikes. The route passes Tarn Hows, one of the region's most scenic spots, before climbing through a landscape shaped by nature and farming traditions. Some trails also follow Tom Gill, where woodland paths run alongside cascading waterfalls in this picturesque corner of Cumbria.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_StileCrossing%22&FORM=HPQUIZ",
+  "hash": "57e1ded6a9a798a6767244caa7032af2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261105",
+    "fullStartDateTime": "202611050500",
+    "endDate": "20261106"
+  },
+  "createdAt": "202611050735",
+  "originalUrlBase": "/th?id=OHR.StileCrossing_EN-CA6257654888"
+}

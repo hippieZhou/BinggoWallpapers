@@ -1,0 +1,48 @@
+{
+  "date": "Nov 5, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Remember, remember",
+  "bsTitle": "Remember, remember",
+  "caption": "Bonfire Night",
+  "copyright": "Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images)",
+  "copyrightOnly": "© Michael Lee/Getty Images",
+  "copyrightLink": "/search?q=bonfire+night&form=hpcapt&filters=HpDate%3a%2220261105_0000%22",
+  "description": "Happy Bonfire Night, or Guy Fawkes Night, from London's iconic Battersea Power Station, which has towered over the Thames since the 1930s. Fireworks will be seen and heard across London and the UK tonight and over the weekend, to mark the anniversary of the 1605 Gunpowder Plot. The infamous bid to blow up the Houses of Parliament was foiled when Guy Fawkes was caught in the cellars, trying to light the fuse to hidden barrels of gunpowder. His name has since become synonymous with the plot, and his effigy has traditionally been burned to mark the date.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_FireworksBattersea%22&FORM=HPQUIZ",
+  "hash": "8d8913d77621c91e4d61130deff6feba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261105",
+    "fullStartDateTime": "202611050000",
+    "endDate": "20261106"
+  },
+  "createdAt": "202611050735",
+  "originalUrlBase": "/th?id=OHR.FireworksBattersea_EN-GB4505786809"
+}

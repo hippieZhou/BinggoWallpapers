@@ -1,0 +1,48 @@
+{
+  "date": "5 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un pas de plus vers le sommet",
+  "bsTitle": "Un pas de plus vers le sommet",
+  "caption": "Black Crag, Lake District, Angleterre",
+  "copyright": "Échelle près d'un mur de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images)",
+  "copyrightOnly": "© Alex Treadway/Getty Images",
+  "copyrightLink": "/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
+  "description": "Une simple échelle en bois mène à l’un des paysages les plus connus d’Angleterre. Le Lake District, classé au patrimoine mondial de l’UNESCO, est une mosaïque de lacs scintillants, de collines escarpées, de cascades et de murs de pierre séculaires, le tout façonné à la fois par la nature et par les traditions agricoles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_StileCrossing%22&FORM=HPQUIZ",
+  "hash": "2f4ff9d4d636cb7f1c99f144be66ae61",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261104",
+    "fullStartDateTime": "202611042300",
+    "endDate": "20261105"
+  },
+  "createdAt": "202611050735",
+  "originalUrlBase": "/th?id=OHR.StileCrossing_FR-FR8951232534"
+}

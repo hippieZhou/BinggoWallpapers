@@ -1,0 +1,48 @@
+{
+  "date": "5. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Schritt näher am Gipfel",
+  "bsTitle": "Ein Schritt näher am Gipfel",
+  "caption": "Black Crag, Lake District, England",
+  "copyright": "Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+  "copyrightOnly": "© Alex Treadway/Getty Images",
+  "copyrightLink": "/search?q=Lake+District+Vereinigtes+K%c3%b6nigreich&form=hpcapt&filters=HpDate%3a%2220261104_2300%22",
+  "description": "Ein einfacher Holzsteg führt in eine der berühmtesten Landschaften Englands. Der Lake District, ein UNESCO-Weltkulturerbe, ist ein Flickenteppich aus schimmernden Seen, schroffen Hügeln und jahrhundertealten Steinmauern.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261104_StileCrossing%22&FORM=HPQUIZ",
+  "hash": "c8b29159a3efaa56ffa39521c753aec3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261104",
+    "fullStartDateTime": "202611042300",
+    "endDate": "20261105"
+  },
+  "createdAt": "202611050735",
+  "originalUrlBase": "/th?id=OHR.StileCrossing_DE-DE6131632165"
+}
