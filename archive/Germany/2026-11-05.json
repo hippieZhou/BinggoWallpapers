@@ -1,0 +1,48 @@
+{
+  "date": "6. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein grüner Tunnel durch Maui",
+  "bsTitle": "Ein grüner Tunnel durch Maui",
+  "caption": "Bambuswald, Haleakalā-Nationalpark, Maui, Hawaii",
+  "copyright": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+  "copyrightOnly": "© MNStudio/Getty Images",
+  "copyrightLink": "/search?q=Haleakala-Nationalpark+Hawaii&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+  "description": "Ein Vulkan, ein Regenwald und ein Bambushain? Der Haleakalā-Nationalpark auf Maui bietet all das. Der Park erstreckt sich über die gesamte Insel Maui, vom 3.055 Meter hohen Gipfel bis zur Küste, und schützt Landschaften, die sich je nach Höhe, Niederschlagsmenge und Temperatur dramatisch verändern. Er wurde 1916 als Teil des Hawaii-Nationalparks gegründet und 1961 zu einem eigenständigen Nationalpark erklärt. Der Name Haleakalā bedeutet übersetzt „Haus der Sonne“ und spiegelt die hawaiianische Legende (mo’olelo) wider, wonach Māui die Sonne einfing, um den Tag zu verlängern.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_PipiwaiTrail%22&FORM=HPQUIZ",
+  "hash": "810b899ff51c2cd8b235520b75a69105",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261105",
+    "fullStartDateTime": "202611052300",
+    "endDate": "20261106"
+  },
+  "createdAt": "202611060730",
+  "originalUrlBase": "/th?id=OHR.PipiwaiTrail_DE-DE9691097479"
+}

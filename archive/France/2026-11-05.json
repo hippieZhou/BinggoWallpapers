@@ -1,0 +1,48 @@
+{
+  "date": "6 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Toit de verdure à travers Maui",
+  "bsTitle": "Toit de verdure à travers Maui",
+  "caption": "Parc national de Haleakalā, Maui, Hawaii",
+  "copyright": "Forêt de bambous, Pīpīwai Trail, Hawaii, États-Unis (© MNStudio/Getty Images)",
+  "copyrightOnly": "© MNStudio/Getty Images",
+  "copyrightLink": "/search?q=Parc+national+Haleakal%c4%81&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+  "description": "Un volcan, une forêt tropicale, une bambouseraie… Le parc national de Haleakalā, sur l’île de Maui, réunit bien ces trois éléments. De son sommet, à 3 000 mètres d’altitude, jusqu’à la côte, le parc abrite des paysages qui varient considérablement. Haleakalā signifie « Maison du Soleil », en référence au mo'olelo hawaïen selon lequel le demi-dieu Māui aurait capturé le soleil pour prolonger la journée.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_PipiwaiTrail%22&FORM=HPQUIZ",
+  "hash": "e884e0f057838c544ad9ea2c4cbda553",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261105",
+    "fullStartDateTime": "202611052300",
+    "endDate": "20261106"
+  },
+  "createdAt": "202611060730",
+  "originalUrlBase": "/th?id=OHR.PipiwaiTrail_FR-FR9210868970"
+}

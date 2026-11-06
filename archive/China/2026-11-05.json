@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "穿越毛伊岛的绿色隧道",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%93%88%e8%8e%b1%e4%ba%9a%e5%8d%a1%e6%8b%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_PipiwaiTrail%22&FORM=HPQUIZ",
+  "hash": "83e427360a433d9f9e12ebbb4317ff61",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261105",
+    "fullStartDateTime": "202611051600",
+    "endDate": "20261106"
+  },
+  "createdAt": "202611060730",
+  "originalUrlBase": "/th?id=OHR.PipiwaiTrail_ZH-CN1811194311"
+}

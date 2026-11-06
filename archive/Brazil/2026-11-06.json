@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O portal verde de Maui",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Floresta de bambu, Trilha Pīpīwai, Parque Nacional de Haleakalā, Maui, Havaí, Estados Unidos (© MNStudio/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+de+Haleakal%c4%81&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_PipiwaiTrail%22&FORM=HPQUIZ",
+  "hash": "3663b09e6e68b129034277ebdb3fb199",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261106",
+    "fullStartDateTime": "202611060300",
+    "endDate": "20261107"
+  },
+  "createdAt": "202611060730",
+  "originalUrlBase": "/th?id=OHR.PipiwaiTrail_PT-BR4772010381"
+}

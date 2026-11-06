@@ -1,0 +1,48 @@
+{
+  "date": "6 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un túnel verde que atraviesa Maui",
+  "bsTitle": "Un túnel verde que atraviesa Maui",
+  "caption": "Bosque de bambú, Parque Nacional Haleakalā, Maui, Hawái",
+  "copyright": "Bosque de Bambú, Sendero Pīpīwai, Parque Nacional Haleakalā, Maui, Hawái, EE. UU. (© MNStudio/Getty Images)",
+  "copyrightOnly": "© MNStudio/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+Haleakala+&form=hpcapt&filters=HpDate%3a%2220261105_2300%22",
+  "description": "¿Un volcán, una selva tropical y un bosque de bambú? El Parque Nacional Haleakalā, en Maui, tiene los tres. El parque se extiende desde la cumbre de Maui, a 3.055 metros de altura, hasta la costa, y protege paisajes que cambian radicalmente según la altitud, las precipitaciones y la temperatura. Fue establecido en 1916 como parte del Parque Nacional de Hawái y se convirtió en un parque nacional independiente en 1961. El nombre Haleakalā significa “Casa del Sol” y hace referencia al mo'olelo hawaiano en el que Māui atrapa al sol para prolongar el día.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_PipiwaiTrail%22&FORM=HPQUIZ",
+  "hash": "87d90f329e6f469ec432af98a19b6fdf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ES-ES2022669562_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261105",
+    "fullStartDateTime": "202611052300",
+    "endDate": "20261106"
+  },
+  "createdAt": "202611060730",
+  "originalUrlBase": "/th?id=OHR.PipiwaiTrail_ES-ES2022669562"
+}

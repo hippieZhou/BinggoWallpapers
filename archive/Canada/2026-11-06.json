@@ -1,0 +1,48 @@
+{
+  "date": "Nov 6, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A green tunnel through Maui",
+  "bsTitle": "A green tunnel through Maui",
+  "caption": "Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+  "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)",
+  "copyrightOnly": "© MNStudio/Getty Images",
+  "copyrightLink": "/search?q=Haleakala+National+Park&form=hpcapt&filters=HpDate%3a%2220261106_0500%22",
+  "description": "Haleakalā National Park on Maui is home to an extraordinary mix of landscapes, from volcanic slopes and rainforest to towering bamboo forests. The park stretches from the summit of Haleakalā, which rises 3,055 metres above sea level, to the Pacific coast. More than 850 plant species grow here, including some found nowhere else on Earth, alongside native Hawaiian wildlife. One of the park's most popular walks is the Pīpīwai Trail, which winds through lush forest before reaching a remarkable bamboo grove. As the bamboo sways in the breeze, its tall stalks create distinctive sounds that add to the unique experience.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_PipiwaiTrail%22&FORM=HPQUIZ",
+  "hash": "276a97f6219d91a91fbc04ce1ad3c9fb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261106",
+    "fullStartDateTime": "202611060500",
+    "endDate": "20261107"
+  },
+  "createdAt": "202611060730",
+  "originalUrlBase": "/th?id=OHR.PipiwaiTrail_EN-CA6167003961"
+}

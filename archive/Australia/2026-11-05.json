@@ -1,0 +1,48 @@
+{
+  "date": "Nov 5, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Black Crag, Lake District, England",
+  "copyright": "Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)",
+  "copyrightOnly": "© Alex Treadway/Getty Images",
+  "copyrightLink": "/search?q=Lake+District&form=hpcapt&filters=HpDate%3a%2220261105_0800%22",
+  "description": "A simple wooden stile leads into one of England's most celebrated landscapes. The Lake District, a UNESCO World Heritage Site, is a patchwork of shimmering lakes, rugged fells and centuries-old stone walls, all shaped by both nature and farming traditions.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261105_StileCrossing%22&FORM=HPQUIZ",
+  "hash": "bc9bbc143493a056644414a19acb73ec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_ROW6996983847_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_ROW6996983847_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_ROW6996983847_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_ROW6996983847_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.StileCrossing_ROW6996983847_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261105",
+    "fullStartDateTime": "202611050800",
+    "endDate": "20261106"
+  },
+  "createdAt": "202611060730",
+  "originalUrlBase": "/th?id=OHR.StileCrossing_ROW6996983847"
+}
