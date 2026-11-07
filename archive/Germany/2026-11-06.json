@@ -1,0 +1,48 @@
+{
+  "date": "7. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der zurückgekehrte Riese",
+  "bsTitle": "Der zurückgekehrte Riese",
+  "caption": "Ein Bison in Nord-Dakota, USA",
+  "copyright": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "© Tandem Stock/Adobe Stock",
+  "copyrightLink": "/search?q=Bisons&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
+  "description": "Obwohl er oft als Büffel bezeichnet wird, gehört der amerikanische Bison nicht zu den echten Büffeln, die in Afrika und Asien beheimatet sind. Sein wissenschaftlicher Name „Bison bison”, lässt wenig Raum für Verwechslungen. Dieses nordamerikanische Säugetier kann bis zu 900 Kilo wiegen und dennoch mit einer Geschwindigkeit von fast 60 km/h sprinten. Sein muskulöser Schulterhöcker hilft ihm den Kopf hin und her zu schwingen, um Schnee beiseite zu schieben und so an das darunter liegende Gras zu gelangen. Sowohl Männchen als auch Weibchen haben Hörner und einen Bart. Schwanzbewegungen geben Aufschluss über ihre Stimmung: Schwanzwedeln signalisiert in der Regel Gelassenheit, während ein gehobener Schwanz auf Unruhe hindeuten kann.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_DakotaBison%22&FORM=HPQUIZ",
+  "hash": "636d5cb1bbeef8034ddfafd2a20b8e72",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261106",
+    "fullStartDateTime": "202611062300",
+    "endDate": "20261107"
+  },
+  "createdAt": "202611070643",
+  "originalUrlBase": "/th?id=OHR.DakotaBison_DE-DE0154878283"
+}

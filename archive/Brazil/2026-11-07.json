@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O grandão está de volta",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Um bisão nas pastagens do Parque Nacional Theodore Roosevelt, Dakota do Norte, EUA. (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Bis%c3%a3o+americano&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+  "hash": "90427e7ba74fe2b5be8bff3f6abf882e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_PT-BR6015279362_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261107",
+    "fullStartDateTime": "202611070300",
+    "endDate": "20261108"
+  },
+  "createdAt": "202611070643",
+  "originalUrlBase": "/th?id=OHR.DakotaBison_PT-BR6015279362"
+}

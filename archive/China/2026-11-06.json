@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "归来的草原巨兽",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国 (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%be%8e%e6%b4%b2%e9%87%8e%e7%89%9b&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_DakotaBison%22&FORM=HPQUIZ",
+  "hash": "8bd1a0a85b934a78ee8c90d2a6692a2b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261106",
+    "fullStartDateTime": "202611061600",
+    "endDate": "20261107"
+  },
+  "createdAt": "202611070643",
+  "originalUrlBase": "/th?id=OHR.DakotaBison_ZH-CN2302503868"
+}

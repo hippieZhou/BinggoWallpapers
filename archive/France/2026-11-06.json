@@ -1,0 +1,48 @@
+{
+  "date": "7 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un géant de retour",
+  "bsTitle": "Un géant de retour",
+  "caption": "Sauvage et libre",
+  "copyright": "Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "© Tandem Stock/Adobe Stock",
+  "copyrightLink": "/search?q=bison+bison&form=hpcapt&filters=HpDate%3a%2220261106_2300%22",
+  "description": "Bien qu'on le confonde souvent avec les buffles originaires d'Afrique et d'Asie, le bison d'Amérique n'appartient pas à la même famille. Son nom scientifique « Bison bison » insiste sur ses particularités. Lourd mais rapide, le bison peut peser jusqu’à 900 kg et courir jusqu’à une vitesse de 56 km/h.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_DakotaBison%22&FORM=HPQUIZ",
+  "hash": "134edd87ad4c21a14c2552ede082534b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261106",
+    "fullStartDateTime": "202611062300",
+    "endDate": "20261107"
+  },
+  "createdAt": "202611070643",
+  "originalUrlBase": "/th?id=OHR.DakotaBison_FR-FR7465030722"
+}

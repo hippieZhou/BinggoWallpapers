@@ -1,0 +1,48 @@
+{
+  "date": "Nov 7, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Roaming the grasslands",
+  "bsTitle": "Roaming the grasslands",
+  "caption": "A bison in Theodore Roosevelt National Park, USA",
+  "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "© Tandem Stock/Adobe Stock",
+  "copyrightLink": "/search?q=American+bison&form=hpcapt&filters=HpDate%3a%2220261107_0000%22",
+  "description": "Bison are among the largest land mammals in the world, capable of weighing up to 900 kilograms and reaching speeds of 65 kilometres per hour despite their massive size. Despite often being called a buffalo, the American bison is not one of the true buffaloes, which are native to Africa and Asia. Its scientific name, Bison bison, leaves little room for confusion.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+  "hash": "2db865431ec244796c0285c213acf831",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261107",
+    "fullStartDateTime": "202611070000",
+    "endDate": "20261108"
+  },
+  "createdAt": "202611070643",
+  "originalUrlBase": "/th?id=OHR.DakotaBison_EN-GB4535875354"
+}

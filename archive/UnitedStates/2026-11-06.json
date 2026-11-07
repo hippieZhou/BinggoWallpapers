@@ -1,0 +1,48 @@
+{
+  "date": "Nov 6, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A green tunnel through Maui",
+  "bsTitle": "A green tunnel through Maui",
+  "caption": "Bamboo forest, Haleakalā National Park, Maui, Hawaii",
+  "copyright": "Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)",
+  "copyrightOnly": "© MNStudio/Getty Images",
+  "copyrightLink": "/search?q=Haleakala+National+Park&form=hpcapt&filters=HpDate%3a%2220261106_0800%22",
+  "description": "A volcano, a rainforest, and a bamboo grove? Haleakalā National Park on Maui has all three. Spanning Maui from its 10,023-foot summit to the coast, the park protects landscapes that change dramatically with elevation, rainfall, and temperature. It was established in 1916 as part of Hawaii National Park and became its own national park in 1961. The name Haleakalā translates to 'House of the Sun,' reflecting the Hawaiian mo'olelo of Māui capturing the sun to lengthen the day.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_PipiwaiTrail%22&FORM=HPQUIZ",
+  "hash": "2b8827c13484500ffaf00dd7575ed652",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261106",
+    "fullStartDateTime": "202611060800",
+    "endDate": "20261107"
+  },
+  "createdAt": "202611070643",
+  "originalUrlBase": "/th?id=OHR.PipiwaiTrail_EN-US0631882545"
+}

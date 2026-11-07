@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 11月 月 7 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "よみがえった草原の巨人",
+  "bsTitle": "よみがえった草原の巨人",
+  "caption": "セオドア・ルーズベルト国立公園のアメリカバイソン",
+  "copyright": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "© Tandem Stock/Adobe Stock",
+  "copyrightLink": "/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%90%e3%82%a4%e3%82%bd%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220261106_1500%22",
+  "description": "北米の草原に暮らすアメリカバイソンは、世界でも最大級の陸上哺乳類です。体重は900キロほどにもなりますが、時速約65キロで走ることができます。「バッファロー」と呼ばれることもありますが、アフリカやアジアにすむ本来のバッファローとは別の動物です。肩の大きなこぶは発達した筋肉で、冬は頭を左右に振って雪をかき分け、その下の草を探します。しっぽを見れば気分もわかり、ゆったり揺れていれば落ち着いているサイン、ピンと立っていたら興奮しているのかもしれません。一時は絶滅寸前まで追い込まれましたが、保護活動によって少しずつ数を取り戻してきました。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261106_DakotaBison%22&FORM=HPQUIZ",
+  "hash": "aa6c8953393781e63d560841ab971e2e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261106",
+    "fullStartDateTime": "202611061500",
+    "endDate": "20261107"
+  },
+  "createdAt": "202611070643",
+  "originalUrlBase": "/th?id=OHR.DakotaBison_JA-JP7700625518"
+}
