@@ -1,0 +1,48 @@
+{
+  "date": "Nov 7, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The giant that came back",
+  "bsTitle": "The giant that came back",
+  "caption": "National Bison Day",
+  "copyright": "A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)",
+  "copyrightOnly": "© Tandem Stock/Adobe Stock",
+  "copyrightLink": "/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220261107_0800%22",
+  "description": "When the going gets tough, the bison gets grazing. National Bison Day celebrates the North American mammal that can weigh up to 2,000 pounds yet sprint at 35 mph. Observed on the first Saturday of November, the day honors the bovine that became the United States' national mammal in 2016.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261107_DakotaBison%22&FORM=HPQUIZ",
+  "hash": "14f52a3cfe0e742954ce9e56d6b1dc46",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261107",
+    "fullStartDateTime": "202611070800",
+    "endDate": "20261108"
+  },
+  "createdAt": "202611080650",
+  "originalUrlBase": "/th?id=OHR.DakotaBison_EN-US0710175615"
+}
