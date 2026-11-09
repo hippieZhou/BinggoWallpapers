@@ -1,0 +1,48 @@
+{
+  "date": "Nov 8, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A celebration that shines",
+  "bsTitle": "A celebration that shines",
+  "caption": "Diwali (Festival of Lights)",
+  "copyright": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)",
+  "copyrightOnly": "© Dinodia Photo/Getty Images",
+  "copyrightLink": "/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0800%22",
+  "description": "What happens when the darkest night of the year gets the brightest celebration? Diwali. The Festival of Lights is celebrated by millions worldwide, bringing together diyas, lanterns, rangoli, prayers, sweets, and family gatherings.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_DiwaliLamps%22&FORM=HPQUIZ",
+  "hash": "6519969f87d6d1ada4af07017c47fc5e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261108",
+    "fullStartDateTime": "202611080800",
+    "endDate": "20261109"
+  },
+  "createdAt": "202611090729",
+  "originalUrlBase": "/th?id=OHR.DiwaliLamps_EN-US0788074051"
+}

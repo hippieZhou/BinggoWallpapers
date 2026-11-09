@@ -1,0 +1,48 @@
+{
+  "date": "9. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die Nacht, die Deutschland veränderte",
+  "bsTitle": "Die Nacht, die Deutschland veränderte",
+  "caption": "Der Fall der Berliner Mauer",
+  "copyright": "Schüler spähen durch einen Spalt in einem noch erhaltenen Abschnitt der Berliner Mauer (© Sean Gallup/Getty Images)",
+  "copyrightOnly": "© Sean Gallup/Getty Images",
+  "copyrightLink": "/search?q=Fall+der+Berliner+Mauer&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
+  "description": "Der 9. November 1989 war ein historischer Tag für Berlin und Deutschland. Am Abend verkündete der DDR-Politiker Günter Schabowski auf einer Pressekonferenz neue Reiseregelungen. Auf die Frage, wann diese gelten sollten, antwortete er voreilig und versehentlich, dies sei „sofort“ und „unverzüglich“ der Fall. Daraufhin strömten Tausende Menschen zu den Grenzübergängen in Berlin. Die Grenzsoldaten waren auf den großen Andrang nicht vorbereitet und öffneten schließlich die Übergänge.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_MauerBerlin%22&FORM=HPQUIZ",
+  "hash": "5ab29176d5f89173d90f9cba5fbc7bbd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261108",
+    "fullStartDateTime": "202611082300",
+    "endDate": "20261109"
+  },
+  "createdAt": "202611090729",
+  "originalUrlBase": "/th?id=OHR.MauerBerlin_DE-DE4395338070"
+}

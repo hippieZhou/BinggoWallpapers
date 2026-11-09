@@ -1,0 +1,48 @@
+{
+  "date": "Nov 9, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Where art finds its rhythm",
+  "bsTitle": "Where art finds its rhythm",
+  "caption": "Historic district of Triana, Seville, Spain",
+  "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+  "copyrightOnly": "© Andrzej Rostek/Getty Images",
+  "copyrightLink": "/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0500%22",
+  "description": "Cross the Guadalquivir River and discover Triana, one of Seville’s most vibrant neighbourhoods. Connected to the city’s historic centre by the iconic Triana Bridge since the 19th century, this riverside district is known for its colourful ceramics, flamenco heritage and lively local culture. Brightly decorated buildings, traditional tile workshops and bustling markets give Triana a character all its own. Stroll along Calle Betis for scenic river views, explore streets lined with artisan studios, or simply soak up the neighbourhood’s welcoming atmosphere. While Seville’s famous landmarks are just steps away, Triana offers a unique glimpse into the traditions, creativity and everyday life that help define Andalusia.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261109_TrianaSpain%22&FORM=HPQUIZ",
+  "hash": "6b946af758fdf23b64d7e2851527ccb1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261109",
+    "fullStartDateTime": "202611090500",
+    "endDate": "20261110"
+  },
+  "createdAt": "202611090729",
+  "originalUrlBase": "/th?id=OHR.TrianaSpain_EN-CA5715664258"
+}

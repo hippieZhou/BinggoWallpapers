@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Flamingos in Ebro Delta Natural Park, Catalonia, Spain (© mafrmcfa/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Ebro+Delta+Natural+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_DeltaEbro%22&FORM=HPQUIZ",
+  "hash": "b5bef96fb47ac5fb1093c700ccccdc8a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261108",
+    "fullStartDateTime": "202611080800",
+    "endDate": "20261109"
+  },
+  "createdAt": "202611090729",
+  "originalUrlBase": "/th?id=OHR.DeltaEbro_ROW7248981899"
+}

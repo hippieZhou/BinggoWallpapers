@@ -1,0 +1,48 @@
+{
+  "date": "9 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde el arte encuentra su ritmo",
+  "bsTitle": "Donde el arte encuentra su ritmo",
+  "caption": "Barrio histórico de Triana, Sevilla, España",
+  "copyright": "Distrito histórico de Triana, Sevilla, España (© Andrzej Rostek/Getty Images)",
+  "copyrightOnly": "© Andrzej Rostek/Getty Images",
+  "copyrightLink": "/search?q=Sevilla+Espa%c3%b1a&form=hpcapt&filters=HpDate%3a%2220261108_2300%22",
+  "description": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261108_TrianaSpain%22&FORM=HPQUIZ",
+  "hash": "a38b6068f0ca1bccae596593996c5678",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_ES-ES2622392783_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261108",
+    "fullStartDateTime": "202611082300",
+    "endDate": "20261109"
+  },
+  "createdAt": "202611090729",
+  "originalUrlBase": "/th?id=OHR.TrianaSpain_ES-ES2622392783"
+}
