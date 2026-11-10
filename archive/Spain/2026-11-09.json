@@ -1,0 +1,48 @@
+{
+  "date": "10 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Con licencia para relajarse",
+  "bsTitle": "Con licencia para relajarse",
+  "caption": "Vista aérea de Rose Island, Bahamas",
+  "copyright": "Vista aérea de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "© Abstract Aerial Art/Getty Images",
+  "copyrightLink": "/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261109_2300%22",
+  "description": "Vista desde arriba, Rose Island parece una pincelada verde rodeada por todos los matices del azul. A solo 4,8 kilómetros al este de Paradise Island, en las Bahamas, este estrecho cayo cambia las carreteras transitadas y las manzanas urbanas por costas arenosas, aguas poco profundas y una laguna interior. Su apacible apariencia también guarda un toque de dramatismo cinematográfico. Rose Island sirvió como localización para la película de James Bond.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261109_RoseIsland%22&FORM=HPQUIZ",
+  "hash": "1bafa4a35ee415536da828f6e7234b55",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_ES-ES2836865726_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261109",
+    "fullStartDateTime": "202611092300",
+    "endDate": "20261110"
+  },
+  "createdAt": "202611100754",
+  "originalUrlBase": "/th?id=OHR.RoseIsland_ES-ES2836865726"
+}

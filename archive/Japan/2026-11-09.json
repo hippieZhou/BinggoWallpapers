@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 11月 月 10 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "楽園でひと休み",
+  "bsTitle": "楽園でひと休み",
+  "caption": "ローズ島の空撮、バハマ",
+  "copyright": "ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "© Abstract Aerial Art/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%ad%e3%83%bc%e3%82%ba%e5%b3%b6+%e3%83%90%e3%83%8f%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220261109_1500%22",
+  "description": "上空から眺めるローズ島は、さまざまな青に囲まれた緑のひと筆のように見えます。バハマのパラダイス島から東へ約5キロの場所にある細長い島で、砂浜や浅瀬、島内のラグーンが広がっています。この穏やかな島は、1965年のジェームズ・ボンド映画「007 サンダーボール作戦」のロケ地として使われたほか、泳ぐ豚でも知られています。透明な海と白い砂が織りなすターコイズブルーや深い青のグラデーションは、真上から見下ろすといっそう鮮やかです。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261109_RoseIsland%22&FORM=HPQUIZ",
+  "hash": "f5743d1d23a5574d4186f2dd4e6d140a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261109",
+    "fullStartDateTime": "202611091500",
+    "endDate": "20261110"
+  },
+  "createdAt": "202611100754",
+  "originalUrlBase": "/th?id=OHR.RoseIsland_JA-JP3257968381"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Missione: relax",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Rose+Island+Bahamas&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261109_RoseIsland%22&FORM=HPQUIZ",
+  "hash": "4b03ad372dbd965e74eff5eae383b341",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261109",
+    "fullStartDateTime": "202611092300",
+    "endDate": "20261110"
+  },
+  "createdAt": "202611100754",
+  "originalUrlBase": "/th?id=OHR.RoseIsland_IT-IT6994665330"
+}

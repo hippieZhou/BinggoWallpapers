@@ -1,0 +1,48 @@
+{
+  "date": "Nov 9, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Where art finds its rhythm",
+  "bsTitle": "Where art finds its rhythm",
+  "caption": "Historic district of Triana, Seville, Spain",
+  "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)",
+  "copyrightOnly": "© Andrzej Rostek/Getty Images",
+  "copyrightLink": "/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0800%22",
+  "description": "Cross the Guadalquivir River in Seville, the capital of Spain's Andalusia region, and the city's rhythm seems to change. On the other side lies Triana, a colorful neighborhood where ceramics, flamenco, and local traditions are woven into everyday life. Since the 19th century, the Isabel II Bridge, also known as the Triana Bridge, has connected the neighborhood to Seville's historic center.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261109_TrianaSpain%22&FORM=HPQUIZ",
+  "hash": "24e7edf576b87093c4290a3e8eb157c3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261109",
+    "fullStartDateTime": "202611090800",
+    "endDate": "20261110"
+  },
+  "createdAt": "202611100754",
+  "originalUrlBase": "/th?id=OHR.TrianaSpain_EN-US0872031458"
+}

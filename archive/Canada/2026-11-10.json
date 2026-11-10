@@ -1,0 +1,48 @@
+{
+  "date": "Nov 10, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Licensed to chill",
+  "bsTitle": "Licensed to chill",
+  "caption": "Aerial view of Rose Island, The Bahamas",
+  "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "© Abstract Aerial Art/Getty Images",
+  "copyrightLink": "/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0500%22",
+  "description": "Rose Island is a picture-perfect escape in The Bahamas, where lush greenery meets some of the most vibrant blue waters in the Caribbean. Located just a short boat ride from Nassau, this peaceful cay is known for its pristine beaches, crystal-clear shallows and relaxed island atmosphere. Movie fans may recognize it as a filming location from the 1965 James Bond adventure Thunderball, but today Rose Island's biggest attractions are its natural beauty and unique wildlife, including its famous swimming pigs. Viewed from above, the island showcases the dazzling colours that make The Bahamas world-renowned, with turquoise lagoons, sandy shoals and clear waters creating a breathtaking tropical landscape.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_RoseIsland%22&FORM=HPQUIZ",
+  "hash": "c72c17d84f0b942dbfd2aca767448c43",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261110",
+    "fullStartDateTime": "202611100500",
+    "endDate": "20261111"
+  },
+  "createdAt": "202611100754",
+  "originalUrlBase": "/th?id=OHR.RoseIsland_EN-CA5604124548"
+}
