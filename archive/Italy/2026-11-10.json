@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Una foresta piena di meraviglie",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Foresta Atlantica, Brasile (© FG Trade/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Foresta+Atlantica+Brasile&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_Atlantica%22&FORM=HPQUIZ",
+  "hash": "bb58a427e78089c6c6295d53241a8a5a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261110",
+    "fullStartDateTime": "202611102300",
+    "endDate": "20261111"
+  },
+  "createdAt": "202611110722",
+  "originalUrlBase": "/th?id=OHR.Atlantica_IT-IT7343444003"
+}

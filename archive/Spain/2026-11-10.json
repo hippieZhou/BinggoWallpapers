@@ -1,0 +1,48 @@
+{
+  "date": "11 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una jungla llena de maravillas",
+  "bsTitle": "Una jungla llena de maravillas",
+  "caption": "Selva Atlántica, Brasil",
+  "copyright": "Selva Atlántica, Brasil (© FG Trade/Getty Images)",
+  "copyrightOnly": "© FG Trade/Getty Images",
+  "copyrightLink": "/search?q=Selva+Atl%c3%a1ntica+Brasil&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
+  "description": "La Selva Atlántica es uno de los grandes puntos críticos de biodiversidad del mundo. Se extiende a lo largo de buena parte de la costa atlántica de Brasil y llega hasta Argentina y Paraguay. Su paisaje comprende bosques tropicales y subtropicales, manglares y hábitats costeros, y alberga alrededor de 20.000 especies de plantas y una extraordinaria variedad de fauna, incluidos jaguares y tamarinos león dorados. Gran parte la selva ha desaparecido a lo largo de los siglos, pero aún desempeña un papel importante al almacenar carbono y abastecer de agua dulce a millones de personas en toda la región.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_Atlantica%22&FORM=HPQUIZ",
+  "hash": "f2b0b1383fa83edc0ccae163671b2b7b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ES-ES2909750092_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261110",
+    "fullStartDateTime": "202611102300",
+    "endDate": "20261111"
+  },
+  "createdAt": "202611110722",
+  "originalUrlBase": "/th?id=OHR.Atlantica_ES-ES2909750092"
+}

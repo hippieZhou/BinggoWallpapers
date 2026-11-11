@@ -1,0 +1,48 @@
+{
+  "date": "Nov 10, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Licensed to chill",
+  "bsTitle": "Licensed to chill",
+  "caption": "Aerial view of Rose Island, The Bahamas",
+  "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)",
+  "copyrightOnly": "© Abstract Aerial Art/Getty Images",
+  "copyrightLink": "/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0800%22",
+  "description": "From above, Rose Island looks like a brushstroke of green surrounded by every shade of blue. Just three miles east of Paradise Island in The Bahamas, this slender cay trades busy roads and city blocks for sandy shores, shallow waters, and an inland lagoon. Its peaceful appearance comes with a touch of movie drama. Rose Island was used as a filming location for the 1965 James Bond adventure 'Thunderball,' including the explosive destruction of the Disco Volante.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_RoseIsland%22&FORM=HPQUIZ",
+  "hash": "906a7ee004b4d01b78739ea1b8884d87",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261110",
+    "fullStartDateTime": "202611100800",
+    "endDate": "20261111"
+  },
+  "createdAt": "202611110722",
+  "originalUrlBase": "/th?id=OHR.RoseIsland_EN-US0952497192"
+}

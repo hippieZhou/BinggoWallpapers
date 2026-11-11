@@ -1,0 +1,48 @@
+{
+  "date": "11. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Wald voller Wunder",
+  "bsTitle": "Ein Wald voller Wunder",
+  "caption": "Der Atlantische Regenwald, Brasilien",
+  "copyright": "Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images)",
+  "copyrightOnly": "© FG Trade/Getty Images",
+  "copyrightLink": "/search?q=Atlantischer+Regenwald+Brasilien&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
+  "description": "Der Atlantische Regenwald ist einer der weltweit bedeutendsten Hotspots der Artenvielfalt und erstreckt sich über einen Großteil der brasilianischen Atlantikküste bis nach Argentinien und Paraguay. Seine Landschaft umfasst tropische und subtropische Wälder, Mangroven und küstennahe Lebensräume und bietet rund 20.000 Pflanzenarten sowie einer außergewöhnlichen Vielfalt an Wildtieren, darunter Jaguare und Goldlöwenäffchen, eine Heimat. Ein Großteil des Waldes ist im Laufe der Jahrhunderte verschwunden, doch er spielt weiterhin eine wichtige Rolle bei der Speicherung von Kohlenstoff und der Versorgung von Millionen von Menschen in der gesamten Region mit Süßwasser.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_Atlantica%22&FORM=HPQUIZ",
+  "hash": "86afca30b4aa01be4f193f4efe0adb61",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261110",
+    "fullStartDateTime": "202611102300",
+    "endDate": "20261111"
+  },
+  "createdAt": "202611110722",
+  "originalUrlBase": "/th?id=OHR.Atlantica_DE-DE2362030432"
+}

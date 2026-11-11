@@ -1,0 +1,48 @@
+{
+  "date": "Nov 11, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A forest full of wonder",
+  "bsTitle": "A forest full of wonder",
+  "caption": "The Atlantic Forest, Brazil",
+  "copyright": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
+  "copyrightOnly": "© FG Trade/Getty Images",
+  "copyrightLink": "/search?q=Atlantic+Forest+Brazil&form=hpcapt&filters=HpDate%3a%2220261111_0500%22",
+  "description": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_Atlantica%22&FORM=HPQUIZ",
+  "hash": "ca439f4592e2a08b87459d6936018226",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_EN-CA7496830701_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261111",
+    "fullStartDateTime": "202611110500",
+    "endDate": "20261112"
+  },
+  "createdAt": "202611110722",
+  "originalUrlBase": "/th?id=OHR.Atlantica_EN-CA7496830701"
+}

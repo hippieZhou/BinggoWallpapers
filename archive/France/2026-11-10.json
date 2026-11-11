@@ -1,0 +1,48 @@
+{
+  "date": "11 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une flamme rallumée chaque jour",
+  "bsTitle": "Une flamme rallumée chaque jour",
+  "caption": "Tombe du soldat inconnu, Arc de Triomphe, Paris, France",
+  "copyright": "Arc de Triomphe, Paris, France (© Beboy_ltd/Getty Images)",
+  "copyrightOnly": "© Beboy_ltd/Getty Images",
+  "copyrightLink": "/search?q=Tombe+du+Soldat+Inconnu+Arc+De+Triomphe&form=hpcapt&filters=HpDate%3a%2220261110_2300%22",
+  "description": "Sous l’Arc de Triomphe repose le Soldat inconnu, symbole de tous les combattants morts pour la France durant la Première guerre mondiale. Sa tombe, sur laquelle brûle la flamme du souvenir, ravivée chaque soir, invite au recueillement et perpétue la mémoire de ceux qui ont donné leur vie pour leur pays. Le jour de l'Armistice, une gerbe y est déposée.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261110_ArmisticeTriomphe%22&FORM=HPQUIZ",
+  "hash": "3f169b871fd435a1c3b814f6bde5d85c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261110",
+    "fullStartDateTime": "202611102300",
+    "endDate": "20261111"
+  },
+  "createdAt": "202611110722",
+  "originalUrlBase": "/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700"
+}
