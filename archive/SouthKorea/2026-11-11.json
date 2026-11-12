@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Atlantic+Forest+Brazil&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_Atlantica%22&FORM=HPQUIZ",
+  "hash": "66b7462b84e82585b9022c7ef84ccc29",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261111",
+    "fullStartDateTime": "202611110800",
+    "endDate": "20261112"
+  },
+  "createdAt": "202611120752",
+  "originalUrlBase": "/th?id=OHR.Atlantica_ROW8494593651"
+}

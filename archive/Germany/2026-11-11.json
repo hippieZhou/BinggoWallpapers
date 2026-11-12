@@ -1,0 +1,48 @@
+{
+  "date": "12. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Architektur ohne Architekten",
+  "bsTitle": "Architektur ohne Architekten",
+  "caption": "North Window, Arches-Nationalpark, Utah, USA",
+  "copyright": "North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images)",
+  "copyrightOnly": "© lightphoto/Getty Images",
+  "copyrightLink": "/search?q=Arches-Nationalpark+Utah&form=hpcapt&filters=HpDate%3a%2220261111_2300%22",
+  "description": "Der nördlich von Moab gelegene Arches-Nationalpark in der Wüste von Utah beherbergt mehr als 2.000 natürliche Sandsteinbögen – die weltweit größte Konzentration solcher Felsformationen. Das heutige Bild zeigt das „North Window“, eine der bekanntesten Formen in der „Windows Section“ des Parks, wo hoch aufragende Felsrippen, Durchbrüche und geformter Sandstein eine Landschaft schaffen, die fast schon architektonisch anmutet",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_NorthWindow%22&FORM=HPQUIZ",
+  "hash": "f251956f8a79db88089b04f77c5aebb7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261111",
+    "fullStartDateTime": "202611112300",
+    "endDate": "20261112"
+  },
+  "createdAt": "202611120752",
+  "originalUrlBase": "/th?id=OHR.NorthWindow_DE-DE3364064033"
+}

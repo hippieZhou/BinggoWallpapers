@@ -1,0 +1,48 @@
+{
+  "date": "12 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Arquitectura sin arquitecto",
+  "bsTitle": "Arquitectura sin arquitecto",
+  "caption": "North Window, Parque Nacional de los Arcos, Moab, Utah",
+  "copyright": "North Window, Parque Nacional de los Arcos, Moab, Utah, EE. UU. (© lightphoto/Getty Images)",
+  "copyrightOnly": "© lightphoto/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+de+los+Arcos&form=hpcapt&filters=HpDate%3a%2220261111_2300%22",
+  "description": "El 12 de noviembre, el Parque Nacional de los Arcos conmemora el aniversario de su designación como parque nacional en 1971. Situado justo al norte de Moab, Utah, este parque de desierto elevado alberga más de 2.000 arcos naturales de arenisca, la mayor concentración de arcos del mundo. La imagen de hoy muestra North Window, una de las formaciones más conocidas de la sección Windows del parque, donde imponentes aletas rocosas, aberturas y arenisca esculpida crean un paisaje de aspecto casi arquitectónico.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_NorthWindow%22&FORM=HPQUIZ",
+  "hash": "28850fef6fff1b52c162ed115456fca7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ES-ES3025809521_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ES-ES3025809521_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ES-ES3025809521_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ES-ES3025809521_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ES-ES3025809521_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261111",
+    "fullStartDateTime": "202611112300",
+    "endDate": "20261112"
+  },
+  "createdAt": "202611120752",
+  "originalUrlBase": "/th?id=OHR.NorthWindow_ES-ES3025809521"
+}

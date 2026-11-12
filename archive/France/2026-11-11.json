@@ -1,0 +1,48 @@
+{
+  "date": "12 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Architecture sans architecte",
+  "bsTitle": "Architecture sans architecte",
+  "caption": "North Window, parc national des Arches, Moab, Utah",
+  "copyright": "North Window, parc national des Arches, Moab, Utah, États-Unis (© lightphoto/Getty Images)",
+  "copyrightOnly": "© lightphoto/Getty Images",
+  "copyrightLink": "/search?q=Parc+national+des+Arches&form=hpcapt&filters=HpDate%3a%2220261111_2300%22",
+  "description": "Situé juste au nord de Moab, dans l'Utah, le parc national des Arches abrite plus de 2 000 arches naturelles en grès. « North Window » (la Fenêtre Nord) est l'une des formations les plus célèbres. Les imposantes lames rocheuses, les larges ouvertures et les sculptures de grès composent un paysage aux allures quasi architecturales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_NorthWindow%22&FORM=HPQUIZ",
+  "hash": "2f0311814dbbf3da1b5869c7ce668e34",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261111",
+    "fullStartDateTime": "202611112300",
+    "endDate": "20261112"
+  },
+  "createdAt": "202611120752",
+  "originalUrlBase": "/th?id=OHR.NorthWindow_FR-FR9118968859"
+}

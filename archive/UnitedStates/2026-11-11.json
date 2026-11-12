@@ -1,0 +1,48 @@
+{
+  "date": "Nov 11, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A salute in red, white, and blue",
+  "bsTitle": "A salute in red, white, and blue",
+  "caption": "Veterans Day",
+  "copyright": "American flags in a public park in upstate New York (© Matt Champlin/Getty Images)",
+  "copyrightOnly": "© Matt Champlin/Getty Images",
+  "copyrightLink": "/search?q=Veterans+Day&form=hpcapt&filters=HpDate%3a%2220261111_0800%22",
+  "description": "As the sun filters through autumn trees in an upstate New York park, rows of flags turn the landscape into a tribute. Veterans Day, observed every November 11, honors all who have served in the US Armed Forces.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261111_SunsetFlags%22&FORM=HPQUIZ",
+  "hash": "44fd904fb552c2c90c9c58be8ad7154c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261111",
+    "fullStartDateTime": "202611110800",
+    "endDate": "20261112"
+  },
+  "createdAt": "202611120752",
+  "originalUrlBase": "/th?id=OHR.SunsetFlags_EN-US1046151448"
+}
