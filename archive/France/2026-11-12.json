@@ -1,0 +1,48 @@
+{
+  "date": "13 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des profondeurs mystérieuses",
+  "bsTitle": "Des profondeurs mystérieuses",
+  "caption": "Tapis de glace sur le lac Abraham, Alberta (Canada)",
+  "copyright": "Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
+  "copyrightOnly": "© Guang Cao/Getty Images",
+  "copyrightLink": "/search?q=Lac+Abraham+Alberta&form=hpcapt&filters=HpDate%3a%2220261112_2300%22",
+  "description": "Les premières lueurs de l'aube se reflètent sur la surface gelée du lac Abraham, encadré par les sommets des montagnes Rocheuses. En hiver, ce lac pittoresque de l'Alberta au Canada est célèbre pour ses bulles de méthane gelées, piégées sous la glace. Les vents violents empêchent la neige de s'accumuler à la surface, offrant ainsi une image étonnante tout au long de l'hiver. Au printemps, lorsque la glace fond, le gaz s'échappe dans l'atmosphère.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_AbrahamCanada%22&FORM=HPQUIZ",
+  "hash": "2508c7db40df956a02b142f0965b2930",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261112",
+    "fullStartDateTime": "202611122300",
+    "endDate": "20261113"
+  },
+  "createdAt": "202611130729",
+  "originalUrlBase": "/th?id=OHR.AbrahamCanada_FR-FR1972061533"
+}

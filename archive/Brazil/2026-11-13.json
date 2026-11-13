@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Mistérios congelados",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Lago Abraham, Alberta, Canadá (© Guang Cao/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Lago+Abraham+em+Alberta+Canad%c3%a1&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_AbrahamCanada%22&FORM=HPQUIZ",
+  "hash": "f0e49ea90de6496de3fb28cbb9d16eab",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_PT-BR3973023341_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_PT-BR3973023341_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_PT-BR3973023341_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_PT-BR3973023341_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_PT-BR3973023341_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261113",
+    "fullStartDateTime": "202611130300",
+    "endDate": "20261114"
+  },
+  "createdAt": "202611130729",
+  "originalUrlBase": "/th?id=OHR.AbrahamCanada_PT-BR3973023341"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Arches+National+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261112_NorthWindow%22&FORM=HPQUIZ",
+  "hash": "5eb8c3f28b1b267d942482662b21676b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261112",
+    "fullStartDateTime": "202611120800",
+    "endDate": "20261113"
+  },
+  "createdAt": "202611130729",
+  "originalUrlBase": "/th?id=OHR.NorthWindow_ROW5709754561"
+}

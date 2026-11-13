@@ -1,0 +1,48 @@
+{
+  "date": "Nov 13, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Hidden depths",
+  "bsTitle": "Hidden depths",
+  "caption": "Ice on Abraham Lake in Alberta",
+  "copyright": "Abraham Lake in Alberta (© Guang Cao/Getty Images)",
+  "copyrightOnly": "© Guang Cao/Getty Images",
+  "copyrightLink": "/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220261113_0500%22",
+  "description": "Dawn's first light is reflected on the frozen surface of Abraham Lake, framed by Rocky Mountains peaks. In winter, this picturesque lake in Alberta is famous for its frozen bubbles of methane gas, trapped beneath the ice. Strong winds keep the surface clear of snow, offering winter-long views. Come spring, when the ice thaws, the gas escapes into the atmosphere.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_AbrahamCanada%22&FORM=HPQUIZ",
+  "hash": "238de333ff196e47d1daa4ca3a4fd2ef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-CA3327574008_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261113",
+    "fullStartDateTime": "202611130500",
+    "endDate": "20261114"
+  },
+  "createdAt": "202611130729",
+  "originalUrlBase": "/th?id=OHR.AbrahamCanada_EN-CA3327574008"
+}
