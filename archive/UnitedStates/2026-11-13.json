@@ -1,0 +1,48 @@
+{
+  "date": "Nov 13, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Hidden depths",
+  "bsTitle": "Hidden depths",
+  "caption": "Ice on Abraham Lake in Alberta, Canada",
+  "copyright": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
+  "copyrightOnly": "© Guang Cao/Getty Images",
+  "copyrightLink": "/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220261113_0800%22",
+  "description": "Dawn's first light is reflected on the frozen surface of Abraham Lake, framed by peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen bubbles of methane gas, trapped beneath the ice. Strong winds keep the surface clear of snow, offering winter-long views. Come spring, when the ice thaws, the gas escapes into the atmosphere. Despite its natural beauty, the lake is a human-made reservoir, created in 1972 when the Bighorn Dam was built on the North Saskatchewan River. Its icy beauty in winter and turquoise waters in summer make it a popular photography spot all year round.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_AbrahamCanada%22&FORM=HPQUIZ",
+  "hash": "6462c5aec6bd8ae03df5c691f2e6b4fc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261113",
+    "fullStartDateTime": "202611130800",
+    "endDate": "20261114"
+  },
+  "createdAt": "202611140714",
+  "originalUrlBase": "/th?id=OHR.AbrahamCanada_EN-US3455540217"
+}

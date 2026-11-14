@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 11月 月 14 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "上へ上へと伸びる街",
+  "bsTitle": "上へ上へと伸びる街",
+  "caption": "ビクトリア・ハーバー、香港、中国",
+  "copyright": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
+  "copyrightOnly": "© Juan Romero/Cavan Images",
+  "copyrightLink": "/search?q=%e3%83%93%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%8f%e3%83%bc%e3%83%90%e3%83%bc+%e9%a6%99%e6%b8%af&form=hpcapt&filters=HpDate%3a%2220261113_1500%22",
+  "description": "超高層ビルの数が世界一の街、香港へようこそ。ビクトリア・ハーバー沿いにビルがひしめくのは、港と山の間に平地がほとんどなく、戦後の建設ラッシュで上に伸びるしかなかったためです。2026年現在、高さ150m以上のビルは569棟にのぼり、世界のどの都市よりも多くなっています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+  "hash": "5d42d27196ff90d27166fb6428d33938",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261113",
+    "fullStartDateTime": "202611131500",
+    "endDate": "20261114"
+  },
+  "createdAt": "202611140714",
+  "originalUrlBase": "/th?id=OHR.BlueHK_JA-JP0477081186"
+}

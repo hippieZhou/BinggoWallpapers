@@ -1,0 +1,48 @@
+{
+  "date": "Nov 14, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "The only way is up",
+  "bsTitle": "The only way is up",
+  "caption": "Victoria Harbour, Hong Kong, China",
+  "copyright": "Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)",
+  "copyrightOnly": "© Juan Romero/Cavan Images",
+  "copyrightLink": "/search?q=Victoria+Harbour+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220261114_0000%22",
+  "description": "Welcome to Hong Kong, home to more skyscrapers than any other city in the world. Those pictured here tower above Victoria Harbour, whose deep waters helped the island develop into a busy trading port. Ships carrying tea, silk and other goods have passed through since the 1840s, but growth accelerated in the decades after the Second World War, fuelling a construction boom. With little flat land available between the harbour and the hills, developers had to build upwards, creating this distinctive skyline. As of 2026, Hong Kong has 569 completed buildings at least 150 metres tall — more than any other city in the world.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_BlueHK%22&FORM=HPQUIZ",
+  "hash": "cb02cec0bcd7cb6bf676dfddda27fa2e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261114",
+    "fullStartDateTime": "202611140000",
+    "endDate": "20261115"
+  },
+  "createdAt": "202611140714",
+  "originalUrlBase": "/th?id=OHR.BlueHK_EN-GB3274323919"
+}

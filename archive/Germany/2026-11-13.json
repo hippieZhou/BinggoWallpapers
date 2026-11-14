@@ -1,0 +1,48 @@
+{
+  "date": "14. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Hoch, höher, Hongkong",
+  "bsTitle": "Hoch, höher, Hongkong",
+  "caption": "Victoria Harbour, Hongkong, China",
+  "copyright": "Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images)",
+  "copyrightOnly": "© Juan Romero/Cavan Images",
+  "copyrightLink": "/search?q=Victoria+Harbour+Hongkong&form=hpcapt&filters=HpDate%3a%2220261113_2300%22",
+  "description": "Willkommen in Hongkong, der Stadt mit der weltweit höchsten Anzahl an Wolkenkratzern. Die hier abgebildeten Hochhäuser überragen den Victoria Harbour, der sich dank seiner tiefen Gewässer zum geschäftigen Handelshafen der Insel entwickelt hat. Seit den 1840er Jahren laufen hier Schiffe mit Tee, Seide und anderen Waren ein und aus, doch erst in den Jahrzehnten nach dem Zweiten Weltkrieg nahm das Wachstum rasant zu und löste einen Bauboom aus. Da zwischen dem Hafen und den Hügeln nur wenig flaches Land zur Verfügung stand, mussten Bauunternehmer in die Höhe bauen und haben so diese einzigartige Skyline geschaffen. Im Jahr 2026 zählt Hongkong 569 Gebäude, die höher als 150 Meter sind – mehr als jede andere Stadt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261113_BlueHK%22&FORM=HPQUIZ",
+  "hash": "58304e0446787beabccd167e3c2262d9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261113",
+    "fullStartDateTime": "202611132300",
+    "endDate": "20261114"
+  },
+  "createdAt": "202611140714",
+  "originalUrlBase": "/th?id=OHR.BlueHK_DE-DE1662761141"
+}
