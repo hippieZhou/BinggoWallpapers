@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "霜染枝叶",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "覆霜的红叶杜鹃 (© avoferten/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%9d%9c%e9%b9%83%e8%8a%b1&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_FirstFrost%22&FORM=HPQUIZ",
+  "hash": "ec68aadb483bc1046ea041d7af239397",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261114",
+    "fullStartDateTime": "202611141600",
+    "endDate": "20261115"
+  },
+  "createdAt": "202611150722",
+  "originalUrlBase": "/th?id=OHR.FirstFrost_ZH-CN2219029557"
+}

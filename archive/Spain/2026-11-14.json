@@ -1,0 +1,48 @@
+{
+  "date": "15 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Follaje escarchado",
+  "bsTitle": "Follaje escarchado",
+  "caption": "Escarcha sobre hojas de azalea",
+  "copyright": "Escarcha sobre hojas de azalea (© avoferten/Shutterstock)",
+  "copyrightOnly": "© avoferten/Shutterstock",
+  "copyrightLink": "/search?q=azaleas&form=hpcapt&filters=HpDate%3a%2220261114_2300%22",
+  "description": "A medida que las primeras heladas del otoño avanzan por el sur, se forman cristales de hielo sobre las hojas de arbustos perennes, como esta azalea. Atrás quedan los tonos rosas, naranjas y amarillos de la floración primaveral, pero comienza un nuevo espectáculo de color: las hojas verdes adquieren tonalidades rojas y moradas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261114_FirstFrost%22&FORM=HPQUIZ",
+  "hash": "04a4deb2be9a4d22c85ff8aa26cbbe1d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261114",
+    "fullStartDateTime": "202611142300",
+    "endDate": "20261115"
+  },
+  "createdAt": "202611150722",
+  "originalUrlBase": "/th?id=OHR.FirstFrost_ES-ES3306321438"
+}

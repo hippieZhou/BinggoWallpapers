@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Vermelho abaixo de zero",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Azaleia congelada com folhas vermelhas (© avoferten/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=azaleias&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261115_FirstFrost%22&FORM=HPQUIZ",
+  "hash": "68dd93c971579c19ad1e8a5b8bb66baf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FirstFrost_PT-BR6618538565_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261115",
+    "fullStartDateTime": "202611150300",
+    "endDate": "20261116"
+  },
+  "createdAt": "202611150722",
+  "originalUrlBase": "/th?id=OHR.FirstFrost_PT-BR6618538565"
+}
