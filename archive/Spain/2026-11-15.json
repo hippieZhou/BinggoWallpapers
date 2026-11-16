@@ -1,0 +1,48 @@
+{
+  "date": "16 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Construidas para perdurar",
+  "bsTitle": "Construidas para perdurar",
+  "caption": "Monumento de las Viviendas en los Acantilados de Gila",
+  "copyright": "Monumento de las Viviendas en los Acantilados de Gila (© Chiara Salvadori/Getty Images)",
+  "copyrightOnly": "© Chiara Salvadori/Getty Images",
+  "copyrightLink": "/search?q=Monumento+Nacional+Casas+Acantilado+Gila&form=hpcapt&filters=HpDate%3a%2220261115_2300%22",
+  "description": "Unas vistas impresionantes y unos cimientos sólidos forman parte del encanto de estas antiguas viviendas excavadas en un acantilado de Nuevo México. Los nómadas utilizaban desde hacía tiempo las cuevas naturales sobre el arroyo Cliff Dweller como refugio temporal, pero fue el pueblo indígena mogollón quien las convirtió en su hogar.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261115_GilaCliff%22&FORM=HPQUIZ",
+  "hash": "3ae2db35ca98900ca012f4c0b2d63fd3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ES-ES3316486595_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261115",
+    "fullStartDateTime": "202611152300",
+    "endDate": "20261116"
+  },
+  "createdAt": "202611160729",
+  "originalUrlBase": "/th?id=OHR.GilaCliff_ES-ES3316486595"
+}

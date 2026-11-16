@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "历经岁月，屹立不倒",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%90%89%e6%8b%89%e6%82%ac%e5%b4%96%e6%b0%91%e5%b1%85%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%9c%b0&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261115_GilaCliff%22&FORM=HPQUIZ",
+  "hash": "77e8d59b9dd7048a85e8166d528bc270",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261115",
+    "fullStartDateTime": "202611151600",
+    "endDate": "20261116"
+  },
+  "createdAt": "202611160729",
+  "originalUrlBase": "/th?id=OHR.GilaCliff_ZH-CN2393001519"
+}
