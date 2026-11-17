@@ -1,0 +1,48 @@
+{
+  "date": "Nov 17, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Step into the great outdoors",
+  "bsTitle": "Step into the great outdoors",
+  "caption": "National Take a Hike Day",
+  "copyright": "Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)",
+  "copyrightOnly": "© DBushue Photography/Getty Images",
+  "copyrightLink": "/search?q=Take+a+Hike+Day&form=hpcapt&filters=HpDate%3a%2220261117_0800%22",
+  "description": "Happy National Take a Hike Day! It's time to breathe in that crisp fall air and step into the great outdoors. Today's image features the Trail of the Cedars, one of 700 miles of hiking trails in Glacier National Park, Montana. Its 0.9-mile-long loop includes a raised boardwalk which cuts a path through western red cedars and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes, and wilderness stretching to the Canadian border. But if you don't have spectacular scenery on your doorstep, a short stroll along a tree-lined street is an easy way to celebrate and enjoy the benefits of getting out, as the days draw in.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_TrailCedars%22&FORM=HPQUIZ",
+  "hash": "c271a3367fcdac40031f7b9e1459a988",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261117",
+    "fullStartDateTime": "202611170800",
+    "endDate": "20261118"
+  },
+  "createdAt": "202611170841",
+  "originalUrlBase": "/th?id=OHR.TrailCedars_EN-US2240500417"
+}

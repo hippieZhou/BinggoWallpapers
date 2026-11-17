@@ -1,0 +1,48 @@
+{
+  "date": "Nov 17, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Step into the great outdoors",
+  "bsTitle": "Step into the great outdoors",
+  "caption": "Trail of the Cedars, Glacier National Park, Montana, USA",
+  "copyright": "Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)",
+  "copyrightOnly": "© DBushue Photography/Getty Images",
+  "copyrightLink": "/search?q=Trail+of+the+Cedars+Glacier+National+Park+Montana&form=hpcapt&filters=HpDate%3a%2220261117_0000%22",
+  "description": "Today's image features the Trail of the Cedars, one of 1,126 kilometres of hiking trails in Glacier National Park, Montana. Its 1.4km-long loop includes a raised boardwalk which cuts a path through western red cedars and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes and wilderness stretching to the Canadian border.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_TrailCedars%22&FORM=HPQUIZ",
+  "hash": "39a84e78e67a4b2a6adbd88f9788d2c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261117",
+    "fullStartDateTime": "202611170000",
+    "endDate": "20261118"
+  },
+  "createdAt": "202611170841",
+  "originalUrlBase": "/th?id=OHR.TrailCedars_EN-GB2504891943"
+}

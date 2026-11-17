@@ -1,0 +1,48 @@
+{
+  "date": "17 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Adéntrate en plena naturaleza",
+  "bsTitle": "Adéntrate en plena naturaleza",
+  "caption": "Sendero de los Cedros, Montana, EE. UU.",
+  "copyright": "Sendero de los Cedros, Montana, EE. UU. (© DBushue Photography/Getty Images)",
+  "copyrightOnly": "© DBushue Photography/Getty Images",
+  "copyrightLink": "/search?q=Sendero+de+los+cedros+Montana&form=hpcapt&filters=HpDate%3a%2220261116_2300%22",
+  "description": "¡Hora de practicar senderismo! Es el momento de respirar el aire fresco del otoño y adentrarse en plena naturaleza. La imagen muestra el Sendero de los Cedros, uno de los más de 1.125 kilómetros de rutas del Parque Nacional de los Glaciares, en Montana. Su circuito de 1,4 kilómetros incluye una pasarela elevada entre cedros rojos occidentales y tsugas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261116_TrailCedars%22&FORM=HPQUIZ",
+  "hash": "09ee5f5a7f31803b22ecca0e29bbf10d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_ES-ES7366091421_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261116",
+    "fullStartDateTime": "202611162300",
+    "endDate": "20261117"
+  },
+  "createdAt": "202611170841",
+  "originalUrlBase": "/th?id=OHR.TrailCedars_ES-ES7366091421"
+}

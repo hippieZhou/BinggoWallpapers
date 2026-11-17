@@ -1,0 +1,48 @@
+{
+  "date": "17 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "À la découverte des grands espaces",
+  "bsTitle": "À la découverte des grands espaces",
+  "caption": "Sentier des cèdres, parc national de Glacier",
+  "copyright": "Sentier des cèdres, parc national de Glacier, Montana, États-Unis (© DBushue Photography/Getty Images)",
+  "copyrightOnly": "© DBushue Photography/Getty Images",
+  "copyrightLink": "/search?q=Parc+national+de+Glacier+Montana&form=hpcapt&filters=HpDate%3a%2220261116_2300%22",
+  "description": "C’est le moment de partir à la découverte des grands espaces. Le sentier des Cèdres est l’un des quelque 1 100 km de sentiers de randonnée que compte le parc national de Glacier dans le Montana. Ce parcours en boucle emprunte une passerelle en bois qui serpente au milieu de thuyas géants et de tsugas. Le parc propose des itinéraires adaptés à tous les niveaux, traversant des lacs alpins, des prairies et des cols montagneux. Cette nature sauvage s’étend jusqu’à la frontière canadienne. Le parc offre de nombreuses possibilités de loisirs, été comme hiver.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261116_TrailCedars%22&FORM=HPQUIZ",
+  "hash": "8b37e8e701bea2219f85a7a8af5b1d24",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261116",
+    "fullStartDateTime": "202611162300",
+    "endDate": "20261117"
+  },
+  "createdAt": "202611170841",
+  "originalUrlBase": "/th?id=OHR.TrailCedars_FR-FR7583904016"
+}
