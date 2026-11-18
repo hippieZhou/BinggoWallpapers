@@ -1,0 +1,48 @@
+{
+  "date": "Nov 18, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Pair of barn owls",
+  "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+  "copyrightOnly": "© Zahoor Salmi/Getty Images",
+  "copyrightLink": "/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0800%22",
+  "description": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grass or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In autumn, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of supper.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261118_BarnOwlsUnite%22&FORM=HPQUIZ",
+  "hash": "f3a3d9b0455e8dc13bd4eaea2b22df01",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261118",
+    "fullStartDateTime": "202611180800",
+    "endDate": "20261119"
+  },
+  "createdAt": "202611180805",
+  "originalUrlBase": "/th?id=OHR.BarnOwlsUnite_ROW6271604820"
+}

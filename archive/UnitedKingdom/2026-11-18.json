@@ -1,0 +1,48 @@
+{
+  "date": "Nov 18, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Hunting from dusk till dawn",
+  "bsTitle": "Hunting from dusk till dawn",
+  "caption": "A pair of barn owls at dusk",
+  "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+  "copyrightOnly": "© Zahoor Salmi/Getty Images",
+  "copyrightLink": "/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0000%22",
+  "description": "These barn owls, bathed in the evening light, are waiting for the hunt to begin. As night falls, the birds of prey swoop into action, listening for the faint movements of mice and voles in the grass and leaves. Their heart-shaped faces help funnel sound towards their exceptionally sensitive ears, allowing them to locate prey with remarkable precision in the dark. They then swoop down almost silently, their soft feathers helping to muffle the sound of their approach.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261118_BarnOwlsUnite%22&FORM=HPQUIZ",
+  "hash": "609740cd3435c310124486dbb8c12a9b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261118",
+    "fullStartDateTime": "202611180000",
+    "endDate": "20261119"
+  },
+  "createdAt": "202611180805",
+  "originalUrlBase": "/th?id=OHR.BarnOwlsUnite_EN-GB9873814926"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "18 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "De caza desde el anochecer",
+  "bsTitle": "De caza desde el anochecer",
+  "caption": "Una pareja de lechuzas al anochecer",
+  "copyright": "Una pareja de lechuzas al anochecer (© Zahoor Salmi/Getty Images)",
+  "copyrightOnly": "© Zahoor Salmi/Getty Images",
+  "copyrightLink": "/search?q=Lechuzas&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
+  "description": "Estas lechuzas, bañadas por la luz del atardecer, esperan a que comience la caza. Al caer la noche, entran en acción y escuchan los pequeños movimientos que ratones y topillos producen entre la hierba y las hojas. Su rostro en forma de corazón canaliza el sonido hacia uno de los sistemas auditivos más agudos del reino animal.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_BarnOwlsUnite%22&FORM=HPQUIZ",
+  "hash": "fb3d3bc8f32eba6a144af6acff869e48",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261117",
+    "fullStartDateTime": "202611172300",
+    "endDate": "20261118"
+  },
+  "createdAt": "202611180805",
+  "originalUrlBase": "/th?id=OHR.BarnOwlsUnite_ES-ES4442138471"
+}

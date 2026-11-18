@@ -1,0 +1,48 @@
+{
+  "date": "18 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Chasser du crépuscule à l’aube",
+  "bsTitle": "Chasser du crépuscule à l’aube",
+  "caption": "Couple de chouettes effraies au crépuscule",
+  "copyright": "Couple de chouettes effraies  (© Zahoor Salmi/Getty Images)",
+  "copyrightOnly": "© Zahoor Salmi/Getty Images",
+  "copyrightLink": "/search?q=chouette+effraie&form=hpcapt&filters=HpDate%3a%2220261117_2300%22",
+  "description": "Ces chouettes effraies, baignées dans la lumière du soir, attendent que la chasse commence. À la tombée de la nuit, ces rapaces passent à l’action, à l’affût du moindre mouvement dans l’herbe ou dans les feuilles, provoqué par des souris ou des campagnols. Leur visage en forme de cœur canalise les sons vers leurs oreilles qui sont parmi les plus fines du règne animal. Cela leur permet de localiser leurs proies avec une précision extrême dans l’obscurité avant de fondre sur elles en silence, leurs plumes douces étouffant leur approche.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261117_BarnOwlsUnite%22&FORM=HPQUIZ",
+  "hash": "06ecb168febfa5930d8729e1cdce437c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261117",
+    "fullStartDateTime": "202611172300",
+    "endDate": "20261118"
+  },
+  "createdAt": "202611180805",
+  "originalUrlBase": "/th?id=OHR.BarnOwlsUnite_FR-FR0018372456"
+}
