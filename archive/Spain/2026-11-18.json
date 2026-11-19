@@ -1,0 +1,48 @@
+{
+  "date": "19 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde las ideas cobran forma",
+  "bsTitle": "Donde las ideas cobran forma",
+  "caption": "Día Mundial de la Filosofía",
+  "copyright": "La escultura “El cuerpo del conocimiento”, de Jaume Plensa, en la Universidad de Goethe, en Fráncfort, Alemania (© Todamo/Shutterstock)",
+  "copyrightOnly": "© Todamo/Shutterstock",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+de+la+Filosof%c3%ada&form=hpcapt&filters=HpDate%3a%2220261118_2300%22",
+  "description": "Hoy es el Día Mundial de la Filosofía, una ocasión para debatir los grandes enigmas de la vida. La imagen muestra la escultura «El cuerpo del conocimiento», situada en la Universidad Goethe de Fráncfort, Alemania, que reúne letras de acero de ocho alfabetos distintos para formar una figura humana.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261118_KnowledgeSculpture%22&FORM=HPQUIZ",
+  "hash": "0304b4feaadd95bcf6e14ca86b3c0b32",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_ES-ES4863914751_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261118",
+    "fullStartDateTime": "202611182300",
+    "endDate": "20261119"
+  },
+  "createdAt": "202611190812",
+  "originalUrlBase": "/th?id=OHR.KnowledgeSculpture_ES-ES4863914751"
+}
