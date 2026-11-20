@@ -1,0 +1,48 @@
+{
+  "date": "20. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Festmahl in den Fjorden",
+  "bsTitle": "Festmahl in den Fjorden",
+  "caption": "Tauchender Buckelwal, Norwegen",
+  "copyright": "Tauchender Buckelwal (Megaptera novaeangliae) Kvaloya, Troms, Norwegen (© Espen Bergersen/Minden Pictures)",
+  "copyrightOnly": "© Espen Bergersen/Minden Pictures",
+  "copyrightLink": "/search?q=Buckelwal&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+  "description": "Vor der Küste von Kvaløya in Troms, im Norden Norwegens, durchstreifen Buckelwale die kalten arktischen Gewässer auf der Suche nach einem ausgiebigen Festmahl. Sie besuchen diese Region in den Wintermonaten und folgen dabei den wandernden Heringsschwärmen in die Fjorde. Buckelwale sind bekannt für ihre „Blasennetz-Jagd“, eine bemerkenswerte Jagdtechnik, bei der die Wale Fischschwärme mit Blasenringen einkreisen, um ihre Beute dann mit weit geöffnetem Maul aufzuschnappen. Auf dem heutigen Bild gleitet ein Buckelwal durch die eisigen Wellen unter einem leuchtenden Pastellhimmel und hält einen Moment der Ruhe im wilden Norden Norwegens fest.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+  "hash": "aa9330fd7eadd41bb6e9a59d12f0cea0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261119",
+    "fullStartDateTime": "202611192300",
+    "endDate": "20261120"
+  },
+  "createdAt": "202611200754",
+  "originalUrlBase": "/th?id=OHR.Megaptera_DE-DE6966438629"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "20 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un festín en los fiordos",
+  "bsTitle": "Un festín en los fiordos",
+  "caption": "Ballena jorobada sumergiéndose, Kvaløya, Noruega",
+  "copyright": "Ballena jorobada (Megaptera novaeangliae) sumergiéndose, Kvaløya, Troms, norte de Noruega (© Espen Bergersen/Minden Pictures)",
+  "copyrightOnly": "© Espen Bergersen/Minden Pictures",
+  "copyrightLink": "/search?q=ballenas+jorobadas&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+  "description": "Frente a la costa de Kvaløya, en Troms, al norte de Noruega, las ballenas jorobadas recorren las frías aguas árticas en busca de alimento. Visitan la región durante los meses de invierno mientras siguen a los arenques que migran hacia los fiordos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+  "hash": "6ea4b353391b41114ece91f1dcbf93c0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_ES-ES5370739195_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261119",
+    "fullStartDateTime": "202611192300",
+    "endDate": "20261120"
+  },
+  "createdAt": "202611200754",
+  "originalUrlBase": "/th?id=OHR.Megaptera_ES-ES5370739195"
+}

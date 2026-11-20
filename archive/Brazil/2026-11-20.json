@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Banquete entre fiordes",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Baleia-jubarte (Megaptera novaeangliae) mergulhando, Kvaløya, Troms, norte da Noruega (© Espen Bergersen/Minden Pictures)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=baleias-jubarte&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261120_Megaptera%22&FORM=HPQUIZ",
+  "hash": "1b9688ad21f4cef78af453a134d2c46f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_PT-BR4336826763_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261120",
+    "fullStartDateTime": "202611200300",
+    "endDate": "20261121"
+  },
+  "createdAt": "202611200754",
+  "originalUrlBase": "/th?id=OHR.Megaptera_PT-BR4336826763"
+}

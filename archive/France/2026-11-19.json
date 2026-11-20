@@ -1,0 +1,48 @@
+{
+  "date": "20 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Festin dans les fjords",
+  "bsTitle": "Festin dans les fjords",
+  "caption": "Plongée dans les eaux glacées, Kvaløya",
+  "copyright": "Baleine à bosse plongeant, Kvaløya, Troms, Norvège (© Espen Bergersen/Minden Pictures)",
+  "copyrightOnly": "© Espen Bergersen/Minden Pictures",
+  "copyrightLink": "/search?q=baleine+%c3%a0+bosse&form=hpcapt&filters=HpDate%3a%2220261119_2300%22",
+  "description": "Au large de Kvaløya, dans la région de Troms, au nord de la Norvège, des baleines à bosse parcourent les eaux arctiques glacées en quête de nourriture. Elles fréquentent cette zone durant les mois d’hiver, suivant les bancs de harengs qui migrent vers les fjords. Les baleines à bosse sont réputées pour leur technique de chasse au « filet de bulles ». Elles créent des cercles de bulles pour encercler les poissons, avant de remonter en surface, la gueule grande ouverte, pour capturer leurs proies.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261119_Megaptera%22&FORM=HPQUIZ",
+  "hash": "fff63e094976f6b33fc53bd3182735e4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261119",
+    "fullStartDateTime": "202611192300",
+    "endDate": "20261120"
+  },
+  "createdAt": "202611200754",
+  "originalUrlBase": "/th?id=OHR.Megaptera_FR-FR4844041131"
+}
