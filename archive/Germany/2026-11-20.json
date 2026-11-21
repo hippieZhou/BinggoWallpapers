@@ -1,0 +1,48 @@
+{
+  "date": "21. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Traum aus Terrakotta",
+  "bsTitle": "Ein Traum aus Terrakotta",
+  "caption": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
+  "copyright": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich (© Siripong Kaewla-iad/Getty Images)",
+  "copyrightOnly": "© Siripong Kaewla-iad/Getty Images",
+  "copyrightLink": "/search?q=Nizza+Frankreich&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+  "description": "In sanftes Sonnenlicht getaucht, präsentiert sich die Altstadt von Nizza auf dem heutigen Bild als ein Mosaik aus mediterranen Terrakotta-Dächern, alten Kirchtürmen und Häuserfassaden in Pastelltönen entlang der französischen Riviera. Von den alten Griechen gegründet und lange Zeit mit dem italienischen Königshaus Savoyen verbunden, wurde Nizza 1860 offiziell Teil Frankreichs. Bis heute ist diese facettenreiche Vergangenheit in der südfranzösischen Küstenstadt sichtbar, wo Architektur der alten Welt auf das Blau des Mittelmeers und die sonnigen Hügel der Côte d’Azur trifft.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261120_RedNice%22&FORM=HPQUIZ",
+  "hash": "d5dc30910e6b80aa335160825890c0a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261120",
+    "fullStartDateTime": "202611202300",
+    "endDate": "20261121"
+  },
+  "createdAt": "202611210753",
+  "originalUrlBase": "/th?id=OHR.RedNice_DE-DE7638538750"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "21 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Mosaïque de terre cuite",
+  "bsTitle": "Mosaïque de terre cuite",
+  "caption": "Nice, Provence-Alpes-Côte d'Azur",
+  "copyright": "Nice, Provence-Alpes-Côte d'Azur (© Siripong Kaewla-iad/Getty Images)",
+  "copyrightOnly": "© Siripong Kaewla-iad/Getty Images",
+  "copyrightLink": "/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261120_2300%22",
+  "description": "Baigné de lumière, le quartier du Vieux-Nice est constitué d’une mosaïque de toits en terre cuite, d’églises historiques et de façades aux couleurs ocre. Fondée par les Grecs de l’Antiquité et longtemps liée à la maison royale italienne de Savoie, Nice a officiellement été rattachée à la France en 1860. Aujourd’hui, son passé riche et varié demeure perceptible dans toute la ville, où une architecture d’antan côtoie les eaux bleues de la Méditerranée.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261120_RedNice%22&FORM=HPQUIZ",
+  "hash": "c7dc8ea10146fdbd017b316f9c6d0078",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261120",
+    "fullStartDateTime": "202611202300",
+    "endDate": "20261121"
+  },
+  "createdAt": "202611210753",
+  "originalUrlBase": "/th?id=OHR.RedNice_FR-FR1499556885"
+}
