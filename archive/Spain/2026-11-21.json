@@ -1,0 +1,48 @@
+{
+  "date": "22 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un refugio entre las olas",
+  "bsTitle": "Un refugio entre las olas",
+  "caption": "Capilla y ermita de Santa Justa, Cantabria, España",
+  "copyright": "Capilla y ermita de Santa Justa, Cantabria (© Tramont_ana/Getty Images)",
+  "copyrightOnly": "© Tramont_ana/Getty Images",
+  "copyrightLink": "/search?q=Capilla+y+Ermita+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+  "description": "Enclavada en los acantilados de la escarpada costa del norte de España y construida en el siglo XVI, la ermita de Santa Justa domina las olas del mar Cantábrico. Construida parcialmente en la roca y asociada a reliquias de las santas Justa y Rufina, la pequeña capilla acabó convirtiéndose en lugar de peregrinación.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+  "hash": "832e90cdb9f3f9ea4bbc12a6297490be",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261121",
+    "fullStartDateTime": "202611212300",
+    "endDate": "20261122"
+  },
+  "createdAt": "202611220739",
+  "originalUrlBase": "/th?id=OHR.JustaHermitage_ES-ES5920553602"
+}

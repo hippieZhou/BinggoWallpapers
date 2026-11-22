@@ -1,0 +1,48 @@
+{
+  "date": "Nov 22, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Shelter among the waves",
+  "bsTitle": "Shelter among the waves",
+  "caption": "The chapel and hermitage of Santa Justa in Cantabria, Spain",
+  "copyright": "The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)",
+  "copyrightOnly": "© Tramont_ana/Getty Images",
+  "copyrightLink": "/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0500%22",
+  "description": "Tucked into the cliffs of northern Spain's rugged coastline, the 16th-century Hermitage of Santa Justa seen in today's image overlooks the crashing waves of the Cantabrian Sea. Built partly into the rock and associated with relics of Saints Justa and Rufina, the small chapel eventually became a pilgrimage site, its sheltered stone walls creating a remarkable contrast with the powerful waves and rocky cliffs surrounding it.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_JustaHermitage%22&FORM=HPQUIZ",
+  "hash": "57a60e6d37449675a3ce649771f721b6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-CA5542255570_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261122",
+    "fullStartDateTime": "202611220500",
+    "endDate": "20261123"
+  },
+  "createdAt": "202611220739",
+  "originalUrlBase": "/th?id=OHR.JustaHermitage_EN-CA5542255570"
+}

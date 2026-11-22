@@ -1,0 +1,48 @@
+{
+  "date": "Nov 21, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Terracotta dreams",
+  "bsTitle": "Terracotta dreams",
+  "caption": "Nice, Provence-Alpes-Côte d'Azur, France",
+  "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+  "copyrightOnly": "© Siripong Kaewla-iad/Getty Images",
+  "copyrightLink": "/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0800%22",
+  "description": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches, and pastel façades along the French Riviera, as seen in today's image. Founded by ancient Greeks and long connected to the Italian royal House of Savoy, Nice officially became part of France in 1860. Today, that layered past remains visible throughout the coastal city in the south of France, where old-world architecture meets the blue Mediterranean waters and sunlit hills of the Côte d'Azur.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_RedNice%22&FORM=HPQUIZ",
+  "hash": "bdbf309e7d31d6f49a3c47bf1b9d1185",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261121",
+    "fullStartDateTime": "202611210800",
+    "endDate": "20261122"
+  },
+  "createdAt": "202611220739",
+  "originalUrlBase": "/th?id=OHR.RedNice_EN-US9978351403"
+}

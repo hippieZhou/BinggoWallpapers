@@ -1,0 +1,48 @@
+{
+  "date": "22. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Kapelle im Fels",
+  "bsTitle": "Kapelle im Fels",
+  "caption": "Die Kapelle von Santa Justa in Kantabrien, Spanien",
+  "copyright": "Die Kapelle und Einsiedelei von Santa Justa in Kantabrien, Spanien (© Tramont_ana/Getty Images)",
+  "copyrightOnly": "© Tramont_ana/Getty Images",
+  "copyrightLink": "/search?q=Einsiedelei+Santa+Justa+Spanien&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+  "description": "Eingebettet in die Klippen der rauen Küste Nordspaniens blickt die Einsiedelei Santa Justa aus dem 16. Jahrhundert auf die tosenden Wellen des Kantabrischen Meeres. Die kleine Kapelle, die teilweise in den Fels hinein gehauen wurde und mit den Reliquien der Heiligen Justa und Rufina in Verbindung gebracht wird, entwickelte sich im Laufe der Zeit zu einem Wallfahrtsort. Ihre schützenden Steinmauern bilden einen eindrucksvollen Kontrast zu den gewaltigen Wellen und schroffen Felsklippen, von denen sie umgeben ist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+  "hash": "e16513a5b7a739975bddd0f814335acd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261121",
+    "fullStartDateTime": "202611212300",
+    "endDate": "20261122"
+  },
+  "createdAt": "202611220739",
+  "originalUrlBase": "/th?id=OHR.JustaHermitage_DE-DE4182731523"
+}

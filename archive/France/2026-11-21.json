@@ -1,0 +1,48 @@
+{
+  "date": "22 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Refuge au milieu des vagues",
+  "bsTitle": "Refuge au milieu des vagues",
+  "caption": "Ermitage de Santa Justa en Cantabrie, Espagne",
+  "copyright": "Ermitage de Santa Justa, Cantabrie, Espagne (© Tramont_ana/Getty Images)",
+  "copyrightOnly": "© Tramont_ana/Getty Images",
+  "copyrightLink": "/search?q=Ermitage+de+Santa+Justa&form=hpcapt&filters=HpDate%3a%2220261121_2300%22",
+  "description": "Niché dans les falaises du littoral nord de l'Espagne, l'ermitage de Santa Justa, datant du XVIe siècle surplombe les vagues déferlantes de la mer Cantabrique. Construite en partie à flanc de rocher et associée aux reliques des saintes Justa et Rufina, cette petite chapelle est finalement devenue un lieu de pèlerinage, ses murs de pierre abrités créant un contraste remarquable avec les vagues puissantes et les falaises rocheuses qui l'entourent.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
+  "hash": "02fc32fbf8cbad06ff76a8144fd74438",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261121",
+    "fullStartDateTime": "202611212300",
+    "endDate": "20261122"
+  },
+  "createdAt": "202611220739",
+  "originalUrlBase": "/th?id=OHR.JustaHermitage_FR-FR2303317894"
+}

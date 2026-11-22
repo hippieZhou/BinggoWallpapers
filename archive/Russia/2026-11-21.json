@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Nice+France&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_RedNice%22&FORM=HPQUIZ",
+  "hash": "9c3b466b7514b4b61a4703112a43693b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261121",
+    "fullStartDateTime": "202611210800",
+    "endDate": "20261122"
+  },
+  "createdAt": "202611220739",
+  "originalUrlBase": "/th?id=OHR.RedNice_ROW6800043418"
+}
