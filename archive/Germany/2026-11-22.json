@@ -1,0 +1,48 @@
+{
+  "date": "23. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Geometrie in der Natur",
+  "bsTitle": "Geometrie in der Natur",
+  "caption": "Fibonacci-Tag",
+  "copyright": "Farnspitzen (© Reza Saputra/Getty Images)",
+  "copyrightOnly": "© Reza Saputra/Getty Images",
+  "copyrightLink": "/search?q=Fibonacci-Tag&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+  "description": "Das heutige Bild zeigt die Windung der Spitze eines jungen Farnsprosses, die an die geometrischen Muster erinnert, die überall in der Natur zu finden sind. In der Mathematik folgt die Fibonacci-Folge (benannt nach dem italienischen Mathematiker Leonardo Fibonacci) einem ähnlichen Muster, wobei jede Zahl durch die Addition der beiden vorhergehenden Zahlen entsteht: 0, 1, 1, 2, 3, 5, 8 und so weiter. Heute ist der Fibonacci-Tag, der aufgrund der amerikanischen Schreibweise des Datums (11/23) zu Ehren dieser Folge gewählt wurde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+  "hash": "732c3d5ced8276f0e4697d1aebb5d523",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261122",
+    "fullStartDateTime": "202611222300",
+    "endDate": "20261123"
+  },
+  "createdAt": "202611230826",
+  "originalUrlBase": "/th?id=OHR.FibonacciFern_DE-DE6300100112"
+}

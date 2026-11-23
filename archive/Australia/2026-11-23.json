@@ -1,0 +1,48 @@
+{
+  "date": "Nov 23, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Fiddlehead fern",
+  "copyright": "Fiddlehead fern (© Reza Saputra/Getty Images)",
+  "copyrightOnly": "© Reza Saputra/Getty Images",
+  "copyrightLink": "/search?q=Fiddlehead+fern&form=hpcapt&filters=HpDate%3a%2220261123_0800%22",
+  "description": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In mathematics, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_FibonacciFern%22&FORM=HPQUIZ",
+  "hash": "8f71aa0e6169ac8edaba1678d321419a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261123",
+    "fullStartDateTime": "202611230800",
+    "endDate": "20261124"
+  },
+  "createdAt": "202611230826",
+  "originalUrlBase": "/th?id=OHR.FibonacciFern_ROW6425813382"
+}

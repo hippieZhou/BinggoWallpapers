@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "自然中的几何之美",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+  "hash": "8bcab12cbf53fd1c7b81ec7e9b34e20c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261122",
+    "fullStartDateTime": "202611221600",
+    "endDate": "20261123"
+  },
+  "createdAt": "202611230826",
+  "originalUrlBase": "/th?id=OHR.FibonacciFern_ZH-CN3882237848"
+}

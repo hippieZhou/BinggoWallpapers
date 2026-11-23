@@ -1,0 +1,48 @@
+{
+  "date": "23 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Géométrie au naturel",
+  "bsTitle": "Géométrie au naturel",
+  "caption": "Journée de Fibonacci",
+  "copyright": "Pousse de fougère (© Reza Saputra/Getty Images)",
+  "copyrightOnly": "© Reza Saputra/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9e+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220261122_2300%22",
+  "description": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+  "hash": "39a012ce6819b703c92fe3c58c2818df",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261122",
+    "fullStartDateTime": "202611222300",
+    "endDate": "20261123"
+  },
+  "createdAt": "202611230826",
+  "originalUrlBase": "/th?id=OHR.FibonacciFern_FR-FR6204076819"
+}

@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A natureza fez as contas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Broto de samambaia (© Reza Saputra/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+de+Fibonacci&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_FibonacciFern%22&FORM=HPQUIZ",
+  "hash": "e6d6af942a383649629721b0764c8396",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_PT-BR5976883875_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261123",
+    "fullStartDateTime": "202611230300",
+    "endDate": "20261124"
+  },
+  "createdAt": "202611230826",
+  "originalUrlBase": "/th?id=OHR.FibonacciFern_PT-BR5976883875"
+}

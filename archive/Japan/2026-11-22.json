@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 11月 月 23 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "自然が描く幾何学模様",
+  "bsTitle": "自然が描く幾何学模様",
+  "caption": "渦を巻くシダの若芽",
+  "copyright": "シダの若芽 (© Reza Saputra/Getty Images)",
+  "copyrightOnly": "© Reza Saputra/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=hpcapt&filters=HpDate%3a%2220261122_1500%22",
+  "description": "写真は、シダの若芽の先がくるくると渦を巻いている様子です。こうした渦巻き模様は、自然界のあちこちで見ることができます。数学の「フィボナッチ数列」も、前の2つの数を足して次の数をつくる「0、1、1、2、3、5、8……」という並びで、少しずつ大きくなっていく様子がよく似ています。この若芽はやがて伸びて葉を広げますが、ヒマワリの種の並びや松ぼっくり、多肉植物、パイナップルのらせん模様には、この数列がこれからも現れ続けます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
+  "hash": "fb916fe2210b163403a23ba2da0bfe00",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261122",
+    "fullStartDateTime": "202611221500",
+    "endDate": "20261123"
+  },
+  "createdAt": "202611230826",
+  "originalUrlBase": "/th?id=OHR.FibonacciFern_JA-JP6039925060"
+}
