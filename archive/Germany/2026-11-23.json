@@ -1,0 +1,48 @@
+{
+  "date": "24. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Herbstliche Tarnung",
+  "bsTitle": "Herbstliche Tarnung",
+  "caption": "Eichhörnchen im Cairngorms-Nationalpark",
+  "copyright": "Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland (© Scotland: The Big Picture/Minden Pictures)",
+  "copyrightOnly": "© Scotland: The Big Picture/Minden Pictures",
+  "copyrightLink": "/search?q=Eurasisches+Eichh%c3%b6rnchen&form=hpcapt&filters=HpDate%3a%2220261123_2300%22",
+  "description": "Als einzige einheimische Eichhörnchenart Großbritanniens fühlen sich die eurasischen Eichhörnchen im schottischen Cairngorms-Nationalpark besonders wohl. Der Park ist ein wichtiger Rückzugsort und bietet sowohl uralte kaledonische Kiefernwälder als auch jüngere Nadelwälder, die den Eichhörnchen das ganze Jahr über reichlich Lebensraum und Nahrung bieten, darunter Pinienkerne, Nüsse und andere Leckerbissen. Das heutige Bild zeigt ein Eichhörnchen umgeben von buntem Herbstlaub, das sich in den schottischen Highlands ganz wie zu Hause fühlt, während es seine nächsten Sprünge plant.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261123_CairngormsSquirrel%22&FORM=HPQUIZ",
+  "hash": "b2b78b437c78d3157e123d3df1ac6c4a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261123",
+    "fullStartDateTime": "202611232300",
+    "endDate": "20261124"
+  },
+  "createdAt": "202611241034",
+  "originalUrlBase": "/th?id=OHR.CairngormsSquirrel_DE-DE7485834001"
+}

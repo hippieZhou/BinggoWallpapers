@@ -1,0 +1,48 @@
+{
+  "date": "Nov 24, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Red squirrel in Cairngorms National Park, Scotland",
+  "copyright": "Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)",
+  "copyrightOnly": "© Scotland: The Big Picture/Minden Pictures",
+  "copyrightLink": "/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220261124_0800%22",
+  "description": "As Britain's only native squirrel species, red squirrels thrive in Scotland's Cairngorms National Park. An important refuge, the park offers ancient Caledonian pine forests and newer conifer woodlands, with plentiful habitat and food for squirrels foraging for Scots pine seeds, nuts and other tasty morsels year-round. In today's image, a red squirrel is perched amid warm orange and yellow leaves, looking right at home as it ponders its next move in the Scottish Highlands.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_CairngormsSquirrel%22&FORM=HPQUIZ",
+  "hash": "cfc165635d3a65bbf56cbf931e5bda9e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261124",
+    "fullStartDateTime": "202611240800",
+    "endDate": "20261125"
+  },
+  "createdAt": "202611241034",
+  "originalUrlBase": "/th?id=OHR.CairngormsSquirrel_ROW7336059810"
+}
