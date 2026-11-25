@@ -1,0 +1,48 @@
+{
+  "date": "Nov 25, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "When snow meets red rock",
+  "bsTitle": "When snow meets red rock",
+  "caption": "Bryce Canyon National Park, Utah, USA",
+  "copyright": "Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)",
+  "copyrightOnly": "© Colin D. Young/Alamy",
+  "copyrightLink": "/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220261124_1830%22",
+  "description": "Snow transforms Bryce Canyon National Park, blanketing the landscape in white while its fiery orange-red hoodoos rise above the snowy terrain. Seen from Sunset Point, one of the park's most famous overlooks, these fantastical shapes are part of the Claron Formation, whose limestone was deposited about 50 million years ago and later shaped by weathering and erosion. Because much of the park rises above 2,400 metres, snow can arrive as early as October. In today's image, snow clings to the canyon's ridges and spires while mist drifts across the cliffs, creating an iconic winter scene in the American Southwest.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_SunsetPoint%22&FORM=HPQUIZ",
+  "hash": "733ec07508bc67c3d0da11c896e74170",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_EN-IN8140664778_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261124",
+    "fullStartDateTime": "202611241830",
+    "endDate": "20261125"
+  },
+  "createdAt": "202611250924",
+  "originalUrlBase": "/th?id=OHR.SunsetPoint_EN-IN8140664778"
+}

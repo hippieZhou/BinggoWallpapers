@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Bryce+Canyon+National+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_SunsetPoint%22&FORM=HPQUIZ",
+  "hash": "b7afa6ae3ef08011eb2f9335dda4e608",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261125",
+    "fullStartDateTime": "202611250800",
+    "endDate": "20261126"
+  },
+  "createdAt": "202611250924",
+  "originalUrlBase": "/th?id=OHR.SunsetPoint_ROW8066208115"
+}

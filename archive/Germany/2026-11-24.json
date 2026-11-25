@@ -1,0 +1,48 @@
+{
+  "date": "25. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Schneefall im Südwesten",
+  "bsTitle": "Schneefall im Südwesten",
+  "caption": "Bryce-Canyon-Nationalpark, Utah",
+  "copyright": "Sunset Point, Bryce-Canyon-Nationalpark, Utah (© Colin D. Young/Alamy)",
+  "copyrightOnly": "© Colin D. Young/Alamy",
+  "copyrightLink": "/search?q=Bryce-Canyon-Nationalpark&form=hpcapt&filters=HpDate%3a%2220261124_2300%22",
+  "description": "Schnee verwandelt den Bryce-Canyon-Nationalpark und hüllt die Landschaft in Weiß, während sich die feurig orange-roten Hoodoos über das verschneite Gelände erheben. Vom Sunset Point aus, einem der berühmtesten Aussichtspunkte des Parks, betrachtet, sind diese fantasievollen Formen Teil der Claron-Formation, deren Kalkstein vor etwa 50 Millionen Jahren abgelagert und später durch Verwitterung und Erosion geformt wurde. Da ein Großteil des Parks über 2.400 Meter hoch liegt, kann es bereits im Oktober schneien. Auf dem heutigen Bild liegt Schnee auf den Graten und Felsspitzen des Canyons, während Nebel über die Klippen zieht und so eine einzigartige Winterlandschaft im Südwesten der USA schafft.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_SunsetPoint%22&FORM=HPQUIZ",
+  "hash": "0fad4c5de1561083b355c0af491b8436",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261124",
+    "fullStartDateTime": "202611242300",
+    "endDate": "20261125"
+  },
+  "createdAt": "202611250924",
+  "originalUrlBase": "/th?id=OHR.SunsetPoint_DE-DE0548911114"
+}

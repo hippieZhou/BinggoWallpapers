@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Até o deserto sente frio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+Bryce+Canyon&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_SunsetPoint%22&FORM=HPQUIZ",
+  "hash": "550cb97071885600c58ac2e79f0f8744",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_PT-BR6763339998_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261125",
+    "fullStartDateTime": "202611250300",
+    "endDate": "20261126"
+  },
+  "createdAt": "202611250924",
+  "originalUrlBase": "/th?id=OHR.SunsetPoint_PT-BR6763339998"
+}

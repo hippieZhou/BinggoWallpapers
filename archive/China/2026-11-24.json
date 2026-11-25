@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "美国西南部的一场雪",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_SunsetPoint%22&FORM=HPQUIZ",
+  "hash": "0fde8be729d820a01149c059f0b16a26",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261124",
+    "fullStartDateTime": "202611241600",
+    "endDate": "20261125"
+  },
+  "createdAt": "202611250924",
+  "originalUrlBase": "/th?id=OHR.SunsetPoint_ZH-CN5737034685"
+}

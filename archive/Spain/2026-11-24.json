@@ -1,0 +1,48 @@
+{
+  "date": "25 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Centinelas de piedra y nieve",
+  "bsTitle": "Centinelas de piedra y nieve",
+  "caption": "Sunset Point, Parque Nacional Bryce Canyon, Utah",
+  "copyright": "Sunset Point, Parque Nacional Bryce Canyon, Utah (© Colin D. Young/Alamy)",
+  "copyrightOnly": "© Colin D. Young/Alamy",
+  "copyrightLink": "/search?q=Parque+Nacional+del+Ca%c3%b1%c3%b3n+Bryce&form=hpcapt&filters=HpDate%3a%2220261124_2300%22",
+  "description": "La nieve cubre los hoodoos de Bryce Canyon, en Utah, y acentúa las formas de estas extraordinarias columnas de roca. Aunque se denomina cañón, Bryce es en realidad una sucesión de anfiteatros naturales excavados en el borde de una elevada meseta.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261124_SunsetPoint%22&FORM=HPQUIZ",
+  "hash": "ff93d5d087ad398e683a7c315a6398e5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ES-ES7252349167_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ES-ES7252349167_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ES-ES7252349167_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ES-ES7252349167_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.SunsetPoint_ES-ES7252349167_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261124",
+    "fullStartDateTime": "202611242300",
+    "endDate": "20261125"
+  },
+  "createdAt": "202611250924",
+  "originalUrlBase": "/th?id=OHR.SunsetPoint_ES-ES7252349167"
+}
