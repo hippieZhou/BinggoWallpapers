@@ -1,0 +1,48 @@
+{
+  "date": "26 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un arcoíris entre la selva",
+  "bsTitle": "Un arcoíris entre la selva",
+  "caption": "Rainbow Falls, río Wailuku, Hilo, Hawái, Estados Unidos",
+  "copyright": "Rainbow Falls, río Wailuku, Hilo, Hawái, Estados Unidos (© Peter Unger/Getty Images)",
+  "copyrightOnly": "© Peter Unger/Getty Images",
+  "copyrightLink": "/search?q=Rainbow+Falls+R%c3%ado+Wailuku+Haw%c3%a1i&form=hpcapt&filters=HpDate%3a%2220261125_2300%22",
+  "description": "Rainbow Falls cae unos 24 metros sobre una antigua gruta de lava en el río Wailuku, cerca de Hilo, en la isla de Hawái. Su nombre se debe a los arcoíris que suelen formarse en la bruma cuando la luz del sol alcanza la cascada durante la mañana.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_RFHilo%22&FORM=HPQUIZ",
+  "hash": "8ca5498caafc85f01c74332c0071256f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261125",
+    "fullStartDateTime": "202611252300",
+    "endDate": "20261126"
+  },
+  "createdAt": "202611260902",
+  "originalUrlBase": "/th?id=OHR.RFHilo_ES-ES7516757686"
+}

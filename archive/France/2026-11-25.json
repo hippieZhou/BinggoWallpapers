@@ -1,0 +1,48 @@
+{
+  "date": "26 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Là où tombent les arcs-en-ciel",
+  "bsTitle": "Là où tombent les arcs-en-ciel",
+  "caption": "Chutes Rainbow sur la rivière Wailuku, Hawaii",
+  "copyright": "Cascades Rainbow sur la rivière Wailuku, Hilo, Hawaï, États-Unis (© Peter Unger/Getty Images)",
+  "copyrightOnly": "© Peter Unger/Getty Images",
+  "copyrightLink": "/search?q=Chutes+Rainbow+Wailuku+Hawa%c3%af&form=hpcapt&filters=HpDate%3a%2220261125_2300%22",
+  "description": "L'eau, la lumière et la végétation luxuriante se mêlent harmonieusement pour mettre en valeur les chutes Rainbow de Hilo, sur la Grande Île d'Hawaï. Ici, la rivière Wailuku dévale une paroi de lave de 24 mètres, projetant un voile de brume dans les airs lorsqu'elle atteint le bassin en contrebas. Les matins ensoleillés, cette brume capte la lumière et forme des arcs-en-ciel saisissants qui ont donné leur nom à cette cascade.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261125_RFHilo%22&FORM=HPQUIZ",
+  "hash": "a07ff1b3f55c4d732b5a735b0ae085c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261125",
+    "fullStartDateTime": "202611252300",
+    "endDate": "20261126"
+  },
+  "createdAt": "202611260902",
+  "originalUrlBase": "/th?id=OHR.RFHilo_FR-FR7467471346"
+}
