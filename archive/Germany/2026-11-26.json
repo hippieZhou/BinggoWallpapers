@@ -1,0 +1,48 @@
+{
+  "date": "27. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Streifen in Grau und Gold",
+  "bsTitle": "Streifen in Grau und Gold",
+  "caption": "Face Canyon, Lake Powell, Utah",
+  "copyright": "Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+  "copyrightOnly": "© Jeff Foott/Minden",
+  "copyrightLink": "/search?q=Lake+Powell+Stausee&form=hpcapt&filters=HpDate%3a%2220261126_2300%22",
+  "description": "Versteckt in einer uralten Sandsteinlandschaft ist der Face Canyon einer von 96 Canyons, die sich vom Lake Powell im Süden Utahs aus erstrecken. Viele liegen weit abseits von Straßen und wären schwer zu erreichen, wären sie nicht vom See überflutet worden, der 1963 während des Baus des Glen-Canyon-Staudamms entstand. Der See erstreckt sich etwa 300 Kilometer entlang von Flussläufen und Canyons, die man mit dem Boot, Kajak oder anderen Wassersportgeräten erkunden kann.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261126_FaceCanyon%22&FORM=HPQUIZ",
+  "hash": "9c6a7c694754fb6af48d2889cbc79067",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261126",
+    "fullStartDateTime": "202611262300",
+    "endDate": "20261127"
+  },
+  "createdAt": "202611270919",
+  "originalUrlBase": "/th?id=OHR.FaceCanyon_DE-DE8985806432"
+}

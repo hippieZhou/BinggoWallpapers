@@ -1,0 +1,48 @@
+{
+  "date": "Nov 27, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA",
+  "copyright": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+  "copyrightOnly": "© Jeff Foott/Minden",
+  "copyrightLink": "/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0800%22",
+  "description": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in the US state of Utah. Many are far from roads and would be hard to reach if they hadn't been flooded by the lake, created in 1963 during the construction of the Glen Canyon Dam. The lake's waters back up nearly 300 kilometres, along creeks and canyons which you can explore by boat, kayak or personal watercraft.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_FaceCanyon%22&FORM=HPQUIZ",
+  "hash": "7bb076446925483c60058a3ce6d83a09",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611270800",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611270919",
+  "originalUrlBase": "/th?id=OHR.FaceCanyon_ROW8227302617"
+}

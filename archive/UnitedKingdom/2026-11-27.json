@@ -1,0 +1,48 @@
+{
+  "date": "Nov 27, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Ribbons of grey and gold",
+  "bsTitle": "Ribbons of grey and gold",
+  "caption": "Face Canyon, Lake Powell, Utah",
+  "copyright": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)",
+  "copyrightOnly": "© Jeff Foott/Minden",
+  "copyrightLink": "/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0000%22",
+  "description": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be difficult to reach if they hadn't been flooded by the lake, which was created in 1963 during the construction of the Glen Canyon Dam. The lake's waters extend for around 186 miles (299 kilometres), along creeks and canyons which you can explore by boat, kayak or jet ski.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_FaceCanyon%22&FORM=HPQUIZ",
+  "hash": "36724a7153fadfc0471f0544ac5fbdcb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-GB5580459617_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611270000",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611270919",
+  "originalUrlBase": "/th?id=OHR.FaceCanyon_EN-GB5580459617"
+}
