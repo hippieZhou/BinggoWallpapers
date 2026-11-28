@@ -1,0 +1,48 @@
+{
+  "date": "28. Nov.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Brücken in die Vergangenheit",
+  "bsTitle": "Brücken in die Vergangenheit",
+  "caption": "Blick auf die Moldau, Prag, Tschechien",
+  "copyright": "Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images)",
+  "copyrightOnly": "© Lara_Uhryn/Getty Images",
+  "copyrightLink": "/search?q=Prager+Br%c3%bccken&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+  "description": "Dieser herbstliche Blick vom Letná-Park zeigt Prag, dass sich entlang der Ufer der Moldau in Tschechien erstreckt. Das heutige Bild zeigt den Lauf des Flusses durch die historische Altstadt und das Stadtviertel Malá Strana unterhalb der Mánes-Brücke im Vordergrund. Viele schöne Brücken führen heutzutage über die Moldau, doch jahrhundertelang gab es nur eine einzige: die Karlsbrücke, die als zweite von unten zu sehen ist. Ihr Grundstein wurde 1357 unter der Herrschaft Karls IV. gelegt und bis 1841 war sie die einzige Möglichkeit, den Fluss zu Fuß zu überqueren.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+  "hash": "ca4acc1151f4d08c56378a4926ef9ea5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611272300",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611280835",
+  "originalUrlBase": "/th?id=OHR.VltavaPrague_DE-DE9849101774"
+}

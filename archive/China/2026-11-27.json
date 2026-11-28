@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "跨越时光的桥梁",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%b8%83%e6%8b%89%e6%a0%bc%e7%9a%84%e6%a1%a5%e6%a2%81&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+  "hash": "d50dad4dd134b0637281d0dd1d196123",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611271600",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611280835",
+  "originalUrlBase": "/th?id=OHR.VltavaPrague_ZH-CN9898139716"
+}

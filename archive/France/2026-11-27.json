@@ -1,0 +1,48 @@
+{
+  "date": "28 nov. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "De pont en pont",
+  "bsTitle": "De pont en pont",
+  "caption": "Vue sur la Vltava à Prague, Tchéquie",
+  "copyright": "Vieille ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)",
+  "copyrightOnly": "© Lara_Uhryn/Getty Images",
+  "copyrightLink": "/search?q=Prague+ponts&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+  "description": "Vue depuis le parc Letná, la rivière Vltava traverse Prague, la capitale de la Tchéquie, sous un ciel automnal. Sur cette image, le cours d’eau serpente à travers les quartiers historiques de la Vieille Ville et de Malá Strana. Le pont Mánes au premier plan jouxte le fameux pont Charles qui est resté pendant des siècles l’unique structure de la ville traversant la Vltava. Ses premières pierres furent posées en 1357, sous le règne de Charles IV.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+  "hash": "02c220569bfe344dc3fc92c04825ae17",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611272300",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611280835",
+  "originalUrlBase": "/th?id=OHR.VltavaPrague_FR-FR4286783845"
+}

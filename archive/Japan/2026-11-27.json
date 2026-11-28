@@ -1,0 +1,48 @@
+{
+  "date": "2026 年 11月 月 28 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "歴史をつなぐ橋",
+  "bsTitle": "歴史をつなぐ橋",
+  "caption": "ヴルタヴァ川を望む風景、プラハ、チェコ",
+  "copyright": "旧市街とヴルタヴァ川、プラハ、チェコ (© Lara_Uhryn/Getty Images)",
+  "copyrightOnly": "© Lara_Uhryn/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%97%e3%83%a9%e3%83%8f+%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220261127_1500%22",
+  "description": "チェコの首都プラハを流れるヴルタヴァ川には、歴史ある美しい橋がいくつも架かっています。なかでも有名なのが、1357年に建設が始まったカレル橋です。1841年までは、歩いて川を渡れる唯一の橋として人々の暮らしを支えてきました。今では橋に並ぶ彫像やゴシック様式の塔が見どころとなり、多くの観光客でにぎわっています。ゆっくり景色を楽しみたいなら、少し離れたレギー橋から眺めるのもおすすめです。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+  "hash": "d0a808c2b76ea1a25dbd3b39f79bfe0f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611271500",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611280835",
+  "originalUrlBase": "/th?id=OHR.VltavaPrague_JA-JP5027997170"
+}

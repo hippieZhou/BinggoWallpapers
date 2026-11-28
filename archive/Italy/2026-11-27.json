@@ -1,0 +1,48 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Ponti attraverso il tempo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Città Vecchia, fiume Moldava, Praga, Cechia (© Lara_Uhryn/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Ponti+di+Praga&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+  "hash": "a4bac70ee4041099f83c1a1dcd29d999",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_IT-IT0736491794_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611272300",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611280835",
+  "originalUrlBase": "/th?id=OHR.VltavaPrague_IT-IT0736491794"
+}

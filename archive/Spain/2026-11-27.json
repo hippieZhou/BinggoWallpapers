@@ -1,0 +1,48 @@
+{
+  "date": "28 de nov de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Puentes a través del tiempo",
+  "bsTitle": "Puentes a través del tiempo",
+  "caption": "Vista del río Moldava, Praga, Chequia",
+  "copyright": "Casco antiguo y río Moldava, Praga, Chequia (© Lara_Uhryn/Getty Images)",
+  "copyrightOnly": "© Lara_Uhryn/Getty Images",
+  "copyrightLink": "/search?q=Puentes+de+Praga&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+  "description": "Esta vista otoñal desde el parque de Letná contempla Praga, que creció a orillas del río Moldava, en Chequia. En la imagen de hoy, el río serpentea por el histórico casco antiguo y los distritos de Malá Strana, bajo el puente Mánes, en primer plano. Son muchos los hermosos puentes que cruzan ahora el Moldava, pero durante siglos solo hubo uno: el puente de Carlos, que aparece en segundo lugar empezando por abajo. Sus primeras piedras se colocaron en 1357, durante el reinado de Carlos IV, y hasta 1841 fue la única manera de cruzar el río a pie. Hoy sus arcos de piedra, sus torres góticas y las estatuas que bordean el puente atraen a multitudes, por lo que se aconseja a los turistas llegar al amanecer para hacer las mejores fotografías. O bien pueden seguir hasta el siguiente cruce, el puente de la Legión, menos concurrido y con hermosas vistas del Teatro Nacional, del Castillo de Praga y de su vecino más transitado.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261127_VltavaPrague%22&FORM=HPQUIZ",
+  "hash": "9b9e807e14daed84db1287e15ba3deff",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_UHD.jpg",
+      "size": "3840x2160"
+    },
+    {
+      "resolution": "Mobile",
+      "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_1080x1920.jpg",
+      "size": "1080x1920"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20261127",
+    "fullStartDateTime": "202611272300",
+    "endDate": "20261128"
+  },
+  "createdAt": "202611280835",
+  "originalUrlBase": "/th?id=OHR.VltavaPrague_ES-ES8901377082"
+}
